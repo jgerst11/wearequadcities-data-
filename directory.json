@@ -1,5 +1,53 @@
 {
-  "generated": "2026-06-02T14:07:22.109895",
-  "total": 0,
-  "entities": []
+  "generated": "2026-06-02T17:27:05.631659",
+  "total": 1,
+  "entities": [
+    {
+      "id": "front_street_pub_eatery",
+      "type": "business",
+      "name": "Front Street Pub & Eatery",
+      "slug": "front-street-pub-eatery",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "208 East River Drive",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-1569",
+      "website": "http://www.frontstreetbrew.com/",
+      "hours": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 11:00 PM | Saturday: 11:00 AM – 11:00 PM | Sunday: 11:00 AM – 10:00 PM",
+      "lat": "41.52045",
+      "lng": "-90.5722361",
+      "description": "A century-old warehouse where house beers and brick walls define downtown nightlife.\n\nFront Street fills a real space—exposed brick, heavy wood, the kind of bones that only come with age—and it knows what it's doing with a beer list that leans into their own pours. The beer garden spills out onto the street when weather allows, turning a corner of downtown into the kind of place where you bump into people you know. Food leans comfort: solid burgers, wings that don't pretend to be anything fancy, the kind of eating that makes sense at a bar.\n\nFront Street sits on the riverfront edge of Downtown Davenport, steps from the Mississippi and woven into the fabric of Friday and Saturday nights. It's the rare local brewery that's been doing this long enough to feel like it belongs to the neighborhood rather than the other way around—the kind of anchor that shows up in the background of a hundred QC photos and stories.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1262",
+        "yelp": "3.8",
+        "yelp_count": "426"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11875237695858558260",
+        "yelp": "https://www.yelp.com/biz/front-street-pub-and-eatery-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\front_street_pub_eatery_photo_1.jpg",
+        "all": [
+          "entity_photos\\front_street_pub_eatery_photo_1.jpg",
+          "entity_photos\\front_street_pub_eatery_photo_2.jpg",
+          "entity_photos\\front_street_pub_eatery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    }
+  ]
 }
