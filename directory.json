@@ -1,7 +1,103 @@
 {
-  "generated": "2026-06-02T17:27:05.631659",
-  "total": 1,
+  "generated": "2026-06-02T17:34:53.914953",
+  "total": 8,
   "entities": [
+    {
+      "id": "adler_theatre",
+      "type": "place",
+      "name": "Adler Theatre",
+      "slug": "adler-theatre",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "136 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 326-8500",
+      "website": "https://davenportlive.com/the-adler-theatre/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.522532",
+      "lng": "-90.5733436",
+      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "531",
+        "yelp": "2.7",
+        "yelp_count": "23"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16529854215580948733",
+        "yelp": "https://www.yelp.com/biz/adler-theatre-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\adler_theatre_photo_1.jpg",
+        "all": [
+          "entity_photos\\adler_theatre_photo_1.jpg",
+          "entity_photos\\adler_theatre_photo_2.jpg",
+          "entity_photos\\adler_theatre_photo_3.jpg",
+          "entity_photos\\adler_theatre_photo_4.jpg",
+          "entity_photos\\adler_theatre_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bend_xpo",
+      "type": "business",
+      "name": "Bend XPO",
+      "slug": "bend-xpo",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "922 Mississippi Parkway",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 751-4280",
+      "website": "http://www.bendxpo.com/",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 6:00 AM – 3:00 AM | Sunday: Closed",
+      "lat": "41.51878929999999",
+      "lng": "-90.45442299999999",
+      "description": "A climbing gym where the QC's athletes gather to problem-solve on the wall.\n\nBend XPO is where you'll find climbers of every level—from kids learning their first handholds to serious boulderers projecting hard problems—all working their way up textured walls under good lighting. The space feels purposeful and unpretentious; you're here to climb, and the gym is built around that single focus. Saturday mornings draw a steady crowd, and there's a real sense of community in the chalk dust and encouragement between attempts.\n\nBend XPO sits in East Moline, just far enough from downtown to be its own destination, but close enough that it fits easily into a weekend plan. It's the kind of place that reveals the QC's quieter corners—proof that there's always something happening if you know where to look, and worth a visit whether you're a climber or just curious about what your neighbors are up to on Saturday morning.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "307",
+        "yelp": "1.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7748890036040596276",
+        "yelp": "https://www.yelp.com/biz/2-and-92-used-truck-parts-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bend_xpo_photo_1.jpg",
+        "all": [
+          "entity_photos\\bend_xpo_photo_1.jpg",
+          "entity_photos\\bend_xpo_photo_2.jpg",
+          "entity_photos\\bend_xpo_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
     {
       "id": "front_street_pub_eatery",
       "type": "business",
@@ -43,6 +139,248 @@
           "entity_photos\\front_street_pub_eatery_photo_1.jpg",
           "entity_photos\\front_street_pub_eatery_photo_2.jpg",
           "entity_photos\\front_street_pub_eatery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "great_river_brewery",
+      "type": "business",
+      "name": "Great River Brewery",
+      "slug": "great-river-brewery",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "332 East 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(309) 519-7899",
+      "website": "http://www.greatriver.beer/",
+      "hours": "Monday: 2:00 – 10:00 PM | Tuesday: 2:00 – 10:00 PM | Wednesday: 2:00 – 10:00 PM | Thursday: 11:00 AM – 11:00 PM | Friday: 11:00 AM – 11:00 PM | Saturday: 10:00 AM – 11:00 PM | Sunday: 10:00 AM – 9:00 PM",
+      "lat": "41.5215306",
+      "lng": "-90.5700507",
+      "description": "Downtown brewery where locals gather around house-made beer and solid food.\n\nGreat River keeps the taps rotating with a lineup that favors balance over showboating — the kind of place where the IPA doesn't overshadow the lager, and there's always a seasonal pour worth trying. The patio fills up fast on weekends, especially when the weather breaks; it's where you'll find families lingering into early evening and groups of friends working through a flight. The kitchen doesn't pretend to be fine dining, but the food lands right — it's designed to keep you there longer, not to be the reason you came.\n\nGreat River anchors a corner of Downtown Davenport that's quietly becoming a real destination. It's walking distance from the riverfront, close enough to fold into an afternoon that includes the parks or a gallery visit, and it's the kind of brewpub that shows up again and again on locals' rotation. Once you've claimed a spot on the patio on a Friday evening, you'll understand why.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "183",
+        "yelp": "4.4",
+        "yelp_count": "65"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1731573073250908087",
+        "yelp": "https://www.yelp.com/biz/great-river-brewery-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\great_river_brewery_photo_1.jpg",
+        "all": [
+          "entity_photos\\great_river_brewery_photo_1.jpg",
+          "entity_photos\\great_river_brewery_photo_2.jpg",
+          "entity_photos\\great_river_brewery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "lagomarcinos_confectionery",
+      "type": "business",
+      "name": "Lagomarcino's Confectionery",
+      "slug": "lagomarcinos-confectionery",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2132 East 11th Street",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 324-6137",
+      "website": "http://www.lagomarcinos.com/",
+      "hours": "Monday: 10:00 AM – 5:30 PM | Tuesday: 10:00 AM – 5:30 PM | Wednesday: 10:00 AM – 5:30 PM | Thursday: 10:00 AM – 5:30 PM | Friday: 10:00 AM – 5:30 PM | Saturday: 10:00 AM – 5:30 PM | Sunday: Closed",
+      "lat": "41.531457",
+      "lng": "-90.54527300000001",
+      "description": "A century-old candy counter where the sweets are handmade and the cases gleam.\n\nLagomarcino's has been doing this since 1919—hand-dipped chocolates, fresh taffy, old-fashioned hard candies made the way they used to be. Walk in and the cases stop you: rows of caramels in paper cups, chocolate-covered cherries, butter creams in flavors you didn't know you needed. The staff moves with the ease of people who've explained the difference between their fudge and everyone else's a thousand times, and they're patient about it.\n\nLagomarcino's sits in East Davenport, a quieter stretch of the city that rewards wandering. It's the kind of place that's been here longer than most of us have been alive—the sort of local landmark that shows up on three generations of birthday lists. Once you know it exists, you'll find reasons to go back.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "433",
+        "yelp": "4.5",
+        "yelp_count": "46"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6086241771123112626",
+        "yelp": "https://www.yelp.com/biz/lagomarcinos-confectionery-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lagomarcinos_confectionery_photo_1.jpg",
+        "all": [
+          "entity_photos\\lagomarcinos_confectionery_photo_1.jpg",
+          "entity_photos\\lagomarcinos_confectionery_photo_2.jpg",
+          "entity_photos\\lagomarcinos_confectionery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "leon_bix_beiderbecke_memorial",
+      "type": "place",
+      "name": "Leon 'Bix' Beiderbecke Memorial",
+      "slug": "leon-bix-beiderbecke-memorial",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "400 Beiderbecke Drive",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 326-7812",
+      "website": "https://www.bixsociety.org/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5187841",
+      "lng": "-90.5796704",
+      "description": "A quiet riverfront tribute to the jazz cornet player who changed everything.\n\nThe Leon 'Bix' Beiderbecke Memorial sits along the Mississippi, a modest stone marker and plaque that honors one of the Quad Cities' most unlikely legends — a kid from Davenport who became a jazz innovator before his death at 28. It's the kind of place you can visit anytime, day or night, without crowds or ceremony. Standing there, you're aware you're touching something real: the birthplace of someone whose restless talent echoed through American music.\n\nThe memorial anchors Downtown Davenport's riverfront, a short walk from the main drag and easy to pair with a longer evening along the water. If you care about the QC's history — the stories that explain why this place matters — Bix belongs on your list. It's a quiet moment in a town with big cultural roots, the kind of stop that locals know about and visitors rarely stumble on by accident.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "55",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4072369081781800273",
+        "yelp": "https://www.yelp.com/biz/el-gallo-502-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\leon_bix_beiderbecke_memorial_photo_1.jpg",
+        "all": [
+          "entity_photos\\leon_bix_beiderbecke_memorial_photo_1.jpg",
+          "entity_photos\\leon_bix_beiderbecke_memorial_photo_2.jpg",
+          "entity_photos\\leon_bix_beiderbecke_memorial_photo_3.jpg",
+          "entity_photos\\leon_bix_beiderbecke_memorial_photo_4.jpg",
+          "entity_photos\\leon_bix_beiderbecke_memorial_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "modern_woodmen_park",
+      "type": "place",
+      "name": "Modern Woodmen Park",
+      "slug": "modern-woodmen-park",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "209 South Gaines Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 324-3000",
+      "website": "http://www.riverbandits.com/",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5185487",
+      "lng": "-90.5819381",
+      "description": "Historic ballpark where summer nights and river views meet minor-league baseball.\n\nModern Woodmen Park sits right on the Mississippi, and you feel it — the river breeze cutting through the stands, the late-day light hitting the water during evening games. It's a genuine minor-league experience: the Quad Cities River Bandits take the field with real skill and grit, and the crowd is invested in a way that reminds you why baseball matters in small cities. Between innings, families drift toward the Sky Deck or the kids' play area, but the real magic is watching a close game with the river as your backdrop.\n\nModern Woodmen Park anchors downtown Davenport's riverfront, just steps from the Figge Art Museum and the walking paths that define the area. It's one of those places that gives the Quad Cities its character — a working ballpark that's been part of the community for decades, where locals actually spend their summer evenings. Once you've caught a River Bandits game here, it becomes part of your seasonal rhythm.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "1150",
+        "yelp": "4.7",
+        "yelp_count": "21"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2997325261809880231",
+        "yelp": "https://www.yelp.com/biz/modern-woodmen-park-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\modern_woodmen_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\modern_woodmen_park_photo_1.jpg",
+          "entity_photos\\modern_woodmen_park_photo_2.jpg",
+          "entity_photos\\modern_woodmen_park_photo_3.jpg",
+          "entity_photos\\modern_woodmen_park_photo_4.jpg",
+          "entity_photos\\modern_woodmen_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_city_botanical_center",
+      "type": "place",
+      "name": "Quad City Botanical Center",
+      "slug": "quad-city-botanical-center",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "2525 4th Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 794-0991",
+      "website": "http://www.qcgardens.com/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 5:00 PM",
+      "lat": "41.509826",
+      "lng": "-90.56398700000001",
+      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.\n\nThe Botanical Center sprawls across Rock Island like an open secret—indoor tropical rooms that smell like soil and humidity, outdoor gardens that shift with the seasons, and in winter, a miniature train that loops through poinsettias and twinkling lights. It's the kind of place where you can spend an hour wandering through a teaching greenhouse or sit on a bench and watch families hunt for hidden corners. The gift shop and library add layers; locals come back because there's always something blooming, even in February.\n\nThe Quad City Botanical Center sits on the Illinois side of the river in Rock Island, anchoring a quieter neighborhood that feels separate from downtown bustle but still accessible. It's the rare destination in the QC that works for everyone—a peaceful solo afternoon, a family outing, a place to reset when you need green and growing things around you. Once you know it's there, you'll find yourself returning with visiting friends.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "957",
+        "yelp": "4.2",
+        "yelp_count": "17"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15433177206008878431",
+        "yelp": "https://www.yelp.com/biz/quad-city-botanical-center-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_2.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_3.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_4.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_5.jpg"
         ]
       },
       "guides": [],
