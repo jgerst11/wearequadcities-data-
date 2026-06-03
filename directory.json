@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T18:24:46.901602",
+  "generated": "2026-06-03T19:38:10.910246",
   "total": 8,
   "entities": [
     {
@@ -10,7 +10,7 @@
       "category": "Other",
       "subcategory": "",
       "tags": [
-        "other"
+        "arts & culture"
       ],
       "attributes": [],
       "address": "136 East 3rd Street",
@@ -56,10 +56,10 @@
       "type": "business",
       "name": "Bend XPO",
       "slug": "bend-xpo",
-      "category": "Other",
+      "category": "things to do",
       "subcategory": "",
       "tags": [
-        "other"
+        "events venue"
       ],
       "attributes": [],
       "address": "922 Mississippi Parkway",
@@ -247,7 +247,7 @@
       "category": "Other",
       "subcategory": "",
       "tags": [
-        "other"
+        "arts & culture"
       ],
       "attributes": [],
       "address": "400 Beiderbecke Drive",
