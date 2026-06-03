@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-02T14:07:23.499465",
-  "total": 14,
+  "generated": "2026-06-03T12:07:48.748591",
+  "total": 18,
   "events": [
     {
       "id": "quad-cities-intro-to-generational-wealth-thru-real-estate-investing-tickets-1986710983031",
@@ -67,6 +67,22 @@
       "source": "eventbrite"
     },
     {
+      "id": "quad-cities-intro-to-generational-wealth-thru-real-estate-investing-tickets-1986710974004",
+      "name": "Quad Cities - Intro to Generational Wealth thru Real Estate Investing",
+      "start": "2026-06-03",
+      "end": "2026-06-03",
+      "venue": "Davenport",
+      "address": "Online",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "Are you in control of your time, finances, and schedule? Are you wanting to become time and financially flexible?",
+      "url": "https://www.eventbrite.com/e/quad-cities-intro-to-generational-wealth-thru-real-estate-investing-tickets-1986710974004",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F883923233%2F400465664237%2F1%2Foriginal.20241026-124511?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6d9bd199685ecb869d9c6a38c87fddac",
+      "is_free": false,
+      "source": "eventbrite"
+    },
+    {
       "id": "quad-cities-free-home-buyer-class-hosted-by-the-stephanie-k-group-tickets-1990420888458",
       "name": "Quad Cities FREE Home Buyer Class hosted by The Stephanie K Group",
       "start": "2026-06-04",
@@ -79,6 +95,22 @@
       "description": "Thinking about buying a home but not sure where to start… or wondering how much home you can actually afford? This class is for YOU!",
       "url": "https://www.eventbrite.com/e/quad-cities-free-home-buyer-class-hosted-by-the-stephanie-k-group-tickets-1990420888458",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185449126%2F619964553783%2F1%2Foriginal.20260526-164043?crop=focalpoint&fit=crop&w=351&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f8e3b148de0acd479e4e9c9faf0cfc44",
+      "is_free": false,
+      "source": "eventbrite"
+    },
+    {
+      "id": "quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774498689",
+      "name": "Quad Cities: Hyaluron Pen Training, Learn to Fill in Lips & Dissolve Fat!",
+      "start": "2026-06-09",
+      "end": "2026-06-09",
+      "venue": "Regus - Davenport - Birchwood Office Building",
+      "address": "4620 East 53rd Street",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "This  needless technique is used to inject hyaluronic acid to fill in lines and wrinkles. You can also use this technique to dissolve fat.",
+      "url": "https://www.eventbrite.com/e/quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774498689",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F934675983%2F151896068309%2F1%2Foriginal.20250113-201856?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=917f7c02451cf36eb1016fa36ea22f2a",
       "is_free": false,
       "source": "eventbrite"
     },
@@ -143,6 +175,38 @@
       "description": "Paint Nite Brand Creative Events (10363937)",
       "url": "https://www.eventbrite.com/e/paint-nite-brand-creative-events-tickets-1980508198335",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185462218%2F292898063203%2F1%2Foriginal.20260526-190224?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=831548bc8aba9134e443f5d5af241e13",
+      "is_free": false,
+      "source": "eventbrite"
+    },
+    {
+      "id": "dinner-with-entrepreneurs-davenport-small-business-owners-edition-tickets-1861067907209",
+      "name": "Dinner with Entrepreneurs: Davenport | Small Business Owners Edition",
+      "start": "2026-06-30",
+      "end": "2026-06-30",
+      "venue": "Restaurant of the Week",
+      "address": "East 53rd Street",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "Join us for a cozy dinner with local entrepreneurs to network, share experiences, and make new connections! Small business owners edition.",
+      "url": "https://www.eventbrite.com/e/dinner-with-entrepreneurs-davenport-small-business-owners-edition-tickets-1861067907209",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1029245953%2F2590974569761%2F1%2Foriginal.20250513-002448?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00487708282471&fp-y=0.00195201027718&s=9846fddc9dc54b72873fc94826e51703",
+      "is_free": false,
+      "source": "eventbrite"
+    },
+    {
+      "id": "august-2026-allsteel-architectural-products-installation-training-tickets-1990584201933",
+      "name": "August 2026 Allsteel Architectural Products - Installation Training",
+      "start": "2026-08-04",
+      "end": "2026-08-06",
+      "venue": "5408 61st Ave W",
+      "address": "5408 61st Avenue West",
+      "city": "Muscatine",
+      "state": "IA",
+      "category": "",
+      "description": "Intended for Installation Partners and Allsteel Dealers with the goal of educating attendees on Allsteel Architectural Products.",
+      "url": "https://www.eventbrite.com/e/august-2026-allsteel-architectural-products-installation-training-tickets-1990584201933",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F704163809%2F1791475193273%2F1%2Foriginal.20240223-230751?w=351&auto=format%2Ccompress&q=75&sharp=10&s=6d4fccf0e5767d238100bf090c586f52",
       "is_free": false,
       "source": "eventbrite"
     },
