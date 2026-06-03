@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T19:46:47.452112",
+  "generated": "2026-06-03T19:54:20.758571",
   "total": 8,
   "entities": [
     {
@@ -53,13 +53,13 @@
     },
     {
       "id": "bend_xpo",
-      "type": "business",
+      "type": "place",
       "name": "Bend XPO",
       "slug": "bend-xpo",
-      "category": "things to do",
+      "category": "Other",
       "subcategory": "",
       "tags": [
-        "events venue"
+        "other"
       ],
       "attributes": [],
       "address": "922 Mississippi Parkway",
@@ -91,7 +91,9 @@
         "all": [
           "entity_photos\\bend_xpo_photo_1.jpg",
           "entity_photos\\bend_xpo_photo_2.jpg",
-          "entity_photos\\bend_xpo_photo_3.jpg"
+          "entity_photos\\bend_xpo_photo_3.jpg",
+          "entity_photos\\bend_xpo_photo_4.jpg",
+          "entity_photos\\bend_xpo_photo_5.jpg"
         ]
       },
       "guides": [],
