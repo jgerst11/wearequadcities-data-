@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T19:42:23.739160",
+  "generated": "2026-06-03T19:46:47.452112",
   "total": 8,
   "entities": [
     {
@@ -72,7 +72,7 @@
       "hours": "Monday: Closed | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 6:00 AM – 3:00 AM | Sunday: Closed",
       "lat": "41.51878929999999",
       "lng": "-90.45442299999999",
-      "description": "Bend XPO is a modern, customizable event space in the heart of East Moline's Bend Campus — a 132-acre\r\n    neighborhood with hotels, restaurants, and entertainment all within walking distance. 100,000 square feet of\r\n  flexible indoor and outdoor space for conferences, concerts, weddings, and community events.",
+      "description": "Bend XPO is a modern, customizable event space in the heart of East Moline's Bend Campus — a 132-acre\n    neighborhood with hotels, restaurants, and entertainment all within walking distance. 100,000 square feet of\n  flexible indoor and outdoor space for conferences, concerts, weddings, and community events.",
       "rating": {
         "google": "4.7",
         "google_count": "307",
