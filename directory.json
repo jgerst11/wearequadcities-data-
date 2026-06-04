@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T13:58:25.258243",
+  "generated": "2026-06-04T14:01:21.393797",
   "total": 160,
   "entities": [
     {
@@ -6691,7 +6691,7 @@
       "category": "Attractions",
       "subcategory": "",
       "tags": [
-        "other"
+        "attractions"
       ],
       "attributes": [],
       "address": "910 Bend Boulevard",
@@ -6784,10 +6784,10 @@
       "type": "place",
       "name": "The District",
       "slug": "the-district",
-      "category": "Attractions",
+      "category": "Shopping",
       "subcategory": "",
       "tags": [
-        "attractions"
+        "shopping"
       ],
       "attributes": [],
       "address": "111 20th Street",
@@ -7542,7 +7542,7 @@
       "category": "Shopping",
       "subcategory": "",
       "tags": [
-        "other"
+        "shopping"
       ],
       "attributes": [],
       "address": "",
