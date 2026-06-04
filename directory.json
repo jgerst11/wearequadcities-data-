@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T15:30:08.013841",
+  "generated": "2026-06-04T19:04:02.099133",
   "total": 203,
   "entities": [
     {
@@ -569,7 +569,9 @@
           "entity_photos\\atomic_coffee_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -2824,10 +2826,10 @@
       "type": "business",
       "name": "Duck City Bistro",
       "slug": "duck-city-bistro",
-      "category": "Nightlife",
+      "category": "Restaurants",
       "subcategory": "",
       "tags": [
-        "nightlife"
+        "restaurants"
       ],
       "attributes": [],
       "address": "115 East 3rd Street",
@@ -2862,7 +2864,9 @@
           "entity_photos\\duck_city_bistro_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -3628,7 +3632,9 @@
           "entity_photos\\great_river_brewery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7060,7 +7066,7 @@
     {
       "id": "rozz_tox",
       "type": "business",
-      "name": "ROZZ-TOX",
+      "name": "Rozz-Tox",
       "slug": "rozz-tox",
       "category": "Coffee",
       "subcategory": "",
@@ -7100,7 +7106,9 @@
           "entity_photos\\rozz_tox_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7580,7 +7588,9 @@
           "entity_photos\\source_bookstore_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -9191,7 +9201,9 @@
           "entity_photos\\up_skybar_lounge_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
