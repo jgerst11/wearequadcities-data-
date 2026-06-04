@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T13:52:59.577390",
+  "generated": "2026-06-04T13:58:25.258243",
   "total": 160,
   "entities": [
     {
@@ -6688,7 +6688,7 @@
       "type": "place",
       "name": "The Bend Event Center",
       "slug": "the-bend-event-center",
-      "category": "Other",
+      "category": "Attractions",
       "subcategory": "",
       "tags": [
         "other"
@@ -7539,7 +7539,7 @@
       "type": "place",
       "name": "Village of East Davenport",
       "slug": "village-of-east-davenport",
-      "category": "Other",
+      "category": "Shopping",
       "subcategory": "",
       "tags": [
         "other"
