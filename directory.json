@@ -1,7 +1,54 @@
 {
-  "generated": "2026-06-04T10:09:25.878187",
-  "total": 76,
+  "generated": "2026-06-04T10:44:10.604011",
+  "total": 99,
   "entities": [
+    {
+      "id": "11th_hour_bar_grill",
+      "type": "business",
+      "name": "11th Hour Bar & Grill",
+      "slug": "11th-hour-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1600 Crosstown Avenue",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "(309) 912-7008",
+      "website": "http://11thhourbarandgrill.com/",
+      "hours": "Monday: Closed | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.4959132",
+      "lng": "-90.4071063",
+      "description": "A Silvis mainstay where the wings are crispy and everybody knows your name.\n\n11th Hour has the comfortable, lived-in feel of a place that's been doing the same thing well for years — wood-paneled walls, a bar that runs the length of the room, and a kitchen that doesn't overcomplicate things. The wings are the draw; regulars will argue their preferred sauce while the bartender pours another round. Weekends fill up fast with a mix of locals, families on Saturday afternoons, and the after-work crowd that's been coming back since before anyone could check in on their phone.\n\n11th Hour sits in Silvis, just off the main drag — the kind of neighborhood spot that anchors a community without needing to hustle for attention. With a 4.5-star rating across over 400 reviews, it's proven itself as one of those places where consistency matters more than trends. It's worth the short drive if you're looking for honest food, a strong pour, and the kind of unpretentious hospitality that keeps people coming back.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "431",
+        "yelp": "4.6",
+        "yelp_count": "30"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5039593488133914158",
+        "yelp": "https://www.yelp.com/biz/11th-hour-bar-and-grill-silvis",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\11th_hour_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\11th_hour_bar_grill_photo_1.jpg",
+          "entity_photos\\11th_hour_bar_grill_photo_2.jpg",
+          "entity_photos\\11th_hour_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
     {
       "id": "392caffe",
       "type": "business",
@@ -139,6 +186,53 @@
           "entity_photos\\adler_theatre_photo_3.jpg",
           "entity_photos\\adler_theatre_photo_4.jpg",
           "entity_photos\\adler_theatre_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "armored_gardens",
+      "type": "business",
+      "name": "Armored Gardens",
+      "slug": "armored-gardens",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "315 Pershing Avenue",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 345-1000",
+      "website": "http://www.armoredgardens.com/",
+      "hours": "Monday: 11:00 AM – 11:00 PM | Tuesday: 11:00 AM – 11:00 PM | Wednesday: 11:00 AM – 11:00 PM | Thursday: 11:00 AM – 11:00 PM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 11:00 PM",
+      "lat": "41.5228317",
+      "lng": "-90.5709012",
+      "description": "A sprawling beer garden where the whole QC comes to unwind.\n\nArmored Gardens is built for lingering — long picnic tables, a rotating tap list that takes beer seriously, and enough room that you're never fighting for elbows. Friday and Saturday nights stretch past midnight, and the crowd shifts from after-work regulars to late-night groups looking for somewhere louder than a bar, more social than a brewery. The space has that rare quality of feeling both energetic and relaxed, the kind of place where you can catch up with friends or watch the night happen around you.\n\nArmored Gardens sits in Downtown Davenport, the neighborhood that's become the QC's gathering place — steps from the riverfront and surrounded by the restaurants and galleries that have revitalized this part of the city. It's a cornerstone spot that shows up on every local's shortlist of where to spend a Friday night, and once you've posted up at one of those tables, you'll understand why it keeps people coming back.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "1022",
+        "yelp": "3.8",
+        "yelp_count": "108"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16556409588162162057",
+        "yelp": "https://www.yelp.com/biz/armored-gardens-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\armored_gardens_photo_1.jpg",
+        "all": [
+          "entity_photos\\armored_gardens_photo_1.jpg",
+          "entity_photos\\armored_gardens_photo_2.jpg",
+          "entity_photos\\armored_gardens_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -618,6 +712,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "boozies_bar_grill",
+      "type": "business",
+      "name": "Boozie's Bar & Grill",
+      "slug": "boozies-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "421 West River Drive",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 328-2929",
+      "website": "https://www.booziesdavenport.com/",
+      "hours": "Monday: 11:00 AM – 11:00 PM | Tuesday: 11:00 AM – 11:00 PM | Wednesday: 11:00 AM – 11:00 PM | Thursday: 11:00 AM – 11:00 PM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 11:00 PM",
+      "lat": "41.52001449999999",
+      "lng": "-90.5788358",
+      "description": "Old-school bar where the burgers are honest and the crowd is real.\n\nBoozie's feels like the kind of place that's been pouring the same drinks and flipping the same burgers since the '80s — and that's exactly the point. The space has that worn-in comfort of a true neighborhood bar: wood-dark interiors, no pretense, and a kitchen that knows how to nail the fundamentals. Come Friday or Saturday night and you'll find the bar three-deep with locals who've claimed their spots; come weekday lunch and you'll find a quieter crowd of regulars who nod at each other over burgers and cold beers.\n\nBoozie's sits right in Downtown Davenport, anchoring the kind of unpretentious nightlife block that gives the area its soul. It's the bar that shows up in conversations about \"where to actually go\" in the QC — not because it's trendy, but because it's reliable, familiar, and full of the people who make downtown worth visiting on a Friday night.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "825",
+        "yelp": "3.7",
+        "yelp_count": "90"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13162567571554568026",
+        "yelp": "https://www.yelp.com/biz/boozies-bar-and-grill-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\boozies_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\boozies_bar_grill_photo_1.jpg",
+          "entity_photos\\boozies_bar_grill_photo_2.jpg",
+          "entity_photos\\boozies_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "brews_energy",
       "type": "business",
       "name": "Brews Energy",
@@ -759,6 +900,147 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "central_standard_craft_burgers_beer",
+      "type": "business",
+      "name": "Central Standard Craft Burgers & Beer",
+      "slug": "central-standard-craft-burgers-beer",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2239 Falcon Avenue",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 888-5040",
+      "website": "http://centralstandardburgersbettendorf.com/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.5737927",
+      "lng": "-90.50132959999999",
+      "description": "Aged beef burgers and 24 craft taps in a warm, unpretentious room.\n\nCentral Standard does the fundamentals right — the beef is aged, the burgers are built with care, and the beer list is long enough to spend a whole evening working through it without repeating yourself. The patio catches the evening light, the TVs are always tuned to something worth watching, and the crowd skews local and relaxed. This is where Bettendorf comes to eat something good without the fuss.\n\nCentral Standard sits in Bettendorf, the QC's most reliable neighborhood for a solid night out — the kind of place that doesn't try too hard but gets the details right. It's become the sort of restaurant that regulars return to again and again, which is exactly what our guides are built around: places worth knowing, places that feel like they're made for you.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1595",
+        "yelp": "4.1",
+        "yelp_count": "40"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15202513309590141314",
+        "yelp": "https://www.yelp.com/biz/five-cities-brewing-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\central_standard_craft_burgers_beer_photo_1.jpg",
+        "all": [
+          "entity_photos\\central_standard_craft_burgers_beer_photo_1.jpg",
+          "entity_photos\\central_standard_craft_burgers_beer_photo_2.jpg",
+          "entity_photos\\central_standard_craft_burgers_beer_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "circle_tap",
+      "type": "business",
+      "name": "Circle Tap",
+      "slug": "circle-tap",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1345 West Locust Street",
+      "city": "Davenport",
+      "neighborhood": "5 Points",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 322-9276",
+      "website": "https://m.facebook.com/The-Circle-Tap-51327563188/",
+      "hours": "Monday: 11:00 AM – 2:00 AM | Tuesday: 11:00 AM – 2:00 AM | Wednesday: 11:00 AM – 2:00 AM | Thursday: 11:00 AM – 2:00 AM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 2:00 AM",
+      "lat": "41.5380638",
+      "lng": "-90.59331019999999",
+      "description": "A neighborhood dive where the cheap beer flows and everyone knows your name.\n\nCircle Tap is the kind of place that opens at 11 a.m. and doesn't close until 2, which tells you everything you need to know about its purpose. The kind of bar where regulars have claimed their stools, the jukebox plays what it always plays, and the bartender pours a generous pour without asking twice. It's unpretentious in the best way — no craft cocktail menus or reclaimed wood — just a real neighborhood gathering spot where the pool table gets action and the wings are hot.\n\nSitting in the 5 Points area of Davenport, Circle Tap is exactly the kind of local institution that matters to the actual fabric of the Quad Cities. It's not a destination bar in the shiny sense, but rather a place that's been holding down the neighborhood for years, serving the people who live nearby and the ones who keep coming back because it feels like home. That's the kind of authenticity we chase on our guides.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "503",
+        "yelp": "3.7",
+        "yelp_count": "38"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17939485614832576946",
+        "yelp": "https://www.yelp.com/biz/circle-tap-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\circle_tap_photo_1.jpg",
+        "all": [
+          "entity_photos\\circle_tap_photo_1.jpg",
+          "entity_photos\\circle_tap_photo_2.jpg",
+          "entity_photos\\circle_tap_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "clints_draft_house_pizza_grill",
+      "type": "business",
+      "name": "Clint's Draft House Pizza & Grill",
+      "slug": "clints-draft-house-pizza-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1630 7th Street",
+      "city": "Moline",
+      "neighborhood": "Old Towne",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-3858",
+      "website": "https://www.clintsdrafthousepizzagrill.com/",
+      "hours": "Monday: 6:00 AM – 2:00 AM | Tuesday: 6:00 AM – 2:00 AM | Wednesday: 6:00 AM – 2:00 AM | Thursday: 6:00 AM – 2:00 AM | Friday: 6:00 AM – 2:00 AM | Saturday: 6:00 AM – 2:00 AM | Sunday: 11:00 AM – 2:00 AM",
+      "lat": "41.4961823",
+      "lng": "-90.5275204",
+      "description": "Pizza and pints in Old Towne — open early enough for breakfast, late enough for last call.\n\nClint's does the comfortable neighborhood bar thing well: wood-fired pizza that's crispy at the edges, a draft list that rotates, and the kind of crowd that ranges from families grabbing lunch to groups settling in for the night. The space has that lived-in feeling — worn booths, sports on the screens, regulars who know the bartenders' names. It's the place you end up at more often than you planned, partly because the hours are absurd (6 a.m. opening on weekdays means breakfast pizza is actually happening here) and partly because the pizza is reliably good.\n\nClint's sits in Old Towne Moline, a neighborhood that's quietly become one of the QC's more reliable spots for a night out — walkable, unpretentious, and full of places that feel like they belong to locals rather than tourists. It's the kind of anchor spot that shows up in the rotation when you're looking for somewhere to eat and drink without fuss, no matter what time you're thinking about showing up.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "657",
+        "yelp": "3.4",
+        "yelp_count": "29"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5328577930382302085",
+        "yelp": "https://www.yelp.com/biz/clints-pizza-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\clints_draft_house_pizza_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\clints_draft_house_pizza_grill_photo_1.jpg",
+          "entity_photos\\clints_draft_house_pizza_grill_photo_2.jpg",
+          "entity_photos\\clints_draft_house_pizza_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "coffee_house_cafe_and_goods",
       "type": "business",
       "name": "Coffee House Cafe and Goods",
@@ -893,6 +1175,53 @@
           "entity_photos\\country_style_ice_cream_coffee_photo_1.jpg",
           "entity_photos\\country_style_ice_cream_coffee_photo_2.jpg",
           "entity_photos\\country_style_ice_cream_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "crabbys_bar_grill",
+      "type": "business",
+      "name": "Crabby's Bar & Grill",
+      "slug": "crabbys-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "826 West 1st Avenue",
+      "city": "Coal Valley",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61240",
+      "phone": "(309) 799-3300",
+      "website": "https://www.facebook.com/crabbys.bar.9/",
+      "hours": "Monday: 10:00 AM – 3:00 AM | Tuesday: 10:00 AM – 3:00 AM | Wednesday: 10:00 AM – 3:00 AM | Thursday: 10:00 AM – 3:00 AM | Friday: 10:00 AM – 3:00 AM | Saturday: 10:00 AM – 3:00 AM | Sunday: 10:00 AM – 3:00 AM",
+      "lat": "41.4529546",
+      "lng": "-90.4684163",
+      "description": "A Coal Valley institution where the crowd stays late and the energy never quits.\n\nCrabby's runs from 10 a.m. to 3 a.m. every single day — the kind of stamina that only happens when a place knows exactly what its regulars want. The bar has the comfortable chaos of somewhere people actually go to, not somewhere they visit: worn leather, the smell of fried food and beer, a jukebox that gets used. Weekends swell with the kind of crowd that treats it like a second living room.\n\nOut in Coal Valley, Crabby's sits on the edge of the QC's sprawl — far enough from downtown to feel like a neighborhood spot, close enough to matter. It's been doing this for years, which means something in a market where bars come and go. The kind of place that shows up on our radar not for being precious or new, but for being genuinely necessary to the people who go there.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "691",
+        "yelp": "2.9",
+        "yelp_count": "16"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11904270168688073314",
+        "yelp": "https://www.yelp.com/biz/crabbys-bar-and-grill-coal-valley",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\crabbys_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\crabbys_bar_grill_photo_1.jpg",
+          "entity_photos\\crabbys_bar_grill_photo_2.jpg",
+          "entity_photos\\crabbys_bar_grill_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1464,6 +1793,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "hafners_tavern_liquor_store",
+      "type": "business",
+      "name": "Hafner's Tavern & Liquor Store",
+      "slug": "hafners-tavern-liquor-store",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2805 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 762-8451",
+      "website": "",
+      "hours": "Monday: Closed | Tuesday: 11:00 AM – 12:00 AM | Wednesday: 11:00 AM – 12:00 AM | Thursday: 11:00 AM – 12:00 AM | Friday: 11:00 AM – 12:00 AM | Saturday: 11:00 AM – 12:00 AM | Sunday: 12:00 – 10:00 PM",
+      "lat": "41.4925101",
+      "lng": "-90.49769479999999",
+      "description": "A Moline institution where regulars have held court for decades.\n\nHafner's feels like the kind of place where everybody knows your name—and they probably do. The bar has the worn-in comfort of a neighborhood living room, all dim wood and the kind of lighting that makes 10 p.m. feel like the right time to be there. The liquor selection runs deep, and the bartenders move with the easy confidence of people who've poured thousands of drinks in this same spot.\n\nHafner's sits in Moline, anchoring a quieter corner of the QC that rewards exploration. It's the sort of local bar that shows up on our radar because it's real—no theme, no trying too hard, just a place where the community gathers. Once you walk through that door, you understand why it's earned a devoted following.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "328",
+        "yelp": "4.4",
+        "yelp_count": "19"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3449302725951500097",
+        "yelp": "https://www.yelp.com/biz/hafners-tavern-and-liquor-store-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\hafners_tavern_liquor_store_photo_1.jpg",
+        "all": [
+          "entity_photos\\hafners_tavern_liquor_store_photo_1.jpg",
+          "entity_photos\\hafners_tavern_liquor_store_photo_2.jpg",
+          "entity_photos\\hafners_tavern_liquor_store_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "harris_pizza",
       "type": "business",
       "name": "Harris Pizza",
@@ -1746,6 +2122,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "jennies_boxcar",
+      "type": "business",
+      "name": "Jennie's Boxcar",
+      "slug": "jennies-boxcar",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "545 12th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 429-3313",
+      "website": "https://jenniesboxcar.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 8:00 PM",
+      "lat": "41.5168903",
+      "lng": "-90.4491966",
+      "description": "A dive bar institution where East Moline gathers over cheap drinks and real conversation.\n\nJennie's Boxcar has the kind of worn-in charm that can't be manufactured — sticky floors, neon beer signs, and a jukebox that's been playing the same songs for years. The bartenders know regulars by name and pour heavy; the crowd skews local and unpretentious, the kind of place where a Thursday night feels like Friday. It's not fancy, but it's exactly what a neighborhood bar should be.\n\nJennie's Boxcar sits in East Moline, where the real QC still lives — away from the polished downtown stretch and closer to where people actually spend their evenings. It's the kind of honest, unglamorous spot that reveals what a place is really about, and it's earned its loyal following for good reason. Come for a drink, stay because you've found your people.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "435",
+        "yelp": "4.0",
+        "yelp_count": "64"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4696020377100654921",
+        "yelp": "https://www.yelp.com/biz/jennies-boxcar-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\jennies_boxcar_photo_1.jpg",
+        "all": [
+          "entity_photos\\jennies_boxcar_photo_1.jpg",
+          "entity_photos\\jennies_boxcar_photo_2.jpg",
+          "entity_photos\\jennies_boxcar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "johnnys_italian_steakhouse",
       "type": "business",
       "name": "Johnny's Italian Steakhouse",
@@ -1833,6 +2256,53 @@
           "entity_photos\\julies_video_poker_slots_photo_1.jpg",
           "entity_photos\\julies_video_poker_slots_photo_2.jpg",
           "entity_photos\\julies_video_poker_slots_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "juniors_sports_bar",
+      "type": "business",
+      "name": "Junior's Sports Bar",
+      "slug": "juniors-sports-bar",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1408 6th Street",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 751-9900",
+      "website": "https://www.facebook.com/jrsbar.n.grill/",
+      "hours": "Monday: 11:00 AM – 11:00 PM | Tuesday: 11:00 AM – 11:00 PM | Wednesday: 11:00 AM – 11:00 PM | Thursday: 11:00 AM – 11:00 PM | Friday: 11:00 AM – 11:00 PM | Saturday: 11:00 AM – 11:00 PM | Sunday: 10:00 AM – 9:00 PM",
+      "lat": "41.5159112",
+      "lng": "-90.447389",
+      "description": "A straightforward sports bar where the wings are solid and everybody knows your name.\n\nJunior's keeps it simple — good food, cold beer, and every game on a screen somewhere. Walk in on a Friday night and you'll find the same faces who've been coming for years, the kind of regulars who have their usual order memorized by the kitchen. It's the place you take a visiting friend when you want to watch the Hawkeyes or Bears without pretension.\n\nJunior's sits on the East Moline side, away from the downtown traffic but easy to find once you know it's there. It's one of those places that doesn't need buzz or a redesign to matter — it works because it's been doing the same thing well for long enough that it's woven into the neighborhood fabric. That kind of reliability shows up again and again in the QC spots we keep coming back to.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "326",
+        "yelp": "5.0",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13577442350419770530",
+        "yelp": "https://www.yelp.com/biz/juniors-sports-bar-and-grill-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\juniors_sports_bar_photo_1.jpg",
+        "all": [
+          "entity_photos\\juniors_sports_bar_photo_1.jpg",
+          "entity_photos\\juniors_sports_bar_photo_2.jpg",
+          "entity_photos\\juniors_sports_bar_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2218,6 +2688,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "macs_tavern",
+      "type": "business",
+      "name": "Mac's Tavern",
+      "slug": "macs-tavern",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "316 West 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 324-6227",
+      "website": "http://macstaverndavenport.com/",
+      "hours": "Monday: 4:00 PM – 2:00 AM | Tuesday: 4:00 PM – 2:00 AM | Wednesday: 4:00 PM – 2:00 AM | Thursday: 4:00 PM – 2:00 AM | Friday: 4:00 PM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 3:00 PM – 2:00 AM",
+      "lat": "41.5226008",
+      "lng": "-90.57769239999999",
+      "description": "A 1934 institution where the bar is worn smooth and the Irish roots run deep.\n\nMac's has that lived-in feeling that can't be faked — dark wood, low ceilings, and a bar long enough that you'll always find a stool. The crowd shifts with the hours: lunch regulars nursing Guinness, Friday night groups spilling onto the patio, late-night conversations that wind toward closing. The kitchen keeps it simple and honest — pub food that tastes better after a beer, the kind of place where people show up the same time every week and the bartender already knows the order.\n\nMac's sits right in Downtown Davenport, a cornerstone of the neighborhood's character and proof that some places don't need to reinvent themselves. Nearly 90 years in, it still feels like the center of gravity for a certain kind of Quad Cities night — the kind where you lose track of time and find yourself talking to strangers who become friends. It's exactly the kind of place that belongs in our guides.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "818",
+        "yelp": "4.5",
+        "yelp_count": "66"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=30353587927290540",
+        "yelp": "https://www.yelp.com/biz/macs-tavern-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\macs_tavern_photo_1.jpg",
+        "all": [
+          "entity_photos\\macs_tavern_photo_1.jpg",
+          "entity_photos\\macs_tavern_photo_2.jpg",
+          "entity_photos\\macs_tavern_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "main_street_coffee",
       "type": "business",
       "name": "Main Street Coffee",
@@ -2359,6 +2876,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "me_billy",
+      "type": "business",
+      "name": "Me & Billy",
+      "slug": "me-billy",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "200 West 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 323-1195",
+      "website": "http://meandbilly.com/",
+      "hours": "Monday: Closed | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: Closed",
+      "lat": "41.522561",
+      "lng": "-90.575853",
+      "description": "Seasonal cocktails and craft beer in downtown's most convivial modern room.\n\nMe & Billy has the kind of bar energy that makes you want to stay longer than you planned — the kind where bartenders remember what you ordered last time and the crowd leans toward people actually talking to each other. The cocktails shift with the seasons (which means coming back to see what's new), and the elevated bar fare is the kind you don't feel guilty ordering at 9 p.m. on a Thursday. It's modern without feeling cold, busy without feeling rushed.\n\nMe & Billy sits in Downtown Davenport, anchoring one of the QC's most vital neighborhoods — minutes from the riverfront and surrounded by galleries, restaurants, and other reasons to wander. With nearly 1,500 reviews and a 4.6 rating, it's earned its place as a reliable favorite, the kind of spot that shows up on people's \"where should we go tonight?\" rotation again and again.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "1481",
+        "yelp": "4.2",
+        "yelp_count": "400"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4787001395951823581",
+        "yelp": "https://www.yelp.com/biz/me-and-billy-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\me_billy_photo_1.jpg",
+        "all": [
+          "entity_photos\\me_billy_photo_1.jpg",
+          "entity_photos\\me_billy_photo_2.jpg",
+          "entity_photos\\me_billy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "milltown_coffee",
       "type": "business",
       "name": "Milltown Coffee",
@@ -2399,6 +2963,53 @@
           "entity_photos\\milltown_coffee_photo_1.jpg",
           "entity_photos\\milltown_coffee_photo_2.jpg",
           "entity_photos\\milltown_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "mo_bradys_steakhouse",
+      "type": "business",
+      "name": "Mo Brady's Steakhouse",
+      "slug": "mo-bradys-steakhouse",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "4830 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 445-0684",
+      "website": "https://mobradyssteakhouse.com/",
+      "hours": "Monday: Closed | Tuesday: 4:00 – 8:30 PM | Wednesday: 4:00 – 8:30 PM | Thursday: 4:00 – 8:30 PM | Friday: 4:00 – 9:00 PM | Saturday: 4:00 – 9:00 PM | Sunday: Closed",
+      "lat": "41.5705726",
+      "lng": "-90.5692807",
+      "description": "Family-owned steakhouse where regulars have claimed the same booth for decades.\n\nMo Brady's feels like the kind of place your parents took you for special occasions — dark wood, honest cocktails, steaks that don't need much fussing. The room has that lived-in warmth that only happens when a place has been doing the same thing well for a long time, and the kitchen clearly respects the basics: good beef, proper seasoning, sides that show up on time. It's quieter than you'd expect for a Friday night, which means there's actually space to talk and the bartender remembers what you ordered last time.\n\nMo Brady's sits in Davenport's dining landscape as a reminder that not every good meal needs to be trendy or new. It's the kind of establishment that anchors a neighborhood — reliable, unpretentious, and worth the reservation. Once you understand what Mo Brady's is, you'll find yourself returning to it the same way locals do, the way a steakhouse should be.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1005",
+        "yelp": "3.9",
+        "yelp_count": "99"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5114138184111718000",
+        "yelp": "https://www.yelp.com/biz/mo-bradys-steakhouse-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mo_bradys_steakhouse_photo_1.jpg",
+        "all": [
+          "entity_photos\\mo_bradys_steakhouse_photo_1.jpg",
+          "entity_photos\\mo_bradys_steakhouse_photo_2.jpg",
+          "entity_photos\\mo_bradys_steakhouse_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2496,6 +3107,100 @@
           "entity_photos\\osaka_steakhouse_photo_1.jpg",
           "entity_photos\\osaka_steakhouse_photo_2.jpg",
           "entity_photos\\osaka_steakhouse_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "parkside_grill_lounge",
+      "type": "business",
+      "name": "Parkside Grill & Lounge",
+      "slug": "parkside-grill-lounge",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2307 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "Park Hill",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 277-0830",
+      "website": "https://parksidegrilllounge.shop/",
+      "hours": "Monday: 11:00 AM – 1:00 AM | Tuesday: 11:00 AM – 1:00 AM | Wednesday: 11:00 AM – 1:00 AM | Thursday: 11:00 AM – 1:00 AM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 1:00 AM",
+      "lat": "41.5103712",
+      "lng": "-90.5054091",
+      "description": "Sand, burgers, and late-night drinks in Moline's most reliably good backyard.\n\nParkside feels like the bar your friend's older sibling would throw a party at — sprawling enough that you can actually move around, with a sand volleyball court that gets competitive on summer nights and a patio where the real conversations happen. The burger menu is straightforward and honest (the kind of place that knows what it does well), and they're open late enough that it becomes a natural second or third stop after elsewhere hasn't quite satisfied.\n\nParkside anchors Park Hill, Moline's residential pocket with real bones — the kind of neighborhood that draws locals instead of just passing traffic. It's become the kind of place that shows up reliably on our guides because it works: unpretentious, practical, and genuinely built for hanging around.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "672",
+        "yelp": "3.5",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8543543585791900820",
+        "yelp": "https://www.yelp.com/biz/parkside-grill-and-lounge-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\parkside_grill_lounge_photo_1.jpg",
+        "all": [
+          "entity_photos\\parkside_grill_lounge_photo_1.jpg",
+          "entity_photos\\parkside_grill_lounge_photo_2.jpg",
+          "entity_photos\\parkside_grill_lounge_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "public_house",
+      "type": "business",
+      "name": "Public House",
+      "slug": "public-house",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "5260 Northwest Boulevard",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 594-6055",
+      "website": "https://m.facebook.com/publichousedavenport/",
+      "hours": "Monday: 12:00 PM – 2:00 AM | Tuesday: 12:00 PM – 2:00 AM | Wednesday: 12:00 PM – 2:00 AM | Thursday: 12:00 PM – 2:00 AM | Friday: 12:00 PM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 2:00 AM",
+      "lat": "41.5735644",
+      "lng": "-90.5937409",
+      "description": "A no-nonsense dive where Davenport comes to unwind and stay late.\n\nPublic House has the kind of worn-in comfort that only comes from being a real neighborhood gathering spot — the kind of place where the bartender knows what you drink and the crowd shifts from after-work unwinders to late-night regulars as the sun drops. The beer list is straightforward, the bourbon pours are honest, and the jukebox leans toward the songs people actually want to hear. It's open until 2 a.m. most nights, which in Davenport means it's often the last reasonable option when the evening refuses to end.\n\nPublic House sits in Davenport proper, away from the polished riverfront corridor — it's the kind of place that exists for locals first and serves as a reliable benchmark for what a good bar should be. Once you've found it, you'll keep coming back, and you'll start bringing friends who get it.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "352",
+        "yelp": "4.3",
+        "yelp_count": "21"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1610461965690199577",
+        "yelp": "https://www.yelp.com/biz/public-house-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\public_house_photo_1.jpg",
+        "all": [
+          "entity_photos\\public_house_photo_1.jpg",
+          "entity_photos\\public_house_photo_2.jpg",
+          "entity_photos\\public_house_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2740,6 +3445,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "roosters_sports_bar_grill",
+      "type": "business",
+      "name": "Rooster's Sports Bar & Grill",
+      "slug": "roosters-sports-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2130 3rd Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 283-7005",
+      "website": "https://www.facebook.com/roosterssbg/?rf=144697825675413",
+      "hours": "Monday: 5:00 – 10:00 PM | Tuesday: Closed | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 11:00 PM | Sunday: 11:00 AM – 11:00 PM",
+      "lat": "41.5097656",
+      "lng": "-90.56936639999999",
+      "description": "A reliable neighborhood spot where the wings are solid and the TVs never miss a game.\n\nRooster's has the kind of no-fuss energy that keeps people coming back — dark wood, plenty of screens, and a kitchen that knows what it's doing with fried food. The wings come out hot and properly sauced, the kind of thing you order without thinking twice on a Friday night. It's the place where regulars have their usual seat and the bartender knows the order before you sit down.\n\nRooster's sits in Rock Island, a neighborhood that rewards locals who know where to look for a good night out. It's the kind of straightforward sports bar that anchors a community — packed on game days, quieter on random Wednesdays, but always solid. Once you've had a few visits, it becomes the place you suggest when someone asks for a reliable spot to grab food and drinks.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "395",
+        "yelp": "3.8",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7036699801305403970",
+        "yelp": "https://www.yelp.com/biz/roosters-sports-bar-and-grill-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\roosters_sports_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\roosters_sports_bar_grill_photo_1.jpg",
+          "entity_photos\\roosters_sports_bar_grill_photo_2.jpg",
+          "entity_photos\\roosters_sports_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "rozz_tox",
       "type": "business",
       "name": "ROZZ-TOX",
@@ -2881,6 +3633,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "steves_old_time_tap",
+      "type": "business",
+      "name": "Steve's Old Time Tap",
+      "slug": "steves-old-time-tap",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "223 17th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 786-4543",
+      "website": "https://m.facebook.com/steves.tap/",
+      "hours": "Monday: 9:00 AM – 2:00 AM | Tuesday: 9:00 AM – 2:00 AM | Wednesday: 9:00 AM – 2:00 AM | Thursday: 9:00 AM – 2:00 AM | Friday: 9:00 AM – 2:00 AM | Saturday: 9:00 AM – 2:00 AM | Sunday: 9:00 AM – 2:00 AM",
+      "lat": "41.5102778",
+      "lng": "-90.57583330000001",
+      "description": "A Rock Island corner bar that's been pouring the same drink since before you were born.\n\nSteve's has the kind of worn-in warmth that comes from decades of the same people ordering the same things at the same stools. The lights are dim, the jukebox knows what it's doing, and nobody's here for the Instagram moment — they're here because this is where they've always come. Open from 9 a.m. to 2 a.m. every single day, it's the kind of place that serves coffee in the morning and beer all night, and both taste like home.\n\nSteve's Old Time Tap sits in Rock Island, one of the QC's most grounded neighborhoods — the kind of place where bars are institutions and regulars have names everybody knows. It's the opposite of polished, which is exactly why it matters. Once you walk in, you'll understand why nearly 350 people have shown up to say the same thing: this is the real thing.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "347",
+        "yelp": "3.9",
+        "yelp_count": "34"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8384754372006825129",
+        "yelp": "https://www.yelp.com/biz/steves-old-time-tap-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\steves_old_time_tap_photo_1.jpg",
+        "all": [
+          "entity_photos\\steves_old_time_tap_photo_1.jpg",
+          "entity_photos\\steves_old_time_tap_photo_2.jpg",
+          "entity_photos\\steves_old_time_tap_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "stoney_creek_hotel_quad_cities_moline",
       "type": "business",
       "name": "Stoney Creek Hotel Quad Cities - Moline",
@@ -3015,6 +3814,53 @@
           "entity_photos\\tls_java_joint_drive_thru_photo_1.jpg",
           "entity_photos\\tls_java_joint_drive_thru_photo_2.jpg",
           "entity_photos\\tls_java_joint_drive_thru_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "tap_22_grill_bar",
+      "type": "business",
+      "name": "Tap 22 Grill & Bar",
+      "slug": "tap-22-grill-bar",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1443 1st Street",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "(309) 912-7655",
+      "website": "https://tap22grill.com/",
+      "hours": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 11:00 PM | Saturday: 11:00 AM – 11:00 PM | Sunday: 11:00 AM – 10:00 PM",
+      "lat": "41.4949175",
+      "lng": "-90.4243388",
+      "description": "A sprawling sports bar where the wings are serious and the crowd is loud.\n\nTap 22 is the kind of place that fills up fast on game days—the kind where you arrive early if you want a seat with a view of any of the many screens. The wings come seasoned properly, crispy outside and tender inside, and the beer list leans into the local and approachable. It's unapologetically a gathering spot: conversations overlap, someone's always cheering or groaning at the TV, and the energy shifts between a casual lunch crowd and a genuinely packed evening.\n\nTap 22 sits in Silvis, just far enough from Downtown to feel like its own thing—a neighborhood bar with legitimate staying power (the 2,400+ reviews say people keep coming back). It's the place you go when you want to watch the game with company, grab reliable bar food, and not worry about being too loud. It belongs in our guides because it's real, it's busy, and it knows exactly what it is.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "2444",
+        "yelp": "3.6",
+        "yelp_count": "143"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12106292580386544339",
+        "yelp": "https://www.yelp.com/biz/tap-22-grill-and-bar-silvis",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\tap_22_grill_bar_photo_1.jpg",
+        "all": [
+          "entity_photos\\tap_22_grill_bar_photo_1.jpg",
+          "entity_photos\\tap_22_grill_bar_photo_2.jpg",
+          "entity_photos\\tap_22_grill_bar_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -3210,6 +4056,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_docs_inn",
+      "type": "business",
+      "name": "The Docs Inn",
+      "slug": "the-docs-inn",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "985 Avenue Of The Cities",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "(309) 281-1008",
+      "website": "http://thedocsinn.net/",
+      "hours": "Monday: 2:00 PM – 12:00 AM | Tuesday: 2:00 PM – 12:00 AM | Wednesday: 2:00 PM – 12:00 AM | Thursday: 2:00 PM – 12:00 AM | Friday: 11:00 AM – 3:00 AM | Saturday: 11:00 AM – 3:00 AM | Sunday: 11:00 AM – 12:00 AM",
+      "lat": "41.4866476",
+      "lng": "-90.41635910000001",
+      "description": "A Silvis dive where the drinks are cheap and the crowd is real.\n\nThe Docs Inn has the kind of worn-in charm that can't be faked—sticky floors, a jukebox that actually works, and a bartender who remembers your order. Weekends pull a mix of locals nursing cheap beers and groups looking for a place where nobody's checking their phone. The back room gets loud with pool games and darts; the front is quieter, better for actually talking.\n\nThe Docs Inn sits in Silvis, a neighborhood that gets overlooked in favor of the District and downtown, but holds its own community of regulars and longtime gathering spots. It's the kind of place that shows up again and again on our curated guides—not because it's polished, but because it's honest and it works.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "571",
+        "yelp": "3.3",
+        "yelp_count": "47"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13720775823727095103",
+        "yelp": "https://www.yelp.com/biz/the-docs-inn-silvis-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_docs_inn_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_docs_inn_photo_1.jpg",
+          "entity_photos\\the_docs_inn_photo_2.jpg",
+          "entity_photos\\the_docs_inn_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_filling_station",
+      "type": "business",
+      "name": "The Filling Station",
+      "slug": "the-filling-station",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "305 East 35th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 391-6954",
+      "website": "https://www.fillingstationdavenport.com/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.5545005",
+      "lng": "-90.5705637",
+      "description": "A gas station–themed bar where the beer flows and the burgers don't disappoint.\n\nThe Filling Station leans into its concept without winking—you'll find yourself in a converted garage space with the kind of unpretentious energy that makes a Friday night feel right. The menu sticks to what it does well: solid pub fare with enough variety to keep regulars coming back, and a draft list that rewards showing up more than once. It's the kind of place where you can sink into a booth with friends, order without overthinking it, and actually have a good time.\n\nThe Filling Station sits in Davenport proper, in a neighborhood with real character and walkable stretches worth exploring. It's become a reliable anchor in the QC's nightlife scene—the sort of place that shows up repeatedly in conversations about where to meet, where to unwind on a weekend, and where the crowd feels genuinely local rather than manufactured. Once you've been, you'll understand why it keeps pulling people back.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "2338",
+        "yelp": "3.4",
+        "yelp_count": "138"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11467493903917296404",
+        "yelp": "https://www.yelp.com/biz/the-filling-station-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_filling_station_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_filling_station_photo_1.jpg",
+          "entity_photos\\the_filling_station_photo_2.jpg",
+          "entity_photos\\the_filling_station_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_green_thumbers",
       "type": "business",
       "name": "The Green Thumbers",
@@ -3351,6 +4291,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_phoenix_restaurant_martini_bar",
+      "type": "business",
+      "name": "The Phoenix Restaurant & Martini Bar",
+      "slug": "the-phoenix-restaurant-martini-bar",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "111 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 323-2345",
+      "website": "http://www.thephoenixofdavenport.com/",
+      "hours": "Monday: 4:00 – 11:00 PM | Tuesday: 4:00 – 11:00 PM | Wednesday: 4:00 – 11:00 PM | Thursday: 4:00 – 11:00 PM | Friday: 3:00 PM – 12:00 AM | Saturday: 3:00 PM – 12:00 AM | Sunday: Closed",
+      "lat": "41.5211814",
+      "lng": "-90.57468569999999",
+      "description": "Upscale cocktails and live piano in a multilevel downtown spot that feels like an occasion.\n\nThe Phoenix earns its name—a downtown anchor that's survived and thrived by doing the fancier things well. The martini list is taken seriously (order one and taste the difference), and when the pianist starts up in the evenings, the room fills with the kind of ambient energy that makes a Friday night feel intentional. The menu swings from classic to eclectic, the kind of place where you can trust the kitchen.\n\nThe Phoenix sits in Downtown Davenport, right in the heart of the QC's most walkable stretch. It's the rare restaurant-bar hybrid that works as both a date-night destination and a standing-reservation spot for locals who know when to show up. Once you've spent an evening there, you'll understand why it keeps showing up on our guide—it's one of the things downtown does best.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "570",
+        "yelp": "3.6",
+        "yelp_count": "122"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16626830060914325628",
+        "yelp": "https://www.yelp.com/biz/the-phoenix-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_phoenix_restaurant_martini_bar_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_phoenix_restaurant_martini_bar_photo_1.jpg",
+          "entity_photos\\the_phoenix_restaurant_martini_bar_photo_2.jpg",
+          "entity_photos\\the_phoenix_restaurant_martini_bar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "tpc_deere_run",
       "type": "business",
       "name": "TPC Deere Run",
@@ -3438,6 +4425,100 @@
           "entity_photos\\trattoria_tiramisu_photo_1.jpg",
           "entity_photos\\trattoria_tiramisu_photo_2.jpg",
           "entity_photos\\trattoria_tiramisu_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "treehouse_pub_eatery",
+      "type": "business",
+      "name": "Treehouse Pub & Eatery",
+      "slug": "treehouse-pub-eatery",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2239 Kimberly Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 355-1255",
+      "website": "https://treehouseqc.com/",
+      "hours": "Monday: 11:00 AM – 2:00 AM | Tuesday: 11:00 AM – 2:00 AM | Wednesday: 11:00 AM – 2:00 AM | Thursday: 11:00 AM – 2:00 AM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 2:00 AM",
+      "lat": "41.546471",
+      "lng": "-90.521866",
+      "description": "Craft beer and wood-fired pizza in a sprawling Bettendorf space that feels like home.\n\nTreehouse sprawls across reclaimed wood and open air—the kind of place where you can disappear into a corner booth or claim a spot on the deck and watch the evening unfold. The pizza arrives properly charred, the beer list leans local and thoughtful, and the kitchen treats American comfort food like it actually matters. Weekends pack the place, but there's enough room that you never feel squeezed.\n\nTreehouse sits in Bettendorf, the QC's most polished suburb, positioned perfectly for a Friday night out that doesn't require a river crossing. It's the rare spot that works equally well for a casual dinner, a long beer-fueled evening with friends, or a place to land after catching something nearby. Once you've been, you'll keep coming back.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "2436",
+        "yelp": "3.4",
+        "yelp_count": "286"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2727254687256246319",
+        "yelp": "https://www.yelp.com/biz/treehouse-pub-and-eatery-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\treehouse_pub_eatery_photo_1.jpg",
+        "all": [
+          "entity_photos\\treehouse_pub_eatery_photo_1.jpg",
+          "entity_photos\\treehouse_pub_eatery_photo_2.jpg",
+          "entity_photos\\treehouse_pub_eatery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "up_skybar_lounge",
+      "type": "business",
+      "name": "UP Skybar & Lounge",
+      "slug": "up-skybar-lounge",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "215 North Main Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 231-9555",
+      "website": "http://www.thecurrentiowa.com/eat-drink",
+      "hours": "Monday: 4:00 PM – 12:00 AM | Tuesday: 4:00 PM – 12:00 AM | Wednesday: 4:00 PM – 12:00 AM | Thursday: 4:00 PM – 12:00 AM | Friday: 4:00 PM – 2:00 AM | Saturday: 2:00 PM – 2:00 AM | Sunday: Closed",
+      "lat": "41.5217813",
+      "lng": "-90.57533339999999",
+      "description": "Rooftop views and craft cocktails in the heart of downtown Davenport.\n\nUP Skybar sits several stories above the street, and that elevation matters — you're looking out over the Mississippi, the skyline, the whole QC spread below you. The cocktails are the draw: built with care, not shortcuts, and the bartenders know their riffs on the classics. Weekend nights pack in a mix of locals and visitors, all of them angled toward those windows and the view that justifies the climb.\n\nUP Skybar is downtown Davenport's best-kept vantage point, the kind of place that reminds you the river city has always had its eyes on the horizon. It anchors the evening scene — close to the District, walkable from the riverfront, and the rare spot where you can nurse a drink and actually see what you're celebrating. Once you find it, you'll keep coming back, especially on nights when the light is good and the whole river glows.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "460",
+        "yelp": "3.4",
+        "yelp_count": "68"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7154612486168735479",
+        "yelp": "https://www.yelp.com/biz/up-skybar-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\up_skybar_lounge_photo_1.jpg",
+        "all": [
+          "entity_photos\\up_skybar_lounge_photo_1.jpg",
+          "entity_photos\\up_skybar_lounge_photo_2.jpg",
+          "entity_photos\\up_skybar_lounge_photo_3.jpg"
         ]
       },
       "guides": [],
