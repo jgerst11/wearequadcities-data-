@@ -1,7 +1,101 @@
 {
-  "generated": "2026-06-04T09:08:19.447558",
-  "total": 36,
+  "generated": "2026-06-04T10:09:25.878187",
+  "total": 76,
   "entities": [
+    {
+      "id": "392caffe",
+      "type": "business",
+      "name": "392Caffe",
+      "slug": "392caffe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "502 West 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 275-6292",
+      "website": "http://392caffe.com/",
+      "hours": "Monday: 6:30 AM – 3:00 PM | Tuesday: 6:30 AM – 3:00 PM | Wednesday: 6:30 AM – 3:00 PM | Thursday: 6:30 AM – 3:00 PM | Friday: 6:30 AM – 3:00 PM | Saturday: 7:00 AM – 3:00 PM | Sunday: 8:00 AM – 3:00 PM",
+      "lat": "41.5226153",
+      "lng": "-90.5802058",
+      "description": "Italian café culture transplanted to downtown Davenport's corner row.\n\n392Caffe feels like you've stepped into a Roman neighborhood spot—all espresso-stained counters, Italian pastries in the case, and a rhythm that rewards regulars. The morning crowd is serious about their coffee; the lunch crew comes for panini and sandwiches that taste like someone actually knows what they're doing. The hours are honest (closing at 3 PM most days), which means you're eating breakfast or lunch here, not scrolling on your laptop at 4 PM.\n\nSitting on Downtown Davenport's main stretch, 392Caffe anchors the neighborhood's slow shift toward places that care about craft and execution. The 4.7-star rating across 700+ reviews isn't accident—it's the kind of consistent, word-of-mouth success that tells you locals have figured out what the rest of us are just discovering. Once you've had a proper espresso here, it changes your mornings.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "704",
+        "yelp": "4.5",
+        "yelp_count": "135"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15640625261483712905",
+        "yelp": "https://www.yelp.com/biz/392-caffe-davenport-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\392caffe_photo_1.jpg",
+        "all": [
+          "entity_photos\\392caffe_photo_1.jpg",
+          "entity_photos\\392caffe_photo_2.jpg",
+          "entity_photos\\392caffe_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "7_brew_coffee",
+      "type": "business",
+      "name": "7 Brew Coffee",
+      "slug": "7-brew-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3469 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(479) 358-9274",
+      "website": "https://locations.7brew.com/ia/bettendorf/3469-middle-road",
+      "hours": "Monday: 5:30 AM – 10:00 PM | Tuesday: 5:30 AM – 10:00 PM | Wednesday: 5:30 AM – 10:00 PM | Thursday: 5:30 AM – 10:00 PM | Friday: 5:30 AM – 11:00 PM | Saturday: 5:30 AM – 11:00 PM | Sunday: 5:30 AM – 10:00 PM",
+      "lat": "41.5510187",
+      "lng": "-90.4840079",
+      "description": "Quick specialty coffee and cold brew that opens before dawn.\n\n7 Brew opens at 5:30 AM on weekdays — early enough to catch you before your commute or your run. The ordering is fast and the drinks are built with care: cold brew that's smooth and balanced, espresso drinks that don't taste rushed. It's the kind of place where you're in and out in five minutes, but the coffee tastes like someone actually paid attention.\n\nTucked on Middle Road in Bettendorf, 7 Brew fits the rhythm of the east side — convenient, reliable, and open late enough (11 PM on weekends) to swing by after dinner or work. It's a chain, yes, but it's one that's earned its loyal following across the Quad Cities, and for good reason: consistency matters when you're grabbing your fourth coffee of the week.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "127",
+        "yelp": "4.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17911854795949688584",
+        "yelp": "https://www.yelp.com/biz/7-brew-coffee-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\7_brew_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\7_brew_coffee_photo_1.jpg",
+          "entity_photos\\7_brew_coffee_photo_2.jpg",
+          "entity_photos\\7_brew_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
     {
       "id": "adler_theatre",
       "type": "place",
@@ -45,6 +139,194 @@
           "entity_photos\\adler_theatre_photo_3.jpg",
           "entity_photos\\adler_theatre_photo_4.jpg",
           "entity_photos\\adler_theatre_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "aroma_coffee_cafe",
+      "type": "business",
+      "name": "Aroma Coffee & Cafe",
+      "slug": "aroma-coffee-cafe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3030 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 322-1774",
+      "website": "https://thegreenthumbers.com/Aroma-Coffee-Tea-Expresso-Davenport-Iowa-Green-Thumbers",
+      "hours": "Monday: 7:00 AM – 7:00 PM | Tuesday: 7:00 AM – 7:00 PM | Wednesday: 7:00 AM – 7:00 PM | Thursday: 7:00 AM – 7:00 PM | Friday: 7:00 AM – 7:00 PM | Saturday: 7:00 AM – 5:00 PM | Sunday: 9:00 AM – 5:00 PM",
+      "lat": "41.5521273",
+      "lng": "-90.5699791",
+      "description": "Davenport spot where coffee quality and genuine hospitality actually match.\n\nAroma feels like the kind of place that's been doing the same thing well for long enough that they've stopped needing to prove anything. The espresso is solid, the pastries rotate with care, and the people behind the counter remember your order. Mornings fill with the expected regulars and the occasional newcomer drawn in by word-of-mouth; afternoons slow into a quieter rhythm where you can actually think.\n\nAroma sits in Davenport proper, anchoring a corner of the city that rewards the kind of wandering that leads to real discoveries. It's the sort of reliable, unpretentious spot that locals return to week after week — not because it's Instagram-worthy, but because consistency and kindness still matter. Once you've found it, you'll understand why it keeps showing up in conversations about where to actually spend your morning in the QC.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "200",
+        "yelp": "4.5",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5405494295311375745",
+        "yelp": "https://www.yelp.com/biz/aroma-coffee-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\aroma_coffee_cafe_photo_1.jpg",
+        "all": [
+          "entity_photos\\aroma_coffee_cafe_photo_1.jpg",
+          "entity_photos\\aroma_coffee_cafe_photo_2.jpg",
+          "entity_photos\\aroma_coffee_cafe_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "atomic_coffee_bar",
+      "type": "business",
+      "name": "Atomic Coffee Bar",
+      "slug": "atomic-coffee-bar",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4707 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "",
+      "website": "http://www.atomiccoffeebar.shop/",
+      "hours": "Monday: 5:00 AM – 8:00 PM | Tuesday: 5:00 AM – 8:00 PM | Wednesday: 5:00 AM – 8:00 PM | Thursday: 5:00 AM – 8:00 PM | Friday: 5:00 AM – 8:00 PM | Saturday: 6:00 AM – 8:00 PM | Sunday: 6:00 AM – 8:00 PM",
+      "lat": "41.5693004",
+      "lng": "-90.56790869999999",
+      "description": "A tiny counter pulling dialed espresso shots before most of Davenport wakes up.\n\nAtomic opens at 5 a.m. on weekdays — earlier than almost anywhere else in the QC — and the regulars know it. The space is small enough that you're watching the barista work, and they're watching you decide between a cortado and a flat white. There's a hum of purpose here: people grabbing their shot before the commute, remote workers settling in with a pour-over, the kind of quiet focus you only find in places that take coffee seriously.\n\nAtomic sits in Davenport's District, steps from the riverfront and the cluster of bars and restaurants that define the neighborhood's evening character. It's the rare QC spot that anchors both the early-morning crowd and the afternoon laptop brigade, which is why it keeps showing up on our guides — places that feel essential to how locals actually move through their days.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "873",
+        "yelp": "3.7",
+        "yelp_count": "80"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2253666957378642180",
+        "yelp": "https://www.yelp.com/biz/atomic-coffee-bar-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\atomic_coffee_bar_photo_1.jpg",
+        "all": [
+          "entity_photos\\atomic_coffee_bar_photo_1.jpg",
+          "entity_photos\\atomic_coffee_bar_photo_2.jpg",
+          "entity_photos\\atomic_coffee_bar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "aunt_beas_cafe",
+      "type": "business",
+      "name": "Aunt Bea's Cafe",
+      "slug": "aunt-beas-cafe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2429 9th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 793-0905",
+      "website": "",
+      "hours": "Monday: 8:00 AM – 7:00 PM | Tuesday: 8:00 AM – 7:00 PM | Wednesday: 8:00 AM – 3:00 PM | Thursday: 8:00 AM – 7:00 PM | Friday: 8:00 AM – 7:00 PM | Saturday: 8:00 AM – 7:00 PM | Sunday: Closed",
+      "lat": "41.486131",
+      "lng": "-90.58617020000001",
+      "description": "Home cooking that tastes like someone actually cares about lunch.\n\nAunt Bea's keeps the kind of hours that suggest this isn't a concept — it's a neighborhood fixture. The menu reads like a conversation with someone's grandmother: sandwiches built on real bread, soups that change with what's available, the kind of sides that make you realize most places skip the small details. The 4.6-star consistency across 230+ reviews isn't accident; it's what happens when a place stays focused on doing one thing — feeding people well — and doesn't get distracted.\n\nAunt Bea's anchors Rock Island's quieter corner, the kind of spot locals already know and visitors stumble onto with genuine luck. It's close enough to the riverfront and island attractions to slide naturally into a day exploring, but far enough removed that it feels like a real discovery rather than another tourist stop. Once you've been, you'll understand why it keeps showing up in the routines of people who live here.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "232",
+        "yelp": "4.6",
+        "yelp_count": "24"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1258258177645407433",
+        "yelp": "https://www.yelp.com/biz/aunt-beas-cafe-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\aunt_beas_cafe_photo_1.jpg",
+        "all": [
+          "entity_photos\\aunt_beas_cafe_photo_1.jpg",
+          "entity_photos\\aunt_beas_cafe_photo_2.jpg",
+          "entity_photos\\aunt_beas_cafe_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "awake_coffee_company",
+      "type": "business",
+      "name": "Awake Coffee Company",
+      "slug": "awake-coffee-company",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4320 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "",
+      "website": "https://www.facebook.com/share/9G5mHodCZum2xgxL/?mibextid=WC7FNe",
+      "hours": "Monday: 6:00 AM – 6:00 PM | Tuesday: 6:00 AM – 6:00 PM | Wednesday: 6:00 AM – 6:00 PM | Thursday: 6:00 AM – 6:00 PM | Friday: 6:00 AM – 6:00 PM | Saturday: 6:00 AM – 6:00 PM | Sunday: 6:00 AM – 6:00 PM",
+      "lat": "41.5648754",
+      "lng": "-90.56845080000001",
+      "description": "Early-opening Davenport spot keeping the neighborhood caffeinated since dawn.\n\nAwake opens at 6 AM every day, which means you can count on it before most of the QC is awake. The space has that lived-in feel of a place that's become a reliable anchor for the morning crowd—regulars know their order, the staff knows their faces. It's straightforward coffee done right, the kind of spot where consistency matters more than flash.\n\nAwake sits in Davenport's working rhythm, the kind of neighborhood coffee shop that serves the people who actually live nearby rather than chasing Instagram moments. It's the place you return to because it's there, it's open, and it gets the job done—exactly the kind of local fixture we look for when building our guides to the real QC.",
+      "rating": {
+        "google": "4",
+        "google_count": "53",
+        "yelp": "2.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8198857059566114",
+        "yelp": "https://www.yelp.com/biz/awake-coffee-company-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\awake_coffee_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\awake_coffee_company_photo_1.jpg",
+          "entity_photos\\awake_coffee_company_photo_2.jpg",
+          "entity_photos\\awake_coffee_company_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -242,6 +524,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "bent_river_brewing_company",
+      "type": "business",
+      "name": "Bent River Brewing Company",
+      "slug": "bent-river-brewing-company",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "512 24th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 283-4811",
+      "website": "http://bentriverbrewing.com/",
+      "hours": "Monday: Closed | Tuesday: 3:00 – 9:00 PM | Wednesday: 3:00 – 9:00 PM | Thursday: 3:00 – 9:00 PM | Friday: 3:00 – 10:00 PM | Saturday: 3:00 – 10:00 PM | Sunday: 12:00 – 9:00 PM",
+      "lat": "41.5074583",
+      "lng": "-90.5669795",
+      "description": "Local brewery where Rock Island gathers for honest beer and live music.\n\nBent River's tasting room has the feel of a place that grew from genuine craft rather than a business plan — concrete floors, modest lighting, and a bar built for conversation. The beers are clean and approachable, the kind you can taste through, and on weekends when live music spills into the space, it becomes the neighborhood's living room. Come early on a Saturday, grab a stool, and you'll likely find the people who actually built this place pouring your beer.\n\nBent River sits in Rock Island, a neighborhood that's quietly becoming the QC's brewing anchor — walkable, unpretentious, and serious about beer without the performance. It's the kind of local spot that rewards repeat visits; once you've found your way there on a Friday night, you'll keep coming back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "139",
+        "yelp": "4.1",
+        "yelp_count": "30"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6756215992457145417",
+        "yelp": "https://www.yelp.com/biz/bent-river-brewing-company-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bent_river_brewing_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\bent_river_brewing_company_photo_1.jpg",
+          "entity_photos\\bent_river_brewing_company_photo_2.jpg",
+          "entity_photos\\bent_river_brewing_company_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "bierstube_moline",
       "type": "business",
       "name": "Bierstube Moline",
@@ -282,6 +611,100 @@
           "entity_photos\\bierstube_moline_photo_1.jpg",
           "entity_photos\\bierstube_moline_photo_2.jpg",
           "entity_photos\\bierstube_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "brews_energy",
+      "type": "business",
+      "name": "Brews Energy",
+      "slug": "brews-energy",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2324 5th Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 429-5753",
+      "website": "http://brewsenergy.com/",
+      "hours": "Monday: 5:30 AM – 6:30 PM | Tuesday: 5:30 AM – 6:30 PM | Wednesday: 5:30 AM – 6:30 PM | Thursday: 5:30 AM – 6:30 PM | Friday: 5:30 AM – 6:30 PM | Saturday: 7:00 AM – 6:30 PM | Sunday: 7:00 AM – 6:30 PM",
+      "lat": "41.5077287",
+      "lng": "-90.56675980000001",
+      "description": "Serious smoothie bowls and cold brew for the early-morning crowd.\n\nBrews Energy opens at 5:30 on weekdays—earlier than most of the QC—and it shows: the counter moves with purpose, regulars know their order by heart, and the acai bowls arrive with granola still crackling. The cold brew is consistently smooth, the kind you can drink black without wincing. It's a no-nonsense spot where people fuel up before their day actually starts.\n\nBrews Energy sits in Rock Island, a neighborhood that's quietly becoming a destination for people looking past the usual downtown strips. The early hours and focused menu make it the kind of place that builds a loyal following fast—exactly the type of local favorite we keep coming back to for our guides.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "57",
+        "yelp": "4.5",
+        "yelp_count": "14"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7484088447419216205",
+        "yelp": "https://www.yelp.com/biz/kick-serve-coffee-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\brews_energy_photo_1.jpg",
+        "all": [
+          "entity_photos\\brews_energy_photo_1.jpg",
+          "entity_photos\\brews_energy_photo_2.jpg",
+          "entity_photos\\brews_energy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "brueggers_bagels",
+      "type": "business",
+      "name": "Bruegger's Bagels",
+      "slug": "brueggers-bagels",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1503 Kimberly Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 359-4540",
+      "website": "https://locations.brueggers.com/us/ia/bettendorf/1503-kimberly-road?y_source=1_OTczMjEwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "hours": "Monday: 5:00 AM – 2:00 PM | Tuesday: 5:00 AM – 2:00 PM | Wednesday: 5:00 AM – 2:00 PM | Thursday: 5:00 AM – 2:00 PM | Friday: 5:00 AM – 2:00 PM | Saturday: 5:00 AM – 2:00 PM | Sunday: 5:00 AM – 2:00 PM",
+      "lat": "41.5381631",
+      "lng": "-90.52184249999999",
+      "description": "New York bagels boiled fresh, ready before sunrise in Bettendorf.\n\nBruegger's opens at 5 a.m. — earlier than most of the QC is awake — which means you can catch the bagels still warm from the oven. The formula is straightforward: boil, bake, build a sandwich. The Everything bagel holds up under cream cheese and lox; the breakfast sandwiches (egg, cheese, meat) are uncomplicated and honest. It's the kind of place where regulars know the order by heart, and the line moves fast even when it's crowded.\n\nLocated on Kimberly Road in Bettendorf, Bruegger's sits in the rhythm of the east side's morning commute — easy to grab before work or school. It's a reliable breakfast stop that does one thing well, the kind of consistent anchor that makes a neighborhood feel cared for. Once you've found your bagel order here, you'll keep coming back.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "412",
+        "yelp": "3.6",
+        "yelp_count": "65"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5597565707135614096",
+        "yelp": "https://www.yelp.com/biz/brueggers-bagels-bettendorf-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\brueggers_bagels_photo_1.jpg",
+        "all": [
+          "entity_photos\\brueggers_bagels_photo_1.jpg",
+          "entity_photos\\brueggers_bagels_photo_2.jpg",
+          "entity_photos\\brueggers_bagels_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -336,46 +759,328 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "culvers",
+      "id": "coffee_house_cafe_and_goods",
       "type": "business",
-      "name": "Culver’s",
-      "slug": "culvers",
+      "name": "Coffee House Cafe and Goods",
+      "slug": "coffee-house-cafe-and-goods",
       "category": "Restaurants",
       "subcategory": "",
       "tags": [
         "restaurants"
       ],
       "attributes": [],
-      "address": "608 22nd Avenue",
-      "city": "Silvis",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61282",
-      "phone": "(309) 281-1410",
-      "website": "http://www.culvers.com/restaurants/silvis-il-22nd-ave/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
-      "hours": "Monday: 10:00 AM – 10:00 PM | Tuesday: 10:00 AM – 10:00 PM | Wednesday: 10:00 AM – 10:00 PM | Thursday: 10:00 AM – 10:00 PM | Friday: 10:00 AM – 10:00 PM | Saturday: 10:00 AM – 10:00 PM | Sunday: 10:00 AM – 10:00 PM",
-      "lat": "41.4879675",
-      "lng": "-90.42020509999999",
-      "description": "Frozen custard and butter burgers—the Midwest comfort food standard.\n\nCulver's does the Midwestern basics right: fresh beef burgers that arrive hot and properly built, and frozen custard that's actually frozen custard—richer and denser than soft-serve, rotating flavors that give you a reason to come back. The Silvis location has the reliable fast-casual rhythm you'd expect, with a drive-thru line that moves and a dining room where families and groups settle in for a meal that tastes like it means something.\n\nCulver's sits in Silvis, just east of the river—easy reach from Moline and Rock Island. It's one of those places that anchors its neighborhood without pretense: uncomplicated, consistent, and honest about what it is. The Quad Cities has real connections to Midwest food culture, and Culver's represents that plainly and well.",
+      "address": "1315 Jersey Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 484-9808",
+      "website": "https://thecoffeehouseqc.com/",
+      "hours": "Monday: 7:00 AM – 8:00 PM | Tuesday: 7:00 AM – 4:00 PM | Wednesday: 7:00 AM – 4:00 PM | Thursday: 7:00 AM – 4:00 PM | Friday: 7:00 AM – 4:00 PM | Saturday: 7:00 AM – 4:00 PM | Sunday: 7:00 AM – 4:00 PM",
+      "lat": "41.5336044",
+      "lng": "-90.5426411",
+      "description": "Neighborhood coffee shop where the regulars know your order by heart.\n\nCoffee House Cafe and Goods feels like the kind of place that's been quietly doing right by East Davenport for years — the kind where Monday mornings stretch into evening hours (they're open until 8 PM) and the weekend crowd knows to come early. There's a lived-in comfort here: good coffee, a modest goods section that actually makes sense, and the unhurried feeling of a spot that isn't trying to be anywhere else. It's the rare local café that earns a 4.7 rating across hundreds of reviews without any of the polished pretense.\n\nCoffee House Cafe and Goods sits in the Village of East Davenport, a quieter, more residential corner of the city that rewards exploring. This is the kind of neighborhood anchor that shows up in our guides because it's genuine — built for the people who actually live nearby, not for Instagram. Once you've found it, you'll understand why it keeps showing up in conversation among locals who care about where they spend their mornings.",
       "rating": {
-        "google": "4.3",
-        "google_count": "742",
-        "yelp": "4.2",
-        "yelp_count": "6"
+        "google": "4.7",
+        "google_count": "227",
+        "yelp": "4.8",
+        "yelp_count": "16"
       },
       "social": {
-        "google": "https://maps.google.com/?cid=2295859343179232382",
-        "yelp": "https://www.yelp.com/biz/culvers-washington-2",
+        "google": "https://maps.google.com/?cid=17662326788146703462",
+        "yelp": "https://www.yelp.com/biz/coffee-house-cafe-and-goods-davenport-3",
         "facebook": "",
         "instagram": "",
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "entity_photos\\culvers_photo_1.jpg",
+        "primary": "entity_photos\\coffee_house_cafe_and_goods_photo_1.jpg",
         "all": [
-          "entity_photos\\culvers_photo_1.jpg",
-          "entity_photos\\culvers_photo_2.jpg",
-          "entity_photos\\culvers_photo_3.jpg"
+          "entity_photos\\coffee_house_cafe_and_goods_photo_1.jpg",
+          "entity_photos\\coffee_house_cafe_and_goods_photo_2.jpg",
+          "entity_photos\\coffee_house_cafe_and_goods_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "country_style",
+      "type": "business",
+      "name": "Country Style",
+      "slug": "country-style",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2140 16th Street",
+      "city": "Moline",
+      "neighborhood": "Willard / Wharton",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-6248",
+      "website": "https://countrystyleicecream.com/",
+      "hours": "Monday: 11:00 AM – 9:30 PM | Tuesday: 11:00 AM – 9:30 PM | Wednesday: 11:00 AM – 9:30 PM | Thursday: 11:00 AM – 9:30 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:30 PM",
+      "lat": "41.4898807",
+      "lng": "-90.51343469999999",
+      "description": "A nostalgic ice cream counter where the malts are thick and the lines move fast.\n\nCountry Style is the kind of place that hasn't changed much in decades, and that's entirely the point. The soft serve swirl is reliable, the sundaes arrive stacked generous, and the malts—made thick enough to actually require effort on the straw—taste like they did when your parents were kids. It's fluorescent-lit and unpretentious, the sort of spot where families pile in after baseball games and teenagers claim the corner booths on Friday nights.\n\nTucked into the Willard/Wharton stretch of Moline, Country Style sits on a stretch of road that feels distinctly separate from the riverfront buzz—but that's exactly what makes it valuable to know about. It's a reminder that the best QC experiences aren't always polished or Instagram-ready; sometimes they're just honest, consistent, and exactly what you need on a warm afternoon. Once you've been, you'll understand why three-hundred-plus people have left reviews.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "315",
+        "yelp": "3.7",
+        "yelp_count": "24"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16871938213596047341",
+        "yelp": "https://www.yelp.com/biz/country-style-ice-cream-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\country_style_photo_1.jpg",
+        "all": [
+          "entity_photos\\country_style_photo_1.jpg",
+          "entity_photos\\country_style_photo_2.jpg",
+          "entity_photos\\country_style_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "country_style_ice_cream_coffee",
+      "type": "business",
+      "name": "Country Style Ice Cream & Coffee",
+      "slug": "country-style-ice-cream-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1640 West 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 388-2061",
+      "website": "http://www.countrystyleicecream.com/",
+      "hours": "Monday: 11:00 AM – 9:30 PM | Tuesday: 11:00 AM – 9:30 PM | Wednesday: 11:00 AM – 9:30 PM | Thursday: 11:00 AM – 9:30 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:30 PM",
+      "lat": "41.5750425",
+      "lng": "-90.59830889999999",
+      "description": "A Davenport institution scooping thick malts and soft-serve since before you were born.\n\nCountry Style feels like it's been here forever—because it has. The counter is worn smooth from decades of orders, the flavors rotate with real seasons, and a malt here is properly thick, the kind that requires actual effort on the straw. On warm evenings families pile in with kids, couples squeeze into booths, and you'll hear the same regulars ordering the same thing they've ordered for years.\n\nCountry Style anchors a particular kind of Davenport evening—the kind where you end up downtown without a big plan and find yourself standing in line for ice cream anyway. It's the rare chain location that actually feels local, the sort of place that shows up in family photo albums across three generations. Once you've been, you understand why the Google ratings stay high: some places just deserve to stick around.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "311",
+        "yelp": "3.9",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14397320141662982117",
+        "yelp": "https://www.yelp.com/biz/country-style-ice-cream-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\country_style_ice_cream_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\country_style_ice_cream_coffee_photo_1.jpg",
+          "entity_photos\\country_style_ice_cream_coffee_photo_2.jpg",
+          "entity_photos\\country_style_ice_cream_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "creative_signature_cuisine",
+      "type": "business",
+      "name": "Creative Signature Cuisine",
+      "slug": "creative-signature-cuisine",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "213 12th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 865-2591",
+      "website": "",
+      "hours": "Monday: Closed | Tuesday: 8:00 AM – 8:30 PM | Wednesday: 8:00 AM – 8:30 PM | Thursday: 8:00 AM – 8:30 PM | Friday: 8:00 AM – 8:30 PM | Saturday: 8:00 AM – 8:30 PM | Sunday: 8:00 AM – 2:00 PM",
+      "lat": "41.5162881",
+      "lng": "-90.4570183",
+      "description": "Creative takes on comfort food, drawn fresh daily in East Moline.\n\nCreative Signature Cuisine doesn't play it safe—the menu shifts with what's in season and what the kitchen feels like executing well that week. The ratings speak for themselves (4.8 stars isn't noise), and the regulars come back because they trust the chef to surprise them. It's the kind of place where you ask your server what's good today, and they actually have a real answer.\n\nCreative Signature Cuisine sits in East Moline, just outside the river towns but worth the short drive if you're serious about eating well. The limited hours (closed Mondays, early close on Sundays) hint at a kitchen that's not trying to be everything to everyone—they're selective about when and how they cook. Once you've had a meal here, you'll understand why it keeps showing up on our radar.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "239",
+        "yelp": "4.6",
+        "yelp_count": "16"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3694493715772131150",
+        "yelp": "https://www.yelp.com/biz/creative-signature-cuisine-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\creative_signature_cuisine_photo_1.jpg",
+        "all": [
+          "entity_photos\\creative_signature_cuisine_photo_1.jpg",
+          "entity_photos\\creative_signature_cuisine_photo_2.jpg",
+          "entity_photos\\creative_signature_cuisine_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "dead_poets_espresso_ltd",
+      "type": "business",
+      "name": "Dead Poet’s Espresso Ltd",
+      "slug": "dead-poets-espresso-ltd",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1525 3rd Avenue A",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 736-7606",
+      "website": "http://www.deadpoetsespresso.com/",
+      "hours": "Monday: 7:00 AM – 4:00 PM | Tuesday: 7:00 AM – 4:00 PM | Wednesday: 7:00 AM – 4:00 PM | Thursday: 7:00 AM – 4:00 PM | Friday: 7:00 AM – 4:00 PM | Saturday: 7:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.5080177",
+      "lng": "-90.5164034",
+      "description": "Literary vibes and serious espresso in the heart of Moline.\n\nDead Poet's feels like the kind of place built by people who actually care — the kind where your barista remembers how you take it, and the espresso tastes like someone dialed it in that morning, not last week. The space has that worn-in charm of a neighborhood spot that's earned its regulars: mismatched furniture, walls that have clearly hosted local art, the hum of a real community rather than foot traffic. You'll see the same faces most mornings, the same dog waiting outside, the same quiet intensity of people getting their work done.\n\nDead Poet's sits on Moline's quieter streets — a short hop from the river and the energy of downtown, but with its own distinct rhythm. It's become one of those places that locals actually guard a little, the kind that shows up on every \"best of\" list not because of Instagram appeal, but because the coffee is genuinely good and the atmosphere rewards you for showing up more than once.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "364",
+        "yelp": "4.9",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14121593113863658286",
+        "yelp": "https://www.yelp.com/biz/the-atlas-collective-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\dead_poets_espresso_ltd_photo_1.jpg",
+        "all": [
+          "entity_photos\\dead_poets_espresso_ltd_photo_1.jpg",
+          "entity_photos\\dead_poets_espresso_ltd_photo_2.jpg",
+          "entity_photos\\dead_poets_espresso_ltd_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "donut_delite",
+      "type": "business",
+      "name": "Donut Delite",
+      "slug": "donut-delite",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3606 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-9144",
+      "website": "http://www.donutd.com/",
+      "hours": "Monday: 5:00 AM – 3:00 PM | Tuesday: 5:00 AM – 3:00 PM | Wednesday: 5:00 AM – 2:00 PM | Thursday: 5:00 AM – 3:00 PM | Friday: 5:00 AM – 3:00 PM | Saturday: 5:00 AM – 1:00 PM | Sunday: 6:00 AM – 1:00 PM",
+      "lat": "41.4905895",
+      "lng": "-90.4838884",
+      "description": "Old-school donuts made fresh before dawn, gone by lunch.\n\nDonut Delite opens at 5 a.m. for a reason — they're frying and glazing in real time, and by mid-morning the cases are picked over by people who know. The rhythm here is tight and purposeful: you order at the counter, watch them box your dozen, and you're out. It's the kind of place where regulars have standing orders and the staff knows what you want before you say it.\n\nTucked into Moline, Donut Delite is a neighborhood anchor that's been doing one thing well for long enough that it shows up consistently in locals' weekend routines. It's an easy stop on the way to somewhere else, or a reason to get up early on a Saturday — the kind of genuine, no-frills spot that reminds you why the QC's best places aren't always the newest ones.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "346",
+        "yelp": "4.5",
+        "yelp_count": "28"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10534982517012452369",
+        "yelp": "https://www.yelp.com/biz/donut-delite-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\donut_delite_photo_1.jpg",
+        "all": [
+          "entity_photos\\donut_delite_photo_1.jpg",
+          "entity_photos\\donut_delite_photo_2.jpg",
+          "entity_photos\\donut_delite_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "donuts_more",
+      "type": "business",
+      "name": "Donuts & More",
+      "slug": "donuts-more",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1717 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 322-5111",
+      "website": "http://donutsqc.com/",
+      "hours": "Monday: Closed | Tuesday: 5:30 AM – 1:00 PM | Wednesday: 5:30 AM – 1:00 PM | Thursday: 5:30 AM – 1:00 PM | Friday: 5:30 AM – 1:00 PM | Saturday: 5:30 AM – 1:00 PM | Sunday: 5:30 AM – 1:00 PM",
+      "lat": "41.5372366",
+      "lng": "-90.57371619999999",
+      "description": "Early-morning institution where the donuts are hot and the line moves fast.\n\nDonuts & More opens at 5:30 AM—earlier than most of Davenport is awake—and by 6:15 the counter is slammed with regulars who know exactly what they want. The cases rotate through the day, so you're gambling a little on what's left by mid-morning, but that's part of the charm; come early and you'll catch the glazed still warm enough to leave fingerprints. It's a grab-and-go operation that's been doing the same thing, the same way, for long enough that it feels like an institution.\n\nDonuts & More sits in Davenport proper, the kind of place that catches you before work, before errands, before the day really starts. It's become the sort of spot that shows up in conversations between locals—the one you recommend to friends visiting from out of town, the one you remember when you're craving something uncomplicated and done right. Once you've caught it at the right hour, it earns a permanent place in your rotation.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "326",
+        "yelp": "3.9",
+        "yelp_count": "31"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15520817159659886347",
+        "yelp": "https://www.yelp.com/biz/donuts-and-more-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\donuts_more_photo_1.jpg",
+        "all": [
+          "entity_photos\\donuts_more_photo_1.jpg",
+          "entity_photos\\donuts_more_photo_2.jpg",
+          "entity_photos\\donuts_more_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -423,6 +1128,100 @@
           "entity_photos\\duck_city_bistro_photo_1.jpg",
           "entity_photos\\duck_city_bistro_photo_2.jpg",
           "entity_photos\\duck_city_bistro_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "dunn_brothers_coffee",
+      "type": "business",
+      "name": "Dunn Brothers Coffee",
+      "slug": "dunn-brothers-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4520 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 345-6022",
+      "website": "https://locations.dunnbrothers.com/ia/davenport/4520-e-53rd-st-birchwood-fields-location-220.html",
+      "hours": "Monday: 5:30 AM – 5:00 PM | Tuesday: 5:30 AM – 5:00 PM | Wednesday: 5:30 AM – 5:00 PM | Thursday: 5:30 AM – 5:00 PM | Friday: 5:30 AM – 5:00 PM | Saturday: 6:00 AM – 5:00 PM | Sunday: 6:00 AM – 2:00 PM",
+      "lat": "41.5759599",
+      "lng": "-90.50635439999999",
+      "description": "Sustainable espresso and cold brew from a coffeehouse that shows up early and stays consistent.\n\nDunn Brothers opens at 5:30 on weekdays—earlier than most of Davenport—which means it's already humming when you need it. The beans are sourced with care, and whether you're ordering a pulled shot or a smooth cold brew on a humid summer morning, there's a thoughtfulness to what lands in your cup. The Birchwood Fields location has the relaxed feel of a place that knows its regulars and doesn't need to try too hard.\n\nDunn Brothers sits on the east side of Davenport, a bit removed from the downtown riverfront but exactly where a neighborhood coffeehouse should be—convenient, reliable, built for the people who live nearby. It's the kind of spot that doesn't make headlines but earns its loyal following by doing the fundamentals well, day after day. That consistency is what keeps it on our radar.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "314",
+        "yelp": "4.5",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7489939055893934379",
+        "yelp": "https://www.yelp.com/biz/dunn-brothers-coffee-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\dunn_brothers_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\dunn_brothers_coffee_photo_1.jpg",
+          "entity_photos\\dunn_brothers_coffee_photo_2.jpg",
+          "entity_photos\\dunn_brothers_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "east_moline_coffee_company",
+      "type": "business",
+      "name": "East Moline Coffee Company",
+      "slug": "east-moline-coffee-company",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3537 Archer Drive",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "",
+      "website": "http://eastmolinecoffeecompany.com/",
+      "hours": "Monday: 6:00 AM – 5:00 PM | Tuesday: 6:00 AM – 5:00 PM | Wednesday: 6:00 AM – 5:00 PM | Thursday: 6:00 AM – 5:00 PM | Friday: 6:00 AM – 5:00 PM | Saturday: 7:00 AM – 4:00 PM | Sunday: 7:00 AM – 2:00 PM",
+      "lat": "41.4960668",
+      "lng": "-90.4323235",
+      "description": "A neighborhood spot where East Moline gathers before work and stays for the warmth.\n\nEast Moline Coffee Company has the feel of a place that's earned its 4.7 rating through consistency and genuine care—the kind of coffee shop where regulars have their order memorized and newcomers immediately understand why. The early opens (6 a.m. weekdays) catch the commute crowd, but it's the actual space that keeps people lingering: real conversation happens here, not just caffeine transactions. By mid-morning, it's a mix of locals catching up over breakfast and remote workers who've claimed a table for the long haul.\n\nEast Moline doesn't get as much spotlight as downtown Davenport or the District, but that's partly what makes it worth knowing—it's where the QC actually lives. East Moline Coffee Company sits at the heart of that everyday rhythm, and nearly 400 reviews averaging nearly five stars suggest this is the kind of neighborhood anchor that deserves a visit if you're exploring beyond the tourist corridors.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "395",
+        "yelp": "4.6",
+        "yelp_count": "24"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6757915428974340194",
+        "yelp": "https://www.yelp.com/biz/east-moline-coffee-company-east-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\east_moline_coffee_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\east_moline_coffee_company_photo_1.jpg",
+          "entity_photos\\east_moline_coffee_company_photo_2.jpg",
+          "entity_photos\\east_moline_coffee_company_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -571,6 +1370,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "gravastar_coffee_formerly_coffee_hound",
+      "type": "business",
+      "name": "Gravastar Coffee (Formerly Coffee Hound)",
+      "slug": "gravastar-coffee-formerly-coffee-hound",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3451 Devils Glen Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 449-0030",
+      "website": "https://gravastarcoffee.com/",
+      "hours": "Monday: 6:00 AM – 6:00 PM | Tuesday: 6:00 AM – 6:00 PM | Wednesday: 6:00 AM – 6:00 PM | Thursday: 6:00 AM – 6:00 PM | Friday: 6:00 AM – 6:00 PM | Saturday: 6:30 AM – 6:00 PM | Sunday: 7:00 AM – 6:00 PM",
+      "lat": "41.558135",
+      "lng": "-90.48304999999999",
+      "description": "Specialty coffee and pastries in a Bettendorf spot that feels like a local secret.\n\nGravastar pulls smooth espresso and pours deliberate pour-overs in a space that's grown into a genuine neighborhood anchor since its Coffee Hound days. The pastry case rotates with real care, and there's enough seating to linger — whether you're reading the paper solo or catching up with someone over an oat milk latte. Weekend mornings pack with the kind of regulars who know the barista's name and the usual order.\n\nGravastar sits in Bettendorf, where good coffee spots are worth the short drive from the core neighborhoods. It's become the kind of place locals return to again and again, proof that a genuinely well-made cup and a welcoming room are enough to build something that lasts. Once you've found it, you'll understand why it keeps showing up in our guides.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "390",
+        "yelp": "4.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16339685454944868448",
+        "yelp": "https://www.yelp.com/biz/7-brew-coffee-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\gravastar_coffee_formerly_coffee_hound_photo_1.jpg",
+        "all": [
+          "entity_photos\\gravastar_coffee_formerly_coffee_hound_photo_1.jpg",
+          "entity_photos\\gravastar_coffee_formerly_coffee_hound_photo_2.jpg",
+          "entity_photos\\gravastar_coffee_formerly_coffee_hound_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "great_river_brewery",
       "type": "business",
       "name": "Great River Brewery",
@@ -712,6 +1558,194 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "iconic_coffee_energy",
+      "type": "business",
+      "name": "Iconic Coffee + Energy",
+      "slug": "iconic-coffee-energy",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2777 18th Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 279-2108",
+      "website": "https://www.iconicenergybar.com/",
+      "hours": "Monday: 6:00 AM – 7:00 PM | Tuesday: 6:00 AM – 7:00 PM | Wednesday: 6:00 AM – 7:00 PM | Thursday: 6:00 AM – 7:00 PM | Friday: 6:00 AM – 7:00 PM | Saturday: 6:00 AM – 7:00 PM | Sunday: 6:00 AM – 7:00 PM",
+      "lat": "41.5508073",
+      "lng": "-90.5015131",
+      "description": "Smoothie bowls and cold brew that fuels Bettendorf mornings.\n\nIconic's the kind of place where the line moves fast because everyone knows what they want — acai bowls stacked with granola and fresh fruit, or a cold brew that tastes like they actually know what they're doing with coffee. The space is bright and straightforward, built for people grabbing fuel before work or squeezing in a post-workout refuel. Open early and open late, which means you can get your energy fix whether you're an early riser or an afternoon slump victim.\n\nIconic sits in Bettendorf, the QC's growing east-side hub where things are newer and busier than downtown. It's become a regular stop for the neighborhood crowd — the fitness-minded, the commuters, the people who treat their morning routine seriously. If you're looking for a place that knows how to make a bowl and pulls consistent coffee, this one belongs on your rotation.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "143",
+        "yelp": "4.8",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6184140566620486399",
+        "yelp": "https://www.yelp.com/biz/iconic-energy-bar-bettendorf-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\iconic_coffee_energy_photo_1.jpg",
+        "all": [
+          "entity_photos\\iconic_coffee_energy_photo_1.jpg",
+          "entity_photos\\iconic_coffee_energy_photo_2.jpg",
+          "entity_photos\\iconic_coffee_energy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "iron_grain_coffee_house",
+      "type": "business",
+      "name": "Iron + Grain Coffee House",
+      "slug": "iron-grain-coffee-house",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1618 North Main Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 900-4766",
+      "website": "http://irongraincoffee.com/",
+      "hours": "Monday: 7:00 AM – 4:00 PM | Tuesday: 7:00 AM – 4:00 PM | Wednesday: 7:00 AM – 4:00 PM | Thursday: 7:00 AM – 4:00 PM | Friday: 7:00 AM – 4:00 PM | Saturday: 7:00 AM – 4:00 PM | Sunday: 7:00 AM – 4:00 PM",
+      "lat": "41.5365077",
+      "lng": "-90.5758439",
+      "description": "Davenport's dependable third place, open early and staying late.\n\nIron + Grain keeps Davenport mornings on schedule — the kind of spot where you know the routine before your first visit. The coffee is straightforward and honest, the pastries rotate, and there's enough table space that you're not elbowing strangers to open your laptop. It's built for lingering, whether you've got twenty minutes or an afternoon.\n\nIron + Grain anchors a stretch of Davenport that's quietly become worth the trip — close enough to downtown to feel connected, but with its own neighborhood rhythm. It's the sort of place that shows up in locals' weekly rotations, not because it's flashy, but because it simply works. Once you've found it, you'll be back.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "162",
+        "yelp": "4.2",
+        "yelp_count": "12"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10862355180567790175",
+        "yelp": "https://www.yelp.com/biz/iron-grain-coffee-house-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\iron_grain_coffee_house_photo_1.jpg",
+        "all": [
+          "entity_photos\\iron_grain_coffee_house_photo_1.jpg",
+          "entity_photos\\iron_grain_coffee_house_photo_2.jpg",
+          "entity_photos\\iron_grain_coffee_house_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "jaded_java",
+      "type": "business",
+      "name": "Jaded Java",
+      "slug": "jaded-java",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "615 15th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 281-1614",
+      "website": "",
+      "hours": "Monday: 11:00 AM – 11:00 PM | Tuesday: 10:00 AM – 11:00 PM | Wednesday: 10:00 AM – 11:00 PM | Thursday: 10:00 AM – 11:00 PM | Friday: 9:30 AM – 11:00 PM | Saturday: 10:00 AM – 11:00 PM | Sunday: 10:00 AM – 11:00 PM",
+      "lat": "41.5159119",
+      "lng": "-90.4469505",
+      "description": "Coffee shop and bistro where East Moline comes to linger.\n\nJaded Java pulls off the rare trick of being both a serious coffee stop and a place you actually want to stay for hours. The menu reaches beyond the usual—you're looking at sandwiches and small plates alongside espresso drinks, which means a morning coffee can turn into lunch without moving. The 4.8 rating across both platforms isn't inflated; people keep coming back because the coffee is solid and the food doesn't feel like an afterthought.\n\nJaded Java sits in East Moline, a neighborhood that's quietly developed its own character separate from downtown Davenport's buzz. It's the kind of local spot that thrives on repeat visits and word-of-mouth—the ratings prove it—and belongs on our guides because it's exactly what a good neighborhood coffee shop should be: a place where regulars have their usual order and newcomers immediately understand why.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "139",
+        "yelp": "4.8",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13660619740468711262",
+        "yelp": "https://www.yelp.com/biz/jaded-java-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\jaded_java_photo_1.jpg",
+        "all": [
+          "entity_photos\\jaded_java_photo_1.jpg",
+          "entity_photos\\jaded_java_photo_2.jpg",
+          "entity_photos\\jaded_java_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "java_java_cafe",
+      "type": "business",
+      "name": "Java Java Cafe",
+      "slug": "java-java-cafe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "836 East River Drive",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 323-5874",
+      "website": "http://www.javajavacafeqc.com/",
+      "hours": "Monday: 5:30 AM – 12:00 PM | Tuesday: 5:30 AM – 12:00 PM | Wednesday: 5:30 AM – 12:00 PM | Thursday: 5:30 AM – 12:00 PM | Friday: 5:30 AM – 12:00 PM | Saturday: 7:00 AM – 12:00 PM | Sunday: 8:00 AM – 12:00 PM",
+      "lat": "41.5252695",
+      "lng": "-90.561723",
+      "description": "Early-morning institution where Davenport lines up before dawn.\n\nJava Java opens at 5:30 on weekdays—earlier than most of the city's awake—and regulars have their orders memorized before the register rings. The crowd shifts from night-shift workers to gym-goers to office people grabbing fuel, each wave knowing exactly what they want and why they're there. It's the kind of place where the staff recognizes you by your usual, not your name.\n\nJava Java sits in Davenport proper, far enough from the riverfront to feel like a real neighborhood spot rather than a tourist pass-through. The consistently high ratings across platforms and those punishing early hours suggest something genuinely useful is happening here—the kind of reliable, unglamorous coffee shop that holds a community together before most places are even thinking about opening their doors.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "199",
+        "yelp": "4.7",
+        "yelp_count": "33"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4394465048828152209",
+        "yelp": "https://www.yelp.com/biz/java-java-cafe-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\java_java_cafe_photo_1.jpg",
+        "all": [
+          "entity_photos\\java_java_cafe_photo_1.jpg",
+          "entity_photos\\java_java_cafe_photo_2.jpg",
+          "entity_photos\\java_java_cafe_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "johnnys_italian_steakhouse",
       "type": "business",
       "name": "Johnny's Italian Steakhouse",
@@ -752,6 +1786,147 @@
           "entity_photos\\johnnys_italian_steakhouse_photo_1.jpg",
           "entity_photos\\johnnys_italian_steakhouse_photo_2.jpg",
           "entity_photos\\johnnys_italian_steakhouse_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "julies_video_poker_slots",
+      "type": "business",
+      "name": "Julie's Video Poker & Slots",
+      "slug": "julies-video-poker-slots",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "445 Avenue Of The Cities",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 865-2639",
+      "website": "",
+      "hours": "Monday: 6:00 AM – 3:00 AM | Tuesday: 6:00 AM – 3:00 AM | Wednesday: 6:00 AM – 3:00 AM | Thursday: 6:00 AM – 3:00 AM | Friday: 6:00 AM – 3:00 AM | Saturday: 6:00 AM – 3:00 AM | Sunday: 8:00 AM – 3:00 AM",
+      "lat": "41.4903368",
+      "lng": "-90.4517293",
+      "description": "Julie's Video Poker & Slots is located at 445 Avenue Of The Cities, East Moline. Category: Other. Google rating: 5/5 based on 1 reviews. Hours: Monday: 6:00 AM – 3:00 AM | Tuesday: 6:00 AM – 3:00 AM | Wednesday: 6:00 AM – 3:00 AM | Thursday: 6:00 AM – 3:00 AM | Friday: 6:00 AM – 3:00 AM | Saturday: 6:00 AM – 3:00 AM | Sunday: 8:00 AM – 3:00 AM.",
+      "rating": {
+        "google": "5",
+        "google_count": "1",
+        "yelp": "2.5",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7428758537602302323",
+        "yelp": "https://www.yelp.com/biz/julies-video-poker-and-slots-in-fulton-fulton",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\julies_video_poker_slots_photo_1.jpg",
+        "all": [
+          "entity_photos\\julies_video_poker_slots_photo_1.jpg",
+          "entity_photos\\julies_video_poker_slots_photo_2.jpg",
+          "entity_photos\\julies_video_poker_slots_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "kick_serve_coffee",
+      "type": "business",
+      "name": "Kick Serve Coffee",
+      "slug": "kick-serve-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3637 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-3221",
+      "website": "https://kickservecoffee.com/",
+      "hours": "Monday: 6:00 AM – 7:00 PM | Tuesday: 6:00 AM – 7:00 PM | Wednesday: 6:00 AM – 7:00 PM | Thursday: 6:00 AM – 7:00 PM | Friday: 6:00 AM – 7:00 PM | Saturday: 6:00 AM – 7:00 PM | Sunday: 7:00 AM – 6:00 PM",
+      "lat": "41.491008",
+      "lng": "-90.4828292",
+      "description": "Moline's tennis-themed coffee spot with serious espresso chops.\n\nKick Serve pulls double duty as both a working café and a love letter to tennis — the walls hint at the sport without overwhelming the coffee. The espresso is the real draw: properly extracted, balanced, the kind that regulars come back for day after day. It's open early (6 a.m. on weekdays) and stays late enough to catch the afternoon crowd, with a vibe that feels purposeful rather than rushed.\n\nKick Serve sits in Moline, the QC's often-overlooked west side, where good coffee shops are worth seeking out. It's become the kind of reliable third place that locals depend on — near enough to the river to work into a longer walk, distinctive enough that it sticks with you. Once you've found it, you'll understand why the ratings stay high: this is a café that takes its craft seriously.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "77",
+        "yelp": "4.5",
+        "yelp_count": "14"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5282885170500837691",
+        "yelp": "https://www.yelp.com/biz/kick-serve-coffee-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\kick_serve_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\kick_serve_coffee_photo_1.jpg",
+          "entity_photos\\kick_serve_coffee_photo_2.jpg",
+          "entity_photos\\kick_serve_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "kitchens",
+      "type": "business",
+      "name": "Kitchens",
+      "slug": "kitchens",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "320 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 388-6182",
+      "website": "http://mykitchensshop.com/",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.5629392",
+      "lng": "-90.5748176",
+      "description": "A cooking shop where locals actually gather to learn and eat.\n\nKitchens operates as part retail, part classroom, part gathering spot — the kind of place where you can pick up a good knife on Tuesday and sign up for a pasta-making class on Friday. The space has that lived-in feel of a shop run by people who care about the craft, with shelves stocked thoughtfully rather than exhaustively. There's real food happening here, not just merchandise; regulars drift in knowing they'll find both what they need and people worth talking to.\n\nKitchens sits in Davenport, anchoring a neighborhood that rewards curiosity. It's the type of local business that thrives because it refuses to be just one thing — a shop, a school, a lunch spot — and that multiplicity is exactly what makes the QC interesting. Once you've been, you'll find reasons to come back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "152",
+        "yelp": "4.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2471066604038873726",
+        "yelp": "https://www.yelp.com/biz/kitchens-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\kitchens_photo_1.jpg",
+        "all": [
+          "entity_photos\\kitchens_photo_1.jpg",
+          "entity_photos\\kitchens_photo_2.jpg",
+          "entity_photos\\kitchens_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -902,6 +2077,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "lifted_energy",
+      "type": "business",
+      "name": "Lifted Energy",
+      "slug": "lifted-energy",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2430 16th Street",
+      "city": "Moline",
+      "neighborhood": "Greater Tartan Oaks",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 592-7929",
+      "website": "https://www.facebook.com/LiftedEnergy?mibextid=LQQJ4d",
+      "hours": "Monday: 7:00 AM – 4:00 PM | Tuesday: 7:00 AM – 4:00 PM | Wednesday: 7:00 AM – 4:00 PM | Thursday: 7:00 AM – 4:00 PM | Friday: 7:00 AM – 4:00 PM | Saturday: 9:00 AM – 2:00 PM | Sunday: 9:00 AM – 2:00 PM",
+      "lat": "41.4876859",
+      "lng": "-90.5133371",
+      "description": "Bright breakfast spot in Moline fueling the early morning crowd.\n\nLifted Energy opens early on weekdays — 7 a.m. sharp — and the regulars know it. The vibe is straightforward and unpretentious: people stop in before work for coffee and something quick, grab a seat if they're staying, or take their order to go. It's the kind of place that feels like it knows what it's doing, with a solid 4.7 rating built on consistency rather than flash.\n\nLifted Energy sits in Greater Tartan Oaks, a residential pocket of Moline that's easy to overlook if you're sticking to the riverfront corridor. But that's exactly why it matters — it's the neighborhood spot, the place locals actually go. Worth the short drive if you're looking for genuine community character and a morning routine that doesn't involve crossing the whole metro.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "43",
+        "yelp": "4.0",
+        "yelp_count": "19"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17027442780172661718",
+        "yelp": "https://www.yelp.com/biz/j-l-brady-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lifted_energy_photo_1.jpg",
+        "all": [
+          "entity_photos\\lifted_energy_photo_1.jpg",
+          "entity_photos\\lifted_energy_photo_2.jpg",
+          "entity_photos\\lifted_energy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "los_agaves_mexican_grill",
       "type": "business",
       "name": "Los Agaves Mexican Grill",
@@ -996,6 +2218,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "main_street_coffee",
+      "type": "business",
+      "name": "Main Street Coffee",
+      "slug": "main-street-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1927 North Main Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "",
+      "website": "https://mainstreetcoffee.godaddysites.com/",
+      "hours": "Monday: 7:00 AM – 2:00 PM | Tuesday: 7:00 AM – 2:00 PM | Wednesday: 7:00 AM – 2:00 PM | Thursday: 7:00 AM – 2:00 PM | Friday: 7:00 AM – 2:00 PM | Saturday: 8:00 AM – 2:00 PM | Sunday: 8:00 AM – 2:00 PM",
+      "lat": "41.539019",
+      "lng": "-90.5751507",
+      "description": "Davenport's morning anchor—coffee, pastries, and genuine regulars.\n\nMain Street Coffee opens early and closes by 2 p.m., which means it's built for the morning crowd: the before-work rush, the retired couples, the people who've claimed their favorite seat for years. The 4.9 rating isn't casual—it's the kind of score you earn by getting the fundamentals right every single day. Weekday mornings are tight and focused; weekends are when you can actually linger over a second cup without feeling the push behind you.\n\nMain Street Coffee sits in Downtown Davenport, anchoring the morning rhythm of one of the QC's most walkable neighborhoods. It's the kind of small, consistent place that locals trust—no flash, no trends, just good coffee and a room full of people who know exactly why they're there. Once you find your spot here, you'll keep coming back.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "173",
+        "yelp": "4.4",
+        "yelp_count": "12"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3622417856740011200",
+        "yelp": "https://www.yelp.com/biz/main-street-coffee-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\main_street_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\main_street_coffee_photo_1.jpg",
+          "entity_photos\\main_street_coffee_photo_2.jpg",
+          "entity_photos\\main_street_coffee_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "makenna_koffee_company",
+      "type": "business",
+      "name": "Makenna Koffee Company",
+      "slug": "makenna-koffee-company",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3801 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 526-8937",
+      "website": "",
+      "hours": "Monday: 6:30 AM – 8:00 PM | Tuesday: 6:30 AM – 8:00 PM | Wednesday: 6:30 AM – 8:00 PM | Thursday: 6:30 AM – 8:00 PM | Friday: 6:30 AM – 8:00 PM | Saturday: 6:30 AM – 8:00 PM | Sunday: 6:30 AM – 8:00 PM",
+      "lat": "41.5586548",
+      "lng": "-90.5680589",
+      "description": "Specialty coffee and all-day breakfast in a room built for lingering.\n\nMakenna's the kind of place where the barista knows what you ordered last week, and the breakfast menu—eggs, pastries, sandwiches—gives you real reasons to stay past your first cup. The space feels unhurried, with enough natural light and comfortable corners that you'll find people working on laptops at 10 AM and still there at noon, just refueling. The coffee itself is treated seriously: they're pulling shots with care and steaming milk like it matters.\n\nMakenna Koffee Company sits in Davenport, where it's become a reliable anchor for both the early-morning crowd and the mid-morning crowd that trickles in after errands. It's the kind of neighborhood spot—open seven days, long hours, consistently good—that deserves a place in your regular rotation, and once you find it, you'll understand why the ratings reflect what locals already know.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "143",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4311787477257535733",
+        "yelp": "https://www.yelp.com/biz/makenna-koffee-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\makenna_koffee_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\makenna_koffee_company_photo_1.jpg",
+          "entity_photos\\makenna_koffee_company_photo_2.jpg",
+          "entity_photos\\makenna_koffee_company_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mantra_indian_cuisine_spirits",
       "type": "business",
       "name": "Mantra Indian Cuisine & Spirits",
@@ -1036,6 +2352,53 @@
           "entity_photos\\mantra_indian_cuisine_spirits_photo_1.jpg",
           "entity_photos\\mantra_indian_cuisine_spirits_photo_2.jpg",
           "entity_photos\\mantra_indian_cuisine_spirits_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "milltown_coffee",
+      "type": "business",
+      "name": "Milltown Coffee",
+      "slug": "milltown-coffee",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3800 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-6444",
+      "website": "https://milltowncoffeeco.com/locations/moline/",
+      "hours": "Monday: 6:00 AM – 5:00 PM | Tuesday: 6:00 AM – 5:00 PM | Wednesday: 6:00 AM – 5:00 PM | Thursday: 6:00 AM – 5:00 PM | Friday: 6:00 AM – 5:00 PM | Saturday: 6:00 AM – 3:00 PM | Sunday: 7:00 AM – 3:00 PM",
+      "lat": "41.5145875",
+      "lng": "-90.4834185",
+      "description": "Moline's reliable third place, serious about coffee and built for staying.\n\nMilltown pulls consistent shots and pours thoughtful drinks in a space that feels purposefully calm—the kind of room where regulars have their usual orders memorized and newcomers immediately understand why. The early hours (6 a.m. on weekdays) make it a natural stop for the pre-work crowd, but the real draw is the unhurried atmosphere; this is where Moline comes to linger, not rush. Whether it's the coffee itself or just the weight of 699 good reviews, something here works.\n\nMilltown Coffee sits in Moline, a neighborhood that's quietly becoming the Quad Cities' most thoughtful coffee destination. It's the kind of reliable, well-executed spot that doesn't need fanfare to fill its tables—just consistent quality and a room built for real hours, not just transactions. Once you've found it, you'll keep coming back.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "699",
+        "yelp": "4.3",
+        "yelp_count": "162"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6639649158220569487",
+        "yelp": "https://www.yelp.com/biz/milltown-coffee-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\milltown_coffee_photo_1.jpg",
+        "all": [
+          "entity_photos\\milltown_coffee_photo_1.jpg",
+          "entity_photos\\milltown_coffee_photo_2.jpg",
+          "entity_photos\\milltown_coffee_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1189,6 +2552,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "redband_coffee_co",
+      "type": "business",
+      "name": "Redband Coffee Co.",
+      "slug": "redband-coffee-co",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "329 East 4th Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 484-0098",
+      "website": "http://www.redbandcoffee.com/",
+      "hours": "Monday: 6:30 AM – 2:00 PM | Tuesday: 6:30 AM – 2:00 PM | Wednesday: 6:30 AM – 2:00 PM | Thursday: 6:30 AM – 2:00 PM | Friday: 6:30 AM – 2:00 PM | Saturday: 6:30 AM – 2:00 PM | Sunday: 6:30 AM – 2:00 PM",
+      "lat": "41.5232891",
+      "lng": "-90.56999619999999",
+      "description": "Light-roast pour-overs and a bright corner room built for getting things done.\n\nRedband roasts careful and bright, and the downtown room — big windows, good light, real tables — is where the QC's freelancers and early risers cluster. Order the pour-over, take the seat by the window, and watch downtown Davenport wake up. They're open early every day of the week, which means you can count on them whether you need a Monday morning reset or a Saturday ritual.\n\nRedband Coffee Co. sits in Downtown Davenport, one of the QC's most characterful pockets — a short walk or drive from the riverfront and easy to fold into a longer morning or evening. It's the kind of place that shows up again and again on our curated guides, and once you've been, you'll see why.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "725",
+        "yelp": "4.5",
+        "yelp_count": "249"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6946362367512345561",
+        "yelp": "https://www.yelp.com/biz/redband-coffee-company-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\redband_coffee_co_photo_1.jpg",
+        "all": [
+          "entity_photos\\redband_coffee_co_photo_1.jpg",
+          "entity_photos\\redband_coffee_co_photo_2.jpg",
+          "entity_photos\\redband_coffee_co_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities",
+      "type": "business",
+      "name": "Revive Cafe - serving local, organic, healthy, vegan and gluten free options in the Quad Cities",
+      "slug": "revive-cafe-serving-local-organic-healthy-vegan-and-gluten-free-options-in-the-quad-cities",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4360 Kennedy Drive",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 207-3271",
+      "website": "http://www.reviveandrenewtherapies.com/",
+      "hours": "Monday: 8:30 AM – 6:00 PM | Tuesday: 8:30 AM – 6:00 PM | Wednesday: 8:30 AM – 6:00 PM | Thursday: 8:30 AM – 6:00 PM | Friday: 8:30 AM – 3:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.4871262",
+      "lng": "-90.45558059999999",
+      "description": "Clean bowls and fresh juice in East Moline, built for people who actually care what they eat.\n\nRevive keeps it simple—organic vegetables, thoughtful proteins, nothing you can't pronounce. The menu reads like it was written by someone who listens to what their regulars need: vegan options that taste like food, not obligation; gluten-free choices that don't feel like an afterthought. Grab a cold-pressed juice and a grain bowl, find a seat, and you'll understand why the ratings are consistently high—this place doesn't cut corners.\n\nRevive sits in East Moline, a bit removed from the River Road bustle but worth the short drive if you're serious about what goes into your body. It's the kind of restaurant that shows up in our guides because it's genuinely good at what it does, and the people behind it clearly care about their community. Once you've been, you'll find yourself coming back.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "160",
+        "yelp": "4.5",
+        "yelp_count": "11"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4799184600455873937",
+        "yelp": "https://www.yelp.com/biz/revive-cafe-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_1.jpg",
+          "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_2.jpg",
+          "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "river_house_bar_grill",
       "type": "business",
       "name": "River House Bar & Grill",
@@ -1276,6 +2733,53 @@
           "entity_photos\\riverside_grille_photo_1.jpg",
           "entity_photos\\riverside_grille_photo_2.jpg",
           "entity_photos\\riverside_grille_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "rozz_tox",
+      "type": "business",
+      "name": "ROZZ-TOX",
+      "slug": "rozz-tox",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2108 3rd Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "",
+      "website": "http://www.rozztox.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 5:00 – 11:00 PM | Thursday: 5:00 – 11:00 PM | Friday: 5:00 PM – 12:00 AM | Saturday: 10:00 AM – 12:00 AM | Sunday: 10:00 AM – 3:00 PM",
+      "lat": "41.5096993",
+      "lng": "-90.5699272",
+      "description": "A rock-and-roll dive bar slinging inventive cocktails and late-night food.\n\nRozz-Tox wears its name like a badge—dimly lit, unapologetically loud, and full of the kind of people who show up on Wednesday nights because they want to, not because they have to. The cocktail menu reads like a punk rock setlist, with clever names and real technique behind each pour. Kitchen stays open late on weekends, which means 11 p.m. appetizers and the kind of Saturday crowd that rolls between here and the rest of Rock Island's growing nightlife.\n\nRozz-Tox sits on Rock Island's main drag, in a neighborhood that's quietly built its own identity separate from the bigger Quad Cities pull. It's exactly the kind of place that gets packed on weekends because locals have claimed it—the sort of spot worth a short drive or walk if you're looking for a night out that doesn't feel manufactured. Once you've been, you'll understand why the ratings stay strong and why regulars fiercely defend their corner.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "356",
+        "yelp": "4.6",
+        "yelp_count": "37"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6078707438151195733",
+        "yelp": "https://www.yelp.com/biz/rozz-tox-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\rozz_tox_photo_1.jpg",
+        "all": [
+          "entity_photos\\rozz_tox_photo_1.jpg",
+          "entity_photos\\rozz_tox_photo_2.jpg",
+          "entity_photos\\rozz_tox_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1424,6 +2928,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "sweet_delite_ice_cream",
+      "type": "business",
+      "name": "Sweet Delite Ice Cream",
+      "slug": "sweet-delite-ice-cream",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1901 West 4th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 323-1949",
+      "website": "http://www.sweetdeliteicecream.com/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.523186",
+      "lng": "-90.6054298",
+      "description": "Scoops that taste homemade, lines that prove it every night.\n\nSweet Delite does ice cream the way it should be—creamy, not icy, with flavors that actually taste like their ingredients. The shop draws a steady stream of families and couples year-round, which tells you the quality is real; people don't keep coming back for mediocre ice cream. Grab a cone and watch the steady parade of regulars who've been ordering the same flavor since high school.\n\nSweet Delite sits in Davenport proper, where it's become the kind of dessert destination that doesn't need much buzz to stay busy—just consistent, good work. It's the type of place that belongs on a slower evening, after dinner or on a warm weekend afternoon, and it's the reason why we keep it in regular rotation. Once you've had a scoop here, you'll understand why the ratings stick around 4.7 stars.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "484",
+        "yelp": "4.5",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10385905281890818193",
+        "yelp": "https://www.yelp.com/biz/sweet-delite-ice-cream-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\sweet_delite_ice_cream_photo_1.jpg",
+        "all": [
+          "entity_photos\\sweet_delite_ice_cream_photo_1.jpg",
+          "entity_photos\\sweet_delite_ice_cream_photo_2.jpg",
+          "entity_photos\\sweet_delite_ice_cream_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "tls_java_joint_drive_thru",
+      "type": "business",
+      "name": "T&L's Java Joint Drive-Thru",
+      "slug": "tls-java-joint-drive-thru",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2730 West Locust Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 551-2683",
+      "website": "http://www.facebook.com/TheJavaJointDriveThru/",
+      "hours": "Monday: 6:00 AM – 6:30 PM | Tuesday: 6:00 AM – 6:30 PM | Wednesday: 6:00 AM – 6:30 PM | Thursday: 6:00 AM – 6:30 PM | Friday: 6:00 AM – 6:30 PM | Saturday: 8:00 AM – 6:30 PM | Sunday: 8:00 AM – 2:00 PM",
+      "lat": "41.5383942",
+      "lng": "-90.6177694",
+      "description": "Drive-thru coffee and breakfast done right, no getting out required.\n\nT&L's Java Joint moves fast without cutting corners — your order lands in your hands warm and correct, whether it's a solid cup of coffee or a breakfast sandwich that doesn't feel like an afterthought. The line moves steady from 6 a.m. onward, and regulars know exactly what they want; there's a rhythm to it. It's the kind of place where the people working the window actually remember your name by the third visit.\n\nT&L's sits in Davenport and operates on a schedule built for working people — open early weekdays, closes early Sundays. It shows up again and again on our guides because it does one thing well and doesn't pretend to be anything else. If you're looking for a quick, reliable breakfast stop before the day takes over, this is where the QC goes.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "248",
+        "yelp": "4.0",
+        "yelp_count": "48"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6869289035213043913",
+        "yelp": "https://www.yelp.com/biz/the-coffee-revolution-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\tls_java_joint_drive_thru_photo_1.jpg",
+        "all": [
+          "entity_photos\\tls_java_joint_drive_thru_photo_1.jpg",
+          "entity_photos\\tls_java_joint_drive_thru_photo_2.jpg",
+          "entity_photos\\tls_java_joint_drive_thru_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "taqueria_la_rosa_de_michoacan",
       "type": "business",
       "name": "Taqueria La Rosa de Michoacan",
@@ -1518,6 +3116,147 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_atlas_collective",
+      "type": "business",
+      "name": "The Atlas Collective",
+      "slug": "the-atlas-collective",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1801 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 907-8163",
+      "website": "http://www.atlascollectiveqc.com/",
+      "hours": "Monday: Closed | Tuesday: 7:00 AM – 5:00 PM | Wednesday: 7:00 AM – 5:00 PM | Thursday: 7:00 AM – 5:00 PM | Friday: 7:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: 10:00 AM – 2:00 PM",
+      "lat": "41.5078118",
+      "lng": "-90.5122724",
+      "description": "Moline's ambitious all-day spot where breakfast stretches into lunch without apology.\n\nThe Atlas Collective does the kind of cooking that makes you linger longer than you planned — think wood-fired elements, careful sourcing, and a menu that reads like someone actually thought about what people want to eat at 10 a.m. versus 2 p.m. The space has that intentional, lived-in feel of a place run by people who care about the details: good light, the kind of service that doesn't hover, and a counter worth sitting at if you're alone. Mornings draw the early risers; by noon it's the crowd that knows a good lunch won't rush them out.\n\nThe Atlas Collective sits in Moline, a neighborhood that's quietly becoming the QC's most interesting eating ground. It's the kind of restaurant that shows up again and again on our curated guides — not because it's trendy, but because it's genuinely good and the sort of place you'll find yourself recommending to out-of-towners. Once you've been, you'll understand why the ratings stay north of 4.9.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "147",
+        "yelp": "4.9",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3283142115279089310",
+        "yelp": "https://www.yelp.com/biz/the-atlas-collective-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_atlas_collective_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_atlas_collective_photo_1.jpg",
+          "entity_photos\\the_atlas_collective_photo_2.jpg",
+          "entity_photos\\the_atlas_collective_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_brewed_book_coffee_shop_used_book_store",
+      "type": "business",
+      "name": "The Brewed Book - Coffee Shop & Used Book Store",
+      "slug": "the-brewed-book-coffee-shop-used-book-store",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1524 North Harrison Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 232-6642",
+      "website": "https://thebrewedbook.com/",
+      "hours": "Monday: 7:00 AM – 5:00 PM | Tuesday: 7:00 AM – 5:00 PM | Wednesday: 7:00 AM – 5:00 PM | Thursday: 7:00 AM – 8:00 PM | Friday: 7:00 AM – 8:00 PM | Saturday: 7:00 AM – 7:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.5358853",
+      "lng": "-90.5774241",
+      "description": "Coffee and used books in one cluttered, comfortable corner.\n\nThe Brewed Book feels like someone's living room — the kind where the shelves are full, the coffee is hot, and nobody minds if you stay for hours. You'll find yourself browsing spines while your espresso cools, pulling down a paperback you didn't know you needed, then circling back to the counter for a refill. It's the rare spot where both the coffee and the books are worth your time, not just one subsidizing the other.\n\nThe Brewed Book sits in Davenport, where it's become exactly the kind of third place the QC needs — somewhere between a café and a library, easy to pass an afternoon. With ratings consistently near 4.8, it's proven itself with the people who matter most: the regulars who know its rhythms and keep coming back. It's the kind of place that shows up again and again on our curated guides, and once you've been, you'll see why.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "384",
+        "yelp": "4.7",
+        "yelp_count": "21"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15622412219807284668",
+        "yelp": "https://www.yelp.com/biz/the-brewed-book-coffee-shop-and-used-book-store-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_1.jpg",
+          "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_2.jpg",
+          "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_green_thumbers",
+      "type": "business",
+      "name": "The Green Thumbers",
+      "slug": "the-green-thumbers",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3030 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 322-1771",
+      "website": "https://thegreenthumbers.com/",
+      "hours": "Monday: 8:00 AM – 7:00 PM | Tuesday: 8:00 AM – 7:00 PM | Wednesday: 8:00 AM – 7:00 PM | Thursday: 8:00 AM – 7:00 PM | Friday: 8:00 AM – 7:00 PM | Saturday: 8:00 AM – 5:00 PM | Sunday: 9:00 AM – 5:00 PM",
+      "lat": "41.5515932",
+      "lng": "-90.57049889999999",
+      "description": "Farm-to-table spot where vegetables are the main event, not the side.\n\nThe Green Thumbers takes its produce seriously — the menu shifts with what's actually in season, and it shows. You'll find yourself ordering things you didn't know you wanted: charred brassicas with anchovy, heirloom tomato toast, vegetable-forward plates that convince you meat isn't necessary. The space is bright and unfussy, the kind of place where you can linger over lunch or grab something quick on your way home from work.\n\nRooted in Davenport, The Green Thumbers fits into the growing cluster of restaurants that understand the QC is ready for something more thoughtful. It's the kind of spot that rewards regulars — come back enough and you'll find yourself in conversation with the staff about what's coming into season. Whether you're looking for a serious meal or just a really good sandwich, it's worth the stop.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "354",
+        "yelp": "3.5",
+        "yelp_count": "22"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3552696941366747174",
+        "yelp": "https://www.yelp.com/biz/the-green-thumbers-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_green_thumbers_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_green_thumbers_photo_1.jpg",
+          "entity_photos\\the_green_thumbers_photo_2.jpg",
+          "entity_photos\\the_green_thumbers_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_grinders_spaghetti_house_moline",
       "type": "business",
       "name": "The Grinder's & Spaghetti House - Moline",
@@ -1558,6 +3297,53 @@
           "entity_photos\\the_grinders_spaghetti_house_moline_photo_1.jpg",
           "entity_photos\\the_grinders_spaghetti_house_moline_photo_2.jpg",
           "entity_photos\\the_grinders_spaghetti_house_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_java_lab_grind_dine_cafe",
+      "type": "business",
+      "name": "The Java Lab Grind & Dine Cafe",
+      "slug": "the-java-lab-grind-dine-cafe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3210 41st Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 524-2490",
+      "website": "",
+      "hours": "Monday: 9:00 AM – 7:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 4:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.4812728",
+      "lng": "-90.47816139999999",
+      "description": "Coffee and sandwiches in Moline that actually make you want to linger.\n\nThe Java Lab feels like the kind of place built by someone who gets it — good coffee paired with real food, and enough counter seating to watch the day happen. The sandwiches come thoughtfully built, the kind where you can tell someone cares about the ratio of filling to bread. Weekday mornings draw the regulars who know the drill; afternoons shift quieter, which is when you notice the light coming through and realize you've been here longer than you planned.\n\nThe Java Lab sits in Moline, across the river from the main downtown corridor but far enough in that it serves its neighborhood first — the kind of spot that builds its reputation one regular at a time. It's the place worth crossing the bridge for when you want coffee and lunch that both deserve your attention, and exactly the kind of small, run-well café that anchors our guides.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "75",
+        "yelp": "4.1",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13318464824064335692",
+        "yelp": "https://www.yelp.com/biz/java-lab-grind-and-dine-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_java_lab_grind_dine_cafe_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_java_lab_grind_dine_cafe_photo_1.jpg",
+          "entity_photos\\the_java_lab_grind_dine_cafe_photo_2.jpg",
+          "entity_photos\\the_java_lab_grind_dine_cafe_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1659,6 +3445,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "vibrant_coffeehouse_kitchen",
+      "type": "business",
+      "name": "Vibrant Coffeehouse + Kitchen",
+      "slug": "vibrant-coffeehouse-kitchen",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "6600 44th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 207-3576",
+      "website": "https://www.vibrantcoffeehouseandkitchen.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3702609765220598400",
+      "hours": "Monday: 7:00 AM – 6:00 PM | Tuesday: 7:00 AM – 6:00 PM | Wednesday: 7:00 AM – 6:00 PM | Thursday: 7:00 AM – 6:00 PM | Friday: 7:00 AM – 5:00 PM | Saturday: 7:00 AM – 5:00 PM | Sunday: 8:00 AM – 5:00 PM",
+      "lat": "41.4688311",
+      "lng": "-90.45053159999999",
+      "description": "Moline's bright-corner spot for coffee, breakfast, and a real seat at the counter.\n\nVibrant lives up to its name — the space is clean-lined and welcoming, the kind of place where you can actually hear your friend across the table. The coffee is straightforward and reliable, the pastries are fresh, and the kitchen does breakfast right: eggs cooked the way you order them, toast that doesn't apologize. Regulars camp out with laptops in the morning; by mid-morning families drift in for weekend breakfast.\n\nVibrant sits in Moline, just across the river from the District and within easy reach of the Rock Island waterfront. It's become the kind of steady, unpretentious neighborhood spot that makes a QC community feel like home — the place you return to because the coffee's good, the people behind the counter remember you, and there's always a table when you need one.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "185",
+        "yelp": "3.5",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4095234696745992799",
+        "yelp": "https://www.yelp.com/biz/vibrant-coffeehouse-kitchen-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\vibrant_coffeehouse_kitchen_photo_1.jpg",
+        "all": [
+          "entity_photos\\vibrant_coffeehouse_kitchen_photo_1.jpg",
+          "entity_photos\\vibrant_coffeehouse_kitchen_photo_2.jpg",
+          "entity_photos\\vibrant_coffeehouse_kitchen_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "village_inn",
       "type": "business",
       "name": "Village Inn",
@@ -1699,6 +3532,53 @@
           "entity_photos\\village_inn_photo_1.jpg",
           "entity_photos\\village_inn_photo_2.jpg",
           "entity_photos\\village_inn_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "wholly_grinds_coffee_shop",
+      "type": "business",
+      "name": "WHOLLY GRINDS Coffee Shop",
+      "slug": "wholly-grinds-coffee-shop",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2409 11th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "",
+      "website": "https://www.whollygrinds.com/",
+      "hours": "Monday: 7:00 AM – 2:00 PM | Tuesday: 7:00 AM – 2:00 PM | Wednesday: 7:00 AM – 2:00 PM | Thursday: 7:00 AM – 2:00 PM | Friday: 7:00 AM – 2:00 PM | Saturday: 7:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.4867044",
+      "lng": "-90.5823695",
+      "description": "Morning-focused coffee shop where the regulars outnumber the tourists.\n\nWholly Grinds opens early and closes by 2 p.m., a rhythm that signals serious coffee people running the show. The menu skews simple — good espresso drinks, pastries, maybe a sandwich — but the real draw is consistency: the same barista remembering your order, the same hum of conversation between the same faces. It's the kind of place that doesn't need to be fancy because it's already earned trust.\n\nWholly Grinds sits in Rock Island, a neighborhood that rewards the kind of attention this coffee shop demands. Its limited hours mean it's built for intentional visits, not drop-ins, and the 4.8 rating across 111 reviews suggests people have made the trip enough times to know it's worth it. This is a place that belongs in our guides because it refuses to be anything but exactly what it is.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "111",
+        "yelp": "5.0",
+        "yelp_count": "14"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6255907311428777694",
+        "yelp": "https://www.yelp.com/biz/wholly-grinds-coffee-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\wholly_grinds_coffee_shop_photo_1.jpg",
+        "all": [
+          "entity_photos\\wholly_grinds_coffee_shop_photo_1.jpg",
+          "entity_photos\\wholly_grinds_coffee_shop_photo_2.jpg",
+          "entity_photos\\wholly_grinds_coffee_shop_photo_3.jpg"
         ]
       },
       "guides": [],
