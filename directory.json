@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T14:53:59.705675",
-  "total": 192,
+  "generated": "2026-06-04T15:23:29.872228",
+  "total": 198,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -6144,6 +6144,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "quad_cities_river_bandits",
+      "type": "business",
+      "name": "Quad Cities River Bandits",
+      "slug": "quad-cities-river-bandits",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "209 Gaines Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 324-3000",
+      "website": "https://www.milb.com/quad-cities",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.51900320000001",
+      "lng": "-90.58266429999999",
+      "description": "Minor league baseball where the Mississippi River is part of the view.\n\nModern Woodmen Park sits right on the water, and summer nights here feel like the QC at its most relaxed — families spread across the bleachers, the smell of ballpark food mixing with river breeze, and if you're in the right seat, you can actually see the water beyond the outfield. The River Bandits play the game at a pace that lets you talk, eat, and actually watch without feeling rushed. There's a cornfield in center field (yes, really), a Sky Deck if you want to float above the crowd, and enough going on for kids that parents can actually enjoy an inning or two in peace.\n\nThe River Bandits are downtown Davenport's seasonal heartbeat — the kind of place that anchors summer weekends and brings the neighborhood alive from May through September. It's a short walk or drive from the riverfront, and a night at Modern Woodmen Park is one of those QC experiences that feels both small-town and genuinely good, the kind of evening you'll find yourself planning again next year.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "694",
+        "yelp": "3.8",
+        "yelp_count": "12"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15730870647094802983",
+        "yelp": "https://www.yelp.com/biz/quad-cities-river-bandits-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_cities_river_bandits_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_cities_river_bandits_photo_1.jpg",
+          "entity_photos\\quad_cities_river_bandits_photo_2.jpg",
+          "entity_photos\\quad_cities_river_bandits_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "quad_city_botanical_center",
       "type": "place",
       "name": "Quad City Botanical Center",
@@ -6186,6 +6234,100 @@
           "entity_photos\\quad_city_botanical_center_photo_3.jpg",
           "entity_photos\\quad_city_botanical_center_photo_4.jpg",
           "entity_photos\\quad_city_botanical_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_city_steamwheelers",
+      "type": "business",
+      "name": "Quad City Steamwheelers",
+      "slug": "quad-city-steamwheelers",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "1201 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-2019",
+      "website": "http://steamwheelersfootball.com/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.50807349999999",
+      "lng": "-90.5203116",
+      "description": "Semi-pro football with heart, played right here on the river's edge.\n\nThe Quad City Steamwheelers are proof that football doesn't need a multi-million dollar stadium to matter. This is community sport at its most genuine — players who work day jobs, coaches who've been around the QC forever, fans who actually know the guys on the field. Gameday is unpretentious and loud, the kind of place where a kid can run along the sideline and nobody minds, where the concessions are simple and the conversation is real.\n\nBased in Moline and deeply woven into the QC's sports fabric, the Steamwheelers represent the kind of hyperlocal institution that makes a region feel like home. They're worth a visit if you care about authentic community gathering — the sort of thing you'll remember not for flash or polish, but for the unmistakable feeling of belonging somewhere that matters to the people around you.",
+      "rating": {
+        "google": "5",
+        "google_count": "6",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1019631591113890887",
+        "yelp": "https://www.yelp.com/biz/quad-city-steamwheelers-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_city_steamwheelers_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_steamwheelers_photo_1.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_city_storm",
+      "type": "business",
+      "name": "Quad City Storm",
+      "slug": "quad-city-storm",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "1201 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 277-1364",
+      "website": "http://quadcitystorm.com/",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 4:00 PM | Wednesday: Closed | Thursday: 9:00 AM – 4:00 PM | Friday: Closed | Saturday: Closed | Sunday: Closed",
+      "lat": "41.50807349999999",
+      "lng": "-90.5203116",
+      "description": "Minor league hockey with real heart and neighborhood grit.\n\nThe Storm play in a converted arena that feels intimate in the best way — close enough to the ice that you can hear the crack of sticks and see the sweat. The crowd is die-hard regulars, families who've made this a Tuesday or Thursday night ritual, and kids pressed against the glass. It's honest, unpretentious hockey where the players are hungry and the concessions won't bankrupt you.\n\nQuad City Storm sits in Moline, part of the working backbone of the QC that doesn't always make the curated lists but absolutely should. This is where locals go to feel connected to their community in the most direct way — cheering for neighbors, showing up season after season, building something real. Once you've caught a game here, you understand why the Storm matters to this place.",
+      "rating": {
+        "google": "4.1",
+        "google_count": "20",
+        "yelp": "4.2",
+        "yelp_count": "5"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8639912982549614276",
+        "yelp": "https://www.yelp.com/biz/mainstream-home-improvement-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_city_storm_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_storm_photo_1.jpg",
+          "entity_photos\\quad_city_storm_photo_2.jpg",
+          "entity_photos\\quad_city_storm_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -6900,6 +7042,54 @@
           "entity_photos\\salon_r5_photo_1.jpg",
           "entity_photos\\salon_r5_photo_2.jpg",
           "entity_photos\\salon_r5_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "saukie_golf_course",
+      "type": "business",
+      "name": "Saukie Golf Course",
+      "slug": "saukie-golf-course",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "3101 38th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 732-2278",
+      "website": "https://www.rigov.org/294/Saukie-Golf-Course",
+      "hours": "Monday: 6:00 AM – 8:00 PM | Tuesday: 6:00 AM – 8:00 PM | Wednesday: 6:00 AM – 8:00 PM | Thursday: 6:00 AM – 8:00 PM | Friday: 6:00 AM – 8:00 PM | Saturday: 6:00 AM – 8:00 PM | Sunday: 6:00 AM – 8:00 PM",
+      "lat": "41.4786655",
+      "lng": "-90.5472484",
+      "description": "Municipal course where locals actually play, with views of the Rock River.\n\nSaukie's the kind of place where you'll see the same faces on weekend mornings — regulars who know every slope and where the wind plays tricks. The course sits right there along the Rock River, so you get those occasional glimpses of water between the fairways, and the greens have real character, the kind that reward knowing where to aim. It's public, it's walkable if you want it to be, and the green fees won't wreck your week.\n\nSaukie Golf Course sits in Rock Island, part of the QC's working landscape — a genuine community gathering spot rather than a destination resort course. It's the kind of place that shows up again and again on our curated guides because it's where the Quad Cities actually plays, and once you've walked those fairways, you'll understand why.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "204",
+        "yelp": "4.0",
+        "yelp_count": "6"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4162857318243613928",
+        "yelp": "https://www.yelp.com/biz/saukie-golf-courses-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\saukie_golf_course_photo_1.jpg",
+        "all": [
+          "entity_photos\\saukie_golf_course_photo_1.jpg",
+          "entity_photos\\saukie_golf_course_photo_2.jpg",
+          "entity_photos\\saukie_golf_course_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -8852,6 +9042,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "vibrant_arena_at_the_mark",
+      "type": "business",
+      "name": "Vibrant Arena at The MARK",
+      "slug": "vibrant-arena-at-the-mark",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "1201 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-2001",
+      "website": "https://www.vibrantarena.com/",
+      "hours": "Monday: 10:00 AM – 2:00 PM | Tuesday: 10:00 AM – 2:00 PM | Wednesday: 10:00 AM – 2:00 PM | Thursday: 10:00 AM – 2:00 PM | Friday: 10:00 AM – 2:00 PM | Saturday: 10:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.5076897",
+      "lng": "-90.5203188",
+      "description": "12,000-seat venue showcasing local sports teams, live concerts, musicals & other events.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "3752",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6087360947422685026",
+        "yelp": "https://www.yelp.com/biz/vibrant-arena-at-the-mark-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\vibrant_arena_at_the_mark_photo_1.jpg",
+        "all": [
+          "entity_photos\\vibrant_arena_at_the_mark_photo_1.jpg",
+          "entity_photos\\vibrant_arena_at_the_mark_photo_2.jpg",
+          "entity_photos\\vibrant_arena_at_the_mark_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "vibrant_coffeehouse_kitchen",
       "type": "business",
       "name": "Vibrant Coffeehouse + Kitchen",
@@ -9082,6 +9320,56 @@
           "entity_photos\\west_end_gardens_florist_photo_1.jpg",
           "entity_photos\\west_end_gardens_florist_photo_2.jpg",
           "entity_photos\\west_end_gardens_florist_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "wharton_field_house",
+      "type": "place",
+      "name": "Wharton Field House",
+      "slug": "wharton-field-house",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "sports",
+        "events"
+      ],
+      "attributes": [],
+      "address": "1800 20th Avenue",
+      "city": "Moline",
+      "neighborhood": "Willard / Wharton",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 757-3539",
+      "website": "",
+      "hours": "",
+      "lat": "41.49186539999999",
+      "lng": "-90.51043609999999",
+      "description": "A storied arena where the QC gathers to watch its teams compete.\n\nWharton Field House carries the weight of decades—the kind of venue where you can feel the history in the rafters and the roar of the crowd echoing off concrete walls. Whether it's a high school tournament, college match, or local competition, the energy here is genuine; these are your neighbors' kids playing, your community's teams fighting for wins. The bleachers fill with families, rival school sections split by invisible lines, and the smell of stadium popcorn mixing with the particular gym smell that never quite leaves.\n\nWharton sits in Moline's Willard neighborhood, anchoring the athletic heart of the QC. It's the kind of place that shows up on weekends and weeknights alike, a gathering point that connects you to the area's deep sports culture—easy enough to add to an evening if you're catching a game, or worth the trip on its own if you're invested in watching the QC's young athletes compete.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "213",
+        "yelp": "5.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6460730476305297810",
+        "yelp": "https://www.yelp.com/biz/wharton-field-house-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\wharton_field_house_photo_1.jpg",
+        "all": [
+          "entity_photos\\wharton_field_house_photo_1.jpg",
+          "entity_photos\\wharton_field_house_photo_2.jpg",
+          "entity_photos\\wharton_field_house_photo_3.jpg",
+          "entity_photos\\wharton_field_house_photo_4.jpg",
+          "entity_photos\\wharton_field_house_photo_5.jpg"
         ]
       },
       "guides": [],
