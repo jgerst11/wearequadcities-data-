@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T13:24:01.103023",
-  "total": 155,
+  "generated": "2026-06-04T13:52:59.577390",
+  "total": 160,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -4868,6 +4868,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "northpark_mall",
+      "type": "place",
+      "name": "NorthPark Mall",
+      "slug": "northpark-mall",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "320 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 391-4500",
+      "website": "https://www.north-park-mall-ia.com/?utm_source=google&utm_medium=onlinesearch&utm_content=gmp_website_button&utm_campaign=yext",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.562931",
+      "lng": "-90.57442189999999",
+      "description": "The QC's reliable anchor mall with real stores and a food court that surprises.\n\nNorthPark has the bones of a classic midwest mall — wide corridors, decent natural light, a working fountain — plus a lineup that actually reflects what people shop for. The food court leans beyond the expected chains; grab lunch from one of the local vendors and claim a table while families mill through. Saturday afternoons pull the whole Davenport crowd, but if you slip in on a Tuesday morning, it's calm enough to actually browse without the noise.\n\nAnchored in north Davenport, NorthPark is the kind of place that works when you need several things at once — a new pair of shoes, a phone screen replaced, dinner before a movie. It's not designed to be precious or Instagram-worthy; it's built to serve its neighborhood, and it does that work well. The kind of reliable spot that deserves a spot in our guides not because it's trendy, but because it's genuinely useful and holds up to repeated visits.",
+      "rating": {
+        "google": "4",
+        "google_count": "5903",
+        "yelp": "3.8",
+        "yelp_count": "18"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2730947363461153683",
+        "yelp": "https://www.yelp.com/biz/northpark-mall-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\northpark_mall_photo_1.jpg",
+        "all": [
+          "entity_photos\\northpark_mall_photo_1.jpg",
+          "entity_photos\\northpark_mall_photo_2.jpg",
+          "entity_photos\\northpark_mall_photo_3.jpg",
+          "entity_photos\\northpark_mall_photo_4.jpg",
+          "entity_photos\\northpark_mall_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "osaka_steakhouse",
       "type": "business",
       "name": "Osaka steakhouse",
@@ -6017,6 +6066,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "southpark_mall",
+      "type": "place",
+      "name": "SouthPark Mall",
+      "slug": "southpark-mall",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4500 16th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-6142",
+      "website": "https://www.shopsouthparkmall-il.com/?utm_source=google&utm_medium=onlinesearch&utm_content=gmp_website_button&utm_campaign=yext",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.4675891",
+      "lng": "-90.5028069",
+      "description": "The QC's reliable one-stop for anchors, chains, and a food court that's seen better days.\n\nSouthPark is the mall you go to when you need it—a single-story sprawl in Moline where you can knock out department store shopping, grab basics at the usual suspects, and sit down to mediocre Chinese food without leaving the building. It's got the bones of what malls used to be: wide corridors, steady foot traffic, the kind of place where families have been splitting up to shop separately for decades. The energy feels familiar in that tired, workmanlike way; it's not Instagram-worthy, but it gets the job done.\n\nSouthPark Mall sits on Moline's main retail corridor, convenient if you're already in the area or running errands on that side of the river. We include it because it's part of the QC's shopping landscape—the practical counterpoint to downtown browsing and smaller boutiques. If you're visiting the region and need a traditional mall experience, or you're local and just need to find pants and a phone charger in one trip, SouthPark is there, unchanged and unhurried.",
+      "rating": {
+        "google": "3.5",
+        "google_count": "4599",
+        "yelp": "2.6",
+        "yelp_count": "18"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15497164082187712547",
+        "yelp": "https://www.yelp.com/biz/southpark-mall-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\southpark_mall_photo_1.jpg",
+        "all": [
+          "entity_photos\\southpark_mall_photo_1.jpg",
+          "entity_photos\\southpark_mall_photo_2.jpg",
+          "entity_photos\\southpark_mall_photo_3.jpg",
+          "entity_photos\\southpark_mall_photo_4.jpg",
+          "entity_photos\\southpark_mall_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "steel_plow_burger_company",
       "type": "business",
       "name": "Steel Plow Burger Company",
@@ -6586,6 +6684,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_bend_event_center",
+      "type": "place",
+      "name": "The Bend Event Center",
+      "slug": "the-bend-event-center",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "910 Bend Boulevard",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 623-4488",
+      "website": "http://www.thebendeventcenter.com/",
+      "hours": "Monday: Closed | Tuesday: 8:00 AM – 5:00 PM | Wednesday: 8:00 AM – 5:00 PM | Thursday: 8:00 AM – 5:00 PM | Friday: 8:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5187568",
+      "lng": "-90.4572982",
+      "description": "A flexible event space where the QC hosts its bigger dreams.\n\nThe Bend has the bones of a serious venue — high ceilings, configurable rooms, and the kind of blank canvas that lets you imagine your wedding reception, corporate retreat, or community gathering taking shape. The staff knows how to work with you on logistics, which matters when you're juggling a guest list or trying to nail down timing. It's become the go-to for mid-size events across the QC, the kind of place that disappears into the background so your event can be the thing people remember.\n\nThe Bend sits in East Moline, just across the river from the core neighborhoods but close enough that getting there is no hassle. It's the practical choice for QC hosts who've outgrown restaurant private rooms but don't need a massive ballroom — the middle ground where most of us actually throw things. If you're planning something in the Quad Cities, this is the place worth a serious look.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "123",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5474587793143712053",
+        "yelp": "https://www.yelp.com/biz/grasshoppers-gatherings-le-claire",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_bend_event_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_bend_event_center_photo_1.jpg",
+          "entity_photos\\the_bend_event_center_photo_2.jpg",
+          "entity_photos\\the_bend_event_center_photo_3.jpg",
+          "entity_photos\\the_bend_event_center_photo_4.jpg",
+          "entity_photos\\the_bend_event_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_brewed_book_coffee_shop_used_book_store",
       "type": "business",
       "name": "The Brewed Book - Coffee Shop & Used Book Store",
@@ -6626,6 +6773,51 @@
           "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_1.jpg",
           "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_2.jpg",
           "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_district",
+      "type": "place",
+      "name": "The District",
+      "slug": "the-district",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "111 20th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "",
+      "website": "",
+      "hours": "Monday: 8:30 – 10:30 PM | Tuesday: 4:00 PM – 2:00 AM | Wednesday: 4:00 PM – 2:00 AM | Thursday: 4:00 PM – 2:00 AM | Friday: 4:00 PM – 2:00 AM | Saturday: 2:00 PM – 2:00 AM | Sunday: Closed",
+      "lat": "41.5108028",
+      "lng": "-90.5765067",
+      "description": "Rock Island's nightlife district where the evening stretches until 2 a.m.\n\nThe District is where Rock Island comes to be seen after dark — a concentrated row of bars and late-night spots that transforms the neighborhood into the QC's most reliably buzzing scene. The vibe shifts across the hours: early evening feels approachable and mixed, but by midnight it's the kind of place where you recognize faces from the week before. Whether you're stopping in for one drink or settling in for the night, there's real energy here, the kind that only happens when bars sit close enough together to create actual momentum.\n\nThe District sits in Rock Island, just across the river from Davenport's downtown core — close enough to feel connected to the riverfront scene but with its own distinct character. It's become the reliable answer to \"where should we go tonight?\" for people who want late hours, a crowd, and the sense that something's actually happening. Once you've spent a Friday or Saturday here, you understand why it keeps appearing on our guides.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "5",
+        "yelp": "4.1",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2883142059542406777",
+        "yelp": "https://www.yelp.com/biz/district-cr-cedar-rapids",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_district_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_district_photo_1.jpg"
         ]
       },
       "guides": [],
@@ -7336,6 +7528,55 @@
           "entity_photos\\village_inn_photo_1.jpg",
           "entity_photos\\village_inn_photo_2.jpg",
           "entity_photos\\village_inn_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "village_of_east_davenport",
+      "type": "place",
+      "name": "Village of East Davenport",
+      "slug": "village-of-east-davenport",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "",
+      "website": "",
+      "hours": "",
+      "lat": "41.5318548",
+      "lng": "-90.5452822",
+      "description": "A quiet east-side neighborhood where tree-lined streets feel genuinely removed from the city.\n\nThe Village of East Davenport is where Davenport slows down — brick homes set back from wide boulevards, mature oaks creating actual shade, the kind of neighborhood where you notice the details of front porches and garden gates. It's residential and deliberately unhurried, a place to walk without purpose or bike toward the river on a Sunday morning. There's a realness here that feels intentional; this isn't somewhere trying to be discovered so much as somewhere people choose to stay.\n\nEast Davenport sits on the quieter side of the city, close enough to Downtown and the riverfront to matter but far enough to feel like its own thing. It's the kind of neighborhood we come back to because it's where actual Quad Citizens live — not a destination in the typical sense, but a necessary counterpoint to the busier pockets of the QC. If you're looking to understand what makes the area home to people who've chosen to stay, this is where to start.",
+      "rating": {
+        "google": "",
+        "google_count": "",
+        "yelp": "4.4",
+        "yelp_count": "159"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=18416926272189415090",
+        "yelp": "https://www.yelp.com/biz/brew-in-the-village-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\village_of_east_davenport_photo_1.jpg",
+        "all": [
+          "entity_photos\\village_of_east_davenport_photo_1.jpg",
+          "entity_photos\\village_of_east_davenport_photo_2.jpg",
+          "entity_photos\\village_of_east_davenport_photo_3.jpg",
+          "entity_photos\\village_of_east_davenport_photo_4.jpg",
+          "entity_photos\\village_of_east_davenport_photo_5.jpg"
         ]
       },
       "guides": [],
