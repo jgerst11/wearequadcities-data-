@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T12:22:49.188988",
-  "total": 117,
+  "generated": "2026-06-04T12:51:59.290914",
+  "total": 155,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -144,6 +144,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "9round_kickboxing_fitness",
+      "type": "business",
+      "name": "9Round Kickboxing Fitness",
+      "slug": "9round-kickboxing-fitness",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "789 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 355-4600",
+      "website": "https://www.9round.com/locations/ia/bettendorf/middle-rd",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5381277",
+      "lng": "-90.52114519999999",
+      "description": "Nine stations, nine minutes per round, pure adrenaline.\n\n9Round is built on a simple premise: punch, kick, and move through nine different stations in rapid succession, no class schedule required. Walk in whenever it fits your day — 3 a.m. or 3 p.m. — and a trainer will pair you with a heavy bag, speed bag, or focus mitts. It's the kind of workout that feels less like fitness and more like learning to fight, which is probably why people keep coming back.\n\nTucked into Bettendorf's Middle Road corridor, 9Round fills a real gap in the QC's fitness scene. It's open around the clock, which means whether you're an early riser, night shift worker, or just restless at midnight, there's no excuse to skip it. The gym shows up consistently on our guides because it's one of those places where locals are genuinely invested — the kind of spot that builds a real community among its members.",
+      "rating": {
+        "google": "5",
+        "google_count": "122",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12224395916127939921",
+        "yelp": "https://www.yelp.com/biz/9round-fitness-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\9round_kickboxing_fitness_photo_1.jpg",
+        "all": [
+          "entity_photos\\9round_kickboxing_fitness_photo_1.jpg",
+          "entity_photos\\9round_kickboxing_fitness_photo_2.jpg",
+          "entity_photos\\9round_kickboxing_fitness_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "adler_theatre",
       "type": "place",
       "name": "Adler Theatre",
@@ -186,6 +234,198 @@
           "entity_photos\\adler_theatre_photo_3.jpg",
           "entity_photos\\adler_theatre_photo_4.jpg",
           "entity_photos\\adler_theatre_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "airbrushed_sunless_llc",
+      "type": "business",
+      "name": "Airbrushed Sunless LLC",
+      "slug": "airbrushed-sunless-llc",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "419 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 343-4030",
+      "website": "http://www.airbrushedsunless.com/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 9:00 PM | Thursday: 10:00 AM – 9:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: 12:00 – 5:00 PM",
+      "lat": "41.524104",
+      "lng": "-90.57377369999999",
+      "description": "Custom airbrush tans that look like you actually spent time outside.\n\nAirbrushed Sunless has built a loyal following on one thing: making spray tans look natural, not orange. The technicians here take time to match your skin tone and customize coverage — you're not getting the one-size-fits-all spray. Walk in pale in February, walk out looking like you spent a weekend at the river without the UV damage or the commitment of a tanning bed.\n\nAirbrushed Sunless sits right downtown, in the same neighborhood as the coffee shops and restaurants worth your time. It's the kind of place that accumulates five-star reviews because people actually come back, season after season, which says everything about the care and consistency happening in that chair.",
+      "rating": {
+        "google": "5",
+        "google_count": "162",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3669314077216868602",
+        "yelp": "https://www.yelp.com/biz/airbrushed-sunless-spray-tanning-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\airbrushed_sunless_llc_photo_1.jpg",
+        "all": [
+          "entity_photos\\airbrushed_sunless_llc_photo_1.jpg",
+          "entity_photos\\airbrushed_sunless_llc_photo_2.jpg",
+          "entity_photos\\airbrushed_sunless_llc_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "aj_nails_spa",
+      "type": "business",
+      "name": "AJ Nails & Spa",
+      "slug": "aj-nails-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "2925 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 757-0494",
+      "website": "https://www.facebook.com/AJ-Nails-spa-733992980091592/",
+      "hours": "Monday: 10:00 AM – 7:00 PM | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 10:00 AM – 7:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: Closed",
+      "lat": "41.4923691",
+      "lng": "-90.49574659999999",
+      "description": "Moline's go-to nail spot with a loyal following and a relaxed vibe.\n\nAJ Nails & Spa does the fundamentals well — clean stations, steady hands, and the kind of consistency that keeps people coming back. The space has that comfortable, lived-in feel of a neighborhood favorite, not a sterile chain, and the team works unhurried even when the chairs are full. Whether you're in for a quick gel or a full spa afternoon, there's no pressure and no upsell — just good work at a fair price.\n\nAJ sits in Moline, where the best local businesses tend to thrive quietly without fanfare. It's exactly the kind of place worth knowing about — the salon your coworker has been going to for three years, the spot you'll keep returning to once you've found it. That 4.6 Google rating isn't accident; it's the mark of a place that shows up consistently for its community.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "280",
+        "yelp": "2.9",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2892015703677739797",
+        "yelp": "https://www.yelp.com/biz/aj-nails-and-spa-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\aj_nails_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\aj_nails_spa_photo_1.jpg",
+          "entity_photos\\aj_nails_spa_photo_2.jpg",
+          "entity_photos\\aj_nails_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "annas_nail_salon",
+      "type": "business",
+      "name": "Anna's Nail Salon",
+      "slug": "annas-nail-salon",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1115 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 324-4151",
+      "website": "https://m.facebook.com/profile.php?id=102015053482822",
+      "hours": "Monday: 10:00 AM – 7:00 PM | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 10:00 AM – 7:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 7:00 PM | Sunday: Closed",
+      "lat": "41.5210788",
+      "lng": "-90.58949229999999",
+      "description": "Davenport nail salon where regulars return for careful work and honest service.\n\nAnna's keeps a calm, focused room—no rushed assembly line feel here. The technicians take their time with each person, and you'll notice the same faces coming back week after week, which says everything about consistency in a place where that matters. Walk in on a Saturday afternoon and you'll see chairs full of people who know exactly what they're getting.\n\nAnna's sits in Davenport, accessible and unpretentious—the kind of neighborhood spot that builds trust slowly and keeps it by doing the fundamentals right. It's the sort of place that fills our guides because it's where real people actually go, not because of marketing, but because the work holds up and the experience feels genuine.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "231",
+        "yelp": "1.6",
+        "yelp_count": "5"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4563780991223027109",
+        "yelp": "https://www.yelp.com/biz/annas-nail-salon-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\annas_nail_salon_photo_1.jpg",
+        "all": [
+          "entity_photos\\annas_nail_salon_photo_1.jpg",
+          "entity_photos\\annas_nail_salon_photo_2.jpg",
+          "entity_photos\\annas_nail_salon_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "ansan_nails_spa",
+      "type": "business",
+      "name": "Ansan Nails & Spa",
+      "slug": "ansan-nails-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "3135 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-5883",
+      "website": "https://ansannailspamoline.com/",
+      "hours": "Monday: 12:00 – 7:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 7:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: Closed",
+      "lat": "41.4919803",
+      "lng": "-90.4927867",
+      "description": "Moline's go-to for careful manicures and a calm afternoon escape.\n\nAnsan has built a steady reputation on consistency—the kind of place where regulars book months ahead and newcomers leave impressed. The room is quiet and focused, without the chaos of bigger chains; you'll see the same technicians working methodically, attention on detail. Whether you're after a simple polish or an intricate design, the work holds up.\n\nAnsan sits in Moline, just far enough from downtown to feel like a neighborhood spot rather than a destination—but worth the short drive from anywhere in the QC. It's the kind of reliable, unpretentious place that shows up again and again in locals' rotation, and once you've experienced the care they take, you'll understand why.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "285",
+        "yelp": "3.5",
+        "yelp_count": "45"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9711979385682979623",
+        "yelp": "https://www.yelp.com/biz/ansan-nails-and-spa-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ansan_nails_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\ansan_nails_spa_photo_1.jpg",
+          "entity_photos\\ansan_nails_spa_photo_2.jpg",
+          "entity_photos\\ansan_nails_spa_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -428,6 +668,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "awaken_beauty",
+      "type": "business",
+      "name": "Awaken Beauty",
+      "slug": "awaken-beauty",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "1570 36th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 781-8118",
+      "website": "http://www.awakenbeauty1.com/",
+      "hours": "",
+      "lat": "41.476946",
+      "lng": "-90.508707",
+      "description": "A Moline wellness studio where beauty treatments feel like self-care rituals.\n\nAwaken Beauty treats facials and skincare like they're meant to be—unhurried and intentional. The space has that rare quality of feeling both calm and energizing, the kind of place where you actually turn your phone off without thinking about it. Whether you're in for a facial, waxing, or something more specialized, the attention to detail suggests the staff genuinely cares whether you leave feeling better than when you walked in.\n\nAwaken Beauty sits in Moline, a neighborhood that's quietly becoming a destination for the QC's wellness-minded folks. It's the kind of spot that earns a perfect rating and keeps it—word travels fast when a place does one thing really well. Once you've experienced it, you'll understand why it shows up on our radar as a place worth your time.",
+      "rating": {
+        "google": "5",
+        "google_count": "113",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10460107046459745283",
+        "yelp": "https://www.yelp.com/biz/awaken-vitality-holistic-healing-marion",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\awaken_beauty_photo_1.jpg",
+        "all": [
+          "entity_photos\\awaken_beauty_photo_1.jpg",
+          "entity_photos\\awaken_beauty_photo_2.jpg",
+          "entity_photos\\awaken_beauty_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "azteca_1_mexican_restaurant",
       "type": "business",
       "name": "Azteca 1 Mexican Restaurant",
@@ -562,6 +850,54 @@
           "entity_photos\\barrel_house_photo_1.jpg",
           "entity_photos\\barrel_house_photo_2.jpg",
           "entity_photos\\barrel_house_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bella_salon",
+      "type": "business",
+      "name": "Bella Salon",
+      "slug": "bella-salon",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "4893 Utica Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 355-2303",
+      "website": "https://www.bellasalonqc.com/",
+      "hours": "Monday: Closed | Tuesday: 10:00 AM – 7:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 10:00 AM – 7:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 8:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.5694503",
+      "lng": "-90.5136795",
+      "description": "A Davenport salon where the stylists actually listen and the results show.\n\nBella's got the kind of reputation that follows you — walk in and you'll see why regulars book months out. The stylists here treat your hair like it matters, whether you're coming in for a trim, color, or a complete refresh. Saturday mornings fill up fast, so plan ahead, but the wait is worth it; people come back because they trust what happens in the chair.\n\nBella sits in Davenport, accessible and reliable in a way that makes it easy to make it part of your routine. With a 4.9 rating across nearly 650 reviews, this is the kind of neighborhood spot that builds its reputation quietly, one good haircut at a time — the places we keep coming back to are the ones that show up on our guides.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "640",
+        "yelp": "4.1",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13511020201334388714",
+        "yelp": "https://www.yelp.com/biz/bella-salon-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bella_salon_photo_1.jpg",
+        "all": [
+          "entity_photos\\bella_salon_photo_1.jpg",
+          "entity_photos\\bella_salon_photo_2.jpg",
+          "entity_photos\\bella_salon_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -708,6 +1044,150 @@
           "entity_photos\\bent_river_brewing_company_photo_1.jpg",
           "entity_photos\\bent_river_brewing_company_photo_2.jpg",
           "entity_photos\\bent_river_brewing_company_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bespoke_beauty_and_body",
+      "type": "business",
+      "name": "Bespoke Beauty and Body",
+      "slug": "bespoke-beauty-and-body",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "1020 Mound Street",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 551-7722",
+      "website": "https://www.bespokebeautyandbody.com/",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 11:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.53072110000001",
+      "lng": "-90.5467518",
+      "description": "Custom skincare and wellness treatments built around your actual skin.\n\nBespoke Beauty and Body takes the guesswork out of skincare — the kind of place where they ask real questions before recommending anything. The space feels intentional and calm, the kind of quiet corner where you actually have time to talk through what your skin needs instead of being rushed through a transaction. Whether you're dealing with chronic dryness, sensitivity, or just want facials that actually work, the team here treats it like a puzzle worth solving.\n\nTucked into the Village of East Davenport, Bespoke Beauty and Body is one of those locally-loved spots that builds its reputation through word-of-mouth and consistent results — 139 five-star reviews tell you something. It's the kind of place that rewards exploring the quieter neighborhoods of Davenport, where you find real expertise instead of chain-store generics. Once you've been, you'll likely be back.",
+      "rating": {
+        "google": "5",
+        "google_count": "139",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10651277212913998579",
+        "yelp": "https://www.yelp.com/biz/bespoke-beauty-and-body-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bespoke_beauty_and_body_photo_1.jpg",
+        "all": [
+          "entity_photos\\bespoke_beauty_and_body_photo_1.jpg",
+          "entity_photos\\bespoke_beauty_and_body_photo_2.jpg",
+          "entity_photos\\bespoke_beauty_and_body_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bettendorf_family_ymca",
+      "type": "business",
+      "name": "Bettendorf Family YMCA",
+      "slug": "bettendorf-family-ymca",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "3800 Tanglefoot Lane",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 359-9622",
+      "website": "https://www.ymcaimv.org/locations/bettendorf-family-ymca/",
+      "hours": "Monday: 4:30 AM – 9:00 PM | Tuesday: 4:30 AM – 9:00 PM | Wednesday: 4:30 AM – 9:00 PM | Thursday: 4:30 AM – 9:00 PM | Friday: 4:30 AM – 8:00 PM | Saturday: 6:00 AM – 5:00 PM | Sunday: 7:00 AM – 4:00 PM",
+      "lat": "41.5614913",
+      "lng": "-90.48054169999999",
+      "description": "A serious gym with actual community roots, open before dawn.\n\nThe Bettendorf Y opens at 4:30 AM on weekdays — early enough for the pre-work crowd that fills the cardio floor while it's still dark outside. The equipment is well-maintained and the pool draws families on weekends, but what sets it apart is the lack of pretense: this is where neighbors actually know each other's names, where the front desk staff remember if you've been gone a week, where fitness feels like an obligation to yourself rather than a performance for Instagram.\n\nThe Bettendorf Family YMCA sits in Bettendorf proper, anchoring the community's east side with the kind of staying power that matters in a town that values consistency. Unlike the boutique gyms and flashy fitness chains that come and go, this is the place families have cycled through for years — kids learning to swim, parents finding their routine, older members keeping their strength. It belongs in our guides because it's genuinely local in a way that feels increasingly rare.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "512",
+        "yelp": "3.1",
+        "yelp_count": "13"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4867734500687854541",
+        "yelp": "https://www.yelp.com/biz/bettendorf-family-ymca-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bettendorf_family_ymca_photo_1.jpg",
+        "all": [
+          "entity_photos\\bettendorf_family_ymca_photo_1.jpg",
+          "entity_photos\\bettendorf_family_ymca_photo_2.jpg",
+          "entity_photos\\bettendorf_family_ymca_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "beyond_genetics",
+      "type": "business",
+      "name": "Beyond Genetics",
+      "slug": "beyond-genetics",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "2339 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "Park Hill",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(217) 722-2354",
+      "website": "https://beyondgenetics.net/",
+      "hours": "Monday: 6:00 AM – 8:00 PM | Tuesday: 6:00 AM – 8:00 PM | Wednesday: 6:00 AM – 8:00 PM | Thursday: 6:00 AM – 8:00 PM | Friday: 6:00 AM – 8:00 PM | Saturday: 6:00 AM – 8:00 PM | Sunday: Closed",
+      "lat": "41.5104111",
+      "lng": "-90.50415160000001",
+      "description": "Personal training that actually listens to what your body needs.\n\nBeyond Genetics opens early — 6 a.m. early — which means you can build a real routine before work. The trainers here aren't running you through a template; they're reading your movement, asking questions about old injuries, and adjusting on the fly. It's the kind of place where people stay for years because they're actually getting stronger, not just sore.\n\nBeyond Genetics sits in Park Hill, a neighborhood that's becoming one of Moline's most active pockets — close enough to downtown to grab coffee after a session, but far enough to feel like a real community space. It's the kind of gym that shows up on local recommendation lists again and again because the people who train there genuinely want to send their friends, and that word-of-mouth loyalty says everything.",
+      "rating": {
+        "google": "5",
+        "google_count": "110",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12373000600750964255",
+        "yelp": "https://www.yelp.com/biz/beyond-genetics-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\beyond_genetics_photo_1.jpg",
+        "all": [
+          "entity_photos\\beyond_genetics_photo_1.jpg",
+          "entity_photos\\beyond_genetics_photo_2.jpg",
+          "entity_photos\\beyond_genetics_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1003,6 +1483,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "california_nails",
+      "type": "business",
+      "name": "California Nails",
+      "slug": "california-nails",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "4011 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 762-3558",
+      "website": "https://www.facebook.com/CaliforniaNails309/",
+      "hours": "Monday: 9:30 AM – 7:00 PM | Tuesday: Closed | Wednesday: 9:30 AM – 7:00 PM | Thursday: 9:30 AM – 7:00 PM | Friday: 9:30 AM – 7:00 PM | Saturday: 9:30 AM – 6:00 PM | Sunday: 11:00 AM – 5:00 PM",
+      "lat": "41.4910697",
+      "lng": "-90.4809188",
+      "description": "Moline's reliable spot for a quick manicure and a comfortable chair.\n\nCalifornia Nails has mastered the neighborhood salon formula—efficient, friendly, and no-nonsense. Walk in on a weekday afternoon and you'll find a calm room with plenty of stations, the kind of place where the technicians know their regulars by name and remember how you like your nails shaped. It's the spot you return to not because it's fancy, but because it's dependable.\n\nCalifornia Nails sits in Moline, the QC's quieter, steadier side—the kind of neighborhood where people actually live their lives rather than just pass through. It's the sort of place that deserves a spot in our guides because it's genuinely useful: reliable, reasonably priced, and tucked into the everyday rhythm of the community. Once you find your nail person here, you'll keep coming back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "254",
+        "yelp": "2.8",
+        "yelp_count": "18"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11639903081594890248",
+        "yelp": "https://www.yelp.com/biz/california-nails-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\california_nails_photo_1.jpg",
+        "all": [
+          "entity_photos\\california_nails_photo_1.jpg",
+          "entity_photos\\california_nails_photo_2.jpg",
+          "entity_photos\\california_nails_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "capriottis_sandwich_shop",
       "type": "business",
       "name": "Capriotti's Sandwich Shop",
@@ -1290,6 +1818,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "club_pilates",
+      "type": "business",
+      "name": "Club Pilates",
+      "slug": "club-pilates",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "3378 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 275-5060",
+      "website": "http://www.clubpilates.com/bettendorf/?utm_source=google.com&utm_medium=referral&utm_campaign=yext",
+      "hours": "Monday: 6:00 AM – 8:00 PM | Tuesday: 6:00 AM – 8:00 PM | Wednesday: 6:00 AM – 8:00 PM | Thursday: 6:00 AM – 8:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: 9:00 AM – 5:00 PM",
+      "lat": "41.551628",
+      "lng": "-90.4851284",
+      "description": "Reformer pilates classes where Bettendorf comes to get stronger.\n\nClub Pilates fills the early mornings and after-work slots with people serious about the work — the kind of studio where you show up, clip into the reformer, and spend 50 minutes learning what your core can actually do. The instructors know their regulars by name and their form intimately; they'll cue you toward better alignment without making it feel like correction. By 6:45 AM on a weekday, the room is full and focused, the only sound the smooth glide of the carriage and the instructor's steady voice counting you through another set.\n\nClub Pilates sits in Bettendorf, the QC's quieter, more residential east side — the kind of neighborhood where fitness routines are taken seriously and community matters. It's the sort of place that builds real loyalty; a 5-star Google rating with over 140 reviews doesn't happen by accident. If you're looking to build strength with people who've made the same commitment, this is where the Bettendorf set does it.",
+      "rating": {
+        "google": "5",
+        "google_count": "146",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1832014141505130513",
+        "yelp": "https://www.yelp.com/biz/club-pilates-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\club_pilates_photo_1.jpg",
+        "all": [
+          "entity_photos\\club_pilates_photo_1.jpg",
+          "entity_photos\\club_pilates_photo_2.jpg",
+          "entity_photos\\club_pilates_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "coffee_house_cafe_and_goods",
       "type": "business",
       "name": "Coffee House Cafe and Goods",
@@ -1568,6 +2144,102 @@
           "entity_photos\\crow_creek_dog_park_photo_3.jpg",
           "entity_photos\\crow_creek_dog_park_photo_4.jpg",
           "entity_photos\\crow_creek_dog_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "cruz_cutz_barbershop",
+      "type": "business",
+      "name": "Cruz Cutz Barbershop",
+      "slug": "cruz-cutz-barbershop",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1609 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61266",
+      "phone": "(309) 230-9399",
+      "website": "https://mapstuk.top/cruz-cutz-barbershop-i6fyptm",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: Closed",
+      "lat": "41.5069345",
+      "lng": "-90.5147144",
+      "description": "A sharp Moline barbershop where the cuts are clean and the regulars keep coming back.\n\nCruz Cutz has built something real in Moline — the kind of place where you're not just getting a haircut, you're sitting in a chair that knows your name. The barbers here take their time, listening to what you actually want instead of rushing through the day. Walk in on a Saturday and you'll see the proof: a steady stream of customers, mostly the same faces, mostly satisfied.\n\nCruz Cutz sits in Moline, where good neighborhood businesses still matter. With a 4.7 rating across 257 reviews, it's earned the kind of trust that doesn't come from marketing — it comes from doing the work right, week after week. It's exactly the kind of local place we highlight because it's what makes the QC feel like a real community, not just a collection of chain stores.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "257",
+        "yelp": "4.4",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15221842004669062398",
+        "yelp": "https://www.yelp.com/biz/cruz-cutz-barbershop-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\cruz_cutz_barbershop_photo_1.jpg",
+        "all": [
+          "entity_photos\\cruz_cutz_barbershop_photo_1.jpg",
+          "entity_photos\\cruz_cutz_barbershop_photo_2.jpg",
+          "entity_photos\\cruz_cutz_barbershop_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "culture_shock_barber_studio",
+      "type": "business",
+      "name": "Culture Shock Barber Studio",
+      "slug": "culture-shock-barber-studio",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "207 Western Avenue",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 726-3698",
+      "website": "",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 5:30 PM | Wednesday: 9:00 AM – 5:30 PM | Thursday: 9:00 AM – 5:30 PM | Friday: 9:00 AM – 5:30 PM | Saturday: 9:00 AM – 12:00 PM | Sunday: Closed",
+      "lat": "41.5216493",
+      "lng": "-90.5813043",
+      "description": "A sharp downtown barbershop where the cuts are precise and the vibe is welcoming.\n\nCulture Shock sits on a Downtown Davenport block that's quietly becoming somewhere people actually want to be, and the barbershop fits the moment perfectly. The barbers here know what they're doing — clean lines, careful fades, the kind of attention to detail that makes you want to go back. It's the rare neighborhood spot that's earned perfect ratings across the board, which says something about both the craft and the people wielding the clippers.\n\nCulture Shock Barber Studio is in Downtown Davenport, one of the QC's most characterful pockets — a short walk or drive from the riverfront and easy to fold into a longer visit. It's the kind of place that shows up again and again on our curated guides: a neighborhood anchor that does one thing exceptionally well, and makes you feel like a regular the moment you walk in.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "145",
+        "yelp": "5.0",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6608943382718329074",
+        "yelp": "https://www.yelp.com/biz/blades-barber-shop-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\culture_shock_barber_studio_photo_1.jpg",
+        "all": [
+          "entity_photos\\culture_shock_barber_studio_photo_1.jpg",
+          "entity_photos\\culture_shock_barber_studio_photo_2.jpg",
+          "entity_photos\\culture_shock_barber_studio_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2051,6 +2723,102 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "fancy_nails_spa",
+      "type": "business",
+      "name": "Fancy Nails & Spa",
+      "slug": "fancy-nails-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "5717 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 441-7730",
+      "website": "https://www.facebook.com/profile.php?id=100093461552556",
+      "hours": "Monday: 9:00 AM – 7:30 PM | Tuesday: 9:00 AM – 7:30 PM | Wednesday: 9:00 AM – 7:30 PM | Thursday: 9:00 AM – 7:30 PM | Friday: 9:00 AM – 7:30 PM | Saturday: 9:00 AM – 6:00 PM | Sunday: 10:30 AM – 5:00 PM",
+      "lat": "41.579179",
+      "lng": "-90.525215",
+      "description": "A steady neighborhood spot for manicures, pedicures, and a quiet afternoon out.\n\nFancy Nails keeps things straightforward — bright station lights, the familiar hum of files and water, the kind of place where regulars know their technicians by name. You can slip in for a quick manicure on a lunch break or sink into one of the pedicure chairs for the full treatment; the pace here is unhurried enough that you won't feel rushed. The Facebook page stays active with seasonal specials, and the Google reviews skew toward people who've been coming back for years.\n\nFancy Nails sits in Davenport proper, part of the neighborhood beauty-and-wellness fabric that keeps locals looking polished without the pretense. It's the kind of reliable, no-fuss spot that belongs in a real community guide — not flashy, but genuinely useful when you need an afternoon of care that doesn't require a drive across town or a big production.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "321",
+        "yelp": "2.9",
+        "yelp_count": "35"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8385834446076940887",
+        "yelp": "https://www.yelp.com/biz/fancy-nails-and-spa-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\fancy_nails_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\fancy_nails_spa_photo_1.jpg",
+          "entity_photos\\fancy_nails_spa_photo_2.jpg",
+          "entity_photos\\fancy_nails_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "fashion_nails",
+      "type": "business",
+      "name": "Fashion Nails",
+      "slug": "fashion-nails",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "2308 Spruce Hills Drive",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 359-8895",
+      "website": "http://fashionnailsbettendorf.com/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: Closed",
+      "lat": "41.5498414",
+      "lng": "-90.5007057",
+      "description": "Reliable manicures and pedicures in a calm, no-fuss Bettendorf salon.\n\nFashion Nails has the kind of steady reputation that comes from doing the basics really well — clean stations, attentive technicians, and a quiet room where you can actually relax. Whether you're in for a quick polish change or a full set, the work is consistent and the pace unhurried. It's the sort of place regulars return to again and again, which the Google reviews make pretty clear.\n\nFashion Nails sits in Bettendorf, the QC's quieter, tree-lined counterpart to Davenport — the kind of neighborhood where you notice when a business sticks around and builds real loyalty. It's the place to bookmark for when you need care that's straightforward and well-executed, without the pressure or pretense.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "197",
+        "yelp": "3.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10179659225993115213",
+        "yelp": "https://www.yelp.com/biz/fashion-nails-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\fashion_nails_photo_1.jpg",
+        "all": [
+          "entity_photos\\fashion_nails_photo_1.jpg",
+          "entity_photos\\fashion_nails_photo_2.jpg",
+          "entity_photos\\fashion_nails_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "figge_art_museum",
       "type": "place",
       "name": "Figge Art Museum",
@@ -2094,6 +2862,102 @@
           "entity_photos\\figge_art_museum_photo_3.jpg",
           "entity_photos\\figge_art_museum_photo_4.jpg",
           "entity_photos\\figge_art_museum_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "five_star_salon",
+      "type": "business",
+      "name": "Five Star Salon",
+      "slug": "five-star-salon",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1020 Mound Street",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 359-4498",
+      "website": "https://fivestarsalonspa.com/?y_source=1_MjA2NTExMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 6:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 8:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.5307183",
+      "lng": "-90.5467451",
+      "description": "East Davenport's go-to for color, cuts, and unhurried attention.\n\nFive Star has the feel of a neighborhood spot that's earned its reputation slowly—the kind of place where stylists remember what you wanted last time. Whether you're in for a refresh or a full transformation, there's no sense of rushing through; the schedule seems built around actually talking through what works for your hair. Saturday mornings fill up fast, which tells you everything about how the regulars feel.\n\nFive Star sits in the Village of East Davenport, a quieter residential corner of the city that rewards a short drive with genuine community finds. It's the kind of salon that shows up again and again on our guides because it does one thing well—makes people feel genuinely cared for—and that matters more than any trend ever will.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "149",
+        "yelp": "4.1",
+        "yelp_count": "31"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=48496486414781947",
+        "yelp": "https://www.yelp.com/biz/5ive-star-salon-spa-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\five_star_salon_photo_1.jpg",
+        "all": [
+          "entity_photos\\five_star_salon_photo_1.jpg",
+          "entity_photos\\five_star_salon_photo_2.jpg",
+          "entity_photos\\five_star_salon_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "float_quad_cities",
+      "type": "business",
+      "name": "Float Quad Cities",
+      "slug": "float-quad-cities",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "911 16th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-3426",
+      "website": "http://floatqc.com/",
+      "hours": "Monday: 9:45 AM – 7:35 PM | Tuesday: 9:45 AM – 7:35 PM | Wednesday: Closed | Thursday: Closed | Friday: 9:45 AM – 7:35 PM | Saturday: 9:45 AM – 7:35 PM | Sunday: 9:45 AM – 7:35 PM",
+      "lat": "41.4969531",
+      "lng": "-90.5244498",
+      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "276",
+        "yelp": "5.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3508672546548182614",
+        "yelp": "https://www.yelp.com/biz/float-quad-cities-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\float_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\float_quad_cities_photo_1.jpg",
+          "entity_photos\\float_quad_cities_photo_2.jpg",
+          "entity_photos\\float_quad_cities_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2190,6 +3054,102 @@
           "entity_photos\\front_street_pub_eatery_photo_1.jpg",
           "entity_photos\\front_street_pub_eatery_photo_2.jpg",
           "entity_photos\\front_street_pub_eatery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "fusion_salon_and_spa",
+      "type": "business",
+      "name": "Fusion Salon and Spa",
+      "slug": "fusion-salon-and-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "4864 Utica Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 355-3200",
+      "website": "https://www.fusionhairandspa.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4788024662523942923",
+      "hours": "Monday: 8:00 AM – 6:00 PM | Tuesday: 8:00 AM – 8:00 PM | Wednesday: 8:00 AM – 8:00 PM | Thursday: 8:00 AM – 8:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 8:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.5711563",
+      "lng": "-90.5162498",
+      "description": "Color, cuts, and skilled hands in a Davenport spa with real staying power.\n\nFusion has built a loyal following because the stylists actually listen — they're not rushing through appointments or pushing trends you didn't ask for. The space feels calm and intentional, with an emphasis on both hair and skin services, which means you can handle your whole self-care day in one place. The Google reviews speak for themselves: people come back, and they bring their friends.\n\nFusion sits in Davenport, where the best local businesses thrive on word-of-mouth and genuine expertise. It's the kind of place that shows up again and again on our curated guides — not because it's flashy, but because it delivers consistency and care. Once you've found your person here, you're booked months ahead.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "228",
+        "yelp": "3.6",
+        "yelp_count": "14"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9737823429511862603",
+        "yelp": "https://www.yelp.com/biz/fusion-salon-and-spa-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\fusion_salon_and_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\fusion_salon_and_spa_photo_1.jpg",
+          "entity_photos\\fusion_salon_and_spa_photo_2.jpg",
+          "entity_photos\\fusion_salon_and_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "golden_royal_barbershop",
+      "type": "business",
+      "name": "Golden Royal Barbershop",
+      "slug": "golden-royal-barbershop",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1631 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 524-4599",
+      "website": "https://www.facebook.com/goldenroyal82/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 9:00 AM – 6:00 PM | Sunday: 10:00 AM – 2:00 PM",
+      "lat": "41.5072719",
+      "lng": "-90.5139531",
+      "description": "A precise, no-nonsense barbershop where the clippers know what they're doing.\n\nGolden Royal has the kind of reputation that builds quietly — 4.8 stars from people who actually care about their haircuts. The shop runs tight: you'll see the same barbers working methodically through Saturday mornings, the kind of place where regulars don't need to explain what they want. Walk in on a Friday afternoon and you're joining a steady stream of guys who've learned that a good cut here is worth the short wait.\n\nGolden Royal sits in Moline, anchoring a part of the QC that doesn't get as much attention as downtown but absolutely deserves it. It's the kind of neighborhood spot — reliable, skilled, unpretentious — that we keep coming back to in our guides because it's exactly what a community needs and what visitors overlook. Once you've found your barber here, you'll understand why the regulars keep returning.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "159",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2280182440655163975",
+        "yelp": "https://www.yelp.com/biz/golden-royal-barbershop-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\golden_royal_barbershop_photo_1.jpg",
+        "all": [
+          "entity_photos\\golden_royal_barbershop_photo_1.jpg",
+          "entity_photos\\golden_royal_barbershop_photo_2.jpg",
+          "entity_photos\\golden_royal_barbershop_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2425,6 +3385,54 @@
           "entity_photos\\harris_pizza_1_photo_1.jpg",
           "entity_photos\\harris_pizza_1_photo_2.jpg",
           "entity_photos\\harris_pizza_1_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "haus_of_heir",
+      "type": "business",
+      "name": "Haus of Heir",
+      "slug": "haus-of-heir",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "4923 Utica Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 355-7772",
+      "website": "http://www.hausofheir.com/",
+      "hours": "Monday: 9:00 AM – 7:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 7:00 PM | Saturday: 8:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.5705715",
+      "lng": "-90.5144316",
+      "description": "A beauty studio where stylists actually listen and hair transformations feel personal.\n\nWalk into Haus of Heir and you'll notice it immediately — the stylists know what they're doing, and they're not rushing through your appointment like you're a number. Whether you're after a careful cut, color work that doesn't look like you got it done at a chain, or something bolder, there's a reason this place has earned nearly 1,500 five-star reviews. The kind of place where you book with a specific stylist and come back to them, where consultations matter more than quick turnover.\n\nHaus of Heir sits in Davenport, anchoring the growing reputation the QC has for real craftsmanship in beauty and wellness. It's the type of local business that shows up in conversation again and again — friends recommending friends, people willing to wait weeks for an opening because the work is worth it. Once you've found your stylist here, you've found them.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "1535",
+        "yelp": "4.4",
+        "yelp_count": "37"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15865237949814671925",
+        "yelp": "https://www.yelp.com/biz/haus-of-heir-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\haus_of_heir_photo_1.jpg",
+        "all": [
+          "entity_photos\\haus_of_heir_photo_1.jpg",
+          "entity_photos\\haus_of_heir_photo_2.jpg",
+          "entity_photos\\haus_of_heir_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -2945,6 +3953,54 @@
           "entity_photos\\kitchens_photo_1.jpg",
           "entity_photos\\kitchens_photo_2.jpg",
           "entity_photos\\kitchens_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "la_james_international_college",
+      "type": "business",
+      "name": "La' James International College",
+      "slug": "la-james-international-college",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "5205 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 441-7900",
+      "website": "https://ljic.edu/davenport-ia/",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:30 AM – 7:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.57283450000001",
+      "lng": "-90.56816099999999",
+      "description": "Affordable haircuts and beauty services from students learning their craft.\n\nLa' James is where Davenport goes when budget matters but quality can't slip — a working beauty school where you're part of someone's real education. The energy is different than a typical salon: there's focus, supervision, and the kind of care that comes from students who are still proving themselves. Haircuts run half the price of the chain places, and if you're patient with the learning curve, you walk out looking sharp.\n\nLa' James sits on Davenport's east side, part of a vocational pipeline that's been training QC cosmetologists and estheticians for years. It's the kind of place that matters quietly in a community — honest work, honest prices, and a real reason to show up: you're banking on skill and getting a solid deal in return.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "193",
+        "yelp": "3.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4608507541155032610",
+        "yelp": "https://www.yelp.com/biz/la-james-international-college-davenport-5",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\la_james_international_college_photo_1.jpg",
+        "all": [
+          "entity_photos\\la_james_international_college_photo_1.jpg",
+          "entity_photos\\la_james_international_college_photo_2.jpg",
+          "entity_photos\\la_james_international_college_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -3473,6 +4529,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "massage_envy",
+      "type": "business",
+      "name": "Massage Envy",
+      "slug": "massage-envy",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "5302 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 355-5003",
+      "website": "https://locations.massageenvy.com/iowa/davenport/5302-elmore-avenue.html?utm_source=GMB&utm_medium=useractions&utm_campaign=website",
+      "hours": "Monday: 9:00 AM – 9:00 PM | Tuesday: 9:00 AM – 9:00 PM | Wednesday: 9:00 AM – 9:00 PM | Thursday: 9:00 AM – 9:00 PM | Friday: 9:00 AM – 9:00 PM | Saturday: 8:00 AM – 6:00 PM | Sunday: 10:00 AM – 6:00 PM",
+      "lat": "41.5755152",
+      "lng": "-90.52930789999999",
+      "description": "Professional massage therapy with extended hours and a steady stream of regulars.\n\nMassage Envy on Elmore Avenue keeps the door open late — until 9 p.m. most weeknights — which means you can book a deep tissue or Swedish massage after work without rearranging your whole week. The therapists here know what they're doing; the high Google ratings reflect a consistent experience, and people come back. It's the kind of place where the front desk remembers your preferences and the schedule fills up weeks ahead.\n\nMassage Envy sits on Davenport's east side, convenient to the neighborhoods that need it most. It's practical wellness — not boutique, not precious, just reliable care that fits into real life. We include it because the QC deserves good recommendations for the unglamorous necessities, and this one delivers.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "995",
+        "yelp": "3.3",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2179916975138185947",
+        "yelp": "https://www.yelp.com/biz/massage-envy-davenport-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\massage_envy_photo_1.jpg",
+        "all": [
+          "entity_photos\\massage_envy_photo_1.jpg",
+          "entity_photos\\massage_envy_photo_2.jpg",
+          "entity_photos\\massage_envy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mcmanus_park",
       "type": "place",
       "name": "McManus Park",
@@ -3858,6 +4962,102 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "perfecta_beauty",
+      "type": "business",
+      "name": "PERFECTA Beauty",
+      "slug": "perfecta-beauty",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "221 12th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "",
+      "website": "https://perfectabeauty.studio/",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.5162994",
+      "lng": "-90.45686250000001",
+      "description": "Full-service beauty studio where the details matter and the results show.\n\nPerfecta has built a loyal following across the QC for a reason — they listen, they're precise, and they remember what you asked for last time. Whether you're in for threading, waxing, nails, or a full beauty refresh, the team moves with intention. The five-star reviews aren't accident; they're the result of showing up consistently and treating each appointment like it matters.\n\nPerfecta sits in East Moline, a neighborhood that's becoming quietly essential for everyday services done right. It's the kind of place that builds trust slowly through word-of-mouth and keeps customers coming back because the care is genuine. Once you've found your person here, you stop looking elsewhere.",
+      "rating": {
+        "google": "5",
+        "google_count": "111",
+        "yelp": "3.7",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7962071387404769857",
+        "yelp": "https://www.yelp.com/biz/perfecta-beauty-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\perfecta_beauty_photo_1.jpg",
+        "all": [
+          "entity_photos\\perfecta_beauty_photo_1.jpg",
+          "entity_photos\\perfecta_beauty_photo_2.jpg",
+          "entity_photos\\perfecta_beauty_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "planet_fitness",
+      "type": "business",
+      "name": "Planet Fitness",
+      "slug": "planet-fitness",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "2144 East Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 391-1080",
+      "website": "https://www.planetfitness.com/gyms/davenport-ia?utm_medium=organic&utm_source=extnet",
+      "hours": "Monday: 5:00 AM – 12:00 AM | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: 12:00 AM – 9:00 PM | Saturday: 7:00 AM – 7:00 PM | Sunday: 7:00 AM – 7:00 PM",
+      "lat": "41.5582236",
+      "lng": "-90.54608859999999",
+      "description": "Round-the-clock lifting and cardio for the early risers and night owls.\n\nPlanet Fitness keeps the lights on when most of Davenport is sleeping — open 24 hours Tuesday through Thursday, early mornings starting at 5 AM the rest of the week. The equipment is standard and well-maintained, the purple and yellow branding unmistakable, and the crowd is genuinely mixed: serious lifters, people recovering from injuries, folks just trying to move their bodies before work. It's straightforward fitness without the pretension, the kind of place where you show up to do the work and leave.\n\nLocated in Davenport, Planet Fitness fits into the QC's practical side — reliable, accessible, and always there when you need it. If you're new to the area or looking for a straightforward gym membership that doesn't demand a long-term commitment (their pricing is famously flexible), this is the kind of place that earns its high Google rating from locals who appreciate consistency and availability over frills.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "650",
+        "yelp": "3.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3596368729305957830",
+        "yelp": "https://www.yelp.com/biz/planet-fitness-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\planet_fitness_photo_1.jpg",
+        "all": [
+          "entity_photos\\planet_fitness_photo_1.jpg",
+          "entity_photos\\planet_fitness_photo_2.jpg",
+          "entity_photos\\planet_fitness_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "public_house",
       "type": "business",
       "name": "Public House",
@@ -3997,6 +5197,102 @@
           "entity_photos\\quad_city_botanical_center_photo_3.jpg",
           "entity_photos\\quad_city_botanical_center_photo_4.jpg",
           "entity_photos\\quad_city_botanical_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "r_richard_bittner_downtown_ymca",
+      "type": "business",
+      "name": "R. Richard Bittner Downtown YMCA",
+      "slug": "r-richard-bittner-downtown-ymca",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "630 East 4th Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-7171",
+      "website": "https://www.ymcaimv.org/locations/bittner/",
+      "hours": "Monday: 4:30 AM – 9:00 PM | Tuesday: 4:30 AM – 9:00 PM | Wednesday: 4:30 AM – 9:00 PM | Thursday: 4:30 AM – 9:00 PM | Friday: 4:30 AM – 8:00 PM | Saturday: 6:00 AM – 5:00 PM | Sunday: 7:00 AM – 4:00 PM",
+      "lat": "41.5241928",
+      "lng": "-90.5649032",
+      "description": "Downtown's serious gym with roots that run deep into Davenport.\n\nThe Bittner opens at 4:30 AM on weekdays—early enough to catch the pre-work crowd hitting the weights before the day gets loud. The equipment is well-maintained and thoughtfully arranged, the kind of gym where you can actually find a free barbell at 6 AM, and the staff knows regulars by name. It's the kind of place that feels less like a corporate fitness chain and more like infrastructure—the place Davenport has relied on for decades to stay strong.\n\nThe R. Richard Bittner Downtown YMCA sits right in the heart of Downtown Davenport, steps from the riverfront and the growing cluster of shops and restaurants that make this neighborhood worth knowing. It's the rare gym that earns perfect reviews on Yelp and near-perfect on Google—not through hype, but through consistency and genuine community investment. Once you're part of the morning rotation here, you understand why it keeps showing up on our list.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "308",
+        "yelp": "5.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14721949059236238502",
+        "yelp": "https://www.yelp.com/biz/maserenade-home-child-care-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\r_richard_bittner_downtown_ymca_photo_1.jpg",
+        "all": [
+          "entity_photos\\r_richard_bittner_downtown_ymca_photo_1.jpg",
+          "entity_photos\\r_richard_bittner_downtown_ymca_photo_2.jpg",
+          "entity_photos\\r_richard_bittner_downtown_ymca_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "rayz_barber_shop",
+      "type": "business",
+      "name": "Ray'z Barber Shop",
+      "slug": "rayz-barber-shop",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1150 East Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 386-8505",
+      "website": "http://www.rayzbs.com/",
+      "hours": "Monday: 9:00 AM – 6:00 PM | Tuesday: 9:00 AM – 6:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 8:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.5573274",
+      "lng": "-90.5578015",
+      "description": "A Davenport barbershop where the cuts are sharp and the wait is honest.\n\nRay'z has been the kind of place where you know what you're getting — clean lines, straightforward work, barbers who've been doing this long enough to know the difference between a fade that'll last two weeks and one that'll last three. The chairs fill up Saturday mornings and after work on Thursdays, which tells you something. Walk in without an appointment and you're looking at a real wait, but the regulars don't seem to mind; it's part of the rhythm.\n\nRay'z sits in Davenport proper, the kind of neighborhood barbershop that's become harder to find as chains move in. It's exactly the sort of place we profile in our guides — not because it's trendy or Instagram-ready, but because it actually serves the community that walks through its door, day after day, year after year.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "186",
+        "yelp": "3.2",
+        "yelp_count": "15"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9658186711259936318",
+        "yelp": "https://www.yelp.com/biz/rayz-barber-shop-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\rayz_barber_shop_photo_1.jpg",
+        "all": [
+          "entity_photos\\rayz_barber_shop_photo_1.jpg",
+          "entity_photos\\rayz_barber_shop_photo_2.jpg",
+          "entity_photos\\rayz_barber_shop_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -4242,6 +5538,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "rock_island_fitness_activity_center_rifac",
+      "type": "business",
+      "name": "Rock Island Fitness & Activity Center (RIFAC)",
+      "slug": "rock-island-fitness-activity-center-rifac",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "4303 24th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 732-7275",
+      "website": "http://www.rigov.org/RIFAC",
+      "hours": "Monday: 5:00 AM – 9:00 PM | Tuesday: 5:00 AM – 9:00 PM | Wednesday: 5:00 AM – 9:00 PM | Thursday: 5:00 AM – 9:00 PM | Friday: 5:00 AM – 8:00 PM | Saturday: 6:00 AM – 5:00 PM | Sunday: 8:00 AM – 4:00 PM",
+      "lat": "41.4693936",
+      "lng": "-90.5651395",
+      "description": "A no-frills municipal gym where locals actually show up.\n\nRIFAC opens at 5 a.m. on weekdays—early enough for the before-work crowd to get their cardio in before the day happens to them. The gym has the honest feel of a place built for people who use it, not people who photograph it: solid equipment, mirrors that need cleaning, a mix of serious lifters and folks just trying to keep moving. The pool is the real draw on hot summer days, and the early morning swim lanes fill fast with regulars who've been doing laps here for years.\n\nRIFAC sits in Rock Island proper, the kind of municipal investment that holds a community together—affordable, reliable, and genuinely useful to the people who live nearby. It's the sort of place that doesn't need our recommendation to succeed, but it deserves to be known as one of the QC's most honest fitness options, especially if you're looking to skip the boutique markup and just get to work.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "183",
+        "yelp": "4.0",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11891993569078601560",
+        "yelp": "https://www.yelp.com/biz/ultimate-fitness-rock-island-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\rock_island_fitness_activity_center_rifac_photo_1.jpg",
+        "all": [
+          "entity_photos\\rock_island_fitness_activity_center_rifac_photo_1.jpg",
+          "entity_photos\\rock_island_fitness_activity_center_rifac_photo_2.jpg",
+          "entity_photos\\rock_island_fitness_activity_center_rifac_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "roosters_sports_bar_grill",
       "type": "business",
       "name": "Rooster's Sports Bar & Grill",
@@ -4336,6 +5680,150 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "salon_aria_spa",
+      "type": "business",
+      "name": "Salon Aria + Spa",
+      "slug": "salon-aria-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "5260 Utica Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 359-5098",
+      "website": "http://www.salonaria.com/",
+      "hours": "Monday: 9:00 AM – 8:00 PM | Tuesday: 9:00 AM – 8:00 PM | Wednesday: 9:00 AM – 8:00 PM | Thursday: 9:00 AM – 8:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 8:00 AM – 5:00 PM | Sunday: Closed",
+      "lat": "41.5724776",
+      "lng": "-90.51550069999999",
+      "description": "A calm corner for color, cuts, and the kind of care that keeps you coming back.\n\nSalon Aria has the unhurried feel of a place where stylists actually listen — the kind of spot where a regular knows their colorist's weekend plans and walk-ins don't feel rushed through. The extended hours (open until 8 on weekdays) mean you can slip in after work without rearranging your whole day. Whether you're after a refresh or committing to a full transformation, the high Google rating speaks to consistency: people trust these hands with their hair.\n\nSalon Aria sits in Davenport, right in the middle of where most of us actually live and work. It's the type of neighborhood spot that builds loyal clients over years — the kind of place you end up recommending to a friend because you've genuinely had a good experience there. Once you find a stylist you trust, it becomes part of your routine.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "219",
+        "yelp": "3.3",
+        "yelp_count": "21"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=203118573123789154",
+        "yelp": "https://www.yelp.com/biz/salon-aria-spa-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\salon_aria_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\salon_aria_spa_photo_1.jpg",
+          "entity_photos\\salon_aria_spa_photo_2.jpg",
+          "entity_photos\\salon_aria_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "salon_halo",
+      "type": "business",
+      "name": "Salon Halo",
+      "slug": "salon-halo",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "2483 53rd Avenue",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 332-7225",
+      "website": "http://www.salonhalo.com/",
+      "hours": "Monday: 9:00 AM – 8:00 PM | Tuesday: 9:00 AM – 8:00 PM | Wednesday: 9:00 AM – 8:00 PM | Thursday: 9:00 AM – 8:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.574362",
+      "lng": "-90.49765049999999",
+      "description": "A neighborhood salon where the stylists actually listen and deliver.\n\nSalon Halo feels like the place where people book their first real haircut and then don't leave for years. The team knows the difference between what you ask for and what actually works for your face—and they'll gently nudge you toward the latter. Whether you're in for a blowout, color work, or just a trim that doesn't feel like a trim, there's a steadiness here that shows in the 4.9 rating and the fact that you'll need to book ahead on weekday evenings.\n\nBettendorf's got plenty of salons, but Salon Halo has built real loyalty by treating the work seriously and the clients better. It sits in a neighborhood that values both quality and reliability, and this place delivers on both counts—the kind of spot where you can trust the person in the chair, which is honestly all that matters. Once you find your stylist here, you'll understand why people stick around.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "341",
+        "yelp": "4.2",
+        "yelp_count": "29"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4505975559055112180",
+        "yelp": "https://www.yelp.com/biz/salon-halo-bettendorf-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\salon_halo_photo_1.jpg",
+        "all": [
+          "entity_photos\\salon_halo_photo_1.jpg",
+          "entity_photos\\salon_halo_photo_2.jpg",
+          "entity_photos\\salon_halo_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "salon_r5",
+      "type": "business",
+      "name": "Salon R5",
+      "slug": "salon-r5",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "3435 Spring Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 200-9134",
+      "website": "http://www.salonr5.com/",
+      "hours": "Monday: Closed | Tuesday: 9:30 AM – 6:30 PM | Wednesday: 9:30 AM – 6:30 PM | Thursday: 9:30 AM – 6:30 PM | Friday: 9:30 AM – 6:30 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: Closed",
+      "lat": "41.5550003",
+      "lng": "-90.5473098",
+      "description": "A tight, skilled salon where stylists know what they're doing.\n\nSalon R5 feels intentional—small enough that your stylist actually remembers you, professional enough that you trust them with the cut that matters. The ratings speak for themselves: people come back, and they bring their friends. Whether it's color work, a fresh cut, or something more involved, there's a quiet confidence in how they approach the chair.\n\nSalon R5 sits in Davenport, where word-of-mouth recommendations still carry real weight. It's the kind of place that shows up again and again in conversations among locals who care about where they spend their money—and their time. Once you've found a good stylist, you protect that information like it's gold.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "181",
+        "yelp": "4.4",
+        "yelp_count": "19"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4302164351995199342",
+        "yelp": "https://www.yelp.com/biz/salon-r5-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\salon_r5_photo_1.jpg",
+        "all": [
+          "entity_photos\\salon_r5_photo_1.jpg",
+          "entity_photos\\salon_r5_photo_2.jpg",
+          "entity_photos\\salon_r5_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "schwiebert_riverfront_park",
       "type": "place",
       "name": "Schwiebert Riverfront Park",
@@ -4386,6 +5874,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "serenity_salon_day_spa",
+      "type": "business",
+      "name": "Serenity Salon & Day Spa",
+      "slug": "serenity-salon-day-spa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "3915 16th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-2777",
+      "website": "http://www.serenityqc.com/",
+      "hours": "Monday: 9:00 AM – 8:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 8:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 4:00 PM | Saturday: 9:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.472522",
+      "lng": "-90.50735809999999",
+      "description": "Moline's quiet corner for facials, massage, and actual relaxation.\n\nSerenity lives up to its name — the kind of place where you exhale the moment you walk in. The therapists know their craft (the Google reviews keep coming back to skill), and they're not rushing you through a schedule. Whether you're there for a deep tissue massage to unknot your shoulders or a facial that actually addresses what your skin needs, the experience feels unhurried and intentional.\n\nSerenity Salon & Day Spa sits in Moline, a neighborhood with its own steady rhythm away from downtown's bustle. It's the rare local spa that builds real loyalty — 175 Google reviews and a 4.6 rating don't happen by accident. Once you find it, it becomes the kind of place you return to when you need to disappear for an hour.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "175",
+        "yelp": "3.8",
+        "yelp_count": "26"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17786321193961801080",
+        "yelp": "https://www.yelp.com/biz/serenity-salon-and-day-spa-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\serenity_salon_day_spa_photo_1.jpg",
+        "all": [
+          "entity_photos\\serenity_salon_day_spa_photo_1.jpg",
+          "entity_photos\\serenity_salon_day_spa_photo_2.jpg",
+          "entity_photos\\serenity_salon_day_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "sippis_american_grill_craft_beer",
       "type": "business",
       "name": "Sippis American Grill & Craft Beer",
@@ -4426,6 +5962,54 @@
           "entity_photos\\sippis_american_grill_craft_beer_photo_1.jpg",
           "entity_photos\\sippis_american_grill_craft_beer_photo_2.jpg",
           "entity_photos\\sippis_american_grill_craft_beer_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "smartstyle",
+      "type": "business",
+      "name": "SmartStyle",
+      "slug": "smartstyle",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "5811 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 441-0284",
+      "website": "https://www.smartstyle.com/locations/nearme/haircut/ia/davenport/5811-elmore-avenue/19171",
+      "hours": "Monday: 9:00 AM – 7:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 7:00 PM | Saturday: 8:00 AM – 5:00 PM | Sunday: 10:00 AM – 5:00 PM",
+      "lat": "41.5807393",
+      "lng": "-90.5247423",
+      "description": "Reliable haircuts and color in a bright, no-fuss Davenport salon.\n\nSmartStyle does what it does well — clean cuts, honest pricing, and stylists who listen. The Elmore Avenue location is bright and straightforward, no pretense, with a steady stream of regulars who've found their person and stick with them. Walk-ins are welcome, but booking ahead means you're not watching the clock.\n\nSmartStyle sits on the practical side of Davenport, easy to reach and easy to fit into a weekday errand run. It's the kind of place that works because it doesn't try to be anything other than what it is — a solid neighborhood salon where people actually get good haircuts, week after week.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "315",
+        "yelp": "3.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5890903969797574111",
+        "yelp": "https://www.yelp.com/biz/smartstyle-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\smartstyle_photo_1.jpg",
+        "all": [
+          "entity_photos\\smartstyle_photo_1.jpg",
+          "entity_photos\\smartstyle_photo_2.jpg",
+          "entity_photos\\smartstyle_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -4671,6 +6255,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "symmetry_beauty_lounge",
+      "type": "business",
+      "name": "Symmetry Beauty Lounge",
+      "slug": "symmetry-beauty-lounge",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "312 North Main Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 293-7220",
+      "website": "http://symmetrybeautylounge.com/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: Closed",
+      "lat": "41.522847",
+      "lng": "-90.575735",
+      "description": "Downtown's go-to for nails, lashes, and the kind of care that shows.\n\nSymmetry has earned its loyal following with consistent work and a staff that remembers what you asked for last time. Whether you're in for a manicure, lashes, or waxing, the vibe is unhurried—you're not being rushed through a chair. The space is calm and bright, the kind of place where the details matter: clean stations, quality products, and stylists who know the difference between a good set of lashes and a great one.\n\nSymmetry Beauty Lounge sits right in Downtown Davenport, close enough to grab lunch before or after an appointment. It's become a reliable anchor in the neighborhood—the kind of established spot that regulars return to month after month, which says everything about consistency in the beauty business. It's exactly the sort of local excellence our guides are built to highlight.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "217",
+        "yelp": "2.6",
+        "yelp_count": "5"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7651111590687599001",
+        "yelp": "https://www.yelp.com/biz/symmetry-beauty-lounge-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\symmetry_beauty_lounge_photo_1.jpg",
+        "all": [
+          "entity_photos\\symmetry_beauty_lounge_photo_1.jpg",
+          "entity_photos\\symmetry_beauty_lounge_photo_2.jpg",
+          "entity_photos\\symmetry_beauty_lounge_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "tls_java_joint_drive_thru",
       "type": "business",
       "name": "T&L's Java Joint Drive-Thru",
@@ -4906,6 +6538,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_bar_aesthetics_wellness_quad_cities_medspa",
+      "type": "business",
+      "name": "The Bar Aesthetics & Wellness - Quad Cities MedSpa",
+      "slug": "the-bar-aesthetics-wellness-quad-cities-medspa",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "1018 Mound Street",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 447-7477",
+      "website": "https://thebeautybarqc.com/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: Closed | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 1:00 – 4:00 PM | Sunday: Closed",
+      "lat": "41.53064819999999",
+      "lng": "-90.54663049999999",
+      "description": "Clinical skincare with a luxury touch in East Davenport.\n\nThe Bar Aesthetics & Wellness takes the guesswork out of a skincare routine — their practitioners actually listen to what your skin needs before recommending a treatment. The space itself is calm and clean in that way that makes you exhale the moment you walk in; it's the kind of place where you notice the quality of the light and the absence of sales pressure. Whether you're coming in for a consultation or a deeper treatment, you leave with a real plan, not just a receipt.\n\nTucked into the Village of East Davenport, The Bar sits apart from the busier downtown corridors but stays accessible to the whole QC. It's become the kind of place where people drive across town specifically for an appointment — the consistent 5-star ratings aren't accidental, and locals trust it enough to recommend it to friends. It belongs in our guides because it fills a gap: a med spa that actually delivers, without the pretense.",
+      "rating": {
+        "google": "5",
+        "google_count": "144",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3145291772973844327",
+        "yelp": "https://www.yelp.com/biz/revive-at-the-group-med-spa-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_bar_aesthetics_wellness_quad_cities_medspa_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_bar_aesthetics_wellness_quad_cities_medspa_photo_1.jpg",
+          "entity_photos\\the_bar_aesthetics_wellness_quad_cities_medspa_photo_2.jpg",
+          "entity_photos\\the_bar_aesthetics_wellness_quad_cities_medspa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_brewed_book_coffee_shop_used_book_store",
       "type": "business",
       "name": "The Brewed Book - Coffee Shop & Used Book Store",
@@ -5094,6 +6774,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_healing_touch_massage_studio",
+      "type": "business",
+      "name": "The Healing Touch Massage Studio",
+      "slug": "the-healing-touch-massage-studio",
+      "category": "Beauty & Wellness",
+      "subcategory": "",
+      "tags": [
+        "beauty",
+        "wellness"
+      ],
+      "attributes": [],
+      "address": "3815 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 205-8449",
+      "website": "http://thehealingtouchstudio.com/",
+      "hours": "Monday: 9:00 AM – 8:00 PM | Tuesday: 9:00 AM – 8:00 PM | Wednesday: 9:00 AM – 8:00 PM | Thursday: 9:00 AM – 8:00 PM | Friday: 9:00 AM – 8:00 PM | Saturday: 9:00 AM – 7:00 PM | Sunday: 9:00 AM – 8:00 PM",
+      "lat": "41.5589969",
+      "lng": "-90.5678449",
+      "description": "Deep-tissue work and genuine care from therapists who actually listen.\n\nThe Healing Touch doesn't feel like a spa — it feels like walking into someone's thoughtfully maintained sanctuary. The therapists take time before your appointment to understand what hurts, what you do all day, where the tension lives. During the massage itself, the pressure is firm but never punishing, the room stays quiet except for subtle music, and you leave feeling like someone took your shoulders seriously.\n\nThe Healing Touch sits in Davenport and keeps hours that actually work — open until 8 p.m. most nights and Sundays too, which means you can book after work instead of taking an afternoon off. With a 5-star rating across hundreds of reviews, it's become the kind of place locals return to again and again, whether they need recovery after a long week or just a reset they've been putting off too long.",
+      "rating": {
+        "google": "5",
+        "google_count": "712",
+        "yelp": "5.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9493290448018709835",
+        "yelp": "https://www.yelp.com/biz/the-healing-touch-massage-studio-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_healing_touch_massage_studio_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_healing_touch_massage_studio_photo_1.jpg",
+          "entity_photos\\the_healing_touch_massage_studio_photo_2.jpg",
+          "entity_photos\\the_healing_touch_massage_studio_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_java_lab_grind_dine_cafe",
       "type": "business",
       "name": "The Java Lab Grind & Dine Cafe",
@@ -5181,6 +6909,54 @@
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_1.jpg",
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_2.jpg",
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_vault_med_spa_body_sculpting",
+      "type": "business",
+      "name": "The Vault Med Spa + Body Sculpting",
+      "slug": "the-vault-med-spa-body-sculpting",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "229 Brady Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-1063",
+      "website": "https://www.thevaultdavenport.com/",
+      "hours": "Monday: Closed | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.5221366",
+      "lng": "-90.5735244",
+      "description": "Aesthetic treatments and body sculpting in a Downtown space that actually feels like a retreat.\n\nThe Vault operates with the quiet confidence of a place that knows what it does well — injectables, laser work, non-invasive body contouring, the kind of treatments that don't require downtime but deliver real results. The staff clearly takes time with consultations; you're not rushed through a menu of services. It's the sort of spot where regulars book their next appointment before they leave, and where the 4.8 rating across 140 reviews isn't luck — it's consistency.\n\nThe Vault sits in Downtown Davenport, a neighborhood that's quietly becoming the QC's wellness hub. It's the kind of place that deserves a spot in our guides because it fills a real need without the sterile clinical feel you'd expect — just good work, good care, and people who show up for their appointments. Once you've been, you'll likely be back.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "140",
+        "yelp": "5.0",
+        "yelp_count": "13"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2076604286210735413",
+        "yelp": "https://www.yelp.com/biz/the-vault-med-spa-body-sculpting-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_vault_med_spa_body_sculpting_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_vault_med_spa_body_sculpting_photo_1.jpg",
+          "entity_photos\\the_vault_med_spa_body_sculpting_photo_2.jpg",
+          "entity_photos\\the_vault_med_spa_body_sculpting_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5322,6 +7098,54 @@
           "entity_photos\\treehouse_pub_eatery_photo_1.jpg",
           "entity_photos\\treehouse_pub_eatery_photo_2.jpg",
           "entity_photos\\treehouse_pub_eatery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "ultimate_fitness",
+      "type": "business",
+      "name": "Ultimate Fitness",
+      "slug": "ultimate-fitness",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "810 Golden Valley Drive",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 355-4741",
+      "website": "http://www.qcultimatefitness.com/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5593692",
+      "lng": "-90.51979020000002",
+      "description": "A 24-hour Bettendorf gym that actually feels like your gym.\n\nUltimate Fitness opens at midnight and never closes—which means 5 a.m. lifters share the floor with night-shift workers squeezing in a session at 2 a.m. The place has the kind of equipment spread that doesn't force you to wait, and the regulars nod. You'll find serious weightlifters, people training for something specific, and folks just trying to move their body before work.\n\nUltimate Fitness sits in Bettendorf, the QC's quieter, residential east side—close enough to I-74 to be convenient, far enough from downtown to feel like a neighborhood spot. It's the kind of gym that earns repeat visitors and high ratings because it does the fundamentals right: equipment that works, hours that bend to your life, and a community that doesn't make you feel like you're in the way.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "159",
+        "yelp": "3.9",
+        "yelp_count": "16"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3666335673220363045",
+        "yelp": "https://www.yelp.com/biz/ultimate-fitness-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ultimate_fitness_photo_1.jpg",
+        "all": [
+          "entity_photos\\ultimate_fitness_photo_1.jpg",
+          "entity_photos\\ultimate_fitness_photo_2.jpg",
+          "entity_photos\\ultimate_fitness_photo_3.jpg"
         ]
       },
       "guides": [],
