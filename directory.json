@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T19:04:02.099133",
-  "total": 203,
+  "generated": "2026-06-04T19:40:35.118217",
+  "total": 205,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -4921,6 +4921,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "lopiez",
+      "type": "business",
+      "name": "Lopiez",
+      "slug": "lopiez",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "429 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 424-1130",
+      "website": "https://www.lopiezpizza.com/",
+      "hours": "Monday: Closed | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 12:00 AM | Saturday: 11:00 AM – 12:00 AM | Sunday: 11:00 AM – 10:00 PM",
+      "lat": "41.52219849999999",
+      "lng": "-90.5684943",
+      "description": "Brick-oven pizza that tastes like someone actually knows what they're doing.\n\nLopiez doesn't overthink it — the crust has char and air in equal measure, the toppings aren't fighting each other, and the room has the kind of energy that makes you want to linger over a second slice. It's the place downtown regulars circle back to on Friday nights, where the wood smoke drifts out onto the street and pulls people in. The bar's solid too, which means you're not choosing between good pizza and a good drink.\n\nLopiez sits in Downtown Davenport, a neighborhood that's quietly built itself into somewhere worth spending an evening. It's the kind of restaurant that anchors a neighborhood — consistent, unpretentious, and good enough that it shows up on our guides year after year. Once you've been, you'll understand why locals don't need to drive across the river to eat well.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "923",
+        "yelp": "4.1",
+        "yelp_count": "104"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11020141686051101872",
+        "yelp": "https://www.yelp.com/biz/lopiez-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lopiez_photo_1.jpg",
+        "all": [
+          "entity_photos\\lopiez_photo_1.jpg",
+          "entity_photos\\lopiez_photo_2.jpg",
+          "entity_photos\\lopiez_photo_3.jpg"
+        ]
+      },
+      "guides": [
+        "hidden-gems"
+      ],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "los_agaves_mexican_grill",
       "type": "business",
       "name": "Los Agaves Mexican Grill",
@@ -7975,6 +8024,58 @@
         ]
       },
       "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "sylvan_island",
+      "type": "place",
+      "name": "Sylvan Island",
+      "slug": "sylvan-island",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 524-2424",
+      "website": "",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5129153",
+      "lng": "-90.53651099999999",
+      "description": "Former factory grounds transformed into trail-threaded riverfront escape.\n\nSylvan Island feels like a secret the Quad Cities keeps to itself — a sprawling reclaimed landscape where crushed limestone paths wind through what used to be industrial river property. The trails are honest and unfussy, good for walking boots or bike tires depending on your mood, and the river views sneak up on you between the trees. It's the kind of place where you can disappear for an afternoon without leaving town, and the water is always close enough to hear.\n\nSylvan Island sits in Moline, just across the bridge from Rock Island and minutes from downtown — near enough to stop by on a weekday lunch break, far enough to feel like a real getaway. It's a working example of what the Quad Cities does best: taking its industrial past and turning it into space where people actually want to be. Once you've walked those trails, you'll find yourself coming back.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "474",
+        "yelp": "4.8",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11275677714627472775",
+        "yelp": "https://www.yelp.com/biz/sylvan-island-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\sylvan_island_photo_1.jpg",
+        "all": [
+          "entity_photos\\sylvan_island_photo_1.jpg",
+          "entity_photos\\sylvan_island_photo_2.jpg",
+          "entity_photos\\sylvan_island_photo_3.jpg",
+          "entity_photos\\sylvan_island_photo_4.jpg",
+          "entity_photos\\sylvan_island_photo_5.jpg"
+        ]
+      },
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
