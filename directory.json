@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T12:00:11.465583",
-  "total": 98,
+  "generated": "2026-06-04T12:22:49.188988",
+  "total": 117,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -569,6 +569,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "ben_butterworth_parkway_west",
+      "type": "place",
+      "name": "Ben Butterworth Parkway West",
+      "slug": "ben-butterworth-parkway-west",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "3000 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 524-2424",
+      "website": "https://www.moline.il.us/1149/Ben-Butterworth-Memorial-Parkway",
+      "hours": "Monday: 6:00 AM – 11:00 PM | Tuesday: 6:00 AM – 11:00 PM | Wednesday: 6:00 AM – 11:00 PM | Thursday: 6:00 AM – 11:00 PM | Friday: 6:00 AM – 11:00 PM | Saturday: 6:00 AM – 11:00 PM | Sunday: 6:00 AM – 11:00 PM",
+      "lat": "41.5142829",
+      "lng": "-90.4972829",
+      "description": "Fifty acres along the river where Moline slows down and breathes.\n\nBen Butterworth Parkway West stretches generously along the water's edge, with a fishing pier that extends into the Mississippi like an invitation. The paved trails are wide enough for walkers, runners, and families on bikes without anyone feeling crowded—even on Saturday mornings. There's a boat launch if you've got one ready, picnic shelters if you're planning ahead, and a playground where kids actually want to spend time, but the real draw is the simple fact of space: open green, river views, and the kind of quiet that feels rare in a city.\n\nBen Butterworth sits on Moline's riverfront, part of the QC's best-kept secret—that the Mississippi is genuinely walkable and beautiful here, not just a backdrop. It's the kind of park that anchors a neighborhood, where regulars know the best benches and which trails catch the light at golden hour. Once you've spent an afternoon here, you'll understand why it shows up on our guides again and again.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "803",
+        "yelp": "5.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14869799522577180855",
+        "yelp": "https://www.yelp.com/biz/law-offices-of-andrew-m-larson-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ben_butterworth_parkway_west_photo_1.jpg",
+        "all": [
+          "entity_photos\\ben_butterworth_parkway_west_photo_1.jpg",
+          "entity_photos\\ben_butterworth_parkway_west_photo_2.jpg",
+          "entity_photos\\ben_butterworth_parkway_west_photo_3.jpg",
+          "entity_photos\\ben_butterworth_parkway_west_photo_4.jpg",
+          "entity_photos\\ben_butterworth_parkway_west_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "bend_xpo",
       "type": "place",
       "name": "Bend XPO",
@@ -705,6 +755,106 @@
           "entity_photos\\bierstube_moline_photo_1.jpg",
           "entity_photos\\bierstube_moline_photo_2.jpg",
           "entity_photos\\bierstube_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "black_hawk_forest",
+      "type": "place",
+      "name": "Black Hawk Forest",
+      "slug": "black-hawk-forest",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 788-0177",
+      "website": "https://dnr.illinois.gov/inpc/area.area4rockislandblackhawkforest.html",
+      "hours": "Monday: 7:00 AM – 10:00 PM | Tuesday: 7:00 AM – 10:00 PM | Wednesday: 7:00 AM – 10:00 PM | Thursday: 7:00 AM – 10:00 PM | Friday: 7:00 AM – 10:00 PM | Saturday: 7:00 AM – 10:00 PM | Sunday: 7:00 AM – 10:00 PM",
+      "lat": "41.4665293",
+      "lng": "-90.57136589999999",
+      "description": "Thick woods and quiet trails where Rock Island's wild side still shows.\n\nBlack Hawk Forest sprawls across Rock Island like a secret the city keeps to itself — dense enough that you forget the roads are close by. The trails wind through mature hardwoods and past small clearings, and on a weekday morning you might have the whole place to yourself. It's the kind of green space that locals actually use, not just pass by, and the 7 AM opening means you can catch the woods before anyone else arrives.\n\nBlack Hawk Forest sits in Rock Island, a neighborhood with real character and genuine outdoor bones — close enough to downtown to reach in minutes, but far enough away to feel like actual escape. It's the kind of place that belongs on our guides because it's where the QC shows you what it was before the strip malls and highways, and reminds you why people chose to build a city here in the first place.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "711",
+        "yelp": "4.7",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12086852689968993792",
+        "yelp": "https://www.yelp.com/biz/black-hawk-state-historic-site-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\black_hawk_forest_photo_1.jpg",
+        "all": [
+          "entity_photos\\black_hawk_forest_photo_1.jpg",
+          "entity_photos\\black_hawk_forest_photo_2.jpg",
+          "entity_photos\\black_hawk_forest_photo_3.jpg",
+          "entity_photos\\black_hawk_forest_photo_4.jpg",
+          "entity_photos\\black_hawk_forest_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "black_hawk_state_historic_site",
+      "type": "place",
+      "name": "Black Hawk State Historic Site",
+      "slug": "black-hawk-state-historic-site",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "1510 46th Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 788-0177",
+      "website": "http://www.blackhawkpark.org/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM | Thursday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM | Friday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM | Saturday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM | Sunday: 9:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+      "lat": "41.4650494",
+      "lng": "-90.57645199999999",
+      "description": "Sacred ground and prairie where Sauk history runs deep.\n\nBlack Hawk State Historic Site sits on land the Sauk people called home for centuries—you can feel that continuity walking the rolling trails and open meadows. The visitor center holds artifacts and stories that ground you in the region's indigenous past, and the landscape itself is the real teacher: native prairie, oak savanna, and views that haven't changed in the ways that matter. It's quiet most weekdays, which means you might have the place almost to yourself.\n\nBlack Hawk is perched on Rock Island's eastern edge, far enough from downtown to feel like a real retreat but close enough for a morning or afternoon visit. It's one of those places the Quad Cities often overlooks—no crowds, no gift shop upsell—but it's exactly where locals take visiting friends who want to understand what this land actually is, and was.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "569",
+        "yelp": "4.7",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=257978511779993822",
+        "yelp": "https://www.yelp.com/biz/black-hawk-state-historic-site-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\black_hawk_state_historic_site_photo_1.jpg",
+        "all": [
+          "entity_photos\\black_hawk_state_historic_site_photo_1.jpg",
+          "entity_photos\\black_hawk_state_historic_site_photo_2.jpg",
+          "entity_photos\\black_hawk_state_historic_site_photo_3.jpg",
+          "entity_photos\\black_hawk_state_historic_site_photo_4.jpg",
+          "entity_photos\\black_hawk_state_historic_site_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -893,6 +1043,105 @@
           "entity_photos\\capriottis_sandwich_shop_photo_1.jpg",
           "entity_photos\\capriottis_sandwich_shop_photo_2.jpg",
           "entity_photos\\capriottis_sandwich_shop_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "celebration_river_cruises",
+      "type": "place",
+      "name": "Celebration River Cruises",
+      "slug": "celebration-river-cruises",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "2501 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-1952",
+      "website": "http://www.celebrationbelle.com/",
+      "hours": "Monday: 8:00 AM – 5:00 PM | Tuesday: 8:00 AM – 5:00 PM | Wednesday: 8:00 AM – 5:00 PM | Thursday: 8:00 AM – 5:00 PM | Friday: 8:00 AM – 5:00 PM | Saturday: 8:00 AM – 6:30 PM | Sunday: Closed",
+      "lat": "41.5141131",
+      "lng": "-90.50007269999999",
+      "description": "Paddlewheel views of the Mississippi from a real riverboat.\n\nCelebration River Cruises operates from Moline's riverfront, where you board an honest-to-goodness paddlewheel boat — the kind that actually looks like it belongs on the Mississippi. The cruises move slowly enough that you can watch the river traffic, spot eagles if you're lucky, and feel the weight of the water beneath you. It's the kind of outing that makes the river feel less like a landmark you drive past and more like the reason the Quad Cities exists.\n\nCelebration River Cruises sits on Moline's waterfront, steps from some of the QC's best river views and a natural fit for anyone wanting to actually experience the Mississippi rather than just admire it from shore. Whether you're marking an occasion or just looking for an afternoon that moves at water speed, it's the kind of distinctly local experience that belongs in our curated guides — the sort of thing visitors ask about, and locals sometimes forget to do.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "669",
+        "yelp": "3.9",
+        "yelp_count": "36"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6952690554039062271",
+        "yelp": "https://www.yelp.com/biz/celebration-river-cruises-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\celebration_river_cruises_photo_1.jpg",
+        "all": [
+          "entity_photos\\celebration_river_cruises_photo_1.jpg",
+          "entity_photos\\celebration_river_cruises_photo_2.jpg",
+          "entity_photos\\celebration_river_cruises_photo_3.jpg",
+          "entity_photos\\celebration_river_cruises_photo_4.jpg",
+          "entity_photos\\celebration_river_cruises_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "centennial_park",
+      "type": "place",
+      "name": "Centennial Park",
+      "slug": "centennial-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "315 South Marquette Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 328-7275",
+      "website": "http://www.cityofdavenportiowa.com/government/departments/parks_recreation/locations/centennial_park/",
+      "hours": "Monday: 6:00 AM – 9:00 PM | Tuesday: 6:00 AM – 9:00 PM | Wednesday: 6:00 AM – 9:00 PM | Thursday: 6:00 AM – 9:00 PM | Friday: 6:00 AM – 9:00 PM | Saturday: 6:00 AM – 9:00 PM | Sunday: 6:00 AM – 9:00 PM",
+      "lat": "41.5185249",
+      "lng": "-90.5884523",
+      "description": "250 acres of river trails, courts, and open green where Davenport actually plays.\n\nCentennial Park sprawls along the Mississippi like the QC's backyard—big enough that you can walk the riverside trails without feeling crowded, even on a Saturday morning. The dog area gets loud and happy; the skate park draws the right kind of focused energy; the gazebos dot the grass for picnics that stretch into evening. It's the kind of place where you see the same faces regularly—joggers on the paths, families on the courts, kids learning to push off a skateboard—because it actually works for how people spend their time.\n\nCentennial Park anchors Davenport's outdoor life in a way that matters. Open from 6 AM to 9 PM daily, it's woven into the routines of anyone who lives here—a place that shows up on our guides because it's genuinely essential to understanding how the QC moves, plays, and congregates. Once you've walked those riverside trails or watched the sunset from a bench, you understand why locals keep coming back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "873",
+        "yelp": "4.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=968197358119084151",
+        "yelp": "https://www.yelp.com/biz/centennial-park-dog-park-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\centennial_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\centennial_park_photo_1.jpg",
+          "entity_photos\\centennial_park_photo_2.jpg",
+          "entity_photos\\centennial_park_photo_3.jpg",
+          "entity_photos\\centennial_park_photo_4.jpg",
+          "entity_photos\\centennial_park_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -1276,6 +1525,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "crow_creek_dog_park",
+      "type": "place",
+      "name": "Crow Creek Dog Park",
+      "slug": "crow-creek-dog-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "4800 Devils Glen Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 344-4113",
+      "website": "https://www.bettendorf.org/departments/parks___recreation/parks___trails/crow_creek_dog_park.php",
+      "hours": "",
+      "lat": "41.5707221",
+      "lng": "-90.4798781",
+      "description": "Off-leash acres where your dog actually gets tired out.\n\nCrow Creek has the space that smaller neighborhood parks can't touch — your dog can actually run, and you can actually watch them do it without anxiety. The grounds roll enough to feel like real terrain, and there's enough shade scattered through that you're not cooking on a summer afternoon. Regulars know the rhythm: mornings are calmer, weekends bring the pack, and there's always someone who knows which dogs play well together.\n\nCrow Creek sits in Bettendorf, just east of the river — far enough from downtown to have real elbow room, close enough that it's a natural stop if you're already exploring that side of the QC. It's the kind of place that dog owners talk about, the one they actually drive to instead of settling for the closer option. If you've got a dog and you live here, this place earns its spot on your regular rotation.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "838",
+        "yelp": "4.7",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14868031120456648091",
+        "yelp": "https://www.yelp.com/biz/crow-creek-park-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\crow_creek_dog_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\crow_creek_dog_park_photo_1.jpg",
+          "entity_photos\\crow_creek_dog_park_photo_2.jpg",
+          "entity_photos\\crow_creek_dog_park_photo_3.jpg",
+          "entity_photos\\crow_creek_dog_park_photo_4.jpg",
+          "entity_photos\\crow_creek_dog_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "dead_poets_espresso_ltd",
       "type": "business",
       "name": "Dead Poet’s Espresso Ltd",
@@ -1316,6 +1615,56 @@
           "entity_photos\\dead_poets_espresso_ltd_photo_1.jpg",
           "entity_photos\\dead_poets_espresso_ltd_photo_2.jpg",
           "entity_photos\\dead_poets_espresso_ltd_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "devils_glen_park",
+      "type": "place",
+      "name": "Devils Glen Park",
+      "slug": "devils-glen-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "1101 Devils Glen Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 344-4113",
+      "website": "https://www.bettendorf.org/business_detail_T10_R8.php",
+      "hours": "Monday: 6:00 AM – 10:30 PM | Tuesday: 6:00 AM – 10:30 PM | Wednesday: 6:00 AM – 10:30 PM | Thursday: 6:00 AM – 10:30 PM | Friday: 6:00 AM – 10:30 PM | Saturday: 6:00 AM – 10:30 PM | Sunday: 6:00 AM – 10:30 PM",
+      "lat": "41.534724",
+      "lng": "-90.47967609999999",
+      "description": "Wooded creek trails and disc golf in Bettendorf's best-kept outdoor corner.\n\nDevils Glen feels like the QC's secret — the kind of park where you can actually hear the creek over the trees. The trails wind close enough to the water that you'll spot it through the brush, and they're worn enough to know they're used but not so packed that it feels crowded. If you're throwing disc, the course threads through the same woods, and if you're just here with kids or a dog, the playground and fire pit area give you reasons to linger past sunset.\n\nDevils Glen sits on Bettendorf's east side, far enough from downtown to feel genuinely removed but close enough that it's a 10-minute drive from most of the city. It's the kind of place that rewards a second visit — once you know the trails, you'll find yourself coming back on weekday mornings or weekend afternoons, depending on your mood. The park opens early and stays open late, which means it works whether you're looking for a quick morning walk or an evening with a fire.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "557",
+        "yelp": "4.3",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17470090152996455421",
+        "yelp": "https://www.yelp.com/biz/veterans-memorial-park-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\devils_glen_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\devils_glen_park_photo_1.jpg",
+          "entity_photos\\devils_glen_park_photo_2.jpg",
+          "entity_photos\\devils_glen_park_photo_3.jpg",
+          "entity_photos\\devils_glen_park_photo_4.jpg",
+          "entity_photos\\devils_glen_park_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -1605,6 +1954,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "family_museum",
+      "type": "place",
+      "name": "Family Museum",
+      "slug": "family-museum",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "2900 Learning Campus Drive",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 344-4106",
+      "website": "http://www.familymuseum.org/",
+      "hours": "Monday: 9:00 AM – 6:00 PM | Tuesday: 9:00 AM – 6:00 PM | Wednesday: 9:00 AM – 6:00 PM | Thursday: 9:00 AM – 6:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: Closed",
+      "lat": "41.5525747",
+      "lng": "-90.5023363",
+      "description": "A hands-on museum where kids actually want to spend the afternoon.\n\nThe Family Museum in Bettendorf is the rare place where your kids run toward the exhibits instead of away from them. The play-based setup means they're learning about art and science without realizing it — building, experimenting, dancing through the galleries instead of standing still in front of glass cases. The energy is purposeful but not chaotic; you can actually breathe while your kids are engaged.\n\nThe Family Museum sits in Bettendorf, across the river and worth the drive when you need a morning or afternoon that doesn't involve a screen. It's the kind of cultural anchor that makes the QC feel like a place where families can actually root themselves — the sort of spot that turns a Saturday into something memorable instead of just something to survive.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "1043",
+        "yelp": "4.8",
+        "yelp_count": "26"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14510453226901110368",
+        "yelp": "https://www.yelp.com/biz/family-museum-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\family_museum_photo_1.jpg",
+        "all": [
+          "entity_photos\\family_museum_photo_1.jpg",
+          "entity_photos\\family_museum_photo_2.jpg",
+          "entity_photos\\family_museum_photo_3.jpg",
+          "entity_photos\\family_museum_photo_4.jpg",
+          "entity_photos\\family_museum_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "famous_daves_bar_b_que",
       "type": "business",
       "name": "Famous Dave's Bar-B-Que",
@@ -1645,6 +2044,105 @@
           "entity_photos\\famous_daves_bar_b_que_photo_1.jpg",
           "entity_photos\\famous_daves_bar_b_que_photo_2.jpg",
           "entity_photos\\famous_daves_bar_b_que_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "figge_art_museum",
+      "type": "place",
+      "name": "Figge Art Museum",
+      "slug": "figge-art-museum",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "225 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 326-7804",
+      "website": "http://www.figgeartmuseum.org/",
+      "hours": "Monday: Closed | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 12:00 – 5:00 PM",
+      "lat": "41.5207076",
+      "lng": "-90.5764063",
+      "description": "A serious art museum with Wright's fingerprints and work that stops you cold.\n\nThe Figge sits right on the river in a building that commands attention, and inside, the collection feels bigger than you'd expect—Frank Lloyd Wright drawings that show his thinking, international pieces that remind you art doesn't end at the Mississippi, and rotating shows that actually take risks. Thursday nights stretch the hours to 8 p.m., which means you can wander the galleries after work and end up standing in front of something that changes how you see the QC. The gift shop is genuinely curated, not the usual museum store filler.\n\nThe Figge anchors downtown Davenport's cultural spine, a short walk from the riverfront and the kind of place that justifies a whole afternoon or a quick hour depending on your mood. It's where locals bring visiting friends when they want to prove the QC has depth, and where you'll find yourself coming back—not out of obligation, but because there's always something new on the walls.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "1084",
+        "yelp": "4.7",
+        "yelp_count": "41"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13214968103028559336",
+        "yelp": "https://www.yelp.com/biz/figge-art-museum-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\figge_art_museum_photo_1.jpg",
+        "all": [
+          "entity_photos\\figge_art_museum_photo_1.jpg",
+          "entity_photos\\figge_art_museum_photo_2.jpg",
+          "entity_photos\\figge_art_museum_photo_3.jpg",
+          "entity_photos\\figge_art_museum_photo_4.jpg",
+          "entity_photos\\figge_art_museum_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "freight_house_farmers_market",
+      "type": "place",
+      "name": "Freight House Farmers Market",
+      "slug": "freight-house-farmers-market",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "421 West River Drive",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 770-3436",
+      "website": "http://www.freighthousefarmersmarket.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: Closed | Thursday: Closed | Friday: Closed | Saturday: 8:00 AM – 2:00 PM | Sunday: 10:00 AM – 2:00 PM",
+      "lat": "41.52002210000001",
+      "lng": "-90.5805073",
+      "description": "Saturday and Sunday mornings where local farmers sell what they actually grew.\n\nThe Freight House fills with vendors before 8 a.m. on Saturdays — farmers with dirt still under their fingernails, bakers whose bread is still warm, preserves in mason jars that taste like someone's recipe, not a formula. You'll find the regulars staking the same spots week to week, which means if you want the good tomatoes or the fresh eggs, you show up early. It's the kind of place where the person selling you something grew it themselves, which changes how the whole transaction feels.\n\nFreight House Farmers Market sits in Downtown Davenport, a neighborhood that's learned to do community gathering well — the riverfront, the restaurants, the galleries all within walking distance. Weekend mornings here have become a ritual for people who care about where their food comes from, and once you've bought from the farmers directly, the grocery store starts to feel like a step backward. It's worth building your Saturday or Sunday around.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "2107",
+        "yelp": "4.3",
+        "yelp_count": "28"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1446753268561690515",
+        "yelp": "https://www.yelp.com/biz/freight-house-farmers-market-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\freight_house_farmers_market_photo_1.jpg",
+        "all": [
+          "entity_photos\\freight_house_farmers_market_photo_1.jpg",
+          "entity_photos\\freight_house_farmers_market_photo_2.jpg",
+          "entity_photos\\freight_house_farmers_market_photo_3.jpg",
+          "entity_photos\\freight_house_farmers_market_photo_4.jpg",
+          "entity_photos\\freight_house_farmers_market_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -2162,6 +2660,56 @@
           "entity_photos\\jennies_boxcar_photo_1.jpg",
           "entity_photos\\jennies_boxcar_photo_2.jpg",
           "entity_photos\\jennies_boxcar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "john_deere_pavilion",
+      "type": "place",
+      "name": "John Deere Pavilion",
+      "slug": "john-deere-pavilion",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "1400 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 765-1000",
+      "website": "https://www.deere.com/en/connect-with-john-deere/visit-john-deere/pavilion/",
+      "hours": "Monday: 1:00 – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: Closed",
+      "lat": "41.5076168",
+      "lng": "-90.5178983",
+      "description": "Green machines and lever-pulling wonder for anyone who's ever loved heavy equipment.\n\nThe John Deere Pavilion is exactly what it promises — a shrine to tractors and the engineering that built the Midwest. You'll find yourself in front of gleaming vintage and current models, many of them interactive: pull a lever, watch hydraulics move, understand why farmers care about this stuff. The hands-on exhibits beat passively reading about agricultural history, and the educational films add texture to what you're seeing on the floor.\n\nTucked in Moline, the Pavilion lives at the heart of John Deere country — this is where the company's roots run deepest, and the museum reflects that pride without apology. It's the kind of place that works for kids burning off energy, for adults who grew up around equipment, and for anyone curious about the machines that shaped the region. Once you understand the connection between John Deere and the Quad Cities' identity, a visit here stops being a tourist checkbox and starts making sense.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "1943",
+        "yelp": "4.5",
+        "yelp_count": "43"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2349965116648774919",
+        "yelp": "https://www.yelp.com/biz/john-deere-pavilion-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\john_deere_pavilion_photo_1.jpg",
+        "all": [
+          "entity_photos\\john_deere_pavilion_photo_1.jpg",
+          "entity_photos\\john_deere_pavilion_photo_2.jpg",
+          "entity_photos\\john_deere_pavilion_photo_3.jpg",
+          "entity_photos\\john_deere_pavilion_photo_4.jpg",
+          "entity_photos\\john_deere_pavilion_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -2829,6 +3377,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "malibu_jacks_quad_cities",
+      "type": "place",
+      "name": "Malibu Jack's Quad Cities",
+      "slug": "malibu-jacks-quad-cities",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "858 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 552-0046",
+      "website": "https://www.malibujacksquadcities.com/",
+      "hours": "Monday: 11:00 AM – 7:00 PM | Tuesday: 11:00 AM – 7:00 PM | Wednesday: 11:00 AM – 7:00 PM | Thursday: 11:00 AM – 7:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 12:00 – 8:00 PM",
+      "lat": "41.5400632",
+      "lng": "-90.5211508",
+      "description": "Indoor mini golf and arcade games in a neon-lit Bettendorf barn.\n\nMalibu Jack's is the kind of place that works just as well for a rainy Tuesday afternoon as it does for a birthday party on Saturday night. The mini golf courses wind through themed rooms with enough personality to keep you grinning between putts — and the arcade section hums with the particular energy of skee-ball, racing games, and those claw machines that somehow always feel winnable. It's bright, it's loud in the best way, and there's enough here to kill a few hours without feeling like you're just killing time.\n\nMalibu Jack's sits in Bettendorf, the QC's reliably solid eastern anchor, and it's the kind of indoor attraction that actually earns its spot on a rainy weekend or a school day off. It fills a real gap in the area — a place where kids and adults alike can burn some energy and have a genuine good time together. Once you've spent an afternoon here, you'll remember it the next time you're looking for something to do.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "2191",
+        "yelp": "3.6",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6783902186736404866",
+        "yelp": "https://www.yelp.com/biz/malibu-jacks-quad-cities-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\malibu_jacks_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\malibu_jacks_quad_cities_photo_1.jpg",
+          "entity_photos\\malibu_jacks_quad_cities_photo_2.jpg",
+          "entity_photos\\malibu_jacks_quad_cities_photo_3.jpg",
+          "entity_photos\\malibu_jacks_quad_cities_photo_4.jpg",
+          "entity_photos\\malibu_jacks_quad_cities_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mantra_indian_cuisine_spirits",
       "type": "business",
       "name": "Mantra Indian Cuisine & Spirits",
@@ -2876,6 +3473,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "mcmanus_park",
+      "type": "place",
+      "name": "McManus Park",
+      "slug": "mcmanus-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "1200 Mississippi Boulevard",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 344-4113",
+      "website": "https://www.bettendorf.org/business_detail_T10_R27.php",
+      "hours": "Monday: 12:00 AM – 10:30 PM | Tuesday: 12:00 AM – 10:30 PM | Wednesday: 12:00 AM – 10:30 PM | Thursday: 12:00 AM – 10:30 PM | Friday: 12:00 AM – 10:30 PM | Saturday: 12:00 AM – 10:30 PM | Sunday: 12:00 AM – 10:30 PM",
+      "lat": "41.5291812",
+      "lng": "-90.5154453",
+      "description": "Bettendorf's green anchor—ball fields, trails, and room to breathe.\n\nMcManus Park sprawls across Bettendorf like the town's living room, with baseball diamonds that host everything from little league to summer tournaments, and trails that wind through actual quiet. Families stake out picnic tables on weekends; kids disappear into the open grass while parents watch from the bleachers. It's the kind of place where you can show up without a plan and find exactly what you came for.\n\nMcManus Park anchors Bettendorf's park system and shows up constantly in conversations with locals about where to spend a Saturday afternoon. It's the sort of destination that works whether you're raising kids in the area, visiting family, or just looking for a green space that feels genuinely lived-in. Once you know it's there, you'll find yourself back.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "519",
+        "yelp": "3.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7995197741506503724",
+        "yelp": "https://www.yelp.com/biz/mcmanus-park-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mcmanus_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\mcmanus_park_photo_1.jpg",
+          "entity_photos\\mcmanus_park_photo_2.jpg",
+          "entity_photos\\mcmanus_park_photo_3.jpg",
+          "entity_photos\\mcmanus_park_photo_4.jpg",
+          "entity_photos\\mcmanus_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "me_billy",
       "type": "business",
       "name": "Me & Billy",
@@ -2916,6 +3563,56 @@
           "entity_photos\\me_billy_photo_1.jpg",
           "entity_photos\\me_billy_photo_2.jpg",
           "entity_photos\\me_billy_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "middle_park",
+      "type": "place",
+      "name": "Middle Park",
+      "slug": "middle-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "2220 23rd Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 344-4113",
+      "website": "https://www.bettendorf.org/business_detail_T10_R29.php",
+      "hours": "Monday: 8:00 AM – 10:30 PM | Tuesday: 8:00 AM – 10:30 PM | Wednesday: 8:00 AM – 10:30 PM | Thursday: 8:00 AM – 10:30 PM | Friday: 8:00 AM – 10:30 PM | Saturday: 8:00 AM – 10:30 PM | Sunday: 8:00 AM – 10:30 PM",
+      "lat": "41.5456769",
+      "lng": "-90.49993090000001",
+      "description": "Bettendorf's centerpiece park—open dawn to late evening, year-round.\n\nMiddle Park is the kind of sprawling green space that anchors a town, with room to breathe and actual things to do. Whether you're pushing a stroller along the paths, letting kids loose on the playground, or finding a quiet bench to watch the seasons change, the park feels genuinely used—not manicured into sterility. The extended hours (open until 10:30 p.m. most nights) mean you can catch it at golden hour or even swing by for an evening walk without rushing.\n\nMiddle Park sits in Bettendorf proper, just minutes from the river and the wider QC landscape. It's the kind of reliable anchor that locals return to again and again—a place that deserves a spot in our guides not for being showy, but for being genuinely good at what it does: giving the community a place to gather, move, and simply exist outdoors.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "572",
+        "yelp": "4.7",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13291700247348794800",
+        "yelp": "https://www.yelp.com/biz/crow-creek-park-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\middle_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\middle_park_photo_1.jpg",
+          "entity_photos\\middle_park_photo_2.jpg",
+          "entity_photos\\middle_park_photo_3.jpg",
+          "entity_photos\\middle_park_photo_4.jpg",
+          "entity_photos\\middle_park_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -3208,6 +3905,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "putnam_museum_and_science_center",
+      "type": "place",
+      "name": "Putnam Museum and Science Center",
+      "slug": "putnam-museum-and-science-center",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "1717 West 12th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 324-1933",
+      "website": "http://www.putnam.org/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 12:00 – 5:00 PM",
+      "lat": "41.5310929",
+      "lng": "-90.6019785",
+      "description": "Natural history and hands-on science under one historic roof.\n\nThe Putnam sits on Davenport's riverfront like a repository of curiosities—and it actually is one. Inside, you'll find taxidermied animals from regional hunts, Indigenous artifacts that anchor the QC's actual history, and science exhibits that work equally well for restless eight-year-olds and adults who've forgotten how pulleys function. The planetarium shows run on weekends, the building itself (a brick mansion-turned-museum) feels appropriately serious about its work, and the gift shop lingers in your mind longer than you'd expect.\n\nThe Putnam Museum sits on Davenport's riverfront, a ten-minute walk from downtown and an easy anchor for a full afternoon—pair it with lunch in the District or a walk along the Mississippi. It's the kind of place that belongs in our guides because it's genuinely rooted in the region's identity, not a chain or a franchise, and because locals keep returning to it across generations. Once you've spent an hour here, you'll understand why the QC takes its natural history seriously.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "1527",
+        "yelp": "3.9",
+        "yelp_count": "32"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15825309762669489325",
+        "yelp": "https://www.yelp.com/biz/putnam-museum-and-science-center-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\putnam_museum_and_science_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\putnam_museum_and_science_center_photo_1.jpg",
+          "entity_photos\\putnam_museum_and_science_center_photo_2.jpg",
+          "entity_photos\\putnam_museum_and_science_center_photo_3.jpg",
+          "entity_photos\\putnam_museum_and_science_center_photo_4.jpg",
+          "entity_photos\\putnam_museum_and_science_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "quad_city_botanical_center",
       "type": "place",
       "name": "Quad City Botanical Center",
@@ -3445,6 +4192,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "riverside_park",
+      "type": "place",
+      "name": "Riverside Park",
+      "slug": "riverside-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "1004 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 524-2000",
+      "website": "https://www.moline.il.us/1163/Riverside-Park",
+      "hours": "Monday: 6:00 AM – 11:00 PM | Tuesday: 6:00 AM – 11:00 PM | Wednesday: 6:00 AM – 11:00 PM | Thursday: 6:00 AM – 11:00 PM | Friday: 6:00 AM – 11:00 PM | Saturday: 6:00 AM – 11:00 PM | Sunday: 6:00 AM – 11:00 PM",
+      "lat": "41.50957830000001",
+      "lng": "-90.4946107",
+      "description": "Fifty-five acres where the QC's families actually spend their summer afternoons.\n\nRiverside Park spreads across the Moline riverfront like it was built for exactly what people want to do here — swim at the pool on a hot July day, let the kids burn energy on the fields, grab an ice time in winter when the rink opens. The park has real infrastructure, real maintenance, real shade trees. On any given Saturday you'll find Little League games happening simultaneously while toddlers work the playground and someone's grilling near the picnic tables. It's the kind of place that feels lived-in because it actually is.\n\nRiverside Park sits on Moline's riverfront, anchoring the Illinois side of the QC's outdoor recreation. It's the park that shows up in family stories and weekend routines — the one locals return to season after season. If you're new to the area or planning a day with kids, this is where you learn how the community actually plays.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "513",
+        "yelp": "3.3",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10723130018936354061",
+        "yelp": "https://www.yelp.com/biz/riverside-park-and-riverslide-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\riverside_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\riverside_park_photo_1.jpg",
+          "entity_photos\\riverside_park_photo_2.jpg",
+          "entity_photos\\riverside_park_photo_3.jpg",
+          "entity_photos\\riverside_park_photo_4.jpg",
+          "entity_photos\\riverside_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "roosters_sports_bar_grill",
       "type": "business",
       "name": "Rooster's Sports Bar & Grill",
@@ -3532,6 +4329,56 @@
           "entity_photos\\rozz_tox_photo_1.jpg",
           "entity_photos\\rozz_tox_photo_2.jpg",
           "entity_photos\\rozz_tox_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "schwiebert_riverfront_park",
+      "type": "place",
+      "name": "Schwiebert Riverfront Park",
+      "slug": "schwiebert-riverfront-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "101 17th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 732-7275",
+      "website": "http://www.rigov.org/Facilities.aspx?Page=detail&RID=34",
+      "hours": "Monday: 6:00 AM – 10:00 PM | Tuesday: 6:00 AM – 10:00 PM | Wednesday: 6:00 AM – 10:00 PM | Thursday: 6:00 AM – 10:00 PM | Friday: 6:00 AM – 10:00 PM | Saturday: 6:00 AM – 10:00 PM | Sunday: 6:00 AM – 10:00 PM",
+      "lat": "41.51261110000001",
+      "lng": "-90.57450779999999",
+      "description": "Where Rock Island gathers to watch the river and let the kids loose.\n\nSchwiebert is the kind of park that gets busy on purpose — families staking out picnic tables, kids running between the playground and splash pad, locals walking the river path at dusk. The water views aren't an afterthought here; they're the whole point. There's a real outdoor music area that hosts events, turning summer evenings into the kind of casual gathering that defines a neighborhood.\n\nSchwiebert sits on Rock Island's riverfront, one of the QC's most underrated stretches of the Mississippi. It's the kind of place that works year-round — a quick stop for playground energy on a weekday afternoon, or a destination on a summer weekend when the concerts start. Once you've spent an evening here, you understand why Rock Island residents keep coming back.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "904",
+        "yelp": "4.7",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4512060185168741718",
+        "yelp": "https://www.yelp.com/biz/black-hawk-state-historic-site-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\schwiebert_riverfront_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\schwiebert_riverfront_park_photo_1.jpg",
+          "entity_photos\\schwiebert_riverfront_park_photo_2.jpg",
+          "entity_photos\\schwiebert_riverfront_park_photo_3.jpg",
+          "entity_photos\\schwiebert_riverfront_park_photo_4.jpg",
+          "entity_photos\\schwiebert_riverfront_park_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -3720,6 +4567,56 @@
           "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_1.jpg",
           "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_2.jpg",
           "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "sunderbruch_park",
+      "type": "place",
+      "name": "Sunderbruch Park",
+      "slug": "sunderbruch-park",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "4675 Telegraph Road",
+      "city": "Davenport",
+      "neighborhood": "West Davenport",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 328-7275",
+      "website": "http://www.cityofdavenportiowa.com/parks",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5201216",
+      "lng": "-90.64248820000002",
+      "description": "West Davenport's quiet anchor for trails, horses, and long weekend mornings.\n\nSunderbruch Park spreads across enough acreage that you can actually lose the road noise—rare in Davenport proper. The trail system winds through actual woods (not just mowed grass), and you'll see regulars on horseback as often as on foot, which tells you the paths are maintained with more than one kind of user in mind. Picnic shelters dot the property for the kind of low-key gathering that doesn't require reservations or permits—just show up, claim a table, and spend an afternoon here.\n\nSunderbruch sits in West Davenport, a quieter residential pocket that doesn't get the downtown buzz but rewards those who venture out. It's the kind of park that locals return to again and again—for a solo run before work, a horseback ride on a Saturday, or a simple picnic with people you've known for years. The ratings speak for themselves: nearly perfect across the board, from people who clearly know the place well.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "529",
+        "yelp": "5.0",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17973172627714491860",
+        "yelp": "https://www.yelp.com/biz/sunderbruch-park-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\sunderbruch_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\sunderbruch_park_photo_1.jpg",
+          "entity_photos\\sunderbruch_park_photo_2.jpg",
+          "entity_photos\\sunderbruch_park_photo_3.jpg",
+          "entity_photos\\sunderbruch_park_photo_4.jpg",
+          "entity_photos\\sunderbruch_park_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -4472,6 +5369,55 @@
           "entity_photos\\up_skybar_lounge_photo_1.jpg",
           "entity_photos\\up_skybar_lounge_photo_2.jpg",
           "entity_photos\\up_skybar_lounge_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "vander_veer_botanical_park",
+      "type": "place",
+      "name": "Vander Veer Botanical Park",
+      "slug": "vander-veer-botanical-park",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "215 West Central Park Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 326-7818",
+      "website": "https://davenportiowa.com/government/departments/parks_recreation/locations/vander_veer_botanical_park",
+      "hours": "Monday: Closed | Tuesday: 10:00 AM – 4:00 PM | Wednesday: 10:00 AM – 4:00 PM | Thursday: 10:00 AM – 4:00 PM | Friday: 10:00 AM – 4:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: 10:00 AM – 4:00 PM",
+      "lat": "41.5442018",
+      "lng": "-90.57484579999999",
+      "description": "140 years of roses, greenhouses, and quiet afternoons in Davenport.\n\nVander Veer feels like the kind of place that's been breathing the same air since 1885 — because it has. The rose garden is the real draw, especially in bloom season when the smell hits you before you round the corner. Inside the greenhouse, humid air and the smell of soil remind you why people used to spend entire afternoons just walking around looking at things growing.\n\nVander Veer sits on the northwest side of Davenport, far enough from downtown to feel like genuine escape but close enough that it's never a production to get there. It's the kind of destination — old, free or nearly free, genuinely beautiful — that shows up on every list of \"things locals actually do\" because locals actually do go there, season after season, year after year.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "2764",
+        "yelp": "4.8",
+        "yelp_count": "12"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9332712320815799201",
+        "yelp": "https://www.yelp.com/biz/vander-veer-botanical-park-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\vander_veer_botanical_park_photo_1.jpg",
+        "all": [
+          "entity_photos\\vander_veer_botanical_park_photo_1.jpg",
+          "entity_photos\\vander_veer_botanical_park_photo_2.jpg",
+          "entity_photos\\vander_veer_botanical_park_photo_3.jpg",
+          "entity_photos\\vander_veer_botanical_park_photo_4.jpg",
+          "entity_photos\\vander_veer_botanical_park_photo_5.jpg"
         ]
       },
       "guides": [],
