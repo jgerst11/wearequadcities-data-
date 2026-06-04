@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T14:50:15.379620",
-  "total": 191,
+  "generated": "2026-06-04T14:53:59.705675",
+  "total": 192,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -3537,10 +3537,10 @@
       "type": "business",
       "name": "Gulliver's Travel Duck Creek",
       "slug": "gullivers-travel-duck-creek",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "other"
+        "professional_services"
       ],
       "attributes": [],
       "address": "874 Middle Road",
@@ -3820,10 +3820,10 @@
       "type": "business",
       "name": "Horizon Movers and Climate Controlled Storage",
       "slug": "horizon-movers-and-climate-controlled-storage",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "other"
+        "professional_services"
       ],
       "attributes": [],
       "address": "10981 118th St",
@@ -5335,6 +5335,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "mississippi_valley_fair",
+      "type": "business",
+      "name": "Mississippi Valley Fair",
+      "slug": "mississippi-valley-fair",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "2815 West Locust Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 326-5338",
+      "website": "http://www.mvfair.com/",
+      "hours": "Monday: 8:00 AM – 4:00 PM | Tuesday: 8:00 AM – 4:00 PM | Wednesday: 8:00 AM – 4:00 PM | Thursday: 8:00 AM – 4:00 PM | Friday: 8:00 AM – 4:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5370824",
+      "lng": "-90.6193744",
+      "description": "A century-old county fair that still feels like genuine community tradition.\n\nThe Mississippi Valley Fair arrives each August with the kind of earnest midway energy that hasn't been smoothed away by corporate polish — corn dogs, livestock competitions, and the Ferris wheel against the river bluffs. The crowds are real Quad Citians, families who've been coming back for years, kids in 4-H shirts leading their animals through the barns, neighbors bumping into neighbors at the beer garden. It's the kind of place where the fair is still actually *about* the fair — not themed experiences or Instagram moments, but prize ribbons and funnel cakes and the satisfaction of a well-raised steer.\n\nThe fair happens on the grounds right along the Mississippi River in Davenport, making it one of those QC institutions that feels woven into the region's DNA. If you want to understand how the Quad Cities actually gathers and celebrates together — away from polished downtown attractions — this is where to look. It's messy and sprawling and genuine, which is exactly why it keeps drawing people back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1188",
+        "yelp": "2.0",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10581299875776034727",
+        "yelp": "https://www.yelp.com/biz/mississippi-valley-fair-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mississippi_valley_fair_photo_1.jpg",
+        "all": [
+          "entity_photos\\mississippi_valley_fair_photo_1.jpg",
+          "entity_photos\\mississippi_valley_fair_photo_2.jpg",
+          "entity_photos\\mississippi_valley_fair_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mo_bradys_steakhouse",
       "type": "business",
       "name": "Mo Brady's Steakhouse",
@@ -5483,10 +5530,10 @@
       "type": "business",
       "name": "Monson Full Service Towing",
       "slug": "monson-full-service-towing",
-      "category": "Automotive",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "automotive"
+        "professional_services"
       ],
       "attributes": [],
       "address": "4900 Wapello Avenue",
@@ -5626,10 +5673,10 @@
       "type": "business",
       "name": "Northwest Plumbing, Heating & AC",
       "slug": "northwest-plumbing-heating-ac",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "other"
+        "professional_services"
       ],
       "attributes": [],
       "address": "5885 Tremont Avenue",
@@ -6054,10 +6101,10 @@
       "type": "business",
       "name": "Quad Cities International Airport",
       "slug": "quad-cities-international-airport",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "other"
+        "professional_services"
       ],
       "attributes": [],
       "address": "2200 George Kirk Drive",
@@ -7342,10 +7389,10 @@
       "type": "business",
       "name": "StorageMart",
       "slug": "storagemart",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "other"
+        "professional_services"
       ],
       "attributes": [],
       "address": "575 East 53rd Street",
@@ -8241,10 +8288,10 @@
       "type": "business",
       "name": "The UPS Store",
       "slug": "the-ups-store",
-      "category": "Shopping",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "shopping"
+        "professional_services"
       ],
       "attributes": [],
       "address": "677 Avenue Of The Cities",
@@ -8571,10 +8618,10 @@
       "type": "business",
       "name": "Two Men and a Truck Moving and Storage",
       "slug": "two-men-and-a-truck-moving-and-storage",
-      "category": "Shopping",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
-        "shopping"
+        "professional_services"
       ],
       "attributes": [],
       "address": "3906 Lillie Avenue",
