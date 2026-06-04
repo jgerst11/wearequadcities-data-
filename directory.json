@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T14:03:47.747212",
-  "total": 160,
+  "generated": "2026-06-04T14:14:51.184387",
+  "total": 178,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -1342,6 +1342,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "books_a_million",
+      "type": "business",
+      "name": "Books-A-Million",
+      "slug": "books-a-million",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4000 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 355-0705",
+      "website": "https://www.booksamillion.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-322",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 11:00 AM – 7:00 PM",
+      "lat": "41.5756997",
+      "lng": "-90.5166926",
+      "description": "A sprawling bookstore where browsers can lose hours in the stacks.\n\nBooks-A-Million anchors a solid stretch of retail in Davenport with the kind of inventory that rewards wandering — deep sections on fiction and nonfiction, a kids' corner that actually entertains, and tables stocked with games and toys that make gift shopping less of a chore. The staff knows their sections and the space is big enough that you won't feel rushed, whether you're hunting a specific title or just seeing what catches your eye on a Saturday afternoon.\n\nBooks-A-Million sits in Davenport's commercial heart, convenient for a browse between errands or a dedicated trip for readers who stock their shelves regularly. It's the kind of destination bookstore the QC needs — accessible, reliable, and honest about what it offers without pretense.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "986",
+        "yelp": "4.3",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17719561230454636148",
+        "yelp": "https://www.yelp.com/biz/books-a-million-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\books_a_million_photo_1.jpg",
+        "all": [
+          "entity_photos\\books_a_million_photo_1.jpg",
+          "entity_photos\\books_a_million_photo_2.jpg",
+          "entity_photos\\books_a_million_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "boozies_bar_grill",
       "type": "business",
       "name": "Boozie's Bar & Grill",
@@ -2247,6 +2294,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "davidson_jewelers",
+      "type": "business",
+      "name": "Davidson Jewelers",
+      "slug": "davidson-jewelers",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "153 Avenue Of The Cities",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 755-9233",
+      "website": "https://www.davidsonjewelers.net/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.491468",
+      "lng": "-90.457416",
+      "description": "A third-generation jeweler where engagement rings get the attention they deserve.\n\nDavidson Jewelers has been in East Moline long enough to know what matters — the staff can talk you through diamond cuts like they're discussing old friends, and they're not rushing you toward the biggest stone. The showroom feels unhurried, cases well-lit and organized, the kind of place where you actually want to linger and ask questions. Whether you're shopping for an heirloom remake or starting from scratch, there's a quiet competence here that shows in the 4.9-star reviews.\n\nDavidson Jewelers sits in East Moline, just across the river from Moline's core — close enough to grab dinner nearby, far enough to feel like its own thing. It's the kind of steady, reliable local business that reminds you why the Quad Cities still has independent jewelers doing real work, the ones your parents and grandparents might've trusted too.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "591",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1670331081742858359",
+        "yelp": "https://www.yelp.com/biz/davidson-jewelers-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\davidson_jewelers_photo_1.jpg",
+        "all": [
+          "entity_photos\\davidson_jewelers_photo_1.jpg",
+          "entity_photos\\davidson_jewelers_photo_2.jpg",
+          "entity_photos\\davidson_jewelers_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "dead_poets_espresso_ltd",
       "type": "business",
       "name": "Dead Poet’s Espresso Ltd",
@@ -2337,6 +2431,100 @@
           "entity_photos\\devils_glen_park_photo_3.jpg",
           "entity_photos\\devils_glen_park_photo_4.jpg",
           "entity_photos\\devils_glen_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "disc_replay_davenport",
+      "type": "business",
+      "name": "Disc Replay Davenport",
+      "slug": "disc-replay-davenport",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "5254 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 386-1300",
+      "website": "https://www.discreplay.com/locations/disc-replay-davenport/",
+      "hours": "Monday: 10:00 AM – 9:00 PM | Tuesday: 10:00 AM – 9:00 PM | Wednesday: 10:00 AM – 9:00 PM | Thursday: 10:00 AM – 9:00 PM | Friday: 10:00 AM – 9:00 PM | Saturday: 10:00 AM – 9:00 PM | Sunday: 11:00 AM – 7:00 PM",
+      "lat": "41.5728756",
+      "lng": "-90.53097029999999",
+      "description": "The QC's go-to for used games, DVDs, and the occasional diamond in the rough.\n\nDisc Replay is organized chaos in the best way — rows of pre-owned games sorted by console, shelves of DVDs organized well enough to actually find what you're looking for, and a steady hum of people hunting for that one title they've been chasing. The staff knows their inventory and aren't afraid to dig, and the trade-in counter moves steady, which means fresh stock keeps rolling in. Whether you're hunting retro Nintendo or just looking to offload last year's games at fair price, there's a reason locals keep coming back.\n\nDisc Replay sits in Davenport and pulls from a wide radius — gamers, collectors, and casual browsers all make the trip. It's the kind of place that rewards repeat visits; the inventory turns over enough that you might find something unexpected every time you walk in. For anyone building a collection or just looking to spend less on entertainment, it's become a reliable corner of the Quad Cities retail landscape.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "1341",
+        "yelp": "3.7",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11913559060783507826",
+        "yelp": "https://www.yelp.com/biz/disc-replay-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\disc_replay_davenport_photo_1.jpg",
+        "all": [
+          "entity_photos\\disc_replay_davenport_photo_1.jpg",
+          "entity_photos\\disc_replay_davenport_photo_2.jpg",
+          "entity_photos\\disc_replay_davenport_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "doland_jewelers_inc",
+      "type": "business",
+      "name": "Doland Jewelers Inc",
+      "slug": "doland-jewelers-inc",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "3865 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 326-1847",
+      "website": "https://dolandjewelers.com/pages/jewelry-store-davenport-ia",
+      "hours": "Monday: Closed | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.5573746",
+      "lng": "-90.5266017",
+      "description": "A fourth-generation jeweler where they still size rings while you wait.\n\nDoland's has the feel of a place that's earned its 4.9 rating the slow way — by doing the same thing well for decades. Walk in and you're greeted by cases of engagement rings, watches, and repairs in progress; the staff knows the difference between what looks good and what actually lasts. Whether you're after a specific stone, need a family heirloom restored, or just want a straight answer about what you're buying, there's no pressure and no pretense.\n\nDoland Jewelers sits in Davenport, rooted in the kind of local business that anchors a downtown. It's the jeweler people return to — for engagements, anniversaries, and the small ceremonies that matter — and that loyalty shows in the reviews. Once you've trusted them with something precious, you keep coming back.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "429",
+        "yelp": "4.6",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1131046461887198831",
+        "yelp": "https://www.yelp.com/biz/expressions-jewelers-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\doland_jewelers_inc_photo_1.jpg",
+        "all": [
+          "entity_photos\\doland_jewelers_inc_photo_1.jpg",
+          "entity_photos\\doland_jewelers_inc_photo_2.jpg",
+          "entity_photos\\doland_jewelers_inc_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -3440,6 +3628,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "hotel_blackhawk_autograph_collection",
+      "type": "business",
+      "name": "Hotel Blackhawk, Autograph Collection",
+      "slug": "hotel-blackhawk-autograph-collection",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "200 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-5000",
+      "website": "https://www.marriott.com/en-us/hotels/mliak-hotel-blackhawk-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "hours": "",
+      "lat": "41.5225444",
+      "lng": "-90.57225989999999",
+      "description": "A 1920s landmark with a bowling alley bar and rooms that actually feel like home.\n\nHotel Blackhawk carries the weight of Davenport history — all art deco bones and restored grandeur — but it's the details that stick with you. The rooms are generous and thoughtfully done, the kind of place where you actually want to spend an evening. Head downstairs to the bowling alley bar and you'll understand why locals still treat this place like theirs: it's got the casual warmth of a neighborhood spot dressed up in velvet and good lighting.\n\nHotel Blackhawk sits at the heart of Downtown Davenport, steps from the Figge and walkable to the riverfront. It's become the go-to reason to spend a night in the QC instead of just passing through — the kind of destination that anchors a weekend and reminds you why the city's riverfront revival matters. Once you've had a drink in that bowling alley or woken up in one of those rooms, you'll understand why it keeps appearing in our guides.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1542",
+        "yelp": "3.5",
+        "yelp_count": "147"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=907959836360126636",
+        "yelp": "https://www.yelp.com/biz/hotel-blackhawk-autograph-collection-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\hotel_blackhawk_autograph_collection_photo_1.jpg",
+        "all": [
+          "entity_photos\\hotel_blackhawk_autograph_collection_photo_1.jpg",
+          "entity_photos\\hotel_blackhawk_autograph_collection_photo_2.jpg",
+          "entity_photos\\hotel_blackhawk_autograph_collection_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "iconic_coffee_energy",
       "type": "business",
       "name": "Iconic Coffee + Energy",
@@ -3859,6 +4094,53 @@
           "entity_photos\\juniors_sports_bar_photo_1.jpg",
           "entity_photos\\juniors_sports_bar_photo_2.jpg",
           "entity_photos\\juniors_sports_bar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "knees_florists_gifts",
+      "type": "business",
+      "name": "K'nees Florists & Gifts",
+      "slug": "knees-florists-gifts",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "1829 15th Street Place",
+      "city": "Moline",
+      "neighborhood": "Uptown",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-7479",
+      "website": "https://www.kneesflorists.com/",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 4:00 PM | Saturday: 9:00 AM – 12:00 PM | Sunday: Closed",
+      "lat": "41.4937742",
+      "lng": "-90.5143058",
+      "description": "A Moline florist where arrangements feel personal, not mass-produced.\n\nK'nees has been doing this long enough to know the difference between a bouquet and a gesture. Walk in and you'll find serious flowers — the kind with texture and thought — arranged by people who actually talk to you about what you're celebrating (or apologizing for, or grieving). They handle the expected occasions, sure, but they're equally comfortable building something custom from whatever's fresh that week. Saturday hours are tight, so weekday mornings are your best bet for unhurried attention.\n\nK'nees sits in Uptown Moline, a neighborhood that rewards a slower pace and a willingness to step off the main drag. It's the kind of local business that accumulates trust over time — nearly 300 Google reviews speak to that — and once you've ordered from them once, you'll keep coming back. Real florists matter in a community; this one does.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "285",
+        "yelp": "4.1",
+        "yelp_count": "15"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13291233549522605384",
+        "yelp": "https://www.yelp.com/biz/knees-florists-and-gifts-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\knees_florists_gifts_photo_1.jpg",
+        "all": [
+          "entity_photos\\knees_florists_gifts_photo_1.jpg",
+          "entity_photos\\knees_florists_gifts_photo_2.jpg",
+          "entity_photos\\knees_florists_gifts_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -4771,6 +5053,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "mississippi_marketplace",
+      "type": "business",
+      "name": "Mississippi Marketplace",
+      "slug": "mississippi-marketplace",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4004 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 232-8788",
+      "website": "https://mmpqc.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 9:00 AM – 7:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 7:00 PM | Saturday: 9:00 AM – 7:00 PM | Sunday: 11:00 AM – 6:00 PM",
+      "lat": "41.5631844",
+      "lng": "-90.6319673",
+      "description": "Local vendors and handmade goods under one Davenport roof.\n\nMississippi Marketplace is where the QC's makers and small sellers gather — the kind of place where you'll find vintage jewelry next to fresh-baked goods, local art beside handcrafted home goods. The vibe is unhurried and genuinely collaborative; owners rotate shifts, and there's a real sense that these vendors know each other. You could spend an afternoon browsing, or pop in for one specific maker and leave with three unexpected finds.\n\nLocated in Davenport, Mississippi Marketplace sits in the growing network of independent retail that's quietly reshaping the city's shopping landscape. It's the kind of place that rewards repeat visits — the inventory shifts as vendors rotate their stock, so there's always something new to discover. Once you've been, you'll understand why it keeps pulling locals back.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "593",
+        "yelp": "4.2",
+        "yelp_count": "6"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10825350183606640801",
+        "yelp": "https://www.yelp.com/biz/mississippi-marketplace-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mississippi_marketplace_photo_1.jpg",
+        "all": [
+          "entity_photos\\mississippi_marketplace_photo_1.jpg",
+          "entity_photos\\mississippi_marketplace_photo_2.jpg",
+          "entity_photos\\mississippi_marketplace_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mo_bradys_steakhouse",
       "type": "business",
       "name": "Mo Brady's Steakhouse",
@@ -4868,6 +5197,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "moments_tux_shop",
+      "type": "business",
+      "name": "Moments Tux Shop",
+      "slug": "moments-tux-shop",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4332 State Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 888-1695",
+      "website": "http://www.momentstuxshop.com/",
+      "hours": "Monday: 12:00 – 7:00 PM | Tuesday: 12:00 – 7:00 PM | Wednesday: 12:00 – 7:00 PM | Thursday: 9:00 AM – 6:00 PM | Friday: 10:00 AM – 4:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.5333087",
+      "lng": "-90.4751541",
+      "description": "The Quad Cities' go-to for tuxedos, from prom night to forever.\n\nMoments Tux Shop handles the details that matter—proper fit, honest alterations, the kind of service where they remember your measurements. Whether you're renting for a wedding or buying your first formal suit, the staff knows the difference between a quick fix and getting it right. They've dressed thousands of QC moments, and it shows in how they work.\n\nMoments sits in Bettendorf, a short drive from the riverfront and easy to reach before or after other errands. It's the kind of specialist shop that disappears into the background until you need it—and then you realize how rare it is to find someone who actually knows tuxedos. Once you've been, you'll trust them with your next formal occasion.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "324",
+        "yelp": "1.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1908952457071917226",
+        "yelp": "https://www.yelp.com/biz/moments-tux-shop-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\moments_tux_shop_photo_1.jpg",
+        "all": [
+          "entity_photos\\moments_tux_shop_photo_1.jpg",
+          "entity_photos\\moments_tux_shop_photo_2.jpg",
+          "entity_photos\\moments_tux_shop_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "neckers_jewelers",
+      "type": "business",
+      "name": "Necker's Jewelers",
+      "slug": "neckers-jewelers",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4009 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 359-3941",
+      "website": "https://www.neckersjewelers.com/#utm_source=google&utm_medium=local&utm_campaign=Davenport",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 7:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 4:00 PM",
+      "lat": "41.57428489999999",
+      "lng": "-90.51519069999999",
+      "description": "A third-generation jeweler where the staff actually knows your name.\n\nNecker's has been in Davenport long enough that regulars come back for anniversaries, engagements, and repairs — and the team remembers. The cases are thoughtfully arranged, not overwhelming, and the staff will spend time with you whether you're browsing or hunting for something specific. It's the kind of place where a simple cleaning doesn't feel transactional.\n\nNecker's sits in Downtown Davenport, anchoring a block that rewards a slower pace and attention to detail. It's the rare local jewelry store that's survived and thrived, which says something about both the place and the people who run it — exactly the kind of business we return to again and again in our guides.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "529",
+        "yelp": "3.8",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2281667748308426256",
+        "yelp": "https://www.yelp.com/biz/neckers-jewelers-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\neckers_jewelers_photo_1.jpg",
+        "all": [
+          "entity_photos\\neckers_jewelers_photo_1.jpg",
+          "entity_photos\\neckers_jewelers_photo_2.jpg",
+          "entity_photos\\neckers_jewelers_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "northpark_mall",
       "type": "place",
       "name": "NorthPark Mall",
@@ -4910,6 +5333,53 @@
           "entity_photos\\northpark_mall_photo_3.jpg",
           "entity_photos\\northpark_mall_photo_4.jpg",
           "entity_photos\\northpark_mall_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "ollies_bargain_outlet",
+      "type": "business",
+      "name": "Ollie's Bargain Outlet",
+      "slug": "ollies-bargain-outlet",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4400 27th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-7112",
+      "website": "https://ollies.com/",
+      "hours": "Monday: 9:00 AM – 9:00 PM | Tuesday: 9:00 AM – 9:00 PM | Wednesday: 9:00 AM – 9:00 PM | Thursday: 9:00 AM – 9:00 PM | Friday: 9:00 AM – 9:00 PM | Saturday: 9:00 AM – 9:00 PM | Sunday: 10:00 AM – 7:00 PM",
+      "lat": "41.4704556",
+      "lng": "-90.50303989999999",
+      "description": "Chaotic treasure hunt where you actually find deals worth the dig.\n\nOllie's is organized chaos in the best way — bins overflow with closeout kitchen gadgets, seasonal goods stacked three deep, name-brand pantry items at prices that make you double-check the tags. You'll spend an hour wandering aisles that shift stock weekly, stumbling onto things you didn't know you needed. The thrill isn't in knowing what you'll find; it's in what you might.\n\nOllie's sits in Moline, just far enough off the main drag to feel like a local secret but easy enough to swing by on a Saturday afternoon. It's the kind of place that rewards patience and curiosity — the shopper who loves the hunt more than the list will leave happier than most. Once you've found that inexplicable deal (a case of good olive oil for $8? A set of Le Creuset on clearance?), you'll be back.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "536",
+        "yelp": "2.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17147990525997655132",
+        "yelp": "https://www.yelp.com/biz/ollies-bargain-outlet-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ollies_bargain_outlet_photo_1.jpg",
+        "all": [
+          "entity_photos\\ollies_bargain_outlet_photo_1.jpg",
+          "entity_photos\\ollies_bargain_outlet_photo_2.jpg",
+          "entity_photos\\ollies_bargain_outlet_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5052,6 +5522,53 @@
           "entity_photos\\perfecta_beauty_photo_1.jpg",
           "entity_photos\\perfecta_beauty_photo_2.jpg",
           "entity_photos\\perfecta_beauty_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "petco",
+      "type": "business",
+      "name": "Petco",
+      "slug": "petco",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4411 16th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-7387",
+      "website": "https://stores.petco.com/il/moline/pet-supplies-moline-il-683.html?utm_source=google&utm_campaign=locallist_683_pcc",
+      "hours": "Monday: 9:00 AM – 9:00 PM | Tuesday: 9:00 AM – 9:00 PM | Wednesday: 9:00 AM – 9:00 PM | Thursday: 9:00 AM – 9:00 PM | Friday: 9:00 AM – 9:00 PM | Saturday: 9:00 AM – 9:00 PM | Sunday: 10:00 AM – 8:00 PM",
+      "lat": "41.4693427",
+      "lng": "-90.5085392",
+      "description": "One-stop pet supply shop where locals stock up before the weekend rush.\n\nPetco in Moline is the kind of place you stop into without planning to, then realize you've been there forty minutes comparing dog bed fills. The aisles are well-organized enough that you can find what you need quickly — prescription pet medications, toys that actually last, those small things you forgot existed until your cat knocked over the water bowl again. Saturday mornings draw the whole neighborhood: folks with new puppies, seasoned pet owners restocking, people just browsing because their dog is home sick and they want to do something.\n\nPetco sits in Moline, right where convenience matters — easy access, long hours, parking that doesn't make you circle twice. It's a practical stop that earns its place in our guides not because it's precious or rare, but because it's genuinely useful when you need it, and the QC pet owners we know keep coming back.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1052",
+        "yelp": "2.1",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1525223495108825924",
+        "yelp": "https://www.yelp.com/biz/petco-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\petco_photo_1.jpg",
+        "all": [
+          "entity_photos\\petco_photo_1.jpg",
+          "entity_photos\\petco_photo_2.jpg",
+          "entity_photos\\petco_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5396,6 +5913,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "revell_jewelers",
+      "type": "business",
+      "name": "Revell Jewelers",
+      "slug": "revell-jewelers",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "904 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 359-8856",
+      "website": "http://www.revelljewelers.com/",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.540338",
+      "lng": "-90.51936959999999",
+      "description": "Family-run jeweler where custom pieces feel personal, not transactional.\n\nRevell has been in Bettendorf long enough that people bring their grandmothers' stones to be reset here — and the staff knows exactly what they're doing. Walk in and you'll find serious diamond inventory, but also the kind of unhurried attention that makes the difference between buying a ring and finding the right one. They do their own repairs and appraisals, which means you're talking to people who actually understand what they're looking at.\n\nRevell sits in Bettendorf, a neighborhood built on that quiet kind of permanence — the kind where jewelers stay in business for decades because they get repeat customers. It's the place you go when you want craftsmanship over flash, and when you want to know the people handling something that matters. Once you've sat down with them for an engagement ring or a repair, you'll understand why nearly 800 locals have rated them this highly.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "782",
+        "yelp": "3.2",
+        "yelp_count": "21"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12279717841468436656",
+        "yelp": "https://www.yelp.com/biz/revell-jewelers-bettendorf-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\revell_jewelers_photo_1.jpg",
+        "all": [
+          "entity_photos\\revell_jewelers_photo_1.jpg",
+          "entity_photos\\revell_jewelers_photo_2.jpg",
+          "entity_photos\\revell_jewelers_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities",
       "type": "business",
       "name": "Revive Cafe - serving local, organic, healthy, vegan and gluten free options in the Quad Cities",
@@ -5436,6 +6000,53 @@
           "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_1.jpg",
           "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_2.jpg",
           "entity_photos\\revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "riddles_jewelry_davenport",
+      "type": "business",
+      "name": "Riddle's Jewelry - Davenport",
+      "slug": "riddles-jewelry-davenport",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "320 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 445-0558",
+      "website": "https://www.riddlesjewelry.com/riddles-jewelry-store-davenport-iowa-52806-16",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.5631838",
+      "lng": "-90.5762141",
+      "description": "Family-owned jewelry with the kind of service that brings people back for decades.\n\nRiddle's has the feel of a place that knows its customers by name — and probably knows what they're shopping for before they do. The cases are thoughtfully arranged, the staff actually listens, and there's none of the pressure you'd feel at a chain. Whether you're hunting for an engagement ring, a repair, or just browsing, you'll notice the care taken in how things are displayed and explained.\n\nRiddle's sits in Davenport proper, in the heart of where locals actually shop and spend time. It's the kind of jewelry store that shows up in family stories — the place where your parents got their rings, where you might get yours. That kind of trust, built over years, is exactly what belongs in our guides.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "858",
+        "yelp": "4.6",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16177200253766187838",
+        "yelp": "https://www.yelp.com/biz/expressions-jewelers-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\riddles_jewelry_davenport_photo_1.jpg",
+        "all": [
+          "entity_photos\\riddles_jewelry_davenport_photo_1.jpg",
+          "entity_photos\\riddles_jewelry_davenport_photo_2.jpg",
+          "entity_photos\\riddles_jewelry_davenport_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -6018,6 +6629,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "skeleton_key_art_and_antiques",
+      "type": "business",
+      "name": "Skeleton Key Art and Antiques",
+      "slug": "skeleton-key-art-and-antiques",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "520 18th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 314-1567",
+      "website": "http://www.skeletonkeyqc.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 12:00 – 5:00 PM | Thursday: 12:00 – 5:00 PM | Friday: 12:00 – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 12:00 – 4:00 PM",
+      "lat": "41.5069694",
+      "lng": "-90.5750427",
+      "description": "A curated rabbit hole of vintage finds, art, and objects with actual stories.\n\nWalking into Skeleton Key feels like browsing through someone's thoughtfully edited personal collection—the kind of place where you go in for one thing and leave with three. The carefully arranged shelves hold everything from mid-century glass to hand-bound journals, antique keys (naturally), and local art that actually stops you. The owners clearly know their inventory and what they're sourcing; there's no clutter, just intention.\n\nSkeleton Key anchors a quieter stretch of Rock Island, away from the main drag but worth the detour. It's the kind of spot that rewards slow looking and conversation—perfect for a weekend afternoon when you're not rushing, or the rare weekday when you manage to catch their limited Wednesday-Friday hours.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "238",
+        "yelp": "5.0",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5102135236785027290",
+        "yelp": "https://www.yelp.com/biz/skeleton-key-art-and-antiques-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\skeleton_key_art_and_antiques_photo_1.jpg",
+        "all": [
+          "entity_photos\\skeleton_key_art_and_antiques_photo_1.jpg",
+          "entity_photos\\skeleton_key_art_and_antiques_photo_2.jpg",
+          "entity_photos\\skeleton_key_art_and_antiques_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "smartstyle",
       "type": "business",
       "name": "SmartStyle",
@@ -6059,6 +6718,53 @@
           "entity_photos\\smartstyle_photo_1.jpg",
           "entity_photos\\smartstyle_photo_2.jpg",
           "entity_photos\\smartstyle_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "source_bookstore",
+      "type": "business",
+      "name": "Source Bookstore",
+      "slug": "source-bookstore",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "232 West 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 205-8516",
+      "website": "https://instagram.com/sourcebookstore/",
+      "hours": "Monday: 10:00 AM – 6:00 PM | Tuesday: 10:00 AM – 6:00 PM | Wednesday: 10:00 AM – 6:00 PM | Thursday: 10:00 AM – 6:00 PM | Friday: 10:00 AM – 6:00 PM | Saturday: 10:00 AM – 6:00 PM | Sunday: 12:00 – 4:00 PM",
+      "lat": "41.5225534",
+      "lng": "-90.57650640000001",
+      "description": "Independent bookstore with the kind of curation that actually reflects how people read.\n\nSource stocks the books you've heard about and the ones you didn't know you needed — the kind of place where the staff recommendations are dog-eared and genuinely considered. The space itself is calm and browseable, the sort of store where you can spend twenty minutes in the fiction section and leave with something unexpected. Weekend afternoons bring a steady crowd of readers and gift-shoppers, but it never feels cramped or picked-over.\n\nSource Bookstore sits in Downtown Davenport, a neighborhood that's quietly become the QC's cultural center. It's the kind of anchor business that makes a downtown block feel like somewhere worth spending an afternoon — especially paired with a coffee run or a meal nearby. Once you've found it, you'll understand why locals keep coming back.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "241",
+        "yelp": "4.1",
+        "yelp_count": "9"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15592132808917592273",
+        "yelp": "https://www.yelp.com/biz/source-book-store-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\source_bookstore_photo_1.jpg",
+        "all": [
+          "entity_photos\\source_bookstore_photo_1.jpg",
+          "entity_photos\\source_bookstore_photo_2.jpg",
+          "entity_photos\\source_bookstore_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -7297,6 +8003,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "twin_oaks_shopping_center",
+      "type": "business",
+      "name": "Twin Oaks Shopping Center",
+      "slug": "twin-oaks-shopping-center",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "2001 5th Street",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "",
+      "website": "https://www.regencycenters.com/property/detail/90003/Twin-Oaks-Shopping-Center",
+      "hours": "Monday: 6:00 AM – 10:00 PM | Tuesday: 6:00 AM – 10:00 PM | Wednesday: 6:00 AM – 10:00 PM | Thursday: 6:00 AM – 10:00 PM | Friday: 6:00 AM – 10:00 PM | Saturday: 6:00 AM – 10:00 PM | Sunday: 6:00 AM – 10:00 PM",
+      "lat": "41.4903041",
+      "lng": "-90.4216797",
+      "description": "A straightforward strip center where Silvis comes to get things done.\n\nTwin Oaks doesn't fuss with atmosphere — it's a no-nonsense lineup of everyday stops arranged around a practical parking lot. The mix is honest: grocery runs, quick errands, and the kind of places you visit because you need them, not because you're looking for an experience. Open early and late (6 AM to 10 PM every day), it's built for people with actual schedules.\n\nTwin Oaks sits in Silvis, the working part of the QC where neighbors know what they want and expect it to be accessible. It's the kind of local anchor that doesn't make our guides for ambiance or discovery — it makes them because it's genuinely useful, and because the QC is as much about reliable everyday spaces as it is about destination spots.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "882",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11225311321671500446",
+        "yelp": "https://www.yelp.com/biz/vanessas-open-air-market-silvis",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\twin_oaks_shopping_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\twin_oaks_shopping_center_photo_1.jpg",
+          "entity_photos\\twin_oaks_shopping_center_photo_2.jpg",
+          "entity_photos\\twin_oaks_shopping_center_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "ultimate_fitness",
       "type": "business",
       "name": "Ultimate Fitness",
@@ -7577,6 +8330,100 @@
           "entity_photos\\village_of_east_davenport_photo_3.jpg",
           "entity_photos\\village_of_east_davenport_photo_4.jpg",
           "entity_photos\\village_of_east_davenport_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "von_maur",
+      "type": "business",
+      "name": "Von Maur",
+      "slug": "von-maur",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "320 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 386-0880",
+      "website": "http://www.vonmaur.com/",
+      "hours": "Monday: 10:00 AM – 9:00 PM | Tuesday: 10:00 AM – 9:00 PM | Wednesday: 10:00 AM – 9:00 PM | Thursday: 10:00 AM – 9:00 PM | Friday: 10:00 AM – 9:00 PM | Saturday: 10:00 AM – 9:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.5649708",
+      "lng": "-90.5728718",
+      "description": "A Midwestern department store that actually feels like home.\n\nVon Maur carries the brands you're looking for—J.Crew, Calvin Klein, Dooney & Bourke—but what sets it apart is the unhurried pace and the staff who seem genuinely interested in helping you find what fits. The store is bright and open, with room to breathe between racks, and there's a quiet dignity to the place that's missing from the big-box alternatives. It's the kind of shopping trip where you might actually enjoy yourself.\n\nVon Maur anchors Davenport's retail landscape and has earned deep loyalty from locals who appreciate its no-pressure approach and consistent quality. It's the kind of familiar, reliable destination that weaves into the fabric of how people actually shop in the Quad Cities—not a tourist draw, but a place that belongs here.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "558",
+        "yelp": "2.4",
+        "yelp_count": "9"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16283203961640592394",
+        "yelp": "https://www.yelp.com/biz/von-maur-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\von_maur_photo_1.jpg",
+        "all": [
+          "entity_photos\\von_maur_photo_1.jpg",
+          "entity_photos\\von_maur_photo_2.jpg",
+          "entity_photos\\von_maur_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "west_end_gardens_florist",
+      "type": "business",
+      "name": "West End Gardens Florist",
+      "slug": "west-end-gardens-florist",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "3153 Rockingham Road",
+      "city": "Davenport",
+      "neighborhood": "West Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 320-0616",
+      "website": "https://westendgarden.com/",
+      "hours": "Monday: 8:00 AM – 6:00 PM | Tuesday: 8:00 AM – 6:00 PM | Wednesday: 8:00 AM – 6:00 PM | Thursday: 8:00 AM – 6:00 PM | Friday: 8:00 AM – 6:00 PM | Saturday: 8:00 AM – 6:00 PM | Sunday: 8:00 AM – 6:00 PM",
+      "lat": "41.5093639",
+      "lng": "-90.6225528",
+      "description": "A full-service florist where arrangements feel like they're made by someone who actually cares.\n\nWest End Gardens has the kind of depth you don't expect to find — walk in and you're surrounded by fresh stems, potted plants, and the quiet focus of florists who know their craft. They'll listen to what you're after (a wedding, an apology, just Tuesday) and build something that doesn't look like it came from a template. Open seven days a week, which means when you need flowers at 5 p.m. on a Saturday, they're still there.\n\nTucked into West Davenport, West End Gardens sits far enough from downtown to feel like a neighborhood spot, but it's worth the drive across town or an easy stop if you're already out that way. The kind of local business that gets trusted with the moments that matter — and keeps earning that trust with every arrangement that leaves the shop.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "205",
+        "yelp": "3.2",
+        "yelp_count": "18"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11656897162451155895",
+        "yelp": "https://www.yelp.com/biz/west-end-gardens-florist-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\west_end_gardens_florist_photo_1.jpg",
+        "all": [
+          "entity_photos\\west_end_gardens_florist_photo_1.jpg",
+          "entity_photos\\west_end_gardens_florist_photo_2.jpg",
+          "entity_photos\\west_end_gardens_florist_photo_3.jpg"
         ]
       },
       "guides": [],
