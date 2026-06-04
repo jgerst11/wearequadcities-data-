@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T19:54:20.758571",
-  "total": 8,
+  "generated": "2026-06-04T09:08:19.447558",
+  "total": 36,
   "entities": [
     {
       "id": "adler_theatre",
@@ -52,6 +52,147 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "azteca_1_mexican_restaurant",
+      "type": "business",
+      "name": "Azteca 1 Mexican Restaurant",
+      "slug": "azteca-1-mexican-restaurant",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 386-6689",
+      "website": "",
+      "hours": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:30 PM | Saturday: 11:00 AM – 10:30 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.570488",
+      "lng": "-90.567877",
+      "description": "Family-run cantina where margaritas flow and the murals are almost as colorful as the crowd.\n\nAzteca 1 has the kind of energy that builds as the sun sets — it starts as a lunch spot for regulars and transforms into the place where Davenport comes to unwind with strong drinks and real food. The murals wrap around the dining room in bright blues and golds, and there's always someone at the bar ordering another round. The margaritas are generous, the carne asada doesn't cut corners, and the room has that lived-in warmth that comes from decades of the same family running the same restaurant.\n\nAzteca 1 sits in Davenport and has earned its reputation the slow way — 951 reviews on Google, a 4.4 on Yelp, and a loyal base that keeps coming back. It's the kind of reliable, unpretentious gathering spot that anchors a neighborhood, and if you're looking for where actual Quad Citizens spend their Friday and Saturday nights, you'll find them here.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "951",
+        "yelp": "4.4",
+        "yelp_count": "41"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10317951708579887446",
+        "yelp": "https://www.yelp.com/biz/abarrotes-carrillo-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\azteca_1_mexican_restaurant_photo_1.jpg",
+        "all": [
+          "entity_photos\\azteca_1_mexican_restaurant_photo_1.jpg",
+          "entity_photos\\azteca_1_mexican_restaurant_photo_2.jpg",
+          "entity_photos\\azteca_1_mexican_restaurant_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "ballys_quad_cities_casino_hotel",
+      "type": "business",
+      "name": "Bally's Quad Cities Casino & Hotel",
+      "slug": "ballys-quad-cities-casino-hotel",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "777 Bally Boulevard",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 756-4600",
+      "website": "https://casinos.ballys.com/quad-cities/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.4591486",
+      "lng": "-90.6135711",
+      "description": "A full-throttle casino hotel where the energy never stops, day or night.\n\nBally's sits right on the Rock Island waterfront, all glass and bright lights—the kind of place that hums 24/7 whether you're there at noon or 3 a.m. The casino floor is thick with slot machines and table games, the restaurants run the gamut from quick bites to sit-down dinners, and if you need to stay over, the modern rooms and indoor pool mean you can make an actual weekend of it. It's unapologetically a destination unto itself, not a quiet corner—but that's exactly the point.\n\nBally's anchors Rock Island's riverfront, a major draw that brings visitors from across the region and beyond. It's the kind of anchor institution that shows up in any serious conversation about QC nightlife and entertainment, and whether you're a casual player, a diner, or someone looking for a full getaway without leaving town, it belongs in the mix.",
+      "rating": {
+        "google": "4",
+        "google_count": "4124",
+        "yelp": "2.6",
+        "yelp_count": "88"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11914813268497461296",
+        "yelp": "https://www.yelp.com/biz/ballys-quad-cities-casino-and-hotel-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ballys_quad_cities_casino_hotel_photo_1.jpg",
+        "all": [
+          "entity_photos\\ballys_quad_cities_casino_hotel_photo_1.jpg",
+          "entity_photos\\ballys_quad_cities_casino_hotel_photo_2.jpg",
+          "entity_photos\\ballys_quad_cities_casino_hotel_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "barrel_house",
+      "type": "business",
+      "name": "Barrel House",
+      "slug": "barrel-house",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "5141 Utica Ridge Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 888-1975",
+      "website": "https://www.barrelhousepub.com/uptown-davenport",
+      "hours": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 10:00 PM",
+      "lat": "41.5729347",
+      "lng": "-90.513832",
+      "description": "A straightforward pub where Davenport comes to eat, drink, and stay awhile.\n\nBarrel House operates with the confidence of a place that doesn't need to try too hard — wood-heavy interior, a solid bar program, and food that leans comfort without pretension. The crowd shifts with the clock: lunch is local business types and regulars on stools, evening brings families, and weekends get properly lively. It's the kind of establishment where the bartenders know what you drink by your third visit.\n\nBarrel House anchors uptown Davenport, that stretch of the city that's quietly become one of the QC's most reliable neighborhoods for a night out. It sits within easy reach of other spots worth your time, making it natural to build an evening around — grab dinner here, walk next door for a drink somewhere else, or stay put if the vibe's right. It's a place that shows up in locals' regular rotation for good reason: consistent, unpretentious, and genuinely welcoming.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "1486",
+        "yelp": "3.9",
+        "yelp_count": "279"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16528667295479027277",
+        "yelp": "https://www.yelp.com/biz/barrel-house-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\barrel_house_photo_1.jpg",
+        "all": [
+          "entity_photos\\barrel_house_photo_1.jpg",
+          "entity_photos\\barrel_house_photo_2.jpg",
+          "entity_photos\\barrel_house_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "bend_xpo",
       "type": "place",
       "name": "Bend XPO",
@@ -94,6 +235,288 @@
           "entity_photos\\bend_xpo_photo_3.jpg",
           "entity_photos\\bend_xpo_photo_4.jpg",
           "entity_photos\\bend_xpo_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bierstube_moline",
+      "type": "business",
+      "name": "Bierstube Moline",
+      "slug": "bierstube-moline",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "415 15th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-3049",
+      "website": "http://www.bier-stube.com/",
+      "hours": "",
+      "lat": "41.5064887",
+      "lng": "-90.5168111",
+      "description": "A waterfront beer hall where German tradition meets live music and river views.\n\nBierstube feels like the kind of place that's been doing the same thing well for decades — because it has. The beer list runs deep (German imports share shelf space with local craft), and the kitchen leans into hearty schnitzel and bratwurst that tastes like someone's grandmother had a say. Most nights there's live music drifting through the wood-paneled room, and the crowd is mixed: families early, regulars by the bar, couples claiming the window tables overlooking the Mississippi.\n\nBierstube sits right on the water in Moline, part of a riverfront strip that's become one of the QC's most underrated stretches. It's the kind of establishment that anchors a neighborhood — unpretentious, consistent, genuinely good at what it does — and it shows up on every serious local's list of places that actually matter.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "870",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15759058992810776914",
+        "yelp": "https://www.yelp.com/biz/viking-club-of-moline-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bierstube_moline_photo_1.jpg",
+        "all": [
+          "entity_photos\\bierstube_moline_photo_1.jpg",
+          "entity_photos\\bierstube_moline_photo_2.jpg",
+          "entity_photos\\bierstube_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "capriottis_sandwich_shop",
+      "type": "business",
+      "name": "Capriotti's Sandwich Shop",
+      "slug": "capriottis-sandwich-shop",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3016 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 359-8500",
+      "website": "https://capriottis.com/location/582282",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 10:00 AM – 8:00 PM",
+      "lat": "41.57545500000001",
+      "lng": "-90.529625",
+      "description": "Towering, messy subs that live up to the hype they've earned nationwide.\n\nCapriotti's isn't trying to be precious about sandwiches — these are built tall and loose, the kind that require both hands and a stack of napkins. The Bobbie (roasted turkey, stuffing, cranberry sauce) is the signature that built the chain, and it's worth ordering at least once; there's something about that specific combination that just works. The counter moves fast, the staff knows the menu cold, and it's the kind of place where regulars have their order memorized and newcomers leave impressed.\n\nCapriotti's sits in Davenport proper, accessible and unpretentious — exactly the kind of sandwich shop that feeds the neighborhood without fanfare. It's been reliably good for years, which is why it keeps showing up on our radar. You go in hungry, order without overthinking it, and leave satisfied.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "594",
+        "yelp": "3.6",
+        "yelp_count": "76"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2688961758008859177",
+        "yelp": "https://www.yelp.com/biz/capriottis-sandwich-shop-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\capriottis_sandwich_shop_photo_1.jpg",
+        "all": [
+          "entity_photos\\capriottis_sandwich_shop_photo_1.jpg",
+          "entity_photos\\capriottis_sandwich_shop_photo_2.jpg",
+          "entity_photos\\capriottis_sandwich_shop_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "culvers",
+      "type": "business",
+      "name": "Culver’s",
+      "slug": "culvers",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "608 22nd Avenue",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "(309) 281-1410",
+      "website": "http://www.culvers.com/restaurants/silvis-il-22nd-ave/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+      "hours": "Monday: 10:00 AM – 10:00 PM | Tuesday: 10:00 AM – 10:00 PM | Wednesday: 10:00 AM – 10:00 PM | Thursday: 10:00 AM – 10:00 PM | Friday: 10:00 AM – 10:00 PM | Saturday: 10:00 AM – 10:00 PM | Sunday: 10:00 AM – 10:00 PM",
+      "lat": "41.4879675",
+      "lng": "-90.42020509999999",
+      "description": "Frozen custard and butter burgers—the Midwest comfort food standard.\n\nCulver's does the Midwestern basics right: fresh beef burgers that arrive hot and properly built, and frozen custard that's actually frozen custard—richer and denser than soft-serve, rotating flavors that give you a reason to come back. The Silvis location has the reliable fast-casual rhythm you'd expect, with a drive-thru line that moves and a dining room where families and groups settle in for a meal that tastes like it means something.\n\nCulver's sits in Silvis, just east of the river—easy reach from Moline and Rock Island. It's one of those places that anchors its neighborhood without pretense: uncomplicated, consistent, and honest about what it is. The Quad Cities has real connections to Midwest food culture, and Culver's represents that plainly and well.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "742",
+        "yelp": "4.2",
+        "yelp_count": "6"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2295859343179232382",
+        "yelp": "https://www.yelp.com/biz/culvers-washington-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\culvers_photo_1.jpg",
+        "all": [
+          "entity_photos\\culvers_photo_1.jpg",
+          "entity_photos\\culvers_photo_2.jpg",
+          "entity_photos\\culvers_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "duck_city_bistro",
+      "type": "business",
+      "name": "Duck City Bistro",
+      "slug": "duck-city-bistro",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "115 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-3825",
+      "website": "https://www.duckcitybistro.com/",
+      "hours": "Monday: Closed | Tuesday: 5:00 – 9:00 PM | Wednesday: 5:00 – 9:00 PM | Thursday: 5:00 – 9:00 PM | Friday: 5:00 – 10:00 PM | Saturday: 5:00 – 10:00 PM | Sunday: Closed",
+      "lat": "41.5222111",
+      "lng": "-90.5733111",
+      "description": "Candlelit dinners and a globally curious menu in downtown Davenport's most established room.\n\nDuck City Bistro has been doing this long enough to know what it's doing — the kind of place where the bartender remembers regulars and the kitchen moves with quiet confidence. The dining room glows warm under low lights, intimate without feeling forced, and the menu pulls from everywhere: you might find yourself choosing between duck confit and something bright with Southeast Asian spice. There's a lounge that invites lingering, a full bar that takes itself seriously without pretension, and the kind of consistency that keeps people coming back for anniversaries and quiet midweek nights alike.\n\nDuck City Bistro sits on Downtown Davenport's main stretch, where the best restaurants and bars cluster within walking distance of the riverfront. Nearly a thousand five-star reviews speak to something real — this is the kind of place that anchors a neighborhood, that shows up on locals' lists of \"where to take someone special,\" and that proves the QC has restaurants worth the drive.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "934",
+        "yelp": "4.1",
+        "yelp_count": "361"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3299281465761649708",
+        "yelp": "https://www.yelp.com/biz/duck-city-bistro-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\duck_city_bistro_photo_1.jpg",
+        "all": [
+          "entity_photos\\duck_city_bistro_photo_1.jpg",
+          "entity_photos\\duck_city_bistro_photo_2.jpg",
+          "entity_photos\\duck_city_bistro_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "exotic_thai",
+      "type": "business",
+      "name": "Exotic Thai",
+      "slug": "exotic-thai",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2303 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 344-0909",
+      "website": "https://www.exoticthaiqc.com/",
+      "hours": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Saturday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "lat": "41.5743646",
+      "lng": "-90.5428613",
+      "description": "Traditional Thai done right, with a menu deep enough to explore for years.\n\nExotic Thai keeps things honest — pad thai that tastes like it should, curries built on real spice layering, and enough lesser-known dishes to reward regulars who venture past the standards. The room is unpretentious and roomy, the kind of place where families spread out on Saturday nights and you can actually hear your table talk. Orders arrive thoughtfully timed, never rushed, and the lunch specials are the kind of deal that makes you wonder why you don't go more often.\n\nExotic Thai sits in Davenport and has earned the kind of steady reputation that comes from doing one thing well for years — nearly 900 reviews and a 4.5 rating aren't accidents. It's the rare local restaurant that's become genuinely irreplaceable to the QC's food landscape, the place you recommend to friends visiting and the one you return to when you want Thai that tastes like Thailand.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "867",
+        "yelp": "4.0",
+        "yelp_count": "216"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16996369474481462017",
+        "yelp": "https://www.yelp.com/biz/exotic-thai-restaurant-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\exotic_thai_photo_1.jpg",
+        "all": [
+          "entity_photos\\exotic_thai_photo_1.jpg",
+          "entity_photos\\exotic_thai_photo_2.jpg",
+          "entity_photos\\exotic_thai_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "famous_daves_bar_b_que",
+      "type": "business",
+      "name": "Famous Dave's Bar-B-Que",
+      "slug": "famous-daves-bar-b-que",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1110 East Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 388-8555",
+      "website": "https://www.famousdaves.com/Davenport",
+      "hours": "Monday: 11:00 AM – 8:00 PM | Tuesday: 11:00 AM – 8:00 PM | Wednesday: 11:00 AM – 8:00 PM | Thursday: 11:00 AM – 8:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 8:00 PM",
+      "lat": "41.557511",
+      "lng": "-90.55950899999999",
+      "description": "Wood-smoked ribs and brisket in a sprawling Western-themed room.\n\nFamous Dave's leans into the saloon aesthetic—think reclaimed wood, neon signs, and enough Americana on the walls to fill three roadside motels—but the real draw is the smoke. The ribs come fall-off-the-bone tender, the brisket has a proper bark, and the sides (creamed corn, baked beans) don't feel like afterthoughts. It's the kind of place where families spread out across big booths and the bar stays animated on weekends.\n\nFamous Dave's sits in Davenport, anchoring one of the area's reliable casual-dining options for folks craving legitimately smoked meat without the pretense. It's a chain, yes, but the local location delivers consistent results and a comfortable enough space to linger over a plate and a drink. If you're new to the QC or just want low-stakes barbecue that doesn't disappoint, it's worth a Friday or Saturday night.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "2140",
+        "yelp": "3.3",
+        "yelp_count": "83"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13881765565827963560",
+        "yelp": "https://www.yelp.com/biz/famous-daves-bar-b-que-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\famous_daves_bar_b_que_photo_1.jpg",
+        "all": [
+          "entity_photos\\famous_daves_bar_b_que_photo_1.jpg",
+          "entity_photos\\famous_daves_bar_b_que_photo_2.jpg",
+          "entity_photos\\famous_daves_bar_b_que_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -195,6 +618,147 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "harris_pizza",
+      "type": "business",
+      "name": "Harris Pizza",
+      "slug": "harris-pizza",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "524 East Locust Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 322-2411",
+      "website": "https://harrispizza.com/harrispizza?utm_source=google",
+      "hours": "Monday: Closed | Tuesday: 11:00 AM – 8:00 PM | Wednesday: 11:00 AM – 8:30 PM | Thursday: 11:00 AM – 8:30 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 8:00 PM",
+      "lat": "41.5386102",
+      "lng": "-90.5676127",
+      "description": "Quad City institution slinging thin-crust pizza with toppings you won't find elsewhere.\n\nHarris has been doing Quad City-style pizza—thin, crispy, loaded—long enough that it feels like it's always been there. The toppings run creative and generous: you'll see combinations that shouldn't work but absolutely do, built on a crust that's more snap than chew. Walk in on a Saturday evening and you'll see families claiming booths, the kind of place where the order-taker knows what you're going to say before you say it.\n\nHarris sits in Davenport proper, far enough from the riverfront tourist corridor to feel like a neighborhood spot, but accessible enough that it's become a genuine destination. Nearly 800 Google reviews speak to its staying power—people don't accumulate that kind of loyalty without doing something right, and doing it consistently. This is the kind of place that shows up again and again in our curated guides because it's earned its reputation the old way: one pizza at a time, one satisfied customer at a time.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "784",
+        "yelp": "3.3",
+        "yelp_count": "42"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4693909209654183645",
+        "yelp": "https://www.yelp.com/biz/harris-pizza-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\harris_pizza_photo_1.jpg",
+        "all": [
+          "entity_photos\\harris_pizza_photo_1.jpg",
+          "entity_photos\\harris_pizza_photo_2.jpg",
+          "entity_photos\\harris_pizza_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "harris_pizza_1",
+      "type": "business",
+      "name": "Harris Pizza #1",
+      "slug": "harris-pizza-1",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3903 14th Avenue",
+      "city": "Rock Island",
+      "neighborhood": "KeyStone Neighborhood",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 788-3446",
+      "website": "https://harrispizza.com/harrispizza1?utm_source=google",
+      "hours": "Monday: 11:00 AM – 8:30 PM | Tuesday: 11:00 AM – 8:30 PM | Wednesday: 11:00 AM – 8:30 PM | Thursday: 11:00 AM – 8:30 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 8:00 PM",
+      "lat": "41.4974977",
+      "lng": "-90.5461644",
+      "description": "Quad City institution slinging thin-crust pies with toppings you won't find anywhere else.\n\nHarris Pizza #1 has been doing this long enough that the Quad City-style pizza feels like home cooking — thin, crispy crust with a slight char, loaded with combinations that make sense only if you've grown up eating them. The KeyStone location pulls in regulars who've been ordering the same pie for years alongside families testing out creative topping combinations. Order at the counter, grab a seat, and watch how quickly a pizza disappears when it's been made right.\n\nHarris Pizza sits in the KeyStone neighborhood of Rock Island, a part of the QC with real roots and real appetite. With 1,388 Google reviews and a 4.5 rating, this place has earned its reputation the old way — by being consistently good and showing up for the community year after year. It's exactly the kind of local mainstay that belongs on our guides, the place you'll hear about from three different people before you ever visit.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "1388",
+        "yelp": "4.0",
+        "yelp_count": "91"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9713628383515440400",
+        "yelp": "https://www.yelp.com/biz/harris-pizza-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\harris_pizza_1_photo_1.jpg",
+        "all": [
+          "entity_photos\\harris_pizza_1_photo_1.jpg",
+          "entity_photos\\harris_pizza_1_photo_2.jpg",
+          "entity_photos\\harris_pizza_1_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "johnnys_italian_steakhouse",
+      "type": "business",
+      "name": "Johnny's Italian Steakhouse",
+      "slug": "johnnys-italian-steakhouse",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1300 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 736-0100",
+      "website": "http://www.johnnysitaliansteakhouse.com/moline/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.507302",
+      "lng": "-90.51875749999999",
+      "description": "Steaks and martinis in a room that feels built for special occasions.\n\nJohnny's has that supper club energy — dark wood, a bar that actually invites lingering, and the kind of service that remembers you ordered your martini up. The steaks arrive properly seared, the Italian dishes don't feel like an afterthought, and there's something about the lighting (low, amber, deliberate) that makes an ordinary Friday night feel like it matters. It's not trying to be trendy; it's been doing this for long enough that it doesn't have to.\n\nJohnny's anchors Moline's upscale dining scene, the kind of place you book when you want to dress up and disappear into a booth for a few hours. It carries real weight in the QC's nightlife — the kind of establishment that shows up in anniversary plans and business dinners alike. Once you've sat at that bar or claimed one of the back tables, you'll understand why it's been pulling a crowd for this long.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "1901",
+        "yelp": "3.3",
+        "yelp_count": "228"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4530907628092596310",
+        "yelp": "https://www.yelp.com/biz/johnnys-italian-steakhouse-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\johnnys_italian_steakhouse_photo_1.jpg",
+        "all": [
+          "entity_photos\\johnnys_italian_steakhouse_photo_1.jpg",
+          "entity_photos\\johnnys_italian_steakhouse_photo_2.jpg",
+          "entity_photos\\johnnys_italian_steakhouse_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "lagomarcinos_confectionery",
       "type": "business",
       "name": "Lagomarcino's Confectionery",
@@ -235,6 +799,53 @@
           "entity_photos\\lagomarcinos_confectionery_photo_1.jpg",
           "entity_photos\\lagomarcinos_confectionery_photo_2.jpg",
           "entity_photos\\lagomarcinos_confectionery_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "lemongrass_cafe",
+      "type": "business",
+      "name": "LemonGrass Cafe",
+      "slug": "lemongrass-cafe",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1419 5th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-4100",
+      "website": "https://www.lemongrasscafeqc.com/",
+      "hours": "Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Friday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Saturday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM | Sunday: Closed",
+      "lat": "41.5060972",
+      "lng": "-90.51688329999999",
+      "description": "Thai food with real skill, served in a room that actually feels good.\n\nLemonGrass doesn't try too hard — exposed brick, metal fixtures, the kind of industrial warmth that lets the food speak. The pad thai has heat and balance, the curries taste like someone knows what they're doing, and the cocktails aren't an afterthought. Hit it for lunch and it's quiet; come dinner and the room fills with people who've made this their spot.\n\nLemonGrass sits in Moline, a neighborhood that's quietly become one of the QC's better places to eat. It's the kind of restaurant that pulls you back — not because it's trendy or trying to be something it's not, but because the execution is solid and the vibe is right. Once you've been, you'll understand why it keeps showing up on locals' regular rotation.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "1181",
+        "yelp": "4.6",
+        "yelp_count": "508"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10310132478911663516",
+        "yelp": "https://www.yelp.com/biz/lemongrass-cafe-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lemongrass_cafe_photo_1.jpg",
+        "all": [
+          "entity_photos\\lemongrass_cafe_photo_1.jpg",
+          "entity_photos\\lemongrass_cafe_photo_2.jpg",
+          "entity_photos\\lemongrass_cafe_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -284,6 +895,147 @@
           "entity_photos\\leon_bix_beiderbecke_memorial_photo_3.jpg",
           "entity_photos\\leon_bix_beiderbecke_memorial_photo_4.jpg",
           "entity_photos\\leon_bix_beiderbecke_memorial_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "los_agaves_mexican_grill",
+      "type": "business",
+      "name": "Los Agaves Mexican Grill",
+      "slug": "los-agaves-mexican-grill",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "5304 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 757-1505",
+      "website": "https://losagavesmexicangrill.shop/",
+      "hours": "Monday: 11:00 AM – 10:00 PM | Tuesday: 11:00 AM – 10:00 PM | Wednesday: 11:00 AM – 10:00 PM | Thursday: 11:00 AM – 10:00 PM | Friday: 11:00 AM – 10:30 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: 11:00 AM – 9:00 PM",
+      "lat": "41.4893779",
+      "lng": "-90.4645158",
+      "description": "Straightforward Mexican food, cold margaritas, and a patio that catches the evening.\n\nLos Agaves does the basics well — enchiladas that come properly sauced, tacos with meat that tastes like it was actually seasoned, sopas that fill you up. The bar runs a strong margarita, and on weekends the patio fills with groups who've claimed the same corner table three times over. It's the kind of place where the staff knows what you're ordering before you ask.\n\nLos Agaves sits in Moline, anchoring the casual restaurant landscape where families and coworkers slip in on weekday lunches and groups gather on Friday nights. It shows up again and again in our guides because it's the reliable spot — not trying too hard, not cutting corners — that actually improves a neighborhood by existing there.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "1241",
+        "yelp": "2.8",
+        "yelp_count": "73"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13533225826246840621",
+        "yelp": "https://www.yelp.com/biz/los-agaves-mexican-grill-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\los_agaves_mexican_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\los_agaves_mexican_grill_photo_1.jpg",
+          "entity_photos\\los_agaves_mexican_grill_photo_2.jpg",
+          "entity_photos\\los_agaves_mexican_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "lunardis_restaurant_italian",
+      "type": "business",
+      "name": "Lunardi's Restaurant | Italian",
+      "slug": "lunardis-restaurant-italian",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "102 East Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 388-0001",
+      "website": "http://lunardis-qc.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 4:00 – 9:00 PM | Thursday: 4:00 – 9:00 PM | Friday: 4:00 – 9:00 PM | Saturday: 4:00 – 9:00 PM | Sunday: 4:00 – 8:00 PM",
+      "lat": "41.562114",
+      "lng": "-90.5712353",
+      "description": "Chicago-style pizza and red-sauce classics from a Davenport institution since 1989.\n\nLunardi's feels like the kind of place where regulars have their own booth and the kitchen knows your order by heart. The Chicago pizza arrives with that signature thin, crispy crust and a char on the edges — less about theatrics, more about doing one thing well for thirty-some years. The pasta is straightforward and honest: marinara that tastes like it's been simmering since lunch, meatballs that hold together, garlic bread that's golden and garlicky without apology.\n\nTucked into Davenport's quieter corners, Lunardi's sits outside the main restaurant clusters but rewards anyone willing to find it — exactly the kind of neighborhood spot that survives by being genuinely good rather than fashionable. Open Wednesday through Sunday (closed Mondays and Tuesdays), it's built for weeknight family dinners and the kind of unhurried meals where nobody's rushing you out. Once you've been, it's the place you keep coming back to.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "928",
+        "yelp": "4.1",
+        "yelp_count": "95"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12518788012249590570",
+        "yelp": "https://www.yelp.com/biz/lunardis-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lunardis_restaurant_italian_photo_1.jpg",
+        "all": [
+          "entity_photos\\lunardis_restaurant_italian_photo_1.jpg",
+          "entity_photos\\lunardis_restaurant_italian_photo_2.jpg",
+          "entity_photos\\lunardis_restaurant_italian_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "mantra_indian_cuisine_spirits",
+      "type": "business",
+      "name": "Mantra Indian Cuisine & Spirits",
+      "slug": "mantra-indian-cuisine-spirits",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "220 North Harrison Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 424-5500",
+      "website": "http://www.mantraqc.com/",
+      "hours": "Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM | Tuesday: Closed | Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM | Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM | Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM | Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM | Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM",
+      "lat": "41.522011",
+      "lng": "-90.5773341",
+      "description": "Serious curries and a lunch buffet that keeps downtown workers coming back.\n\nMantra doesn't dress itself up—it's a straightforward room where the food does the talking. The lunch buffet hits hard on weekdays, a reliable rotation of curries, breads, and rice that changes enough to keep regulars interested. Evenings shift toward the menu: order the saag paneer if you want comfort, or push into the spiced meat curries where the kitchen shows its range. The cocktails are better than you'd expect, especially if you're pairing them with something rich.\n\nMantra sits in Downtown Davenport, steps from the riverfront and the cluster of places worth your time. It's been a quiet fixture here for years—the kind of restaurant that builds its reputation on consistency and word-of-mouth rather than Instagram moments. Once you've found it, you'll notice it's always got a mix of regulars, families, and people stopping in between river walks.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "1301",
+        "yelp": "4.1",
+        "yelp_count": "159"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12988491029734499309",
+        "yelp": "https://www.yelp.com/biz/mantra-indian-cuisine-and-spirits-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mantra_indian_cuisine_spirits_photo_1.jpg",
+        "all": [
+          "entity_photos\\mantra_indian_cuisine_spirits_photo_1.jpg",
+          "entity_photos\\mantra_indian_cuisine_spirits_photo_2.jpg",
+          "entity_photos\\mantra_indian_cuisine_spirits_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -341,6 +1093,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "osaka_steakhouse",
+      "type": "business",
+      "name": "Osaka steakhouse",
+      "slug": "osaka-steakhouse",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "4707 16th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 762-2211",
+      "website": "http://newosakasteakhouse.com/",
+      "hours": "Monday: 11:30 AM – 9:00 PM | Tuesday: 11:30 AM – 9:00 PM | Wednesday: 11:30 AM – 9:00 PM | Thursday: 11:30 AM – 9:00 PM | Friday: 11:30 AM – 9:30 PM | Saturday: 11:30 AM – 9:30 PM | Sunday: 12:00 – 9:00 PM",
+      "lat": "41.4642721",
+      "lng": "-90.5076493",
+      "description": "Hibachi theater and sushi that keeps Moline's dinner table buzzing.\n\nOsaka brings the full performance—chef knife-work, flames, the rhythmic scrape of steel on hot iron—and it lands. The hibachi counter is where the energy lives, especially on weekends when the place fills with families and groups leaning in to watch their dinner cook in front of them. Between the theatrical tables, there's solid sushi and a quieter dining room if you want the food without the show.\n\nOsaka sits in Moline, anchoring the casual dining scene with something that actually draws a crowd. It's the kind of place that works for a birthday, a date night, or just wanting to eat something good that feels like an occasion—and the 866 Google reviews speak to how often the QC returns. Once you've watched a chef build an onion volcano at the hibachi, you'll understand why it keeps people coming back.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "866",
+        "yelp": "3.8",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2407154423694222",
+        "yelp": "https://www.yelp.com/biz/osaka-steakhouse-and-sushi-bar-muscatine",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\osaka_steakhouse_photo_1.jpg",
+        "all": [
+          "entity_photos\\osaka_steakhouse_photo_1.jpg",
+          "entity_photos\\osaka_steakhouse_photo_2.jpg",
+          "entity_photos\\osaka_steakhouse_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "quad_city_botanical_center",
       "type": "place",
       "name": "Quad City Botanical Center",
@@ -383,6 +1182,523 @@
           "entity_photos\\quad_city_botanical_center_photo_3.jpg",
           "entity_photos\\quad_city_botanical_center_photo_4.jpg",
           "entity_photos\\quad_city_botanical_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "river_house_bar_grill",
+      "type": "business",
+      "name": "River House Bar & Grill",
+      "slug": "river-house-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1510 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-1234",
+      "website": "http://www.riverhouseqc.com/",
+      "hours": "Monday: 11:00 AM – 8:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 4:00 PM",
+      "lat": "41.5080556",
+      "lng": "-90.5169444",
+      "description": "A brick-walled bar with live music and a menu that refuses to play it safe.\n\nRiver House trades in the kind of unpretentious comfort that works on a Friday night — exposed brick, a working bar, and a kitchen that swings between burgers and whatever seasonal special caught the chef's attention. The live music calendar is the real draw; there's something reliable about knowing good bands rotate through here, and the room fills up with people who actually want to be there. It's the kind of place where you can grab a drink at 11 a.m. or stay past closing, and the vibe stays the same: casual, a little loud, no dress code required.\n\nRiver House sits in Moline, just far enough from downtown to feel like a neighborhood spot but close enough to the river that it makes sense as part of a longer evening out. It's been doing this for long enough that locals know it by name — the kind of bar that shows up on \"where do real people go\" lists, and once you've caught a band there on a Saturday night, you'll understand why.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "1750",
+        "yelp": "3.4",
+        "yelp_count": "193"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4980567626841465731",
+        "yelp": "https://www.yelp.com/biz/river-house-bar-and-grill-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\river_house_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\river_house_bar_grill_photo_1.jpg",
+          "entity_photos\\river_house_bar_grill_photo_2.jpg",
+          "entity_photos\\river_house_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "riverside_grille",
+      "type": "business",
+      "name": "Riverside Grille",
+      "slug": "riverside-grille",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1710 Grant Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 355-7827",
+      "website": "https://www.riversidegrillebett.com/",
+      "hours": "Monday: 11:00 AM – 12:00 AM | Tuesday: 11:00 AM – 12:00 AM | Wednesday: 11:00 AM – 12:00 AM | Thursday: 11:00 AM – 12:00 AM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 12:00 AM",
+      "lat": "41.5265718",
+      "lng": "-90.5080576",
+      "description": "A reliable evening anchor where the drinks pour generous and the crowd's always game.\n\nRiverside Grille is the kind of place that works on a Tuesday at 9 p.m. — the bar's three-deep, the kitchen's still moving, and nobody's checking their watch. The space has that comfortable, lived-in feel of a spot that's been doing the same thing well for years: good cocktails, solid food, and enough noise to feel like something's happening without drowning out conversation. Friday and Saturday nights stretch to 2 a.m., which means Riverside becomes part of the QC's late-night rotation in a way most places aren't willing to.\n\nRiverside Grille sits in Bettendorf, anchoring the eastern side of the metro with a different energy than downtown's newer spots. It's the kind of neighborhood bar that locals return to again and again — unpretentious, consistently good, and there when you need it. Once you've claimed a spot at the bar, you'll understand why it keeps showing up in conversation.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1012",
+        "yelp": "3.7",
+        "yelp_count": "68"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4278661087225950695",
+        "yelp": "https://www.yelp.com/biz/riverside-grille-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\riverside_grille_photo_1.jpg",
+        "all": [
+          "entity_photos\\riverside_grille_photo_1.jpg",
+          "entity_photos\\riverside_grille_photo_2.jpg",
+          "entity_photos\\riverside_grille_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "sippis_american_grill_craft_beer",
+      "type": "business",
+      "name": "Sippis American Grill & Craft Beer",
+      "slug": "sippis-american-grill-craft-beer",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "406 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 323-3911",
+      "website": "http://www.sippisrestaurant.com/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 10:00 PM | Saturday: 11:00 AM – 10:00 PM | Sunday: Closed",
+      "lat": "41.521575",
+      "lng": "-90.5787704",
+      "description": "Brick walls, craft beer lineup, and a fireplace that makes you want to stay longer.\n\nSippis feels like the kind of place that's been downtown forever — exposed brick, a real wood-burning fireplace, and a beer list that actually rewards paying attention. The kitchen handles American comfort food without pretension: burgers that land, wings that disappear, the kind of food that pairs naturally with a rotating roster of local and regional craft beers. Come for dinner on a Friday and you'll find the bar crowded with people who work nearby; come on a quieter weeknight and you might actually claim one of those fireplace-side tables.\n\nSippis sits in Downtown Davenport, anchoring the street-level restaurant scene with an unpretentious ease that matches the neighborhood's character. It's the kind of place that regulars return to again and again — not because it's fancy or trendy, but because it's genuinely good at what it does, and because the fireplace and the beer selection and the lack of performance make it feel like it's always been waiting for you.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "1119",
+        "yelp": "3.7",
+        "yelp_count": "133"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6255173458557404385",
+        "yelp": "https://www.yelp.com/biz/sippis-american-grill-and-craft-beer-davenport-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\sippis_american_grill_craft_beer_photo_1.jpg",
+        "all": [
+          "entity_photos\\sippis_american_grill_craft_beer_photo_1.jpg",
+          "entity_photos\\sippis_american_grill_craft_beer_photo_2.jpg",
+          "entity_photos\\sippis_american_grill_craft_beer_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "steel_plow_burger_company",
+      "type": "business",
+      "name": "Steel Plow Burger Company",
+      "slug": "steel-plow-burger-company",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2180 53rd Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-3117",
+      "website": "http://www.steelplowburger.com/",
+      "hours": "Monday: 11:00 AM – 8:00 PM | Tuesday: 11:00 AM – 8:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 11:00 AM – 8:00 PM",
+      "lat": "41.4915384",
+      "lng": "-90.465285",
+      "description": "Creative burgers and shakes that take themselves seriously in Moline.\n\nSteel Plow builds burgers that feel thought-through—not gimmicky, but genuinely inventive combinations that work. The shakes are oversized in the way that matters: thick enough to actually need a spoon, flavored with real attention. It's the kind of place that's loud and full on a Saturday afternoon, families and groups crowding the booths, but the kitchen keeps moving and the fries stay crispy all the way through.\n\nSteel Plow sits in Moline, a neighborhood that's become a real destination for eating well in the QC. With consistent ratings and a loyal crowd, it's the type of burger spot that shows up again and again when locals are asked where to take an appetite—unpretentious, reliable, and worth the wait when the parking lot is full.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "2600",
+        "yelp": "3.5",
+        "yelp_count": "235"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10175846837087278535",
+        "yelp": "https://www.yelp.com/biz/steel-plow-burger-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\steel_plow_burger_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\steel_plow_burger_company_photo_1.jpg",
+          "entity_photos\\steel_plow_burger_company_photo_2.jpg",
+          "entity_photos\\steel_plow_burger_company_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "stoney_creek_hotel_quad_cities_moline",
+      "type": "business",
+      "name": "Stoney Creek Hotel Quad Cities - Moline",
+      "slug": "stoney-creek-hotel-quad-cities-moline",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "101 18th Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 743-0101",
+      "website": "https://www.stoneycreekhotels.com/hotel/quad-cities?utm_source=GMB&utm_medium=link&utm_campaign=GMB_tracking&utm_id=MOL",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5101902",
+      "lng": "-90.5151987",
+      "description": "River views and a lively bar scene built into a casual hotel stay.\n\nStoney Creek's ground floor thrums with the kind of energy you'd expect from a place that's open around the clock — the bar draws locals and travelers alike, and there's a comfortable sprawl to the space that makes lingering easy. Pool access, a restaurant, and free breakfast mean you can justify staying overnight, but plenty of people just come for drinks and the deck overlooking the water. It's the rare Moline spot where you can slide in for an evening and feel like you've landed somewhere worth the trip.\n\nStoney Creek sits on Moline's riverfront, positioned to catch both the passing traveler and the local looking for a reliable nightlife anchor. With over 1,700 Google reviews and consistent traffic, it's become the kind of place that shows up repeatedly in conversations about where to actually go when the sun sets on the QC — and for good reason.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "1790",
+        "yelp": "3.6",
+        "yelp_count": "76"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4854666318695613131",
+        "yelp": "https://www.yelp.com/biz/stoney-creek-hotel-quad-cities-moline-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_1.jpg",
+        "all": [
+          "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_1.jpg",
+          "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_2.jpg",
+          "entity_photos\\stoney_creek_hotel_quad_cities_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "taqueria_la_rosa_de_michoacan",
+      "type": "business",
+      "name": "Taqueria La Rosa de Michoacan",
+      "slug": "taqueria-la-rosa-de-michoacan",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1821 19th Street",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 755-4462",
+      "website": "http://facebook.com/La-Rosa-De-Michoacan-111476698892388/",
+      "hours": "Monday: Closed | Tuesday: 8:00 AM – 4:00 PM | Wednesday: 8:00 AM – 4:00 PM | Thursday: 8:00 AM – 4:00 PM | Friday: 8:00 AM – 4:00 PM | Saturday: 8:00 AM – 4:00 PM | Sunday: 8:00 AM – 4:00 PM",
+      "lat": "41.51443889999999",
+      "lng": "-90.4256226",
+      "description": "Michoacán recipes that taste like someone's abuela is running the kitchen.\n\nLa Rosa de Michoacán opens early and closes by four, which tells you everything—this is a place built around real rhythms, not restaurant hours. The kitchen turns out carnitas that fall apart on the tongue, handmade tamales wrapped in corn husks, and birria so rich and complex you'll wonder how it came together in a small East Moline storefront. The counter moves steady all day long, regulars ordering in Spanish, families grabbing breakfast before work, the kind of authentic operation that doesn't need to advertise beyond word of mouth.\n\nEast Moline has some of the QC's most genuine neighborhood eating—the kind of spots that serve a real community rather than chase trends. La Rosa de Michoacán sits in that tradition, a place where the food tastes like it matters, where recipes weren't developed for Instagram but refined over years. If you're serious about eating well in the Quad Cities, this is one of those essential stops.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "596",
+        "yelp": "4.5",
+        "yelp_count": "72"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17362932688993750157",
+        "yelp": "https://www.yelp.com/biz/la-rosa-de-michoacan-taqueria-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\taqueria_la_rosa_de_michoacan_photo_1.jpg",
+        "all": [
+          "entity_photos\\taqueria_la_rosa_de_michoacan_photo_1.jpg",
+          "entity_photos\\taqueria_la_rosa_de_michoacan_photo_2.jpg",
+          "entity_photos\\taqueria_la_rosa_de_michoacan_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_11th_street_precinct_bar_grill",
+      "type": "business",
+      "name": "The 11th Street Precinct Bar & Grill",
+      "slug": "the-11th-street-precinct-bar-grill",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "2108 East 11th Street",
+      "city": "Davenport",
+      "neighborhood": "Village of East Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 324-9545",
+      "website": "http://www.11thstreetprecinct.com/",
+      "hours": "Monday: 11:00 AM – 9:00 PM | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 2:00 AM | Saturday: 11:00 AM – 2:00 AM | Sunday: 11:00 AM – 2:00 AM",
+      "lat": "41.5311704",
+      "lng": "-90.54605529999999",
+      "description": "A sprawling East Davenport anchor where locals gather for wings, beer, and live music.\n\nThe 11th Street Precinct has the feel of a place that's been everyone's second home for years—the kind of spot where the bartender knows your drink and the kitchen turns out reliable comfort food that hits different after a few rounds. The space is big enough to breathe in, with screens tuned to whatever game matters that night, but it never feels soulless; live music nights pack the room with a real crowd. Fridays and Saturdays stretch late, and that's when the energy shifts from casual dinner crowd to the people who came to stay.\n\nSitting in the Village of East Davenport, The 11th Street Precinct is where the neighborhood goes when it wants to eat well and stick around. It's the kind of established local that doesn't need flashy marketing—the Google reviews speak for themselves—and it's exactly the sort of place we return to again and again when we're mapping out where actual Quad Citians actually spend their Friday nights.",
+      "rating": {
+        "google": "4",
+        "google_count": "1249",
+        "yelp": "2.7",
+        "yelp_count": "133"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6548704421420764780",
+        "yelp": "https://www.yelp.com/biz/the-11th-street-precinct-bar-and-grill-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_11th_street_precinct_bar_grill_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_11th_street_precinct_bar_grill_photo_1.jpg",
+          "entity_photos\\the_11th_street_precinct_bar_grill_photo_2.jpg",
+          "entity_photos\\the_11th_street_precinct_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_grinders_spaghetti_house_moline",
+      "type": "business",
+      "name": "The Grinder's & Spaghetti House - Moline",
+      "slug": "the-grinders-spaghetti-house-moline",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3210 Avenue Of The Cities",
+      "city": "Moline",
+      "neighborhood": "Villa Park",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 764-7599",
+      "website": "https://grindersspaghettihouse.com/grindersmoline?utm_source=google",
+      "hours": "Monday: 11:00 AM – 8:30 PM | Tuesday: 11:00 AM – 8:30 PM | Wednesday: 11:00 AM – 8:30 PM | Thursday: 11:00 AM – 8:30 PM | Friday: 11:00 AM – 8:30 PM | Saturday: 11:00 AM – 8:30 PM | Sunday: Closed",
+      "lat": "41.49147",
+      "lng": "-90.4912545",
+      "description": "Thick-crust sandwiches and red-sauce spaghetti in a Villa Park institution.\n\nThe Grinder's has been doing the same thing for decades — Italian sandwiches stuffed fat and messy, spaghetti plates that arrive steaming under a blanket of meat sauce, the kind of place where regulars know their order before they sit down. The dining room is uncomplicated: vinyl booths, checkered tablecloths, enough garlic in the air to clear your sinuses. You come here because your parents came here, because the grinder is exactly what you remember, and because it still costs less than it should.\n\nThe Grinder's sits in Villa Park, a working neighborhood in Moline that hasn't been picked over by trend-chasers — which is exactly why it's still standing and why it still tastes like home. It's the kind of place that anchors a community, reliable and unhurried, and those are the spots we keep coming back to in our guides.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "716",
+        "yelp": "3.5",
+        "yelp_count": "54"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7170189829123031531",
+        "yelp": "https://www.yelp.com/biz/the-grinders-and-spaghetti-house-moline-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_grinders_spaghetti_house_moline_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_grinders_spaghetti_house_moline_photo_1.jpg",
+          "entity_photos\\the_grinders_spaghetti_house_moline_photo_2.jpg",
+          "entity_photos\\the_grinders_spaghetti_house_moline_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "tpc_deere_run",
+      "type": "business",
+      "name": "TPC Deere Run",
+      "slug": "tpc-deere-run",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "3100 Heather Knoll",
+      "city": "Silvis",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61282",
+      "phone": "(309) 796-6000",
+      "website": "http://tpc.com/deererun",
+      "hours": "Monday: 7:00 AM – 6:30 PM | Tuesday: 7:00 AM – 6:30 PM | Wednesday: 7:00 AM – 6:30 PM | Thursday: 7:00 AM – 6:30 PM | Friday: 7:00 AM – 6:30 PM | Saturday: 7:00 AM – 6:30 PM | Sunday: 7:00 AM – 6:30 PM",
+      "lat": "41.47736760000001",
+      "lng": "-90.3922371",
+      "description": "Golf course dining with views that stretch as far as your drive.\n\nTPC Deere Run's restaurant catches the best light in late afternoon, when the fairways turn golden and you can actually see why people spend four hours out here. The menu leans into the clubhouse playbook—solid sandwiches, salads you don't feel guilty about, the kind of food that tastes better when you've already walked nine holes. Whether you're a member celebrating a good round or a non-golfer grabbing lunch with a view, the space feels unhurried in a way that's rare in the QC.\n\nOut in Silvis, TPC Deere Run sits on some genuinely beautiful land—the kind of manicured green space that makes you remember this region has more to offer than the riverfront alone. It's the place that shows up on the calendar for tournaments and club events, but it's also approachable for a casual meal. Once you've sat on that patio, watched golfers work their way across the course, and eaten something better than you expected, you'll understand why it keeps pulling people back.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "712",
+        "yelp": "3.9",
+        "yelp_count": "17"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9699518874277205760",
+        "yelp": "https://www.yelp.com/biz/tpc-deere-run-silvis",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\tpc_deere_run_photo_1.jpg",
+        "all": [
+          "entity_photos\\tpc_deere_run_photo_1.jpg",
+          "entity_photos\\tpc_deere_run_photo_2.jpg",
+          "entity_photos\\tpc_deere_run_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "trattoria_tiramisu",
+      "type": "business",
+      "name": "Trattoria Tiramisu",
+      "slug": "trattoria-tiramisu",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1804 State Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 355-0749",
+      "website": "",
+      "hours": "Monday: 5:00 – 9:00 PM | Tuesday: 5:00 – 9:00 PM | Wednesday: 5:00 – 9:00 PM | Thursday: 5:00 – 9:00 PM | Friday: 5:00 – 9:00 PM | Saturday: 5:00 – 9:00 PM | Sunday: Closed",
+      "lat": "41.52558760000001",
+      "lng": "-90.50706699999999",
+      "description": "Red-checkered tables and handmade pasta that tastes like someone's nonna is in the kitchen.\n\nTrattoria Tiramisu feels like stepping into a corner of Italy that's been transplanted to Bettendorf—all warm lighting, simple wooden chairs, and the kind of straightforward Italian cooking that doesn't need to apologize. The pasta is the draw here; order the lasagna or any of their house specials and you'll taste the difference between careful preparation and assembly-line cooking. The bar runs the length of one wall, and regulars know to linger over a Chianti or an Aperol Spritz while the kitchen takes its time.\n\nTrattoria Tiramisu sits in Bettendorf, the QC's quieter, more residential side—a neighborhood where good restaurants tend to stay good because people keep coming back. With nearly 800 five-star reviews, this is the kind of place that shows up on our guides because it's earned its reputation through consistency, not flash. If you're looking for honest Italian food where the effort shows, this is the table to book.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "798",
+        "yelp": "3.9",
+        "yelp_count": "167"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14071456472449549487",
+        "yelp": "https://www.yelp.com/biz/trattoria-tiramisu-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\trattoria_tiramisu_photo_1.jpg",
+        "all": [
+          "entity_photos\\trattoria_tiramisu_photo_1.jpg",
+          "entity_photos\\trattoria_tiramisu_photo_2.jpg",
+          "entity_photos\\trattoria_tiramisu_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "village_inn",
+      "type": "business",
+      "name": "Village Inn",
+      "slug": "village-inn",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2122 53rd Street",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-5556",
+      "website": "https://www.villageinn.com/moline-il-53rd-street",
+      "hours": "Monday: 7:00 AM – 8:00 PM | Tuesday: 7:00 AM – 8:00 PM | Wednesday: 7:00 AM – 8:00 PM | Thursday: 7:00 AM – 8:00 PM | Friday: 7:00 AM – 8:00 PM | Saturday: 7:00 AM – 8:00 PM | Sunday: 7:00 AM – 8:00 PM",
+      "lat": "41.492115",
+      "lng": "-90.46516",
+      "description": "Homestyle comfort food that's been feeding Moline families for decades.\n\nVillage Inn is the kind of place where the waitstaff remembers regulars' names and the chicken-fried steak arrives golden and substantial. The dining room has that warm, lived-in feeling of a restaurant that's earned its loyal following — booths worn smooth from years of Sunday dinners, pie cases that actually move, coffee that stays hot. It's unpretentious in the best way: you come here because the food is honest and the portions don't apologize.\n\nVillage Inn sits on 53rd Street in Moline, a straightforward neighborhood spot without any attempt at trendiness or reinvention. It's the kind of reliable anchor that shows up on best-of lists because locals keep coming back — not for Instagram moments, but for food that tastes like home. If you're looking for what the Quad Cities actually eat when nobody's watching, this is it.",
+      "rating": {
+        "google": "4.1",
+        "google_count": "1501",
+        "yelp": "3.2",
+        "yelp_count": "29"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3822712553113996826",
+        "yelp": "https://www.yelp.com/biz/village-inn-moline-7",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\village_inn_photo_1.jpg",
+        "all": [
+          "entity_photos\\village_inn_photo_1.jpg",
+          "entity_photos\\village_inn_photo_2.jpg",
+          "entity_photos\\village_inn_photo_3.jpg"
         ]
       },
       "guides": [],
