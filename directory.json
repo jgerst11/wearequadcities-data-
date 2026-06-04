@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T11:40:19.804354",
+  "generated": "2026-06-04T12:00:11.465583",
   "total": 98,
   "entities": [
     {
@@ -479,7 +479,7 @@
       "type": "business",
       "name": "Bally's Quad Cities Casino & Hotel",
       "slug": "ballys-quad-cities-casino-hotel",
-      "category": "Restaurants",
+      "category": "Nightlife",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1750,7 +1750,7 @@
       "type": "business",
       "name": "Great River Brewery",
       "slug": "great-river-brewery",
-      "category": "Restaurants",
+      "category": "Nightlife",
       "subcategory": "",
       "tags": [
         "restaurants"
