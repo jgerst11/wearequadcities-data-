@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T10:44:10.604011",
-  "total": 99,
+  "generated": "2026-06-04T11:36:46.870275",
+  "total": 98,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -54,7 +54,7 @@
       "type": "business",
       "name": "392Caffe",
       "slug": "392caffe",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -101,7 +101,7 @@
       "type": "business",
       "name": "7 Brew Coffee",
       "slug": "7-brew-coffee",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -244,7 +244,7 @@
       "type": "business",
       "name": "Aroma Coffee & Cafe",
       "slug": "aroma-coffee-cafe",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -291,7 +291,7 @@
       "type": "business",
       "name": "Atomic Coffee Bar",
       "slug": "atomic-coffee-bar",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -385,7 +385,7 @@
       "type": "business",
       "name": "Awake Coffee Company",
       "slug": "awake-coffee-company",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -763,7 +763,7 @@
       "type": "business",
       "name": "Brews Energy",
       "slug": "brews-energy",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -810,7 +810,7 @@
       "type": "business",
       "name": "Bruegger's Bagels",
       "slug": "brueggers-bagels",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -904,7 +904,7 @@
       "type": "business",
       "name": "Central Standard Craft Burgers & Beer",
       "slug": "central-standard-craft-burgers-beer",
-      "category": "Nightlife",
+      "category": "Restaurants",
       "subcategory": "",
       "tags": [
         "nightlife"
@@ -1045,7 +1045,7 @@
       "type": "business",
       "name": "Coffee House Cafe and Goods",
       "slug": "coffee-house-cafe-and-goods",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1280,7 +1280,7 @@
       "type": "business",
       "name": "Dead Poet’s Espresso Ltd",
       "slug": "dead-poets-espresso-ltd",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1327,7 +1327,7 @@
       "type": "business",
       "name": "Donut Delite",
       "slug": "donut-delite",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1374,7 +1374,7 @@
       "type": "business",
       "name": "Donuts & More",
       "slug": "donuts-more",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1468,7 +1468,7 @@
       "type": "business",
       "name": "Dunn Brothers Coffee",
       "slug": "dunn-brothers-coffee",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1515,7 +1515,7 @@
       "type": "business",
       "name": "East Moline Coffee Company",
       "slug": "east-moline-coffee-company",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1703,7 +1703,7 @@
       "type": "business",
       "name": "Gravastar Coffee (Formerly Coffee Hound)",
       "slug": "gravastar-coffee-formerly-coffee-hound",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1938,7 +1938,7 @@
       "type": "business",
       "name": "Iconic Coffee + Energy",
       "slug": "iconic-coffee-energy",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -1985,7 +1985,7 @@
       "type": "business",
       "name": "Iron + Grain Coffee House",
       "slug": "iron-grain-coffee-house",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2032,7 +2032,7 @@
       "type": "business",
       "name": "Jaded Java",
       "slug": "jaded-java",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2079,7 +2079,7 @@
       "type": "business",
       "name": "Java Java Cafe",
       "slug": "java-java-cafe",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2314,7 +2314,7 @@
       "type": "business",
       "name": "Kick Serve Coffee",
       "slug": "kick-serve-coffee",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2551,7 +2551,7 @@
       "type": "business",
       "name": "Lifted Energy",
       "slug": "lifted-energy",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2739,7 +2739,7 @@
       "type": "business",
       "name": "Main Street Coffee",
       "slug": "main-street-coffee",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2786,7 +2786,7 @@
       "type": "business",
       "name": "Makenna Koffee Company",
       "slug": "makenna-koffee-company",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -2927,7 +2927,7 @@
       "type": "business",
       "name": "Milltown Coffee",
       "slug": "milltown-coffee",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -3261,7 +3261,7 @@
       "type": "business",
       "name": "Redband Coffee Co.",
       "slug": "redband-coffee-co",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -3308,7 +3308,7 @@
       "type": "business",
       "name": "Revive Cafe - serving local, organic, healthy, vegan and gluten free options in the Quad Cities",
       "slug": "revive-cafe-serving-local-organic-healthy-vegan-and-gluten-free-options-in-the-quad-cities",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -3496,7 +3496,7 @@
       "type": "business",
       "name": "ROZZ-TOX",
       "slug": "rozz-tox",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -3778,7 +3778,7 @@
       "type": "business",
       "name": "T&L's Java Joint Drive-Thru",
       "slug": "tls-java-joint-drive-thru",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -3966,7 +3966,7 @@
       "type": "business",
       "name": "The Atlas Collective",
       "slug": "the-atlas-collective",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -4013,7 +4013,7 @@
       "type": "business",
       "name": "The Brewed Book - Coffee Shop & Used Book Store",
       "slug": "the-brewed-book-coffee-shop-used-book-store",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -4150,53 +4150,6 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "the_green_thumbers",
-      "type": "business",
-      "name": "The Green Thumbers",
-      "slug": "the-green-thumbers",
-      "category": "Restaurants",
-      "subcategory": "",
-      "tags": [
-        "restaurants"
-      ],
-      "attributes": [],
-      "address": "3030 North Brady Street",
-      "city": "Davenport",
-      "neighborhood": "",
-      "state": "IA",
-      "zip": "52803",
-      "phone": "(563) 322-1771",
-      "website": "https://thegreenthumbers.com/",
-      "hours": "Monday: 8:00 AM – 7:00 PM | Tuesday: 8:00 AM – 7:00 PM | Wednesday: 8:00 AM – 7:00 PM | Thursday: 8:00 AM – 7:00 PM | Friday: 8:00 AM – 7:00 PM | Saturday: 8:00 AM – 5:00 PM | Sunday: 9:00 AM – 5:00 PM",
-      "lat": "41.5515932",
-      "lng": "-90.57049889999999",
-      "description": "Farm-to-table spot where vegetables are the main event, not the side.\n\nThe Green Thumbers takes its produce seriously — the menu shifts with what's actually in season, and it shows. You'll find yourself ordering things you didn't know you wanted: charred brassicas with anchovy, heirloom tomato toast, vegetable-forward plates that convince you meat isn't necessary. The space is bright and unfussy, the kind of place where you can linger over lunch or grab something quick on your way home from work.\n\nRooted in Davenport, The Green Thumbers fits into the growing cluster of restaurants that understand the QC is ready for something more thoughtful. It's the kind of spot that rewards regulars — come back enough and you'll find yourself in conversation with the staff about what's coming into season. Whether you're looking for a serious meal or just a really good sandwich, it's worth the stop.",
-      "rating": {
-        "google": "4.5",
-        "google_count": "354",
-        "yelp": "3.5",
-        "yelp_count": "22"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=3552696941366747174",
-        "yelp": "https://www.yelp.com/biz/the-green-thumbers-davenport",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\the_green_thumbers_photo_1.jpg",
-        "all": [
-          "entity_photos\\the_green_thumbers_photo_1.jpg",
-          "entity_photos\\the_green_thumbers_photo_2.jpg",
-          "entity_photos\\the_green_thumbers_photo_3.jpg"
-        ]
-      },
-      "guides": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
       "id": "the_grinders_spaghetti_house_moline",
       "type": "business",
       "name": "The Grinder's & Spaghetti House - Moline",
@@ -4248,7 +4201,7 @@
       "type": "business",
       "name": "The Java Lab Grind & Dine Cafe",
       "slug": "the-java-lab-grind-dine-cafe",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -4530,7 +4483,7 @@
       "type": "business",
       "name": "Vibrant Coffeehouse + Kitchen",
       "slug": "vibrant-coffeehouse-kitchen",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
@@ -4624,7 +4577,7 @@
       "type": "business",
       "name": "WHOLLY GRINDS Coffee Shop",
       "slug": "wholly-grinds-coffee-shop",
-      "category": "Restaurants",
+      "category": "Coffee",
       "subcategory": "",
       "tags": [
         "restaurants"
