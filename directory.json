@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T14:14:51.184387",
-  "total": 178,
+  "generated": "2026-06-04T14:50:15.379620",
+  "total": 191,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -2294,6 +2294,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "daley_tax_service",
+      "type": "business",
+      "name": "Daley Tax Service",
+      "slug": "daley-tax-service",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "5202 38th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(563) 271-7089",
+      "website": "https://daleytaxservices.com/",
+      "hours": "Monday: 9:00 AM – 6:00 PM | Tuesday: 9:00 AM – 6:00 PM | Wednesday: 9:00 AM – 6:00 PM | Thursday: 9:00 AM – 6:00 PM | Friday: 9:00 AM – 6:00 PM | Saturday: 9:00 AM – 1:00 PM | Sunday: Closed",
+      "lat": "41.4710009",
+      "lng": "-90.4650862",
+      "description": "Local tax prep that actually answers your questions without the corporate runaround.\n\nDaley Tax Service has built a 5-star reputation the old-fashioned way — by showing up, listening, and getting the job done right. The team knows the difference between a quick file and a thorough one, and they're not rushing you through either. Saturday morning appointments mean you don't have to take time off work, and the straightforward pricing means no surprises when you walk out.\n\nDaley sits in Moline, solid ground for people who need straightforward, reliable service without the big-box tax place experience. With 214 Google reviews at 5 stars, this is the kind of place that gets passed along quietly among neighbors and coworkers — proof that sometimes the best recommendations in the QC come from word of mouth, not advertising.",
+      "rating": {
+        "google": "5",
+        "google_count": "214",
+        "yelp": "3.7",
+        "yelp_count": "3"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16454936106546309949",
+        "yelp": "https://www.yelp.com/biz/amerifile-tax-centers-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\daley_tax_service_photo_1.jpg",
+        "all": [
+          "entity_photos\\daley_tax_service_photo_1.jpg",
+          "entity_photos\\daley_tax_service_photo_2.jpg",
+          "entity_photos\\daley_tax_service_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "davidson_jewelers",
       "type": "business",
       "name": "Davidson Jewelers",
@@ -2381,6 +2428,53 @@
           "entity_photos\\dead_poets_espresso_ltd_photo_1.jpg",
           "entity_photos\\dead_poets_espresso_ltd_photo_2.jpg",
           "entity_photos\\dead_poets_espresso_ltd_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "deere_company_world_headquarters",
+      "type": "business",
+      "name": "Deere & Company World Headquarters",
+      "slug": "deere-company-world-headquarters",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "attractions"
+      ],
+      "attributes": [],
+      "address": "One John Deere Place",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 765-8000",
+      "website": "http://www.deere.com/",
+      "hours": "",
+      "lat": "41.476482",
+      "lng": "-90.42466999999999",
+      "description": "Industrial history made tangible, right on the riverfront.\n\nDeere & Company's world headquarters is less a restaurant than a pilgrimage site for anyone curious about what built the Quad Cities. The building itself — all clean lines and modernist restraint — sits like a monument to American manufacturing, and the grounds offer views back toward the river that remind you why Moline became what it is. Step inside and you're walking through the company's DNA: the cafeteria hums with engineers and legacy employees, and if you're lucky, the gift shop has vintage John Deere literature that tells the real story of Iowa farm country.\n\nDeere & Company World Headquarters anchors Moline's identity in a way few other places do — it's the reason the whole area exists. Whether you're a genuine manufacturing history buff or just someone who wants to understand the QC's backbone, this is worth a deliberate visit. It's the kind of place that makes sense alongside a walk along the riverfront and a meal downtown, a physical reminder of why the Quad Cities matter.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "258",
+        "yelp": "2.4",
+        "yelp_count": "5"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15816180431724006655",
+        "yelp": "https://www.yelp.com/biz/deere-and-company-world-headquarters-moline-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\deere_company_world_headquarters_photo_1.jpg",
+        "all": [
+          "entity_photos\\deere_company_world_headquarters_photo_1.jpg",
+          "entity_photos\\deere_company_world_headquarters_photo_2.jpg",
+          "entity_photos\\deere_company_world_headquarters_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -3439,6 +3533,100 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "gullivers_travel_duck_creek",
+      "type": "business",
+      "name": "Gulliver's Travel Duck Creek",
+      "slug": "gullivers-travel-duck-creek",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "874 Middle Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 359-6500",
+      "website": "https://www.gulliverstravel.com/bettendorf-ia.html",
+      "hours": "Monday: 9:00 AM – 7:00 PM | Tuesday: 9:00 AM – 7:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 7:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 10:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.5409292",
+      "lng": "-90.520567",
+      "description": "A independent travel agency where someone actually knows your name.\n\nGulliver's Travel in Bettendorf is the kind of place where the staff remembers you booked that river cruise last spring and asks how it went. They'll spend time mapping out your trip with a real person across a real desk — no endless clicking through websites, no chatbots. Whether you're chasing down a last-minute flight, planning a two-week European adventure, or need someone to vouch for that travel insurance, they've got the expertise and the connections.\n\nGulliver's sits in Bettendorf, the QC's quieter, more residential sister — a short drive from the river but worlds away from the hustle of downtown. In an age of algorithm-driven travel booking, a travel agency that listens feels rare and worth supporting. It's the kind of local business that shows up in our guides because it solves a real problem the way only a person can.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "116",
+        "yelp": "3.7",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7072271618628327735",
+        "yelp": "https://www.yelp.com/biz/gullivers-travel-duck-creek-plaza-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\gullivers_travel_duck_creek_photo_1.jpg",
+        "all": [
+          "entity_photos\\gullivers_travel_duck_creek_photo_1.jpg",
+          "entity_photos\\gullivers_travel_duck_creek_photo_2.jpg",
+          "entity_photos\\gullivers_travel_duck_creek_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "hr_block",
+      "type": "business",
+      "name": "H&R Block",
+      "slug": "hr-block",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "5225 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 326-3539",
+      "website": "https://www.hrblock.com/tax-office-near-me/iowa/davenport/16096/?otppartnerid=9308&campaignid=pw_mcm_9308_9762&utm_medium=local",
+      "hours": "Monday: Closed | Tuesday: 1:00 – 7:00 PM | Wednesday: Closed | Thursday: 10:00 AM – 6:00 PM | Friday: Closed | Saturday: 10:00 AM – 4:00 PM | Sunday: Closed",
+      "lat": "41.5735858",
+      "lng": "-90.568422",
+      "description": "Tax prep that doesn't make you want to flip a table.\n\nH&R Block on Brady Street has the kind of unhurried approach that actually works—accountants who know the Iowa tax code inside out and aren't rushing you through the door. The appointment slots are real (not overbooked), and they'll walk you through deductions you'd miss on your own. Come April, most places are swamped; here, limited hours mean they actually have time to talk.\n\nThis Davenport location sits on the practical edge of the QC's service landscape—the kind of place you don't think about until you need it, then you're relieved it's there. If you're self-employed, own property, or just have taxes complicated enough to warrant a real person looking them over, this is the spot locals keep coming back to. The 4.7 rating isn't an accident.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "175",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7086692029205289867",
+        "yelp": "https://www.yelp.com/biz/h-and-r-block-davenport-7",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\hr_block_photo_1.jpg",
+        "all": [
+          "entity_photos\\hr_block_photo_1.jpg",
+          "entity_photos\\hr_block_photo_2.jpg",
+          "entity_photos\\hr_block_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "hafners_tavern_liquor_store",
       "type": "business",
       "name": "Hafner's Tavern & Liquor Store",
@@ -3621,6 +3809,53 @@
           "entity_photos\\haus_of_heir_photo_1.jpg",
           "entity_photos\\haus_of_heir_photo_2.jpg",
           "entity_photos\\haus_of_heir_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "horizon_movers_and_climate_controlled_storage",
+      "type": "business",
+      "name": "Horizon Movers and Climate Controlled Storage",
+      "slug": "horizon-movers-and-climate-controlled-storage",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "10981 118th St",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 381-9866",
+      "website": "https://horizonmoversqc.com/?utm_source=google_business_profile_davenport",
+      "hours": "Monday: 8:00 AM – 5:00 PM | Tuesday: 8:00 AM – 5:00 PM | Wednesday: 8:00 AM – 5:00 PM | Thursday: 8:00 AM – 5:00 PM | Friday: 8:00 AM – 5:00 PM | Saturday: 8:00 AM – 12:00 PM | Sunday: Closed",
+      "lat": "41.56974839999999",
+      "lng": "-90.5691531",
+      "description": "Local movers who actually show up on time and treat your stuff like their own.\n\nHorizon has built a reputation in Davenport on the kind of reliability that doesn't make headlines — it just makes moving suck less. Their crew knows the quirks of QC neighborhoods (those narrow Bettendorf staircases, the old Victorian charm with tight doorways), and they pack and load with the focus of people who've done this hundreds of times. The climate-controlled storage means your boxes and furniture aren't sweating through humid summers or warping in winter, which matters more than it sounds when you're storing the good stuff.\n\nHorizon Movers sits in Davenport and has earned a near-perfect rating because they've been doing right by families and businesses moving within and out of the Quad Cities for years. They're the kind of local service that belongs on our guides — not fancy, not flashy, just competent and honest. When you're planning a move in the QC, this is the first call to make.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "358",
+        "yelp": "4.7",
+        "yelp_count": "13"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15639971773698955288",
+        "yelp": "https://www.yelp.com/biz/horizon-movers-and-climate-control-storage-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\horizon_movers_and_climate_controlled_storage_photo_1.jpg",
+        "all": [
+          "entity_photos\\horizon_movers_and_climate_controlled_storage_photo_1.jpg",
+          "entity_photos\\horizon_movers_and_climate_controlled_storage_photo_2.jpg",
+          "entity_photos\\horizon_movers_and_climate_controlled_storage_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5244,6 +5479,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "monson_full_service_towing",
+      "type": "business",
+      "name": "Monson Full Service Towing",
+      "slug": "monson-full-service-towing",
+      "category": "Automotive",
+      "subcategory": "",
+      "tags": [
+        "automotive"
+      ],
+      "attributes": [],
+      "address": "4900 Wapello Avenue",
+      "city": "Davenport",
+      "neighborhood": "West Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(309) 792-8181",
+      "website": "https://monsontowing.com/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.4921236",
+      "lng": "-90.6472941",
+      "description": "The tow truck that actually picks up when you call at 2 a.m.\n\nMonson's been the QC's reliable answer to roadside panic for years — the kind of outfit where dispatchers know the highways by heart and drivers show up without the attitude. Whether you're stranded on I-80 with a dead battery, need a quick hookup after a fender-bender, or just need someone who won't gouge you on a long haul, they're open every hour of every day and genuinely seem glad to help. That 4.9 rating isn't accident — it's the result of people remembering who came through when they needed it most.\n\nMonson operates out of West Davenport, positioned exactly where you'd want them to be if your night suddenly went sideways. They're the kind of essential local business that doesn't make glamorous guides, but absolutely belongs in ours — because a great community isn't just about where to eat or drink. It's about knowing who to call when things fall apart, and knowing they'll answer.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "297",
+        "yelp": "4.4",
+        "yelp_count": "8"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2891003056705747244",
+        "yelp": "https://www.yelp.com/biz/monson-full-service-towing-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\monson_full_service_towing_photo_1.jpg",
+        "all": [
+          "entity_photos\\monson_full_service_towing_photo_1.jpg",
+          "entity_photos\\monson_full_service_towing_photo_2.jpg",
+          "entity_photos\\monson_full_service_towing_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "neckers_jewelers",
       "type": "business",
       "name": "Necker's Jewelers",
@@ -5333,6 +5615,53 @@
           "entity_photos\\northpark_mall_photo_3.jpg",
           "entity_photos\\northpark_mall_photo_4.jpg",
           "entity_photos\\northpark_mall_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "northwest_plumbing_heating_ac",
+      "type": "business",
+      "name": "Northwest Plumbing, Heating & AC",
+      "slug": "northwest-plumbing-heating-ac",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "5885 Tremont Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 391-1344",
+      "website": "https://www.callnw.com/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.580403",
+      "lng": "-90.55998699999999",
+      "description": "A 24-hour plumbing lifeline that shows up when you need it most.\n\nWhen your water heater fails at midnight or your kitchen sink backs up on a Sunday, Northwest Plumbing answers—and they've been doing it for long enough that they know every old house quirk in Davenport. The technicians arrive in marked trucks, come prepared, and explain what's wrong without the sales pitch. Whether it's a burst pipe in January or AC that won't kick on in August, they're the number you'll find yourself calling again.\n\nNorthwest Plumbing is the kind of essential local business that doesn't make the tourism guides—but absolutely should be in your phone. It's the place your neighbors recommend without hesitation, the one that's earned nearly 1,400 five-star reviews by showing up on time and doing the job right. In a community, these are the businesses that matter most.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "1392",
+        "yelp": "4.0",
+        "yelp_count": "19"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7990069648667745259",
+        "yelp": "https://www.yelp.com/biz/j-l-brady-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\northwest_plumbing_heating_ac_photo_1.jpg",
+        "all": [
+          "entity_photos\\northwest_plumbing_heating_ac_photo_1.jpg",
+          "entity_photos\\northwest_plumbing_heating_ac_photo_2.jpg",
+          "entity_photos\\northwest_plumbing_heating_ac_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5714,6 +6043,53 @@
           "entity_photos\\putnam_museum_and_science_center_photo_3.jpg",
           "entity_photos\\putnam_museum_and_science_center_photo_4.jpg",
           "entity_photos\\putnam_museum_and_science_center_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_cities_international_airport",
+      "type": "business",
+      "name": "Quad Cities International Airport",
+      "slug": "quad-cities-international-airport",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "2200 George Kirk Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 757-1768",
+      "website": "https://www.qcairport.com/",
+      "hours": "Monday: 3:30 AM – 12:00 AM | Tuesday: 3:30 AM – 12:00 AM | Wednesday: 3:30 AM – 12:00 AM | Thursday: 3:30 AM – 12:00 AM | Friday: 3:30 AM – 12:00 AM | Saturday: 3:30 AM – 12:00 AM | Sunday: 3:30 AM – 12:00 AM",
+      "lat": "41.4496341",
+      "lng": "-90.50827059999999",
+      "description": "A regional hub where the QC connects to everywhere else.\n\nThe Quad Cities International Airport moves quietly — no chaos, no endless corridors, just a straightforward path from car to gate. The terminal has the charm of a place that's been here since the early 1900s, updated enough to function smoothly but still recognizably local. There's actual art on the walls (rotating local work), and you won't spend 20 minutes looking for your airline counter or wondering which security line to join.\n\nMLT sits in Moline, a few minutes off I-74, and it's the practical heart of how the QC connects outward — whether you're catching a morning flight to Chicago or heading somewhere farther. It's not a destination in the traditional sense, but it's exactly the kind of efficient, human-scaled infrastructure that makes living here easier than it might be elsewhere. Once you've flown out and back through it, you understand why the airport matters to the region's identity.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "893",
+        "yelp": "3.8",
+        "yelp_count": "73"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15423031992575227509",
+        "yelp": "https://www.yelp.com/biz/quad-city-international-airport-mli-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_cities_international_airport_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_cities_international_airport_photo_1.jpg",
+          "entity_photos\\quad_cities_international_airport_photo_2.jpg",
+          "entity_photos\\quad_cities_international_airport_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -6962,6 +7338,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "storagemart",
+      "type": "business",
+      "name": "StorageMart",
+      "slug": "storagemart",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "575 East 53rd Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 201-0001",
+      "website": "https://www.storage-mart.com/davenport/1080-east-53rd-st-52807?utm_source=google&utm_medium=organic&utm_campaign=maps-1080",
+      "hours": "Monday: 9:30 AM – 6:00 PM | Tuesday: 9:30 AM – 6:00 PM | Wednesday: 9:30 AM – 6:00 PM | Thursday: Closed | Friday: 9:30 AM – 6:00 PM | Saturday: 9:30 AM – 12:00 PM | Sunday: Closed",
+      "lat": "41.57434569999999",
+      "lng": "-90.5666203",
+      "description": "StorageMart is located at 575 East 53rd Street, Davenport. Category: Other. Google rating: 4.6/5 based on 254 reviews. Hours: Monday: 9:30 AM – 6:00 PM | Tuesday: 9:30 AM – 6:00 PM | Wednesday: 9:30 AM – 6:00 PM | Thursday: Closed | Friday: 9:30 AM – 6:00 PM | Saturday: 9:30 AM – 12:00 PM | Sunday: Closed.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "254",
+        "yelp": "1.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10470772527270457434",
+        "yelp": "https://www.yelp.com/biz/storagemart-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\storagemart_photo_1.jpg",
+        "all": [
+          "entity_photos\\storagemart_photo_1.jpg",
+          "entity_photos\\storagemart_photo_2.jpg",
+          "entity_photos\\storagemart_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "sunderbruch_park",
       "type": "place",
       "name": "Sunderbruch Park",
@@ -7814,6 +8237,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "the_ups_store",
+      "type": "business",
+      "name": "The UPS Store",
+      "slug": "the-ups-store",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "677 Avenue Of The Cities",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 755-0001",
+      "website": "https://locations.theupsstore.com/il/east-moline/677-ave-of-the-cities?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+      "hours": "Monday: 8:30 AM – 7:00 PM | Tuesday: 8:30 AM – 7:00 PM | Wednesday: 8:30 AM – 7:00 PM | Thursday: 8:30 AM – 7:00 PM | Friday: 8:30 AM – 7:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.4906567",
+      "lng": "-90.4452907",
+      "description": "Reliable shipping and printing when you need it done right, no shortcuts.\n\nThe UPS Store on Avenue of the Cities handles the kind of tasks that keep small businesses and busy households running — precise box sealing, custom printing, certified shipping. The staff moves with the efficiency of people who've processed ten thousand packages, and they'll ask the right questions before you hand over your fragile goods. It's the place you go when a FedEx label won't cut it and you need someone who actually cares about getting it there intact.\n\nThe UPS Store sits on East Moline's main commercial strip, convenient to residential areas and easy to swing by during a supply run or lunch break. It's the kind of practical, unglamorous service that makes the QC function — not a destination in itself, but indispensable once you need it, and worth remembering when you do.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "824",
+        "yelp": "2.5",
+        "yelp_count": "17"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4172208922562792056",
+        "yelp": "https://www.yelp.com/biz/the-ups-store-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_ups_store_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_ups_store_photo_1.jpg",
+          "entity_photos\\the_ups_store_photo_2.jpg",
+          "entity_photos\\the_ups_store_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "the_vault_med_spa_body_sculpting",
       "type": "business",
       "name": "The Vault Med Spa + Body Sculpting",
@@ -7855,6 +8325,53 @@
           "entity_photos\\the_vault_med_spa_body_sculpting_photo_1.jpg",
           "entity_photos\\the_vault_med_spa_body_sculpting_photo_2.jpg",
           "entity_photos\\the_vault_med_spa_body_sculpting_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "tmi_total_maintenance_inc_heating_air_conditioning_plumbing",
+      "type": "business",
+      "name": "TMI - Total Maintenance, Inc. Heating, Air Conditioning, Plumbing",
+      "slug": "tmi-total-maintenance-inc-heating-air-conditioning-plumbing",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "1017 State Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 316-6695",
+      "website": "https://www.tmiservices.net/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.524603",
+      "lng": "-90.51878699999999",
+      "description": "The HVAC and plumbing crew the QC actually calls at 2 a.m.\n\nTMI answers the phone 24/7—literally every day of the year—which means when your furnace dies in January or a pipe bursts on a Sunday, there's a real person on the line who can help within hours. Their Bettendorf base covers the whole region, and the reviews speak louder than any tagline: nearly 3,100 five-star ratings across Google and Yelp from people who've been grateful enough to come back and write about it.\n\nMost of us don't think about HVAC and plumbing until something breaks, and that's exactly why TMI deserves a spot in our guides. They're the kind of essential local business that proves you don't need to be a restaurant or attraction to matter to the community—you just need to show up, do the work right, and be there when people need you most.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "3052",
+        "yelp": "5.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15343134040051032778",
+        "yelp": "https://www.yelp.com/biz/frazier-landscaping-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\tmi_total_maintenance_inc_heating_air_conditioning_plumbing_photo_1.jpg",
+        "all": [
+          "entity_photos\\tmi_total_maintenance_inc_heating_air_conditioning_plumbing_photo_1.jpg",
+          "entity_photos\\tmi_total_maintenance_inc_heating_air_conditioning_plumbing_photo_2.jpg",
+          "entity_photos\\tmi_total_maintenance_inc_heating_air_conditioning_plumbing_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -8050,6 +8567,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "two_men_and_a_truck_moving_and_storage",
+      "type": "business",
+      "name": "Two Men and a Truck Moving and Storage",
+      "slug": "two-men-and-a-truck-moving-and-storage",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "3906 Lillie Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 214-0572",
+      "website": "https://twomenandatruck.com/movers/ia/quad-cities?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "hours": "Monday: 8:00 AM – 5:00 PM | Tuesday: 8:00 AM – 5:00 PM | Wednesday: 8:00 AM – 5:00 PM | Thursday: 8:00 AM – 5:00 PM | Friday: 8:00 AM – 5:00 PM | Saturday: 8:00 AM – 1:00 PM | Sunday: Closed",
+      "lat": "41.561155",
+      "lng": "-90.58941",
+      "description": "Local movers who actually show up on time and treat your stuff like their own.\n\nTwo Men and a Truck has built serious goodwill in Davenport by doing the fundamentals right — the crew arrives when they say they will, wraps your furniture carefully, and doesn't charge surprise fees at the end. Whether you're moving across town or across the river to Illinois, they handle apartment-sized jobs and full houses with the same professionalism. Saturday morning appointments fill up fast, which tells you something about the reputation.\n\nMoving is one of those necessary tasks that can either stress you out or feel handled — and in the Quad Cities, Two Men and a Truck is the name that comes up repeatedly when neighbors ask neighbors for a recommendation. They're the kind of reliable local business that makes the practical side of living here easier, which is why they belong in our guides.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "612",
+        "yelp": "2.8",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11319702653602194110",
+        "yelp": "https://www.yelp.com/biz/two-men-and-a-truck-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\two_men_and_a_truck_moving_and_storage_photo_1.jpg",
+        "all": [
+          "entity_photos\\two_men_and_a_truck_moving_and_storage_photo_1.jpg",
+          "entity_photos\\two_men_and_a_truck_moving_and_storage_photo_2.jpg",
+          "entity_photos\\two_men_and_a_truck_moving_and_storage_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "ultimate_fitness",
       "type": "business",
       "name": "Ultimate Fitness",
@@ -8187,6 +8751,53 @@
           "entity_photos\\vander_veer_botanical_park_photo_3.jpg",
           "entity_photos\\vander_veer_botanical_park_photo_4.jpg",
           "entity_photos\\vander_veer_botanical_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "vanderginst_law_personal_injury_lawyers",
+      "type": "business",
+      "name": "VanDerGinst Law - Personal Injury Lawyers",
+      "slug": "vanderginst-law-personal-injury-lawyers",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "4950 38th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(866) 797-5291",
+      "website": "https://www.vlaw.com/locations/quad-cities/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.4708366",
+      "lng": "-90.46796959999999",
+      "description": "Personal injury lawyers who actually answer the phone at 2 a.m.\n\nVanDerGinst handles the calls nobody else wants to take — and they take them around the clock. After a car wreck on I-80 or a slip at work, you need someone who understands QC streets and won't make you wait until Monday morning. Their Moline office has handled hundreds of cases, and the 4.7-star rating reflects what happens when a firm treats late-night emergencies like they matter.\n\nVanDerGinst sits in Moline, accessible and reliable when you need it most. This is the kind of place our guide recommends not because it's flashy, but because locals trust it — and in personal injury law, trust is everything.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "306",
+        "yelp": "4.4",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9451386605672393419",
+        "yelp": "https://www.yelp.com/biz/vanderginst-law-personal-injury-lawyers-moline-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\vanderginst_law_personal_injury_lawyers_photo_1.jpg",
+        "all": [
+          "entity_photos\\vanderginst_law_personal_injury_lawyers_photo_1.jpg",
+          "entity_photos\\vanderginst_law_personal_injury_lawyers_photo_2.jpg",
+          "entity_photos\\vanderginst_law_personal_injury_lawyers_photo_3.jpg"
         ]
       },
       "guides": [],
