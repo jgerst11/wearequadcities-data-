@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T15:23:29.872228",
-  "total": 198,
+  "generated": "2026-06-04T15:30:08.013841",
+  "total": 203,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -1960,6 +1960,106 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "comfort_inn_davenport_east_bettendorf",
+      "type": "place",
+      "name": "Comfort Inn Davenport East - Bettendorf",
+      "slug": "comfort-inn-davenport-east-bettendorf",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "3206 East Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 345-1404",
+      "website": "https://www.choicehotels.com/iowa/davenport/comfort-inn-hotels/ia274",
+      "hours": "",
+      "lat": "41.5541226",
+      "lng": "-90.5252204",
+      "description": "Clean rooms, reliable service, and a price that won't wreck your budget.\n\nThe Comfort Inn on the Davenport-Bettendorf border does what it promises without the fuss. Rooms are straightforward and well-maintained, with the kind of bed that actually lets you sleep after a long drive. The front desk staff know the area well enough to point you toward the good breakfast spots and the quickest route to whatever brought you here — whether that's a family visit, a Rhythm City Casino run, or just a solid night's rest between destinations.\n\nThis stretch of Route 61 has all the major chain hotels, but the Comfort Inn holds its own with genuine hospitality and consistent upkeep. It's the kind of place locals recommend to visiting relatives without hesitation, and it sits close enough to downtown Davenport and Bettendorf's shopping that you're never far from what the QC has to offer.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "71",
+        "yelp": "4.0",
+        "yelp_count": "49"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1820504553255286677",
+        "yelp": "https://www.yelp.com/biz/the-current-iowa-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_1.jpg",
+        "all": [
+          "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_1.jpg",
+          "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_2.jpg",
+          "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_3.jpg",
+          "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_4.jpg",
+          "entity_photos\\comfort_inn_davenport_east_bettendorf_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "country_inn_suites_by_radisson_davenport_quad_cities",
+      "type": "place",
+      "name": "Country Inn & Suites by Radisson, Davenport - Quad Cities",
+      "slug": "country-inn-suites-by-radisson-davenport-quad-cities",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "140 East 55th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 388-6444",
+      "website": "https://www.choicehotels.com/iowa/davenport/country-inn-suites-hotels/ia336?mc=llgoxxpx",
+      "hours": "",
+      "lat": "41.5771664",
+      "lng": "-90.5722493",
+      "description": "A solid mid-range landing spot with free breakfast and no surprises.\n\nCountry Inn & Suites delivers exactly what it promises — clean rooms, a gym if you need it, and a breakfast spread that'll get you out the door fueled. The cookies by the front desk are a nice touch, the kind of small hospitality detail that makes a chain feel slightly more personal. It's the type of place where business travelers know what they're getting, and families passing through can rest easy without overthinking it.\n\nThe hotel sits on Davenport's accessible commercial strip, convenient to I-80 and the downtown core without requiring a complicated drive. If you're visiting the Quad Cities and want a dependable base without the boutique price tag — or if you're here for work and need a reliable bed and breakfast — this is a straightforward choice that won't disappoint.",
+      "rating": {
+        "google": "3.6",
+        "google_count": "788",
+        "yelp": "2.8",
+        "yelp_count": "29"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9036850828446294283",
+        "yelp": "https://www.yelp.com/biz/country-inn-and-suites-by-radisson-davenport-ia-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_1.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_2.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_3.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_4.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_davenport_quad_cities_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "country_style",
       "type": "business",
       "name": "Country Style",
@@ -3674,6 +3774,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "hampton_inn_suites_moline_quad_city_intl_aprt",
+      "type": "place",
+      "name": "Hampton Inn & Suites Moline-Quad City Int'l Aprt",
+      "slug": "hampton-inn-suites-moline-quad-city-intl-aprt",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "2450 69th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 762-1900",
+      "website": "https://www.hilton.com/en/hotels/mliathx-hampton-suites-moline-quad-city-intl-aprt/?SEO_id=GMB-AMER-HX-MLIATHX&y_source=1_MjA4MzI3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "hours": "",
+      "lat": "41.455766",
+      "lng": "-90.5027559",
+      "description": "Reliable airport lodging with an indoor pool and a real breakfast spread.\n\nThe Hampton sits close enough to the airport that you won't spend twenty minutes hunting for your room after landing—but far enough away that you're not listening to jets all night. The indoor pool is the kind of detail that matters when you're traveling with kids or just need to shake off a long drive; the breakfast buffer has the eggs-and-waffle setup that actually fills you up before a day of meetings or exploring. Rooms are clean and straightforward, the Wi-Fi holds, and the staff moves without the exhausted energy you feel at some chain hotels.\n\nThe Hampton is in Moline, near the airport—the practical choice when you need a bed that won't surprise you and a location that saves you time. It's the kind of place people come back to because it does the fundamentals right, which is exactly what our guides are built around: spotting the places in the QC worth your attention, whether you're passing through or staying a while.",
+      "rating": {
+        "google": "4.2",
+        "google_count": "674",
+        "yelp": "3.6",
+        "yelp_count": "30"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16737140697981231714",
+        "yelp": "https://www.yelp.com/biz/hampton-inn-and-suites-moline-quad-city-intl-aprt-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_1.jpg",
+        "all": [
+          "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_1.jpg",
+          "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_2.jpg",
+          "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_3.jpg",
+          "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_4.jpg",
+          "entity_photos\\hampton_inn_suites_moline_quad_city_intl_aprt_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "harris_pizza",
       "type": "business",
       "name": "Harris Pizza",
@@ -3903,6 +4053,56 @@
           "entity_photos\\hotel_blackhawk_autograph_collection_photo_1.jpg",
           "entity_photos\\hotel_blackhawk_autograph_collection_photo_2.jpg",
           "entity_photos\\hotel_blackhawk_autograph_collection_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "hyatt_place_east_moline_quad_cities",
+      "type": "place",
+      "name": "Hyatt Place East Moline / Quad Cities",
+      "slug": "hyatt-place-east-moline-quad-cities",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "111 Bend Boulevard",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 755-6000",
+      "website": "https://www.hyatt.com/hyatt-place/en-US/mlize-hyatt-place-east-moline-quad-cities?src=corp_lclb_google_seo_mlize&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+      "hours": "",
+      "lat": "41.5207741",
+      "lng": "-90.45703739999999",
+      "description": "River views and a pool in a straightforward, well-run spot on the Illinois side.\n\nThe Hyatt Place sits right where East Moline meets the river—big windows frame the water, and the rooms feel uncluttered in that way that makes a night away feel uncomplicated. There's a restaurant downstairs, an indoor pool for restless kids or early swimmers, and the kind of staff that actually knows how to handle a Friday night when the QC is full. It's not trying to be anything fancy, which is exactly why it works.\n\nThe East Moline waterfront has grown quieter and more intentional in recent years, and this hotel anchors that stretch with the kind of reliability locals trust. It's close enough to Downtown and the District for an evening out, but far enough removed that you wake up somewhere calm. When you need a night or weekend away in your own backyard, this is where the QC turns to.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "997",
+        "yelp": "3.3",
+        "yelp_count": "20"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9210144926488275280",
+        "yelp": "https://www.yelp.com/biz/hyatt-place-east-moline-quad-cities-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\hyatt_place_east_moline_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\hyatt_place_east_moline_quad_cities_photo_1.jpg",
+          "entity_photos\\hyatt_place_east_moline_quad_cities_photo_2.jpg",
+          "entity_photos\\hyatt_place_east_moline_quad_cities_photo_3.jpg",
+          "entity_photos\\hyatt_place_east_moline_quad_cities_photo_4.jpg",
+          "entity_photos\\hyatt_place_east_moline_quad_cities_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -7427,6 +7627,56 @@
           "entity_photos\\southpark_mall_photo_3.jpg",
           "entity_photos\\southpark_mall_photo_4.jpg",
           "entity_photos\\southpark_mall_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "springhill_suites_by_marriott_bettendorf",
+      "type": "place",
+      "name": "SpringHill Suites by Marriott Bettendorf",
+      "slug": "springhill-suites-by-marriott-bettendorf",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "5235 Competition Drive",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 345-3600",
+      "website": "https://www.marriott.com/en-us/hotels/mlibh-springhill-suites-bettendorf/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "hours": "",
+      "lat": "41.5912249",
+      "lng": "-90.45736720000001",
+      "description": "Modern suites with actual kitchens, built for longer stays and families.\n\nSpringHill trades the cramped hotel room formula for real living space — a separate sitting area, a full kitchen, a layout that doesn't feel like you're living out of a suitcase. The staff here moves at a pace that suggests they actually want you comfortable; the complimentary breakfast isn't an afterthought either. It's the kind of place where you can settle in for a week without feeling like you're paying for convenience you don't need.\n\nLocated in Bettendorf, just off I-74, SpringHill sits in the practical heart of the Quad Cities — close enough to downtown Davenport for evening exploring, but far enough out that you've got breathing room. It's exactly the sort of well-maintained, locally-reviewed spot that shows up in our guides because people actually stay here and come back, not because it's flashy.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "63",
+        "yelp": "5.0",
+        "yelp_count": "5"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9837897991653701120",
+        "yelp": "https://www.yelp.com/biz/courtyard-by-marriott-bettendorf-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_1.jpg",
+        "all": [
+          "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_1.jpg",
+          "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_2.jpg",
+          "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_3.jpg",
+          "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_4.jpg",
+          "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_5.jpg"
         ]
       },
       "guides": [],
