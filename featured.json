@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T12:22:39.474736",
+  "generated": "2026-06-16T12:27:34.378215",
   "total": 3,
   "featured": [
     {
@@ -9,7 +9,7 @@
       "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.",
       "logo_initials": "AT",
       "rating": "4.5",
-      "status_line": "",
+      "status_line": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.",
       "tier": "none",
       "entity_id": "adler_theatre",
       "link_url": "https://davenportlive.com/the-adler-theatre/"
@@ -21,7 +21,7 @@
       "description": "Sensory deprivation tanks where an hour feels like a reset button.",
       "logo_initials": "FQ",
       "rating": "4.9",
-      "status_line": "",
+      "status_line": "Sensory deprivation tanks where an hour feels like a reset button.",
       "tier": "homepage",
       "entity_id": "float_quad_cities",
       "link_url": "http://floatqc.com/"
@@ -30,10 +30,10 @@
       "slot": 3,
       "business_name": "Insureous Health Solutions",
       "category": "Professional Services · St Augustine",
-      "description": "Founded by longtime Quad Cities residents John and Shelia Gerstner, Insureous helps individuals, families, and employ...",
+      "description": "Health, life, Medicare and emoployee benefits guidancve for Quad Cities individuals, families, and businesses.",
       "logo_initials": "IN",
       "rating": "",
-      "status_line": "",
+      "status_line": "Health, life, Medicare and emoployee benefits guidancve for Quad Cities individuals, families, and businesses.",
       "tier": "homepage",
       "entity_id": "insureous",
       "link_url": "https://www.insureous.com/"
