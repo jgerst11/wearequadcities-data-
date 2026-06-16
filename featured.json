@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-16T11:04:15.062206",
-  "total": 1,
+  "generated": "2026-06-16T11:10:39.308920",
+  "total": 3,
   "featured": [
+    {
+      "slot": 1,
+      "business_name": "Adler Theatre",
+      "category": "Other · Davenport",
+      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
+      "logo_initials": "AT",
+      "rating": "4.5",
+      "status_line": "",
+      "tier": "homepage",
+      "entity_id": "adler_theatre",
+      "link_url": "https://davenportlive.com/the-adler-theatre/"
+    },
+    {
+      "slot": 2,
+      "business_name": "Float Quad Cities",
+      "category": "Health & Fitness · Moline",
+      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
+      "logo_initials": "FQ",
+      "rating": "4.9",
+      "status_line": "",
+      "tier": "homepage",
+      "entity_id": "float_quad_cities",
+      "link_url": "http://floatqc.com/"
+    },
     {
       "slot": 3,
       "business_name": "Insureous Health Solutions",
