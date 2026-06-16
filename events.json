@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T15:39:58.904676",
-  "total": 48,
+  "generated": "2026-06-15T20:49:11.065866",
+  "total": 49,
   "events": [
     {
       "id": "quad-cities-intro-to-generational-wealth-thru-real-estate-investing-tickets-1986710983031",
@@ -625,6 +625,22 @@
       "image": "https://www.wearequadcities.com/wp-content/uploads/2024/07/painters-jd.jpg",
       "is_free": false,
       "source": "jgerstner@gmail.com"
+    },
+    {
+      "id": "comedy-night-at-the-adler-20260615",
+      "name": "Comedy Night at the Adler",
+      "start": "2026-07-05",
+      "end": "2026-07-05",
+      "venue": "Adler Theater",
+      "address": "",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "adfd",
+      "url": "www.adler.org",
+      "image": "https://www.wearequadcities.com/wp-content/uploads/2024/07/painters-jd.jpg",
+      "is_free": false,
+      "source": "john@insureous.com"
     },
     {
       "id": "watermelon-blowout3-20260603",

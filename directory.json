@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T19:40:35.118217",
-  "total": 205,
+  "generated": "2026-06-15T20:49:35.466449",
+  "total": 207,
   "entities": [
     {
       "id": "11th_hour_bar_grill",
@@ -852,6 +852,53 @@
           "entity_photos\\barrel_house_photo_1.jpg",
           "entity_photos\\barrel_house_photo_2.jpg",
           "entity_photos\\barrel_house_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bass_street_chop_house",
+      "type": "business",
+      "name": "Bass Street Chop House",
+      "slug": "bass-street-chop-house",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1425 River Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 762-4700",
+      "website": "http://www.bassstreetchophouse.com/",
+      "hours": "Monday: 4:00 – 9:00 PM | Tuesday: 4:00 – 9:00 PM | Wednesday: 4:00 – 9:00 PM | Thursday: 4:00 – 9:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 4:00 – 9:00 PM",
+      "lat": "41.5088276",
+      "lng": "-90.5188797",
+      "description": "White-tablecloth steaks and bourbon in the heart of Moline.\n\nBass Street Chop House does the traditional steakhouse thing—the kind of place where the bartender knows their whiskey collection better than most people know their own kitchen. Dark wood, leather booths, and that specific hum of conversation that only happens when people are eating expensive beef. Friday and Saturday lunches bring the business crowd; weeknight dinners feel more intentional, like you've planned something.\n\nBass Street sits in Moline, a neighborhood with real dining depth that doesn't always get the attention it deserves. It's the kind of established restaurant that shows up again and again on our guides because locals actually go there—not for Instagram moments, but for a solid prime rib and a pour of something good. Once you've been, you'll understand why it's become a fixture.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "694",
+        "yelp": "3.3",
+        "yelp_count": "22"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8173957917429834906",
+        "yelp": "https://www.yelp.com/biz/bass-street-chop-house-moline-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bass_street_chop_house_photo_1.jpg",
+        "all": [
+          "entity_photos\\bass_street_chop_house_photo_1.jpg",
+          "entity_photos\\bass_street_chop_house_photo_2.jpg",
+          "entity_photos\\bass_street_chop_house_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -8828,6 +8875,53 @@
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_1.jpg",
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_2.jpg",
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "the_rust_belt",
+      "type": "business",
+      "name": "The Rust Belt",
+      "slug": "the-rust-belt",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "533 12th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 322-2358",
+      "website": "https://therustbeltqc.com/",
+      "hours": "",
+      "lat": "41.51736959999999",
+      "lng": "-90.4499204",
+      "description": "Industrial-chic bar where East Moline gathers over craft drinks and loud good times.\n\nThe Rust Belt wears its name honestly — exposed brick, reclaimed wood, and a vibe that feels pulled straight from a repurposed warehouse. The crowd is younger, louder, and here for the drinks and the energy; order a cocktail that actually tastes like someone cared, grab a spot near the front where you can watch the street, and settle in. It's the kind of place where you'll run into people you know, or wish you did.\n\nThe Rust Belt sits in East Moline, a neighborhood that's quietly becoming its own destination beyond the bigger QC names. It's far enough from the riverfront to feel like its own world, but close enough to reach in five minutes — and it's exactly the kind of bar that deserves a spot in our guides because it's where locals actually choose to spend their Friday nights, not where tourists are told to go.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "878",
+        "yelp": "3.1",
+        "yelp_count": "9"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2981358324463852228",
+        "yelp": "https://www.yelp.com/biz/the-rust-belt-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\the_rust_belt_photo_1.jpg",
+        "all": [
+          "entity_photos\\the_rust_belt_photo_1.jpg",
+          "entity_photos\\the_rust_belt_photo_2.jpg",
+          "entity_photos\\the_rust_belt_photo_3.jpg"
         ]
       },
       "guides": [],
