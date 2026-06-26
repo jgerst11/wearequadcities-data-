@@ -1,7 +1,147 @@
 {
-  "generated": "2026-06-15T20:49:35.466449",
-  "total": 207,
+  "generated": "2026-06-26T09:45:16.564868",
+  "total": 239,
   "entities": [
+    {
+      "id": "adler_theatre",
+      "type": "place",
+      "name": "Adler Theatre",
+      "slug": "adler-theatre",
+      "category": "Other",
+      "subcategory": "",
+      "tags": [
+        "arts & culture"
+      ],
+      "attributes": [],
+      "address": "136 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 326-8500",
+      "website": "https://davenportlive.com/the-adler-theatre/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.522532",
+      "lng": "-90.5733436",
+      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "531",
+        "yelp": "2.7",
+        "yelp_count": "23"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16529854215580948733",
+        "yelp": "https://www.yelp.com/biz/adler-theatre-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\adler_theatre_photo_1.jpg",
+        "all": [
+          "entity_photos\\adler_theatre_photo_1.jpg",
+          "entity_photos\\adler_theatre_photo_2.jpg",
+          "entity_photos\\adler_theatre_photo_3.jpg",
+          "entity_photos\\adler_theatre_photo_4.jpg",
+          "entity_photos\\adler_theatre_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": true,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "float_quad_cities",
+      "type": "business",
+      "name": "Float Quad Cities",
+      "slug": "float-quad-cities",
+      "category": "Health & Fitness",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "911 16th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-3426",
+      "website": "http://floatqc.com/",
+      "hours": "Monday: 9:45 AM – 7:35 PM | Tuesday: 9:45 AM – 7:35 PM | Wednesday: Closed | Thursday: Closed | Friday: 9:45 AM – 7:35 PM | Saturday: 9:45 AM – 7:35 PM | Sunday: 9:45 AM – 7:35 PM",
+      "lat": "41.4969531",
+      "lng": "-90.5244498",
+      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "276",
+        "yelp": "5.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3508672546548182614",
+        "yelp": "https://www.yelp.com/biz/float-quad-cities-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\float_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\float_quad_cities_photo_1.jpg",
+          "entity_photos\\float_quad_cities_photo_2.jpg",
+          "entity_photos\\float_quad_cities_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": true,
+      "sponsor_tier": "homepage"
+    },
+    {
+      "id": "insureous ",
+      "type": "business",
+      "name": "Insureous Health Solutions",
+      "slug": "",
+      "category": "Professional Services",
+      "subcategory": "Insurance ",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "99 King St. Box222",
+      "city": "St Augustine",
+      "neighborhood": "",
+      "state": "FL",
+      "zip": "32095",
+      "phone": "(904) 295-8498",
+      "website": "https://www.insureous.com/",
+      "hours": "Mon–Fri 9am–5pm  ",
+      "lat": "",
+      "lng": "",
+      "description": "Founded by longtime Quad Cities residents John and Shelia Gerstner, Insureous helps individuals, families, and employers build smarter health, dental, vision, life, and supplemental insurance solutions, supported by a custom enrollment platform and year-round guidance.",
+      "rating": {
+        "google": "",
+        "google_count": "",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "",
+        "all": []
+      },
+      "guides": [],
+      "featured": true,
+      "sponsor_tier": "homepage"
+    },
     {
       "id": "11th_hour_bar_grill",
       "type": "business",
@@ -192,55 +332,6 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "adler_theatre",
-      "type": "place",
-      "name": "Adler Theatre",
-      "slug": "adler-theatre",
-      "category": "Other",
-      "subcategory": "",
-      "tags": [
-        "arts & culture"
-      ],
-      "attributes": [],
-      "address": "136 East 3rd Street",
-      "city": "Davenport",
-      "neighborhood": "Downtown Davenport",
-      "state": "IA",
-      "zip": "52801",
-      "phone": "(563) 326-8500",
-      "website": "https://davenportlive.com/the-adler-theatre/",
-      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
-      "lat": "41.522532",
-      "lng": "-90.5733436",
-      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
-      "rating": {
-        "google": "4.5",
-        "google_count": "531",
-        "yelp": "2.7",
-        "yelp_count": "23"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=16529854215580948733",
-        "yelp": "https://www.yelp.com/biz/adler-theatre-davenport",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\adler_theatre_photo_1.jpg",
-        "all": [
-          "entity_photos\\adler_theatre_photo_1.jpg",
-          "entity_photos\\adler_theatre_photo_2.jpg",
-          "entity_photos\\adler_theatre_photo_3.jpg",
-          "entity_photos\\adler_theatre_photo_4.jpg",
-          "entity_photos\\adler_theatre_photo_5.jpg"
-        ]
-      },
-      "guides": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
       "id": "airbrushed_sunless_llc",
       "type": "business",
       "name": "Airbrushed Sunless LLC",
@@ -330,6 +421,53 @@
           "entity_photos\\aj_nails_spa_photo_1.jpg",
           "entity_photos\\aj_nails_spa_photo_2.jpg",
           "entity_photos\\aj_nails_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "alfanos_pizza",
+      "type": "business",
+      "name": "Alfano's Pizza",
+      "slug": "alfanos-pizza",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "2700 11th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 794-9597",
+      "website": "http://www.alfanopizza.com/",
+      "hours": "Monday: Closed | Tuesday: 4:30 – 10:30 PM | Wednesday: 4:30 – 10:30 PM | Thursday: 4:30 – 10:30 PM | Friday: 4:30 – 10:30 PM | Saturday: 4:30 – 10:30 PM | Sunday: 4:30 – 10:30 PM",
+      "lat": "41.4839664",
+      "lng": "-90.5834218",
+      "description": "Storied family-owned Italian parlor with an array of pizza toppings, crusts & styles, plus calzones.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "675",
+        "yelp": "4.4",
+        "yelp_count": "67"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=7520762743851396623",
+        "yelp": "https://www.yelp.com/biz/alfanos-pizza-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\alfanos_pizza_photo_1.jpg",
+        "all": [
+          "entity_photos\\alfanos_pizza_photo_1.jpg",
+          "entity_photos\\alfanos_pizza_photo_2.jpg",
+          "entity_photos\\alfanos_pizza_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -520,6 +658,53 @@
           "entity_photos\\aroma_coffee_cafe_photo_1.jpg",
           "entity_photos\\aroma_coffee_cafe_photo_2.jpg",
           "entity_photos\\aroma_coffee_cafe_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "att_store",
+      "type": "business",
+      "name": "AT&T Store",
+      "slug": "att-store",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "3937 41st Avenue Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 740-0683",
+      "website": "https://www.att.com/stores/illinois/moline/198564?source=E-g2s10000000000X&wtExtndSource=stores",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 11:00 AM – 6:00 PM",
+      "lat": "41.4706987",
+      "lng": "-90.4798252",
+      "description": "AT&T Store is located at 3937 41st Avenue Drive, Moline. Category: Shopping. Google rating: 4.3/5 based on 254 reviews. Description: Retailer providing wireless plans & a range of phones, devices & accessories.. Hours: Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 11:00 AM – 6:00 PM.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "254",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4975939668539369385",
+        "yelp": "https://www.yelp.com/biz/at-and-t-store-moline-3",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\att_store_photo_1.jpg",
+        "all": [
+          "entity_photos\\att_store_photo_1.jpg",
+          "entity_photos\\att_store_photo_2.jpg",
+          "entity_photos\\att_store_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1291,6 +1476,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "bix_beiderbecke_museum_and_archives",
+      "type": "place",
+      "name": "Bix Beiderbecke Museum and Archives",
+      "slug": "bix-beiderbecke-museum-and-archives",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "112 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 293-4046",
+      "website": "https://www.bixmuseum.org/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 2:00 PM | Sunday: Closed",
+      "lat": "41.5214676",
+      "lng": "-90.5747038",
+      "description": "The shrine to Davenport's jazz prodigy and the sound that defined an era.\n\nWalk into the Bix Beiderbecke Museum and you're stepping into the life of a cornet player who burned bright and brief — a Davenport kid who became a legend before he turned 28. The archive holds his instruments, recordings, photographs, and the kind of granular details that obsessive jazz fans live for: you can hear the particular ache in his tone, see the sheet music he marked up, understand why musicians still argue about whether anyone's ever played it better. It's a small, focused museum, but it doesn't feel cramped — it feels like a conversation with someone who knew exactly what he wanted to say.\n\nThe Bix Museum sits in Downtown Davenport, steps from the riverfront and the other cultural anchors that make this neighborhood worth an afternoon. Bix Beiderbecke is Davenport's most famous son, and this museum is where his story lives — not as a tourist attraction, but as a genuine archive tended by people who care deeply. If you're into jazz, American music history, or just the kind of hyper-local cultural institutions that reveal what a place actually values, this one belongs on your list.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "13",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15863050284152710290",
+        "yelp": "https://www.yelp.com/biz/bix-beiderbecke-museum-and-archives-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bix_beiderbecke_museum_and_archives_photo_1.jpg",
+        "all": [
+          "entity_photos\\bix_beiderbecke_museum_and_archives_photo_1.jpg",
+          "entity_photos\\bix_beiderbecke_museum_and_archives_photo_2.jpg",
+          "entity_photos\\bix_beiderbecke_museum_and_archives_photo_3.jpg",
+          "entity_photos\\bix_beiderbecke_museum_and_archives_photo_4.jpg",
+          "entity_photos\\bix_beiderbecke_museum_and_archives_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "black_hawk_forest",
       "type": "place",
       "name": "Black Hawk Forest",
@@ -1431,6 +1666,100 @@
           "entity_photos\\books_a_million_photo_1.jpg",
           "entity_photos\\books_a_million_photo_2.jpg",
           "entity_photos\\books_a_million_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "boot_barn",
+      "type": "business",
+      "name": "Boot Barn",
+      "slug": "boot-barn",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4231 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 386-5722",
+      "website": "https://www.bootbarn.com/stores?StoreID=0111",
+      "hours": "Monday: 9:00 AM – 9:00 PM | Tuesday: 9:00 AM – 9:00 PM | Wednesday: 9:00 AM – 9:00 PM | Thursday: 9:00 AM – 9:00 PM | Friday: 9:00 AM – 9:00 PM | Saturday: 9:00 AM – 9:00 PM | Sunday: 11:00 AM – 7:00 PM",
+      "lat": "41.564003",
+      "lng": "-90.523544",
+      "description": "Western wear, work boots, and the real deal—no costume shop vibes.\n\nBoot Barn stocks the kind of boots you actually need: Carhartt work gear, serious Stetson hats, and real leather that'll last. The selection runs deep enough that whether you're outfitting for a job site or genuinely living the Western lifestyle, you're not wading through tourist trinkets. Staff know the difference between a work boot and fashion, and it shows.\n\nBoot Barn sits on Davenport's commercial strip, easy to reach and impossible to miss if you need actual workwear or authentic Western gear. It's the kind of practical, no-nonsense stop that locals rely on—the place you go when you need something real, not when you're browsing. Once you've found your fit here, you'll keep coming back.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "254",
+        "yelp": "2.8",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2081638156388280487",
+        "yelp": "https://www.yelp.com/biz/boot-barn-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\boot_barn_photo_1.jpg",
+        "all": [
+          "entity_photos\\boot_barn_photo_1.jpg",
+          "entity_photos\\boot_barn_photo_2.jpg",
+          "entity_photos\\boot_barn_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "bootleg_hill_honey_meads",
+      "type": "business",
+      "name": "Bootleg Hill Honey Meads",
+      "slug": "bootleg-hill-honey-meads",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "226 West 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 345-4400",
+      "website": "https://www.bootleghill.com/",
+      "hours": "Monday: 3:00 – 9:00 PM | Tuesday: 3:00 – 9:00 PM | Wednesday: 12:00 – 9:00 PM | Thursday: 12:00 – 11:00 PM | Friday: 12:00 PM – 12:00 AM | Saturday: 12:00 PM – 12:00 AM | Sunday: 12:00 – 9:00 PM",
+      "lat": "41.5226257",
+      "lng": "-90.57640889999999",
+      "description": "Honey mead bar where craft cocktails meet medieval tradition.\n\nBootleg Hill takes the ancient art of mead seriously — but not solemnly. The space hums with an unpretentious energy, the kind of place where you can order a honey-forward cocktail without irony, sit at the bar and watch the bartenders work, and actually enjoy yourself. Their house meads are the draw, but they know how to build a cocktail around them, and the food lands better than you'd expect from a mead bar.\n\nLocated in Downtown Davenport, Bootleg Hill represents the neighborhood's slow shift toward destinations worth the drive. It's a place that doesn't try to be anything other than what it is — a genuinely unusual spot in a river town — and that's exactly why it keeps appearing on our guides. If you've been curious about mead but didn't know where to start, or you just want to sit somewhere that feels a little different from the usual QC bar, this is the place.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "196",
+        "yelp": "4.4",
+        "yelp_count": "16"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=384865894191323621",
+        "yelp": "https://www.yelp.com/biz/bootleg-hill-honey-meads-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\bootleg_hill_honey_meads_photo_1.jpg",
+        "all": [
+          "entity_photos\\bootleg_hill_honey_meads_photo_1.jpg",
+          "entity_photos\\bootleg_hill_honey_meads_photo_2.jpg",
+          "entity_photos\\bootleg_hill_honey_meads_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -1820,6 +2149,55 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "channel_cat_water_taxi",
+      "type": "place",
+      "name": "Channel Cat Water Taxi",
+      "slug": "channel-cat-water-taxi",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "2100 East River Drive",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(309) 788-3360",
+      "website": "https://www.metroqc.com/231/Channel-Cat",
+      "hours": "",
+      "lat": "41.5287846",
+      "lng": "-90.54495779999999",
+      "description": "A vintage riverboat shuttle connecting both sides of the Mississippi in 15 minutes flat.\n\nChannel Cat is pure Quad Cities pragmatism dressed up as leisure — a genuine paddlewheel ferry that carries you from Davenport's riverfront to Rock Island and back, diesel rumbling beneath your feet and river wind doing most of the work. The ride itself is the point: watching the current push against the hull, the skyline shrink behind you, the industrial bones of the QC laid bare from the water. It's touristy enough to feel like an occasion, but locals take it too, especially on warm evenings when the upper deck fills with people who just want to be on the river for a while.\n\nChannel Cat operates from Davenport's riverfront, that stretch of town that's finally becoming a destination again. It's the rare QC activity that gets you actually on the water rather than just looking at it — a 15-minute escape that costs almost nothing and delivers something you can't replicate from shore. Once you've done it, you'll find reasons to do it again.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "75",
+        "yelp": "3.8",
+        "yelp_count": "11"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=17915717238290832037",
+        "yelp": "https://www.yelp.com/biz/channel-cat-water-taxi-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\channel_cat_water_taxi_photo_1.jpg",
+        "all": [
+          "entity_photos\\channel_cat_water_taxi_photo_1.jpg",
+          "entity_photos\\channel_cat_water_taxi_photo_2.jpg",
+          "entity_photos\\channel_cat_water_taxi_photo_3.jpg",
+          "entity_photos\\channel_cat_water_taxi_photo_4.jpg",
+          "entity_photos\\channel_cat_water_taxi_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "circle_tap",
       "type": "business",
       "name": "Circle Tap",
@@ -2109,6 +2487,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "country_inn_suites_by_radisson_moline_airport",
+      "type": "business",
+      "name": "Country Inn & Suites by Radisson, Moline Airport",
+      "slug": "country-inn-suites-by-radisson-moline-airport",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "2721 69th Avenue Court",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 797-4249",
+      "website": "https://www.choicehotels.com/illinois/moline/country-inn-suites-hotels/il725?mc=llgoxxpx",
+      "hours": "",
+      "lat": "41.4559409",
+      "lng": "-90.4969168",
+      "description": "No-frills airport hotel with a pool and a free ride to your gate.\n\nCountry Inn & Suites sits a short walk from Moline Airport—close enough that the shuttle actually makes sense, far enough that you're not hearing jets all night. The rooms are clean and straightforward, the kind of place that doesn't try to be anything fancier than it is. There's an indoor pool that's genuinely useful on a cold night, and the complimentary breakfast means you're not hunting for coffee before an early flight.\n\nIt's the practical choice for travelers passing through the Quad Cities, especially anyone flying out of Moline or arriving late. You're not here for the atmosphere—you're here because you need a bed, a shower, and a way to the airport that doesn't involve calling an Uber at 5 a.m. That simplicity, and the fact that it actually delivers on what it promises, is exactly why it lands on our guide.",
+      "rating": {
+        "google": "4",
+        "google_count": "477",
+        "yelp": "1.9",
+        "yelp_count": "25"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=6479149999713124672",
+        "yelp": "https://www.yelp.com/biz/country-inn-and-suites-by-radisson-moline-airport-il-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\country_inn_suites_by_radisson_moline_airport_photo_1.jpg",
+        "all": [
+          "entity_photos\\country_inn_suites_by_radisson_moline_airport_photo_1.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_moline_airport_photo_2.jpg",
+          "entity_photos\\country_inn_suites_by_radisson_moline_airport_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "country_style",
       "type": "business",
       "name": "Country Style",
@@ -2243,6 +2669,53 @@
           "entity_photos\\crabbys_bar_grill_photo_1.jpg",
           "entity_photos\\crabbys_bar_grill_photo_2.jpg",
           "entity_photos\\crabbys_bar_grill_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "crawford_company",
+      "type": "business",
+      "name": "Crawford Company",
+      "slug": "crawford-company",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "1306 Mill Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 788-4573",
+      "website": "http://www.crawford-company.com/",
+      "hours": "Monday: 7:30 AM – 4:30 PM | Tuesday: 7:30 AM – 4:30 PM | Wednesday: 7:30 AM – 4:30 PM | Thursday: 7:30 AM – 4:30 PM | Friday: 7:30 AM – 4:30 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.4976357",
+      "lng": "-90.5983322",
+      "description": "A Rock Island institution where coffee, pastries, and craft sensibility meet weekday mornings.\n\nCrawford Company opens early and closes by mid-afternoon — a deliberate rhythm that tells you this is a place with its own pace. The pastries are the real draw: laminated, buttery things that arrive fresh and disappear fast, paired with coffee that tastes like someone actually cares about the pour. Regulars have their orders down to a glance, and there's an easy quiet to the room that feels earned, not designed.\n\nCrawford Company sits in Rock Island, a neighborhood with real character and fewer tourist footnotes than the bigger Quad Cities anchors. It's weekday-focused, closing Saturdays and Sundays, which means it belongs to the people who actually live here — the ones who know the difference between a place that's trying and a place that's *there*. That's exactly the kind of local fixture we chase for our guides.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "212",
+        "yelp": "3.7",
+        "yelp_count": "6"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10081148482891817470",
+        "yelp": "https://www.yelp.com/biz/crawford-company-rock-island-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\crawford_company_photo_1.jpg",
+        "all": [
+          "entity_photos\\crawford_company_photo_1.jpg",
+          "entity_photos\\crawford_company_photo_2.jpg",
+          "entity_photos\\crawford_company_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -3012,6 +3485,152 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "east_moline_public_library",
+      "type": "business",
+      "name": "East Moline Public Library",
+      "slug": "east-moline-public-library",
+      "category": "Education",
+      "subcategory": "",
+      "tags": [
+        "education"
+      ],
+      "attributes": [],
+      "address": "745 16th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 755-9614",
+      "website": "http://eastmolinelibrary.org/",
+      "hours": "Monday: 9:00 AM – 8:00 PM | Tuesday: 9:00 AM – 8:00 PM | Wednesday: 9:00 AM – 8:00 PM | Thursday: 9:00 AM – 8:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: 9:00 AM – 3:00 PM | Sunday: Closed",
+      "lat": "41.51530959999999",
+      "lng": "-90.44283019999999",
+      "description": "A quiet corner of East Moline where curiosity still gets a librarian's full attention.\n\nThe East Moline Public Library keeps the kind of hours that actually work — open until 8 p.m. most weeknights, which means you can stop by after work or school without rushing. The staff here remembers what libraries were supposed to be: a place where someone will help you find what you're looking for, whether that's a specific book, research help, or just a reliable table and decent light. It's the sort of place that hasn't been glossed over by trends, which means it feels genuinely yours to use.\n\nEast Moline doesn't get as much attention in the QC's community conversation as it deserves, but this library is exactly why locals know better. It's a straightforward public good — maintained, staffed, and open when people actually need it — which is increasingly rare enough to be worth knowing about. If you live or work on this side of the river, it's worth a visit.",
+      "rating": {
+        "google": "4.4",
+        "google_count": "43",
+        "yelp": "1.0",
+        "yelp_count": "1"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=12950365317256501383",
+        "yelp": "https://www.yelp.com/biz/east-moline-city-of-public-library-east-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\east_moline_public_library_photo_1.jpg",
+        "all": [
+          "entity_photos\\east_moline_public_library_photo_1.jpg",
+          "entity_photos\\east_moline_public_library_photo_2.jpg",
+          "entity_photos\\east_moline_public_library_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "ecdysiast_arts_museum",
+      "type": "place",
+      "name": "ECDYSIAST ARTs MUSEUM",
+      "slug": "ecdysiast-arts-museum",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "322 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "",
+      "website": "https://www.ecdysiastartsmuseum.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 7:00 – 11:00 PM | Thursday: 7:00 – 11:00 PM | Friday: 7:00 – 11:00 PM | Saturday: 7:00 – 11:00 PM | Sunday: Closed",
+      "lat": "41.52313609999999",
+      "lng": "-90.5743652",
+      "description": "An intimate art space that opens Wednesday through Saturday nights in downtown.\n\nEcdysiast Arts Museum operates on its own schedule — Wednesday through Saturday evenings only — which means showing up feels like being let in on something. The space itself is spare and intentional, built around live art and performance in a way that rewards close attention. There's no velvet rope energy here; it's the kind of place where you might end up talking to whoever's running it about what you're seeing.\n\nEcdysiast sits on a quiet block of downtown Davenport, part of a growing cluster of independent galleries and studios that are slowly redefining what the riverfront corridor can be. It's worth planning an evening around — check their schedule, make the trip, and expect something that won't show up in the usual tourist guides. That's exactly why it belongs in ours.",
+      "rating": {
+        "google": "5",
+        "google_count": "14",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8045664467976147288",
+        "yelp": "https://www.yelp.com/biz/art-not-rugs-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\ecdysiast_arts_museum_photo_1.jpg",
+        "all": [
+          "entity_photos\\ecdysiast_arts_museum_photo_1.jpg",
+          "entity_photos\\ecdysiast_arts_museum_photo_2.jpg",
+          "entity_photos\\ecdysiast_arts_museum_photo_3.jpg",
+          "entity_photos\\ecdysiast_arts_museum_photo_4.jpg",
+          "entity_photos\\ecdysiast_arts_museum_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "emeis_golf_course",
+      "type": "place",
+      "name": "Emeis Golf Course",
+      "slug": "emeis-golf-course",
+      "category": "Sports & Events",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "4500 West Central Park Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(563) 326-7825",
+      "website": "https://www.golfdavenport.com/emeis-golf-course",
+      "hours": "",
+      "lat": "41.54524809999999",
+      "lng": "-90.6408823",
+      "description": "Nine holes of honest golf on Davenport's south side.\n\nEmeis is the kind of course that doesn't try to be something it's not — tight fairways, real greens, and enough trees to keep you honest without feeling punitive. It's the perfect length for a quick round before work or an evening when you've got two hours to kill, and the regulars know every slope and trouble spot. The pace moves steady here; you're not waiting on anyone.\n\nEmeis sits on Davenport's south side, away from the riverfront tourist corridor but exactly where the locals go to play. It's a nine-holer built for people who actually golf, not just talk about it — the kind of neighborhood course that anchors a community and builds real loyalty over years. Once you've played here, you understand why it keeps showing up on the scorecard.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "193",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16888770411949384465",
+        "yelp": "https://www.yelp.com/biz/emeis-golf-course-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\emeis_golf_course_photo_1.jpg",
+        "all": [
+          "entity_photos\\emeis_golf_course_photo_1.jpg",
+          "entity_photos\\emeis_golf_course_photo_2.jpg",
+          "entity_photos\\emeis_golf_course_photo_3.jpg",
+          "entity_photos\\emeis_golf_course_photo_4.jpg",
+          "entity_photos\\emeis_golf_course_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "exotic_thai",
       "type": "business",
       "name": "Exotic Thai",
@@ -3350,54 +3969,6 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "float_quad_cities",
-      "type": "business",
-      "name": "Float Quad Cities",
-      "slug": "float-quad-cities",
-      "category": "Health & Fitness",
-      "subcategory": "",
-      "tags": [
-        "health",
-        "fitness"
-      ],
-      "attributes": [],
-      "address": "911 16th Avenue",
-      "city": "Moline",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61265",
-      "phone": "(309) 517-3426",
-      "website": "http://floatqc.com/",
-      "hours": "Monday: 9:45 AM – 7:35 PM | Tuesday: 9:45 AM – 7:35 PM | Wednesday: Closed | Thursday: Closed | Friday: 9:45 AM – 7:35 PM | Saturday: 9:45 AM – 7:35 PM | Sunday: 9:45 AM – 7:35 PM",
-      "lat": "41.4969531",
-      "lng": "-90.5244498",
-      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
-      "rating": {
-        "google": "4.9",
-        "google_count": "276",
-        "yelp": "5.0",
-        "yelp_count": "4"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=3508672546548182614",
-        "yelp": "https://www.yelp.com/biz/float-quad-cities-moline",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\float_quad_cities_photo_1.jpg",
-        "all": [
-          "entity_photos\\float_quad_cities_photo_1.jpg",
-          "entity_photos\\float_quad_cities_photo_2.jpg",
-          "entity_photos\\float_quad_cities_photo_3.jpg"
-        ]
-      },
-      "guides": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
       "id": "freight_house_farmers_market",
       "type": "place",
       "name": "Freight House Farmers Market",
@@ -3535,6 +4106,56 @@
           "entity_photos\\fusion_salon_and_spa_photo_1.jpg",
           "entity_photos\\fusion_salon_and_spa_photo_2.jpg",
           "entity_photos\\fusion_salon_and_spa_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "german_american_heritage_center_museum",
+      "type": "place",
+      "name": "German American Heritage Center & Museum",
+      "slug": "german-american-heritage-center-museum",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "712 West 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 322-8844",
+      "website": "http://gahc.org/",
+      "hours": "Monday: Closed | Tuesday: 10:00 AM – 4:00 PM | Wednesday: 10:00 AM – 4:00 PM | Thursday: 10:00 AM – 4:00 PM | Friday: 10:00 AM – 4:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: 12:00 – 4:00 PM",
+      "lat": "41.521405",
+      "lng": "-90.58359899999999",
+      "description": "Three centuries of German-American life preserved in one Downtown building.\n\nThe German American Heritage Center lives in a restored Victorian mansion on Brady Street, and walking through feels like stepping into your grandparents' attic — if your grandparents were meticulous curators. You'll find old photographs, hand-stitched textiles, brewing equipment, and letters that tell the story of why so many German families chose the Quad Cities. The rooms are intimate and unhurried; you can spend twenty minutes or two hours depending on how deep the rabbit hole goes.\n\nThe Center anchors Downtown Davenport's cultural corridor, a short walk from the riverfront and the other galleries and shops that make this neighborhood worth a Saturday afternoon. It's a place that reveals how much the QC's identity is rooted in its immigrant communities — and once you've walked through, you'll understand why German-American heritage still shapes everything from the food we eat to the festivals we celebrate.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "262",
+        "yelp": "4.1",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=14894663561267229866",
+        "yelp": "https://www.yelp.com/biz/german-american-heritage-center-and-museum-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\german_american_heritage_center_museum_photo_1.jpg",
+        "all": [
+          "entity_photos\\german_american_heritage_center_museum_photo_1.jpg",
+          "entity_photos\\german_american_heritage_center_museum_photo_2.jpg",
+          "entity_photos\\german_american_heritage_center_museum_photo_3.jpg",
+          "entity_photos\\german_american_heritage_center_museum_photo_4.jpg",
+          "entity_photos\\german_american_heritage_center_museum_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -4019,6 +4640,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "helzberg_diamonds",
+      "type": "business",
+      "name": "Helzberg Diamonds",
+      "slug": "helzberg-diamonds",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "320 West Kimberly Road",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 391-2050",
+      "website": "https://www.helzberg.com/stores/ia/davenport/northpark-0037?utm_source=GMBlisting&utm_medium=organic",
+      "hours": "Monday: 10:00 AM – 8:00 PM | Tuesday: 10:00 AM – 8:00 PM | Wednesday: 10:00 AM – 8:00 PM | Thursday: 10:00 AM – 8:00 PM | Friday: 10:00 AM – 8:00 PM | Saturday: 10:00 AM – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.5629319",
+      "lng": "-90.5762941",
+      "description": "Diamond expertise and watch selection in a setting that takes the guesswork out of big moments.\n\nHelzberg has the kind of staff who actually listen — they'll walk you through cuts and carats without the pressure, and they know their watches cold. The cases are well-lit and organized in a way that makes browsing feel manageable rather than overwhelming, whether you're hunting for an engagement ring, a milestone piece, or something that just caught your eye. They're open late on weekdays and Sundays too, which means you can slip in after work or squeeze in a visit without rearranging your week.\n\nHelzberg sits in Northpark Mall in Davenport, anchoring the kind of shopping destination where you can tackle multiple errands without leaving the building. It's the rare jeweler in the QC with genuine depth in both diamonds and watches, and locals have trusted them with their most important purchases — which shows in those 226 solid reviews. If you're serious about getting it right the first time, this is where the QC comes.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "226",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16036197220606029075",
+        "yelp": "https://www.yelp.com/biz/helzberg-diamonds-davenport-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\helzberg_diamonds_photo_1.jpg",
+        "all": [
+          "entity_photos\\helzberg_diamonds_photo_1.jpg",
+          "entity_photos\\helzberg_diamonds_photo_2.jpg",
+          "entity_photos\\helzberg_diamonds_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "horizon_movers_and_climate_controlled_storage",
       "type": "business",
       "name": "Horizon Movers and Climate Controlled Storage",
@@ -4113,6 +4781,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "huckleberrys_great_pizza_and_calzones",
+      "type": "business",
+      "name": "Huckleberry's Great Pizza and Calzones",
+      "slug": "huckleberrys-great-pizza-and-calzones",
+      "category": "Restaurants",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "223 18th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 786-1122",
+      "website": "http://www.huckleberryspizza.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 4:00 – 8:00 PM | Thursday: 4:00 – 8:00 PM | Friday: 4:00 – 9:00 PM | Saturday: 4:00 – 9:00 PM | Sunday: 4:00 – 8:00 PM",
+      "lat": "41.5103561",
+      "lng": "-90.57443909999999",
+      "description": "Cozy storefront hub with pies, spaghetti & other Italian classics plus beer & wine amid brick walls.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "341",
+        "yelp": "4.2",
+        "yelp_count": "38"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13421332677103389055",
+        "yelp": "https://www.yelp.com/biz/the-original-huckleberrys-great-pizza-and-calzones-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\huckleberrys_great_pizza_and_calzones_photo_1.jpg",
+        "all": [
+          "entity_photos\\huckleberrys_great_pizza_and_calzones_photo_1.jpg",
+          "entity_photos\\huckleberrys_great_pizza_and_calzones_photo_2.jpg",
+          "entity_photos\\huckleberrys_great_pizza_and_calzones_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "hyatt_place_east_moline_quad_cities",
       "type": "place",
       "name": "Hyatt Place East Moline / Quad Cities",
@@ -4156,6 +4871,55 @@
           "entity_photos\\hyatt_place_east_moline_quad_cities_photo_3.jpg",
           "entity_photos\\hyatt_place_east_moline_quad_cities_photo_4.jpg",
           "entity_photos\\hyatt_place_east_moline_quad_cities_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "i_74_bridge",
+      "type": "place",
+      "name": "I 74 Bridge",
+      "slug": "i-74-bridge",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "Interstate 74",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "",
+      "website": "",
+      "hours": "",
+      "lat": "41.51738719999999",
+      "lng": "-90.5130198",
+      "description": "The river crossing that connects the QC and defines its skyline.\n\nThe I-74 Bridge is less a destination and more a moment—that stretch of highway where the Mississippi widens beneath you and the bluffs rise on either side. Drive it at sunset and the light hits the water in ways that make you understand why people settled here in the first place. It's the spine of the Quad Cities, the route that turns driving from one side to the other into something worth noticing.\n\nThe I-74 Bridge sits between Moline and Bettendorf, connecting the Illinois and Iowa sides of the region. It's the kind of landmark that most people pass through without thinking, but it's essential to understanding the Quad Cities—how the river shapes us, how we move, what we see every time we cross. It belongs here because it's part of the daily fabric of living here, and sometimes the most important places are the ones we drive over without stopping.",
+      "rating": {
+        "google": "4",
+        "google_count": "2",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=18245485164883194720",
+        "yelp": "https://www.yelp.com/biz/butterworth-center-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\i_74_bridge_photo_1.jpg",
+        "all": [
+          "entity_photos\\i_74_bridge_photo_1.jpg",
+          "entity_photos\\i_74_bridge_photo_2.jpg",
+          "entity_photos\\i_74_bridge_photo_3.jpg",
+          "entity_photos\\i_74_bridge_photo_4.jpg",
+          "entity_photos\\i_74_bridge_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -4250,6 +5014,54 @@
           "entity_photos\\iron_grain_coffee_house_photo_1.jpg",
           "entity_photos\\iron_grain_coffee_house_photo_2.jpg",
           "entity_photos\\iron_grain_coffee_house_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "isle_casino_hotel_bettendorf_a_caesars_rewards_destination",
+      "type": "business",
+      "name": "Isle Casino Hotel Bettendorf - A Caesars Rewards Destination",
+      "slug": "isle-casino-hotel-bettendorf-a-caesars-rewards-destination",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "1777 Isle Parkway",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 441-7000",
+      "website": "https://www.caesars.com/isle-bettendorf?utm_campaign=gmb&utm_source=google&utm_medium=local&utm_term=islebettendorf&utm_content=hotel&y_source=1_MTk1MTkyNjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "hours": "",
+      "lat": "41.5232475",
+      "lng": "-90.5074512",
+      "description": "Modern casino resort offering free Wi-Fi & parking, plus 3 restaurants, an indoor pool & a marina.",
+      "rating": {
+        "google": "3.9",
+        "google_count": "4095",
+        "yelp": "2.5",
+        "yelp_count": "145"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5719229168555136770",
+        "yelp": "https://www.yelp.com/biz/isle-casino-hotel-bettendorf-bettendorf-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\isle_casino_hotel_bettendorf_a_caesars_rewards_destination_photo_1.jpg",
+        "all": [
+          "entity_photos\\isle_casino_hotel_bettendorf_a_caesars_rewards_destination_photo_1.jpg",
+          "entity_photos\\isle_casino_hotel_bettendorf_a_caesars_rewards_destination_photo_2.jpg",
+          "entity_photos\\isle_casino_hotel_bettendorf_a_caesars_rewards_destination_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -4391,6 +5203,53 @@
           "entity_photos\\jennies_boxcar_photo_1.jpg",
           "entity_photos\\jennies_boxcar_photo_2.jpg",
           "entity_photos\\jennies_boxcar_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "john_deere_harvester_works",
+      "type": "business",
+      "name": "John Deere Harvester Works",
+      "slug": "john-deere-harvester-works",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "restaurants"
+      ],
+      "attributes": [],
+      "address": "1100 13th Avenue",
+      "city": "East Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61244",
+      "phone": "(309) 765-6200",
+      "website": "",
+      "hours": "Monday: 7:30 AM – 3:00 PM | Tuesday: 7:30 AM – 3:00 PM | Wednesday: 7:30 AM – 3:00 PM | Thursday: 7:30 AM – 3:00 PM | Friday: 7:30 AM – 3:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5242728",
+      "lng": "-90.4403037",
+      "description": "Cafeteria cooking with real history, open weekday mornings only.\n\nJohn Deere Harvester Works is a working factory cafeteria that opens its doors to the public — a rare thing that feels like stepping into another era. The menu is straightforward and honest: hot breakfast, lunch sandwiches, and sides that taste like someone's grandmother designed them. The crowd is a mix of long-time plant employees and locals who've learned the secret: show up before 11 AM on a weekday, grab a tray, and eat where the machinery still runs in the building next door.\n\nEast Moline's industrial heart still beats, and John Deere Harvester Works is one of the few places where you can actually feel that pulse. It's a genuinely local experience — not staged, not polished — that reminds you the Quad Cities built something real here. If you want to understand what this region is actually about, beyond the riverfront attractions, this cafeteria tells you more than most restaurants ever could.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "342",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=440626321915629664",
+        "yelp": "https://www.yelp.com/biz/pillar-equipment-silvis",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\john_deere_harvester_works_photo_1.jpg",
+        "all": [
+          "entity_photos\\john_deere_harvester_works_photo_1.jpg",
+          "entity_photos\\john_deere_harvester_works_photo_2.jpg",
+          "entity_photos\\john_deere_harvester_works_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -4825,6 +5684,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "leclaire_park_bandshell",
+      "type": "business",
+      "name": "LeClaire Park & Bandshell",
+      "slug": "leclaire-park-bandshell",
+      "category": "Parks & Outdoors",
+      "subcategory": "",
+      "tags": [
+        "parks",
+        "outdoors"
+      ],
+      "attributes": [],
+      "address": "400 Beiderbecke Drive",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52802",
+      "phone": "(563) 328-7275",
+      "website": "https://www.davenportiowa.com/parks",
+      "hours": "Monday: 6:00 AM – 9:00 PM | Tuesday: 6:00 AM – 9:00 PM | Wednesday: 6:00 AM – 9:00 PM | Thursday: 6:00 AM – 9:00 PM | Friday: 6:00 AM – 9:00 PM | Saturday: 6:00 AM – 9:00 PM | Sunday: 6:00 AM – 9:00 PM",
+      "lat": "41.5188886",
+      "lng": "-90.57851850000002",
+      "description": "Riverfront green space where Davenport gathers to breathe and listen.\n\nLeClaire Park is where the Mississippi actually feels close—the water trail winds past the bandshell, and on summer evenings you'll find families sprawled on the grass while live music drifts across the open air. The fountain monument anchors the space with some real character, and the park stays open early to late, which means sunrise walks before work and sunset picnics are both built into the rhythm here. It's the kind of uncluttered green that works whether you're bringing kids, a book, or just need twenty minutes away from downtown streets.\n\nLeClaire Park sits in Downtown Davenport, steps from the river and the revitalized corridor that's become the QC's gathering point. It's reliable in a way that matters—a place that shows up for the community through every season, hosting concerts and festivals but staying quiet enough for the people who just need to sit and think. Once you know it's there, you'll find reasons to return.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "220",
+        "yelp": "3.9",
+        "yelp_count": "32"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=13077125956849686083",
+        "yelp": "https://www.yelp.com/biz/putnam-museum-and-science-center-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\leclaire_park_bandshell_photo_1.jpg",
+        "all": [
+          "entity_photos\\leclaire_park_bandshell_photo_1.jpg",
+          "entity_photos\\leclaire_park_bandshell_photo_2.jpg",
+          "entity_photos\\leclaire_park_bandshell_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "lemongrass_cafe",
       "type": "business",
       "name": "LemonGrass Cafe",
@@ -5104,6 +6011,53 @@
           "entity_photos\\lunardis_restaurant_italian_photo_1.jpg",
           "entity_photos\\lunardis_restaurant_italian_photo_2.jpg",
           "entity_photos\\lunardis_restaurant_italian_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "lynch_heating_plumbing",
+      "type": "business",
+      "name": "Lynch Heating & Plumbing",
+      "slug": "lynch-heating-plumbing",
+      "category": "Shopping",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "4711 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52806",
+      "phone": "(563) 209-0039",
+      "website": "https://lynchheatingandplumbing.com/",
+      "hours": "Monday: 8:00 AM – 5:00 PM | Tuesday: 8:00 AM – 5:00 PM | Wednesday: 8:00 AM – 5:00 PM | Thursday: 8:00 AM – 5:00 PM | Friday: 8:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5696708",
+      "lng": "-90.5671381",
+      "description": "A Davenport fixture for heating, plumbing, and the advice that actually saves you money.\n\nLynch has been the place Quad Citizens call when the furnace dies in January or the kitchen sink backs up—and they call back because the staff knows what they're talking about. Walk in and you're not getting upsold on solutions you don't need; you're getting straight talk from people who've been doing this long enough to see every problem twice. The showroom stocks the reliable stuff: water heaters, thermostats, fixtures—nothing flashy, everything dependable.\n\nLynch Heating & Plumbing sits in Davenport proper, serving the neighborhood with the kind of no-nonsense competence that builds a 312-review reputation. It's a place that belongs in our guides not because it's trendy but because it's genuinely useful—the sort of local business that makes living in the Quad Cities easier and your home more comfortable. Once you've trusted them with your first repair, you'll understand why they keep showing up on the recommendations.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "312",
+        "yelp": "4.3",
+        "yelp_count": "6"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15566167177551053789",
+        "yelp": "https://www.yelp.com/biz/lynch-heating-and-plumbing-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\lynch_heating_plumbing_photo_1.jpg",
+        "all": [
+          "entity_photos\\lynch_heating_plumbing_photo_1.jpg",
+          "entity_photos\\lynch_heating_plumbing_photo_2.jpg",
+          "entity_photos\\lynch_heating_plumbing_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -5637,6 +6591,53 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "mississippi_river_distilling_company_downtown_lounge",
+      "type": "business",
+      "name": "Mississippi River Distilling Company - Downtown Lounge",
+      "slug": "mississippi-river-distilling-company-downtown-lounge",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "318 East 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 484-0820",
+      "website": "http://www.mrdistilling.com/",
+      "hours": "Monday: Closed | Tuesday: 4:00 – 10:00 PM | Wednesday: 4:00 – 10:00 PM | Thursday: 4:00 PM – 12:00 AM | Friday: 4:00 PM – 12:00 AM | Saturday: 12:00 PM – 12:00 AM | Sunday: 1:00 – 8:00 PM",
+      "lat": "41.5214653",
+      "lng": "-90.570404",
+      "description": "House-made spirits in a downtown room with real character and a strong pour.\n\nMississippi River Distilling Company's lounge feels like the kind of place locals actually choose on a Friday night — wood-heavy, unhurried, the kind of bar where the bartender knows what they're doing. The spirits are made right here in Davenport, which means you're tasting something with actual roots in the QC, not something shipped in from three states over. Order a cocktail built around their bourbon or rye, settle into the warm light, and you'll understand why people keep coming back.\n\nThe lounge sits in Downtown Davenport, steps from the river and part of a neighborhood that's quietly becoming a real reason to spend an evening on this side of the Mississippi. It's the kind of place that anchors a night out — the spot you go before or after dinner, or the reason you end up downtown at all. Once you've been, it stays on your rotation.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "58",
+        "yelp": "4.5",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2913059701707957206",
+        "yelp": "https://www.yelp.com/biz/mississippi-river-distilling-company-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\mississippi_river_distilling_company_downtown_lounge_photo_1.jpg",
+        "all": [
+          "entity_photos\\mississippi_river_distilling_company_downtown_lounge_photo_1.jpg",
+          "entity_photos\\mississippi_river_distilling_company_downtown_lounge_photo_2.jpg",
+          "entity_photos\\mississippi_river_distilling_company_downtown_lounge_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "mississippi_valley_fair",
       "type": "business",
       "name": "Mississippi Valley Fair",
@@ -6112,6 +7113,56 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "palmer_family_and_chiropractic_history_museum",
+      "type": "place",
+      "name": "Palmer Family and Chiropractic History Museum",
+      "slug": "palmer-family-and-chiropractic-history-museum",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "arts",
+        "culture"
+      ],
+      "attributes": [],
+      "address": "115 West 7th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 884-5714",
+      "website": "http://www.palmer.edu/about-us/history/palmer-family-chiropractic-museum/",
+      "hours": "",
+      "lat": "41.5265411",
+      "lng": "-90.5748302",
+      "description": "Where chiropractic history lives in one surprising Davenport mansion.\n\nThe Palmer Museum occupies a grand old house that feels less like a typical museum and more like stepping into a very specific corner of American wellness history. You'll find original treatment tables, vintage promotional materials, and the earnest scientific ambitions of early 1900s alternative medicine laid out room by room — it's the kind of hyperlocal history that makes you realize how much of what we take for granted today was once radical and controversial. The whole experience moves quickly; it's intimate enough that you can actually read the handwritten notes and examine the equipment up close.\n\nThe Palmer Museum sits in Davenport, the birthplace of chiropractic itself — D.D. Palmer founded the practice here in 1895, and that foundation still shapes the city's identity. It's an essential stop for anyone curious about regional history or how a single idea can reshape an entire profession and a place. The kind of specific, purposeful visit that reminds you why the Quad Cities has stories worth knowing.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "65",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9036210468771018153",
+        "yelp": "https://www.yelp.com/biz/bettendorf-chiropractic-wellness-center-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_1.jpg",
+        "all": [
+          "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_1.jpg",
+          "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_2.jpg",
+          "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_3.jpg",
+          "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_4.jpg",
+          "entity_photos\\palmer_family_and_chiropractic_history_museum_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "parkside_grill_lounge",
       "type": "business",
       "name": "Parkside Grill & Lounge",
@@ -6152,6 +7203,53 @@
           "entity_photos\\parkside_grill_lounge_photo_1.jpg",
           "entity_photos\\parkside_grill_lounge_photo_2.jpg",
           "entity_photos\\parkside_grill_lounge_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "pedal_pub_quad_cities",
+      "type": "business",
+      "name": "Pedal Pub Quad Cities",
+      "slug": "pedal-pub-quad-cities",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "221 East 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 293-6172",
+      "website": "https://www.pedalpub.com/quad-cities-il/",
+      "hours": "",
+      "lat": "41.5210351",
+      "lng": "-90.5716826",
+      "description": "Pedal-powered bar crawl that turns downtown into a moving party.\n\nEight of you climb aboard a bike-built-for-many, grab a beer from the on-board cooler, and start pedaling through downtown Davenport's streets. It's ridiculous and social in the best way — part bar, part fitness, part excuse to laugh at how uncoordinated a group of friends can be. The pedal pub guides you between stops, and strangers become instant teammates when everyone's pushing the same pedals.\n\nPedal Pub Quad Cities operates out of Downtown Davenport, right where the QC's energy concentrates on weekends and summer nights. It's the kind of place that gets people out of their usual patterns — not just visiting a bar, but moving through the neighborhood together, turning the streets themselves into the experience. Once you've done it, you'll spot other Pedal Pubs rolling past and remember why you booked your own.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "213",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15750998734236441231",
+        "yelp": "https://www.yelp.com/biz/pedal-pub-quad-cities-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\pedal_pub_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\pedal_pub_quad_cities_photo_1.jpg",
+          "entity_photos\\pedal_pub_quad_cities_photo_2.jpg",
+          "entity_photos\\pedal_pub_quad_cities_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -6637,6 +7735,102 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "quad_city_symphony",
+      "type": "place",
+      "name": "Quad City Symphony",
+      "slug": "quad-city-symphony",
+      "category": "Arts & Culture",
+      "subcategory": "",
+      "tags": [
+        "shopping"
+      ],
+      "attributes": [],
+      "address": "327 North Brady Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 322-7276",
+      "website": "http://www.qcso.org/",
+      "hours": "",
+      "lat": "41.5232287",
+      "lng": "-90.5736975",
+      "description": "The QC's orchestra, live and in the Adler—worth the ticket every time.\n\nThe Quad City Symphony fills the Adler Theatre with the kind of sound that justifies a night out—strings tight, brass bright, the whole room humming with it. Whether you're catching a classical subscription series or a pops concert, there's a real sense of investment here; this is a working orchestra that knows its audience and takes the repertoire seriously. Evenings at the Adler are unhurried: you can arrive early, walk the lobby, settle in, and let the music do what it does.\n\nThe QCSO sits at the heart of Downtown Davenport's cultural life, anchored in the restored Adler Theatre just steps from the riverfront. It's a cornerstone institution that shows up in our guides because it represents what the QC does well—maintaining something real and excellent without pretense. Once you've been, you'll find yourself checking the season schedule.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "44",
+        "yelp": "5.0",
+        "yelp_count": "2"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5257761752502322714",
+        "yelp": "https://www.yelp.com/biz/quad-city-symphony-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_city_symphony_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_symphony_photo_1.jpg",
+          "entity_photos\\quad_city_symphony_photo_2.jpg",
+          "entity_photos\\quad_city_symphony_photo_3.jpg",
+          "entity_photos\\quad_city_symphony_photo_4.jpg",
+          "entity_photos\\quad_city_symphony_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_cities_waterfront_convention_center",
+      "type": "business",
+      "name": "Quad-Cities Waterfront Convention Center",
+      "slug": "quad-cities-waterfront-convention-center",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "2021 State Street",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(800) 724-5825",
+      "website": "https://www.qcwcc.com/?utm_campaign=GMB&utm_source=google&utm_medium=local&utm_termquad-citieswaterfrontconventioncenter&utm_content=conventioncenter",
+      "hours": "Monday: 9:00 AM – 5:00 PM | Tuesday: 9:00 AM – 5:00 PM | Wednesday: 9:00 AM – 5:00 PM | Thursday: 9:00 AM – 5:00 PM | Friday: 9:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.5251071",
+      "lng": "-90.5053176",
+      "description": "The riverfront's anchor—where the QC gathers for conferences, weddings, and big-tent events.\n\nThe Quad-Cities Waterfront Convention Center sits right on the water in Bettendorf, with floor-to-ceiling windows that don't waste the view. Whether you're here for a regional conference, a wedding reception, or a local trade show, the space feels intentional—built for the river and the people crossing the I-74 bridge to get here. The bones of the building are clean and modern; the real draw is that you can literally watch barges move past while you network or dance.\n\nThe Waterfront Convention Center anchors Bettendorf's riverfront district, positioning itself as the serious venue for the QC's larger gatherings—the kind of events that draw people from across the region. It's the kind of infrastructure that matters quietly: the place where the Quad Cities presents itself, where business happens, where people mark occasions. If you're planning something that needs real space and river views, this is where the QC goes.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "228",
+        "yelp": "0.0",
+        "yelp_count": "0"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=5957003032952122277",
+        "yelp": "https://www.yelp.com/biz/quad-cities-waterfront-convention-center-bettendorf",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_cities_waterfront_convention_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_cities_waterfront_convention_center_photo_1.jpg",
+          "entity_photos\\quad_cities_waterfront_convention_center_photo_2.jpg",
+          "entity_photos\\quad_cities_waterfront_convention_center_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "r_richard_bittner_downtown_ymca",
       "type": "business",
       "name": "R. Richard Bittner Downtown YMCA",
@@ -6874,6 +8068,54 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "rhythm_city_casino_resort",
+      "type": "business",
+      "name": "Rhythm City Casino Resort",
+      "slug": "rhythm-city-casino-resort",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "hotels",
+        "lodging"
+      ],
+      "attributes": [],
+      "address": "7077 Elmore Avenue",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 328-8000",
+      "website": "https://www.rhythmcitycasino.com/index.html",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5948618",
+      "lng": "-90.5305291",
+      "description": "Relaxed casino offering accommodations, steakhouse dining & slot machines, plus music concerts.",
+      "rating": {
+        "google": "4.1",
+        "google_count": "6537",
+        "yelp": "2.9",
+        "yelp_count": "98"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=4472678040483755786",
+        "yelp": "https://www.yelp.com/biz/rhythm-city-casino-resort-davenport-10",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\rhythm_city_casino_resort_photo_1.jpg",
+        "all": [
+          "entity_photos\\rhythm_city_casino_resort_photo_1.jpg",
+          "entity_photos\\rhythm_city_casino_resort_photo_2.jpg",
+          "entity_photos\\rhythm_city_casino_resort_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "riddles_jewelry_davenport",
       "type": "business",
       "name": "Riddle's Jewelry - Davenport",
@@ -6914,6 +8156,53 @@
           "entity_photos\\riddles_jewelry_davenport_photo_1.jpg",
           "entity_photos\\riddles_jewelry_davenport_photo_2.jpg",
           "entity_photos\\riddles_jewelry_davenport_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "right_on_time_plumbing_sewer_drain_cleaning_plumbing_repairs",
+      "type": "business",
+      "name": "Right On Time Plumbing Sewer & Drain Cleaning - Plumbing Repairs",
+      "slug": "right-on-time-plumbing-sewer-drain-cleaning-plumbing-repairs",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "1823 West 48th Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52804",
+      "phone": "(309) 737-6753",
+      "website": "",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5685639",
+      "lng": "-90.6030489",
+      "description": "A 24/7 plumbing fix for the moments when your pipes won't wait.\n\nRight On Time lives up to its name — they answer at 2 a.m. on a Sunday when your basement's flooding, and they show up ready to work. The crew knows the old cast-iron lines that run through Davenport's neighborhood pipes like they've memorized a map, and they'll explain what's actually broken instead of just quoting you the nuclear option. Whether it's a backed-up drain or a burst in the crawlspace, they move fast and don't disappear once the job's done.\n\nRight On Time sits in Davenport, where the infrastructure is as varied as the neighborhoods — some blocks are newer with modern plumbing, others have 80-year-old systems that demand someone who knows what they're doing. A highly-rated local plumber that answers round the clock is the kind of essential guide entry that matters more than it might seem — the kind of place you save in your phone and hope you never need, but are grateful to have when you do.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "136",
+        "yelp": "3.5",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=1363237568339404116",
+        "yelp": "https://www.yelp.com/biz/right-on-time-plumbing-sewer-and-drain-cleaning-plumbing-repairs-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\right_on_time_plumbing_sewer_drain_cleaning_plumbing_repairs_photo_1.jpg",
+        "all": [
+          "entity_photos\\right_on_time_plumbing_sewer_drain_cleaning_plumbing_repairs_photo_1.jpg",
+          "entity_photos\\right_on_time_plumbing_sewer_drain_cleaning_plumbing_repairs_photo_2.jpg",
+          "entity_photos\\right_on_time_plumbing_sewer_drain_cleaning_plumbing_repairs_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -7058,6 +8347,53 @@
           "entity_photos\\riverside_park_photo_3.jpg",
           "entity_photos\\riverside_park_photo_4.jpg",
           "entity_photos\\riverside_park_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "rock_island_arsenal_visitor_welcome_center",
+      "type": "business",
+      "name": "Rock Island Arsenal Visitor Welcome Center",
+      "slug": "rock-island-arsenal-visitor-welcome-center",
+      "category": "Attractions",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "23 Prospect Drive",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 782-1337",
+      "website": "https://home.army.mil/ria/",
+      "hours": "Monday: 7:00 AM – 3:00 PM | Tuesday: 7:00 AM – 3:00 PM | Wednesday: 7:00 AM – 3:00 PM | Thursday: 7:00 AM – 3:00 PM | Friday: 7:00 AM – 3:00 PM | Saturday: 7:00 AM – 3:00 PM | Sunday: 7:00 AM – 3:00 PM",
+      "lat": "41.5138344",
+      "lng": "-90.519215",
+      "description": "A living museum where American military history walks right up to the riverbank.\n\nThe Rock Island Arsenal spreads across an island in the Mississippi, and the Welcome Center is your entry point to centuries of arms-making, engineering, and strategy. You'll see the grounds themselves—the red-brick buildings, the river views, the weight of what happened here—before stepping inside to understand it. The rangers know the stories, and the place rewards a slow walk; this isn't a quick photo stop.\n\nRock Island Arsenal sits on its own island in Moline, connected by bridge and separated from the everyday QC by water and gates—which somehow makes it feel both central and removed. It's the kind of destination that locals often pass by without stopping, which is exactly why it belongs here. If you've ever wondered what built this region, or you're visiting with someone interested in American industrial and military history, the Arsenal is the answer.",
+      "rating": {
+        "google": "4.6",
+        "google_count": "245",
+        "yelp": "4.4",
+        "yelp_count": "10"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=2689940492615734764",
+        "yelp": "https://www.yelp.com/biz/rock-island-arsenal-museum-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\rock_island_arsenal_visitor_welcome_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\rock_island_arsenal_visitor_welcome_center_photo_1.jpg",
+          "entity_photos\\rock_island_arsenal_visitor_welcome_center_photo_2.jpg",
+          "entity_photos\\rock_island_arsenal_visitor_welcome_center_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -7394,6 +8730,53 @@
           "entity_photos\\saukie_golf_course_photo_1.jpg",
           "entity_photos\\saukie_golf_course_photo_2.jpg",
           "entity_photos\\saukie_golf_course_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "schebler_heating_and_air",
+      "type": "business",
+      "name": "Schebler Heating and Air",
+      "slug": "schebler-heating-and-air",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "other"
+      ],
+      "attributes": [],
+      "address": "5665 Fenno Road",
+      "city": "Bettendorf",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52722",
+      "phone": "(563) 723-8780",
+      "website": "http://www.scheblerhvac.com/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5447806",
+      "lng": "-90.45462649999999",
+      "description": "The HVAC shop Quad Citians trust when the heat dies in January.\n\nSchebler's been keeping the QC comfortable for long enough that they answer the phone at 2 a.m. on a Sunday without hesitation. The team knows the difference between a quick fix and a system that needs replacing — and they'll tell you which one you actually need, not the expensive option. Their 4.7 rating on Google isn't accident; it's built on thirty years of midnight emergency calls and honest diagnoses.\n\nSchebler operates out of Bettendorf, where they've become the default choice for homeowners who've learned that HVAC emergencies don't follow business hours. They belong in our guides because they're the kind of essential local business that quietly makes the Quad Cities livable — the sort of place you hope you never need, but are grateful exists when you do.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "199",
+        "yelp": "3.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11322518527699436376",
+        "yelp": "https://www.yelp.com/biz/schebler-company-bettendorf-2",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\schebler_heating_and_air_photo_1.jpg",
+        "all": [
+          "entity_photos\\schebler_heating_and_air_photo_1.jpg",
+          "entity_photos\\schebler_heating_and_air_photo_2.jpg",
+          "entity_photos\\schebler_heating_and_air_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -7783,6 +9166,54 @@
           "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_3.jpg",
           "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_4.jpg",
           "entity_photos\\springhill_suites_by_marriott_bettendorf_photo_5.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "staybridge_suites_davenport_by_ihg",
+      "type": "business",
+      "name": "Staybridge Suites Davenport by IHG",
+      "slug": "staybridge-suites-davenport-by-ihg",
+      "category": "Hotels & Lodging",
+      "subcategory": "",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "4729 Progress Drive",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52807",
+      "phone": "(563) 359-7829",
+      "website": "https://www.ihg.com/staybridge/hotels/us/en/davenport/dvnpr/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-US-_-DVNPR",
+      "hours": "",
+      "lat": "41.5694929",
+      "lng": "-90.5177834",
+      "description": "Extended-stay hotel with a real fitness center and actual breakfast included.\n\nStaybridge feels built for people staying more than a night — the kitchenettes in every room mean you're not eating every meal out, and the free breakfast takes the morning decision-making out of your hands. There's a proper fitness room (not just a treadmill in a closet) and an indoor pool that gets real use. If you're in town for a work project, family visit, or just need somewhere to land for a week, the all-suite layout gives you actual space to breathe.\n\nStaybridge sits on Davenport's east side, convenient to I-80 and the business corridor — the kind of practical location that matters when you're staying put. It's the rare hotel that understands extended visitors have different needs than weekend tourists, and the QC doesn't have many options built for that longer stay. It shows up in our guides because it's honest about what it is: reliable, comfortable, and made for people who need more than a room.",
+      "rating": {
+        "google": "4.1",
+        "google_count": "618",
+        "yelp": "3.9",
+        "yelp_count": "32"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8579605973037175240",
+        "yelp": "https://www.yelp.com/biz/putnam-museum-and-science-center-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\staybridge_suites_davenport_by_ihg_photo_1.jpg",
+        "all": [
+          "entity_photos\\staybridge_suites_davenport_by_ihg_photo_1.jpg",
+          "entity_photos\\staybridge_suites_davenport_by_ihg_photo_2.jpg",
+          "entity_photos\\staybridge_suites_davenport_by_ihg_photo_3.jpg"
         ]
       },
       "guides": [],
@@ -8889,7 +10320,7 @@
       "category": "Other",
       "subcategory": "",
       "tags": [
-        "other"
+        "restaurants"
       ],
       "attributes": [],
       "address": "533 12th Avenue",
@@ -9028,7 +10459,7 @@
       "type": "business",
       "name": "TMI - Total Maintenance, Inc. Heating, Air Conditioning, Plumbing",
       "slug": "tmi-total-maintenance-inc-heating-air-conditioning-plumbing",
-      "category": "Other",
+      "category": "Professional Services",
       "subcategory": "",
       "tags": [
         "other"
@@ -9874,6 +11305,100 @@
           "entity_photos\\wholly_grinds_coffee_shop_photo_1.jpg",
           "entity_photos\\wholly_grinds_coffee_shop_photo_2.jpg",
           "entity_photos\\wholly_grinds_coffee_shop_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "wide_river_winery_village_of_east_davenport",
+      "type": "business",
+      "name": "Wide River Winery Village of East Davenport",
+      "slug": "wide-river-winery-village-of-east-davenport",
+      "category": "Nightlife",
+      "subcategory": "",
+      "tags": [
+        "nightlife"
+      ],
+      "attributes": [],
+      "address": "1128 Mound Street",
+      "city": "Davenport",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52803",
+      "phone": "(563) 888-5379",
+      "website": "https://wideriverwinery.com/village-of-east-davenport/",
+      "hours": "Monday: 12:00 – 6:00 PM | Tuesday: 12:00 – 6:00 PM | Wednesday: 12:00 – 6:00 PM | Thursday: 12:00 – 6:00 PM | Friday: 12:00 – 8:00 PM | Saturday: 12:00 – 8:00 PM | Sunday: 12:00 – 6:00 PM",
+      "lat": "41.531932",
+      "lng": "-90.546623",
+      "description": "Wine tasting in a converted East Davenport space with real neighborhood warmth.\n\nWide River Winery Village feels less like a typical tasting room and more like someone's living room — if that living room happened to pour solid local and regional wines. The vibe is unhurried; people linger over glasses, chat with staff who actually know what they're pouring, and drift between tastings without the velvet-rope formality you'd expect. Friday and Saturday nights stretch to 8 p.m., which is when the place finds its rhythm: the kind of evening where you meant to stay for one glass and suddenly it's two hours later.\n\nWide River Winery Village sits in East Davenport, a neighborhood quietly finding its footing as a gathering spot — away from downtown's bustle but close enough to walk to dinner and drinks. It's the kind of place that shows up on our guides because it does one thing genuinely well and does it without pretense. Once you've found it, you'll keep coming back.",
+      "rating": {
+        "google": "4.8",
+        "google_count": "148",
+        "yelp": "4.4",
+        "yelp_count": "19"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10493197747598700777",
+        "yelp": "https://www.yelp.com/biz/wide-river-winery-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\wide_river_winery_village_of_east_davenport_photo_1.jpg",
+        "all": [
+          "entity_photos\\wide_river_winery_village_of_east_davenport_photo_1.jpg",
+          "entity_photos\\wide_river_winery_village_of_east_davenport_photo_2.jpg",
+          "entity_photos\\wide_river_winery_village_of_east_davenport_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "wireone_electric_davenport",
+      "type": "business",
+      "name": "WIREONE Electric - Davenport",
+      "slug": "wireone-electric-davenport",
+      "category": "Professional Services",
+      "subcategory": "",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "102 East 2nd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 275-5999",
+      "website": "https://www.wireoneelectric.com/areas/davenport-area/",
+      "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours | Saturday: Open 24 hours | Sunday: Open 24 hours",
+      "lat": "41.5214478",
+      "lng": "-90.57384019999999",
+      "description": "Industrial-grade electrical supply, open round-the-clock for the trades.\n\nWireOne is the kind of place contractors know by heart — fluorescent-lit aisles stocked with wire, breakers, conduit, and everything else that keeps the QC's buildings running. The staff moves with the ease of people who've answered the same questions a thousand times and actually know the answers. Whether you're pulling permit work at 2 a.m. or restocking a job site before dawn, the lights are on and someone's behind the counter.\n\nWireOne sits in Downtown Davenport, serving the trades and DIYers who keep the region's infrastructure humming. It's the kind of essential, unadorned place that belongs in a real community guide — not for tourists, but for the people who actually live and work here. Once you know it exists, you'll find yourself sending friends there, or stopping by yourself when a project suddenly needs parts at an odd hour.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "284",
+        "yelp": "3.7",
+        "yelp_count": "7"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=9778909875984525852",
+        "yelp": "https://www.yelp.com/biz/koehler-electric-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\wireone_electric_davenport_photo_1.jpg",
+        "all": [
+          "entity_photos\\wireone_electric_davenport_photo_1.jpg",
+          "entity_photos\\wireone_electric_davenport_photo_2.jpg",
+          "entity_photos\\wireone_electric_davenport_photo_3.jpg"
         ]
       },
       "guides": [],
