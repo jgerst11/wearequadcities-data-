@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T15:40:28.114987+00:00",
+  "updated": "2026-06-26T16:03:13.055798+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -13,15 +13,59 @@
       "category": "Local News"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Geneseo school board votes to table solar farm project",
+      "summary": "The delay means the district will miss out on the current round of federal incentives.",
+      "url": "https://qctimes.com/news/local/education/article_05d882d6-80b3-535b-95e1-2bb378aeb0c9.html",
+      "time": "3 min ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Dangerous heat and humidity just around the corner",
+      "summary": "Clouds, some rain, and easterly winds will hold highs down into the 70s Friday. It warms up more tomorrow, and you'll really notice the heat and humidity starti…",
+      "url": "https://www.ourquadcities.com/news/local-news/dangerous-heat-and-humidity-just-around-the-corner/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/heat-wave.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Sheriff: One dead in bulldozer accident in New Liberty",
+      "summary": "A person has died following an accident in New Liberty, Iowa, early Friday morning.",
+      "url": "https://qctimes.com/news/local/government-politics/article_f541d5b1-f8c8-4c78-9bd2-6fbeb66ebc40.html",
+      "time": "28 min ago",
+      "image": "",
+      "category": ""
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
       "headline": "New Vibrant director envisions more variety in future shows",
       "summary": "The Vibrant Arena's new director, Rik Edgar, has spent 20 years in the business of event management. \"I've always admired what they had at the Vibrant Arena and…",
       "url": "https://www.ourquadcities.com/news/local-news/new-vibrant-director-envisions-more-variety-in-future-shows/",
-      "time": "12 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/Vibrant8.png?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Alex Freeman, son of former NFL star, is game changer US men's soccer needs",
+      "summary": "Alex Freeman just might be the U.S. men’s national team’s most impactful player and a long-awaited unicorn.",
+      "url": "https://qctimes.com/sports/professional/article_6c18dd50-6921-53f4-ad51-6fe3d6f56c8c.html",
+      "time": "33 min ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/14/f14b8838-4079-5072-a85e-5c6053932b51/6a3d4039e4414.image.jpg?resize=300%2C198",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,64 +74,20 @@
       "headline": "Cambridge Natural History Museum buying its building",
       "summary": "The Cambridge Natural History Museum reached a major milestone on June 24 when it closed on the purchase of the building it occupies at 132 W. Center Street. Th…",
       "url": "https://www.ourquadcities.com/news/local-news/cambridge-natural-history-museum-buying-its-building/",
-      "time": "21 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cambridge-Natural-History-Museum.jpg?w=900",
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Sacred Heart Catholic Church, Rock Island, plans new food pantry",
-      "summary": "Sacred Heart Catholic Church, 2810 5th Avenue, Rock Island, will host a groundbreaking at 1 p.m. Sunday, June 28, for the new Sacred Heart Food Pantry to be loc…",
-      "url": "https://www.ourquadcities.com/news/local-news/sacred-heart-catholic-church-rock-island-plans-new-food-pantry/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/SNAP-food-pantry-food-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "United Way of Southeast Iowa earns RSVP medical transportation grant",
-      "summary": "United Way of Southeast Iowa has announced it has been awarded the AmeriCorps Seniors RSVP Medical Transportation Grant, ensuring the continuation and expansion…",
-      "url": "https://www.ourquadcities.com/news/local-news/united-way-of-southeast-iowa-earns-rsvp-medical-transportation-grant/",
-      "time": "10 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/AmeriCorps.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC Airport sees highest monthly passenger traffic since 2019",
-      "summary": "Business is up at the Quad Cities International Airport (QC Airport). The airport reported a 6% year-over-year increase in passenger traffic for May 2026, compa…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-airport-sees-highest-monthly-passenger-traffic-since-2019/",
-      "time": "22 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/QC-airport.png?w=500",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Happy Joe's Community Block Parties celebrate America 250",
-      "summary": "Happy Joe’s Pizza &#38; Ice Cream invites families to celebrate at its America 250 Community Block Parties on Monday, June 29, from 4 to 8 p.m. at three locatio…",
-      "url": "https://www.ourquadcities.com/news/local-news/happy-joes-community-block-parties-celebrate-america-250/",
-      "time": "48 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Happy-Joes.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Road repair results in temporary street closure in Clinton",
-      "summary": "Because of a road repair, the east-bound lane of 19th Avenue North from Springdale Drive to North 5th Street in Clinton will be closed. This closure will be in …",
-      "url": "https://www.ourquadcities.com/news/local-news/road-repair-results-in-temporary-street-closure-in-clinton/",
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Family bike ride and free ice cream social on Sunday in Muscatine",
+      "summary": "Riders of all ages will travel together along a family-friendly route to the Friends of the Muscatine Art Center Ice Cream Social on Mulberry Avenue.",
+      "url": "https://qctimes.com/life-entertainment/local/events/article_e5b1ccfc-a80b-4ed6-ad05-651ab8bbbb80.html",
       "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/road-construction-work-GENERIC.jpg?w=900",
-      "category": "Local News"
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/a/e1/ae1540ac-ed8e-435d-af54-2e13e28c07f6/6a3d9267cd1e5.image.jpg?resize=300%2C225",
+      "category": ""
     }
   ]
 }
