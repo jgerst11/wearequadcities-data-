@@ -1,23 +1,7 @@
 {
-  "generated": "2026-07-03T14:05:44.049738",
-  "total": 35,
+  "generated": "2026-07-03T14:11:55.900693",
+  "total": 34,
   "events": [
-    {
-      "id": "vqc_9b9250f7ce11",
-      "name": "← Previous",
-      "start": "",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed?sort_cat=&page=0",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
     {
       "id": "vqc_64f5e4ab6744",
       "name": "Red White and Play Fest",
