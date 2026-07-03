@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T13:22:15.723469",
+  "generated": "2026-07-03T15:34:22.637888",
   "total": 239,
   "entities": [
     {
@@ -279,7 +279,9 @@
           "entity_photos\\7_brew_coffee_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -850,7 +852,9 @@
           "entity_photos\\awake_coffee_company_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -1280,7 +1284,9 @@
           "entity_photos\\bent_river_brewing_company_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -2047,7 +2053,9 @@
           "entity_photos\\celebration_river_cruises_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -3052,7 +3060,9 @@
           "entity_photos\\dead_poets_espresso_ltd_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4060,7 +4070,10 @@
           "entity_photos\\front_street_pub_eatery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios",
+        "live-music"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4300,9 +4313,7 @@
           "entity_photos\\great_river_brewery_photo_3.jpg"
         ]
       },
-      "guides": [
-        "hidden-gems"
-      ],
+      "guides": [],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4587,7 +4598,9 @@
           "entity_photos\\harris_pizza_1_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4969,7 +4982,9 @@
           "entity_photos\\iconic_coffee_energy_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5064,7 +5079,9 @@
           "entity_photos\\isle_casino_hotel_bettendorf_a_caesars_rewards_destination_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5302,7 +5319,9 @@
           "entity_photos\\john_deere_pavilion_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5679,7 +5698,9 @@
           "entity_photos\\lagomarcinos_confectionery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -6201,7 +6222,9 @@
           "entity_photos\\makenna_koffee_company_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -6727,7 +6750,9 @@
           "entity_photos\\mo_bradys_steakhouse_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7252,7 +7277,9 @@
           "entity_photos\\pedal_pub_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7492,7 +7519,9 @@
           "entity_photos\\putnam_museum_and_science_center_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7636,7 +7665,9 @@
           "entity_photos\\quad_city_botanical_center_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -8111,7 +8142,9 @@
           "entity_photos\\rhythm_city_casino_resort_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10638,7 +10671,9 @@
           "entity_photos\\treehouse_pub_eatery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10828,7 +10863,8 @@
         ]
       },
       "guides": [
-        "hidden-gems"
+        "hidden-gems",
+        "date-night"
       ],
       "featured": false,
       "sponsor_tier": "none"
