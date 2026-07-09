@@ -135,7 +135,7 @@
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "entity_photos\insureous_photo_1.png"
+        "primary": "entity_photos/insureous_photo_1.png",
         "all": []
       },
       "guides": [],
