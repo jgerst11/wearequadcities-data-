@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T09:45:44.458617",
-  "total": 33,
+  "generated": "2026-07-09T10:08:28.645991",
+  "total": 34,
   "events": [
     {
       "id": "vqc_e2ba16f0e63c",
@@ -94,6 +94,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12773&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_c1fab081d905",
+      "name": "The Wizard Of Oz",
+      "start": "2026-07-09T17:45:00",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=10675&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
