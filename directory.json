@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T10:08:26.317957",
+  "generated": "2026-07-10T11:46:32.076734",
   "total": 239,
   "entities": [
     {
@@ -120,7 +120,6 @@
       "hours": "Mon–Fri 9am–5pm  ",
       "lat": "",
       "lng": "",
-      "tagline": "Health, dental, vision, life, and supplemental coverage — built for QC individuals, families, and employers.",
       "description": "Founded by longtime Quad Cities residents John and Shelia Gerstner, Insureous helps individuals, families, and employers build smarter health, dental, vision, life, and supplemental insurance solutions, supported by a custom enrollment platform and year-round guidance.",
       "rating": {
         "google": "",
@@ -136,13 +135,12 @@
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "entity_photos/insureous_banner.jpg",
+        "primary": "",
         "all": []
       },
-      "heroClean": true,
       "guides": [],
       "featured": true,
-      "sponsor_tier": "homepage"
+      "sponsor_tier": "none"
     },
     {
       "id": "11th_hour_bar_grill",
@@ -2059,7 +2057,7 @@
         "visitors"
       ],
       "featured": false,
-      "sponsor_tier": "none"
+      "sponsor_tier": "homepage"
     },
     {
       "id": "centennial_park",
