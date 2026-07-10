@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T11:46:37.472638",
+  "generated": "2026-07-10T11:57:41.334983",
   "total": 3,
   "featured": [
     {
@@ -27,16 +27,16 @@
       "link_url": "http://floatqc.com/"
     },
     {
-      "slot": 3,
-      "business_name": "Insureous Health Solutions",
-      "category": "Professional Services · St Augustine",
-      "description": "Health, life, Medicare and emoployee benefits guidance for Quad Cities individuals, families, and businesses.",
-      "logo_initials": "IN",
-      "rating": "",
-      "status_line": "Health, life, Medicare and emoployee benefits guidance for Quad Cities individuals, families, and businesses.",
+      "slot": 99,
+      "business_name": "Quad City Botanical Center",
+      "category": "Other · Rock Island",
+      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.",
+      "logo_initials": "QC",
+      "rating": "4.7",
+      "status_line": "",
       "tier": "none",
-      "entity_id": "insureous",
-      "link_url": "https://www.insureous.com/"
+      "entity_id": "quad_city_botanical_center",
+      "link_url": "http://www.qcgardens.com/"
     }
   ]
 }

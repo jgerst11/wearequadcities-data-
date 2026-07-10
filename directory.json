@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T11:46:32.076734",
+  "generated": "2026-07-10T11:57:40.408657",
   "total": 239,
   "entities": [
     {
@@ -100,45 +100,53 @@
       "sponsor_tier": "homepage"
     },
     {
-      "id": "insureous",
-      "type": "business",
-      "name": "Insureous Health Solutions",
-      "slug": "",
-      "category": "Professional Services",
-      "subcategory": "Insurance ",
+      "id": "quad_city_botanical_center",
+      "type": "place",
+      "name": "Quad City Botanical Center",
+      "slug": "quad-city-botanical-center",
+      "category": "Other",
+      "subcategory": "",
       "tags": [
-        "professional_services"
+        "other"
       ],
       "attributes": [],
-      "address": "99 King St. Box222",
-      "city": "St Augustine",
+      "address": "2525 4th Avenue",
+      "city": "Rock Island",
       "neighborhood": "",
-      "state": "FL",
-      "zip": "32095",
-      "phone": "(904) 295-8498",
-      "website": "https://www.insureous.com/",
-      "hours": "Mon–Fri 9am–5pm  ",
-      "lat": "",
-      "lng": "",
-      "description": "Founded by longtime Quad Cities residents John and Shelia Gerstner, Insureous helps individuals, families, and employers build smarter health, dental, vision, life, and supplemental insurance solutions, supported by a custom enrollment platform and year-round guidance.",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 794-0991",
+      "website": "http://www.qcgardens.com/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 5:00 PM",
+      "lat": "41.509826",
+      "lng": "-90.56398700000001",
+      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.\n\nThe Botanical Center sprawls across Rock Island like an open secret—indoor tropical rooms that smell like soil and humidity, outdoor gardens that shift with the seasons, and in winter, a miniature train that loops through poinsettias and twinkling lights. It's the kind of place where you can spend an hour wandering through a teaching greenhouse or sit on a bench and watch families hunt for hidden corners. The gift shop and library add layers; locals come back because there's always something blooming, even in February.\n\nThe Quad City Botanical Center sits on the Illinois side of the river in Rock Island, anchoring a quieter neighborhood that feels separate from downtown bustle but still accessible. It's the rare destination in the QC that works for everyone—a peaceful solo afternoon, a family outing, a place to reset when you need green and growing things around you. Once you know it's there, you'll find yourself returning with visiting friends.",
       "rating": {
-        "google": "",
-        "google_count": "",
-        "yelp": "",
-        "yelp_count": ""
+        "google": "4.7",
+        "google_count": "957",
+        "yelp": "4.2",
+        "yelp_count": "17"
       },
       "social": {
-        "google": "",
-        "yelp": "",
+        "google": "https://maps.google.com/?cid=15433177206008878431",
+        "yelp": "https://www.yelp.com/biz/quad-city-botanical-center-rock-island",
         "facebook": "",
         "instagram": "",
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "",
-        "all": []
+        "primary": "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_2.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_3.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_4.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_5.jpg"
+        ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": true,
       "sponsor_tier": "none"
     },
@@ -4989,6 +4997,49 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "insureous",
+      "type": "business",
+      "name": "Insureous Health Solutions",
+      "slug": "",
+      "category": "Professional Services",
+      "subcategory": "Insurance ",
+      "tags": [
+        "professional_services"
+      ],
+      "attributes": [],
+      "address": "99 King St. Box222",
+      "city": "St Augustine",
+      "neighborhood": "",
+      "state": "FL",
+      "zip": "32095",
+      "phone": "(904) 295-8498",
+      "website": "https://www.insureous.com/",
+      "hours": "Mon–Fri 9am–5pm  ",
+      "lat": "",
+      "lng": "",
+      "description": "Founded by longtime Quad Cities residents John and Shelia Gerstner, Insureous helps individuals, families, and employers build smarter health, dental, vision, life, and supplemental insurance solutions, supported by a custom enrollment platform and year-round guidance.",
+      "rating": {
+        "google": "",
+        "google_count": "",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "",
+        "all": []
+      },
+      "guides": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "iron_grain_coffee_house",
       "type": "business",
       "name": "Iron + Grain Coffee House",
@@ -7617,57 +7668,6 @@
         ]
       },
       "guides": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
-      "id": "quad_city_botanical_center",
-      "type": "place",
-      "name": "Quad City Botanical Center",
-      "slug": "quad-city-botanical-center",
-      "category": "Other",
-      "subcategory": "",
-      "tags": [
-        "other"
-      ],
-      "attributes": [],
-      "address": "2525 4th Avenue",
-      "city": "Rock Island",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61201",
-      "phone": "(309) 794-0991",
-      "website": "http://www.qcgardens.com/",
-      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 5:00 PM",
-      "lat": "41.509826",
-      "lng": "-90.56398700000001",
-      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.\n\nThe Botanical Center sprawls across Rock Island like an open secret—indoor tropical rooms that smell like soil and humidity, outdoor gardens that shift with the seasons, and in winter, a miniature train that loops through poinsettias and twinkling lights. It's the kind of place where you can spend an hour wandering through a teaching greenhouse or sit on a bench and watch families hunt for hidden corners. The gift shop and library add layers; locals come back because there's always something blooming, even in February.\n\nThe Quad City Botanical Center sits on the Illinois side of the river in Rock Island, anchoring a quieter neighborhood that feels separate from downtown bustle but still accessible. It's the rare destination in the QC that works for everyone—a peaceful solo afternoon, a family outing, a place to reset when you need green and growing things around you. Once you know it's there, you'll find yourself returning with visiting friends.",
-      "rating": {
-        "google": "4.7",
-        "google_count": "957",
-        "yelp": "4.2",
-        "yelp_count": "17"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=15433177206008878431",
-        "yelp": "https://www.yelp.com/biz/quad-city-botanical-center-rock-island",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\quad_city_botanical_center_photo_1.jpg",
-        "all": [
-          "entity_photos\\quad_city_botanical_center_photo_1.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_2.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_3.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_4.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_5.jpg"
-        ]
-      },
-      "guides": [
-        "visitors"
-      ],
       "featured": false,
       "sponsor_tier": "none"
     },
