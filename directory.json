@@ -136,9 +136,10 @@
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "entity_photos/insureous_photo_1.png",
+        "primary": "entity_photos/insureous_banner.jpg",
         "all": []
       },
+      "heroClean": true,
       "guides": [],
       "featured": true,
       "sponsor_tier": "homepage"
