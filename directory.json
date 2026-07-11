@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T09:35:38.189410",
+  "generated": "2026-07-11T09:42:35.936064",
   "total": 239,
   "entities": [
     {
@@ -5032,8 +5032,10 @@
         "tripadvisor": ""
       },
       "photos": {
-        "primary": "",
-        "all": []
+        "primary": "entity_photos/insureous_banner.jpg",
+        "all": [
+          "entity_photos/insureous_banner.jpg"
+        ]
       },
       "guides": [],
       "featured": false,
