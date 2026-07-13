@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T13:12:50.385235",
+  "generated": "2026-07-13T13:36:14.376388",
   "total": 239,
   "entities": [
     {
@@ -8375,7 +8375,7 @@
         ]
       },
       "guides": [
-        "patiosw"
+        "patios"
       ],
       "featured": false,
       "sponsor_tier": "none"
@@ -8618,7 +8618,8 @@
         ]
       },
       "guides": [
-        "hidden-gems"
+        "hidden-gems",
+        "coffee"
       ],
       "featured": false,
       "sponsor_tier": "none"
