@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T09:29:32.872012",
+  "generated": "2026-07-13T13:12:50.385235",
   "total": 239,
   "entities": [
     {
@@ -47,7 +47,9 @@
           "entity_photos\\adler_theatre_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "featured": true,
       "sponsor_tier": "none"
     },
@@ -240,7 +242,9 @@
           "entity_photos\\392caffe_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -623,7 +627,9 @@
           "entity_photos\\armored_gardens_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live music"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -1196,7 +1202,9 @@
           "entity_photos\\ben_butterworth_parkway_west_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -1293,7 +1301,8 @@
         ]
       },
       "guides": [
-        "date-night"
+        "date-night",
+        "patios"
       ],
       "featured": false,
       "sponsor_tier": "none"
@@ -1635,7 +1644,9 @@
           "entity_photos\\black_hawk_state_historic_site_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -2062,7 +2073,8 @@
         ]
       },
       "guides": [
-        "visitors"
+        "visitors",
+        "river-views"
       ],
       "featured": false,
       "sponsor_tier": "homepage"
@@ -2209,7 +2221,9 @@
           "entity_photos\\channel_cat_water_taxi_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -2398,7 +2412,10 @@
           "entity_photos\\coffee_house_cafe_and_goods_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -3069,7 +3086,8 @@
         ]
       },
       "guides": [
-        "hidden-gems"
+        "hidden-gems",
+        "coffee"
       ],
       "featured": false,
       "sponsor_tier": "none"
@@ -3934,7 +3952,10 @@
           "entity_photos\\figge_art_museum_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views",
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4031,7 +4052,10 @@
           "entity_photos\\freight_house_farmers_market_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios",
+        "river"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4321,7 +4345,10 @@
           "entity_photos\\great_river_brewery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios",
+        "live-music"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -4606,9 +4633,7 @@
           "entity_photos\\harris_pizza_1_photo_3.jpg"
         ]
       },
-      "guides": [
-        "hidden-gems"
-      ],
+      "guides": [],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5084,7 +5109,9 @@
           "entity_photos\\iron_grain_coffee_house_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5421,7 +5448,9 @@
           "entity_photos\\johnnys_italian_steakhouse_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -5752,7 +5781,8 @@
         ]
       },
       "guides": [
-        "hidden-gems"
+        "hidden-gems",
+        "visitors"
       ],
       "featured": false,
       "sponsor_tier": "none"
@@ -6373,7 +6403,9 @@
           "entity_photos\\mantra_indian_cuisine_spirits_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -6709,7 +6741,10 @@
           "entity_photos\\mississippi_river_distilling_company_downtown_lounge_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night",
+        "hiden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -6855,7 +6890,9 @@
           "entity_photos\\modern_woodmen_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -7812,7 +7849,10 @@
           "entity_photos\\quad_city_symphony_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music",
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -8334,7 +8374,9 @@
           "entity_photos\\riverside_grille_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patiosw"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -8384,7 +8426,9 @@
           "entity_photos\\riverside_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -8864,7 +8908,9 @@
           "entity_photos\\schwiebert_riverfront_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -9007,7 +9053,9 @@
           "entity_photos\\skeleton_key_art_and_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -9871,7 +9919,9 @@
           "entity_photos\\the_atlas_collective_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10015,7 +10065,10 @@
           "entity_photos\\the_brewed_book_coffee_shop_used_book_store_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10343,7 +10396,9 @@
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10626,7 +10681,9 @@
           "entity_photos\\trattoria_tiramisu_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -10674,7 +10731,8 @@
         ]
       },
       "guides": [
-        "date-night"
+        "date-night",
+        "patios"
       ],
       "featured": false,
       "sponsor_tier": "none"
@@ -10916,7 +10974,9 @@
           "entity_photos\\vander_veer_botanical_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -11011,7 +11071,9 @@
           "entity_photos\\vibrant_arena_at_the_mark_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -11058,7 +11120,9 @@
           "entity_photos\\vibrant_coffeehouse_kitchen_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
@@ -11392,7 +11456,9 @@
           "entity_photos\\wide_river_winery_village_of_east_davenport_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios"
+      ],
       "featured": false,
       "sponsor_tier": "none"
     },
