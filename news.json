@@ -1,14 +1,36 @@
 {
-  "updated": "2026-07-12T11:48:17.571259+00:00",
+  "updated": "2026-07-13T13:29:31.755202+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Crews respond to QCA partial building exterior collapse",
+      "headline": "Summer heat builds this week",
+      "summary": "Abundant sunshine is in the forecast for much of the upcoming week along with climbing temperatures. Rain chances slowly increase later this week and weekend, b…",
+      "url": "https://www.ourquadcities.com/news/local-news/summer-heat-builds-this-week/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/GettyImages-1323823418.jpg?w=724",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "A promising path to a bipartisan fix of Social Security emerges | San Diego Union-Tribune",
+      "summary": "The need to reform Social Security — to keep by far the most important government assistance program solvent — has long been obvious.",
+      "url": "https://qctimes.com/opinion/column/article_63a183d6-0d5a-57ba-a9b2-d85db6a55ba6.html",
+      "time": "14 min ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Crews respond to partial building exterior collapse in Moline",
       "summary": "Crews responded to a partial collapse at a Moline restaurant. According to a release from the Moline Fire Department, Cisco's Mexican Bar &#38; Grill on 5th Ave…",
       "url": "https://www.ourquadcities.com/news/local-news/crews-respond-to-qca-partial-building-exterior-collapse/",
-      "time": "15 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Screenshot-2026-07-11-163536.png?w=900",
       "category": "Local News"
     },
@@ -16,55 +38,11 @@
       "source": "QC Times",
       "badge": "QCT",
       "color": "brand",
-      "headline": "China Cafe Davenport now open on Tuesdays",
-      "summary": "After nearly six years, a Chinese restaurant is now open on Tuesdays.",
-      "url": "https://qctimes.com/life-entertainment/local/food-drink/article_5c2a43c9-fe62-49a8-ac56-52a61b3f77d3.html",
-      "time": "3 min ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/e4/7e4915df-bff7-4d13-b363-1b26a4f8bf8b/6a4d4832818ea.image.jpg?resize=300%2C300",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jibaro de Puerto Rico finds a new home in Muscatine after structural issues",
-      "summary": "Ramon Rentas was at a crossroads about two years ago after he decided to change careers. He could either move back to Puerto Rico or make Muscatine his permanen…",
-      "url": "https://www.ourquadcities.com/news/local-news/jibaro-de-puerto-rico-finds-a-new-home-in-muscatine-after-structural-issues/",
-      "time": "20 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Jibaro-de-Puerto-Rico-finds-a-new-home-in-Muscatine-after-structural-issues.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Lock 14 Kitchen opens in Moline",
-      "summary": "A new shared commercial kitchen space built for local makers where they can grow.",
-      "url": "https://qctimes.com/life-entertainment/local/food-drink/article_8ef8e045-7806-4c49-9fe7-c87aaf40cf47.html",
-      "time": "3 min ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/4/e8/4e886198-fb08-498a-89e7-6ef8f6997706/6a4ead7049172.image.jpg?resize=300%2C225",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "WATCH: Every runner & walker starting the Moonlight Chase in Eldridge",
-      "summary": "If you ran or walked in the Moonlight Chase on Saturday night, you're in the video above. Our Quad Cities News was there as everyone left the starting line to f…",
-      "url": "https://www.ourquadcities.com/news/local-news/watch-every-runner-walker-starting-the-moonlight-chase-in-eldridge/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/008B7F8CD69970BF32A22D1D09FEE460_6.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "MARK-TO-MARKET: FIFA World Cup fever invades North America",
-      "summary": "FIFA estimates its 2026 World Cup will deliver a record $8.9 billion in revenues, up 53.4% from its 2022 tournament.",
-      "url": "https://qctimes.com/news/local/business/article_c09d4427-2599-4cf3-ac38-75ebfa84fdcb.html",
-      "time": "18 min ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/4/07/407425a6-b9ac-11ef-bbaf-f3a0f32481d2/5e7505a2bef4b.image.jpg?resize=300%2C390",
+      "headline": "Moline to unveil draft Comprehensive Plan at public open house",
+      "summary": "The City of Moline is inviting the public to review its draft Comprehensive Plan and share feedback before it’s finalized. Learn more about Thursday’s open hous…",
+      "url": "https://qctimes.com/news/local/business/article_44d43f05-388e-4df7-a3ae-241e1db709ba.html",
+      "time": "12 min ago",
+      "image": "",
       "category": ""
     },
     {
@@ -74,7 +52,7 @@
       "headline": "UPDATE: Rock Island mayor, as liquor commissioner, revokes liquor license of DeAnna's Place",
       "summary": "UPDATE: Rock Island mayor and liquor commissioner Ashley Harris has decided to revoke the liquor license of DeAnna's Place tavern. The decision was announced Fr…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-bar-liquor-license-on-the-line-commission-considers-tavern-incidents/",
-      "time": "3d ago",
+      "time": "4d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Screenshot-2026-07-10-171424.png?w=842",
       "category": "Local News"
     },
@@ -82,11 +60,33 @@
       "source": "QC Times",
       "badge": "QCT",
       "color": "brand",
-      "headline": "Workers keep leaving the US labor force. Experts can't agree why",
-      "summary": "Whether it was caregiving responsibilities, feeling discouraged after a long stretch of unemployment or the realization they’re sitting on a pile of money, many…",
-      "url": "https://qctimes.com/news/nation-world/business/employment/article_f2c54143-4d6e-5cd2-bea5-da64ac90e042.html",
-      "time": "18 min ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/e6/ee616314-9a35-5992-9c37-51360c3c007b/6a50e49ee0e00.image.jpg?resize=300%2C200",
+      "headline": "Sweet Delite partners with United Way summer event",
+      "summary": "Sweet Delite will host a United Way summer event July 15 from 11 a.m. to 2 p.m. at the Annex lot, donating 18 percent of all sales to support United Way.",
+      "url": "https://qctimes.com/life-entertainment/community/article_5d057f87-7ecf-5d2c-8975-bc341aed1975.html",
+      "time": "42 min ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cook review: 'Live-action' 'Moana' remake is shallow compared to original",
+      "summary": "Except for the ocean, which I consider to be a character in the new \"Moana\" remake, much of the film is shallow, as thought much of the emotion and enchantment …",
+      "url": "https://www.ourquadcities.com/news/local-news/cook-review-live-action-moana-remake-is-shallow-compared-to-original/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Moana.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Sam Neill, 'Jurassic Park' star, dies at 78 after cancer-free reveal",
+      "summary": "Sam Neill, the actor best known for playing Dr. Alan Grant in the \"Jurassic Park\" franchise, has died. He was 78.",
+      "url": "https://qctimes.com/article_db09dcc5-65c8-576e-a78c-16e63bcfc831.html",
+      "time": "1 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/b4/6b42614a-5bf5-5f2a-8f42-75d353b81626/6a54d6f182d0b.image.jpg?resize=300%2C162",
       "category": ""
     }
   ]
