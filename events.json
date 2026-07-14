@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T14:52:16.083934",
-  "total": 32,
+  "generated": "2026-07-14T14:57:11.757326",
+  "total": 37,
   "events": [
     {
       "id": "mercado-2026",
@@ -13,6 +13,38 @@
       "state": "IL",
       "category": "Community",
       "description": "Vibrant open-air night market throughout summer — live music, food trucks, and local vendors in downtown Moline.",
+      "url": "",
+      "image": "",
+      "is_free": true,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "mercado-2026",
+      "name": "Mercado on Fifth",
+      "start": "2026-06-01",
+      "end": "2026-08-31",
+      "venue": "5th Avenue",
+      "address": "",
+      "city": "Moline",
+      "state": "IL",
+      "category": "Community",
+      "description": "Vibrant open-air night market throughout summer — live music, food trucks, and local vendors in downtown Moline.",
+      "url": "",
+      "image": "",
+      "is_free": true,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "summer-concerts-2026",
+      "name": "Summer Concert Series",
+      "start": "2026-06-03",
+      "end": "2026-08-28",
+      "venue": "Bass Street Landing / Schwiebert Park / Lincoln Park",
+      "address": "",
+      "city": "Moline",
+      "state": "IL",
+      "category": "Music",
+      "description": "Free live music all summer: Thursdays at Bass Street Landing (Moline), Fridays at Schwiebert Park (Rock Island), Tuesdays at Lincoln Park (Davenport).",
       "url": "",
       "image": "",
       "is_free": true,
@@ -323,6 +355,22 @@
       "source": "bix7.com"
     },
     {
+      "id": "bix7-2026",
+      "name": "Quad-City Times Bix 7",
+      "start": "2026-07-25",
+      "end": "2026-07-27",
+      "venue": "Downtown Davenport",
+      "address": "",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "Sports & Events",
+      "description": "World-famous 7-mile footrace drawing 15,000+ runners along the riverfront. Includes Running Wild Fitness Expo and Jr. Bix events.",
+      "url": "https://bix7.com/",
+      "image": "",
+      "is_free": false,
+      "source": "bix7.com"
+    },
+    {
       "id": "quad-cities-community-e-bike-ride-summer-2026-tickets-1992950841616",
       "name": "Quad Cities Community E-Bike Ride - Summer 2026",
       "start": "2026-07-26",
@@ -435,6 +483,22 @@
       "source": "eventbrite"
     },
     {
+      "id": "floatzilla-2026",
+      "name": "Floatzilla",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "venue": "Mississippi River",
+      "address": "",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "Sports & Events",
+      "description": "Massive annual paddling event where thousands of kayakers and canoeists gather on the Mississippi River.",
+      "url": "",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
       "id": "when-it-was-fun-live-mlk-tickets-1984644412864",
       "name": "When It Was Fun Live MLK",
       "start": "2026-08-28",
@@ -513,6 +577,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184306733%2F270454545668%2F1%2Foriginal.20260511-154648?crop=focalpoint&fit=crop&w=351&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7042ee05ff77d678afddaec3ca3c73a8",
       "is_free": false,
       "source": "eventbrite"
+    },
+    {
+      "id": "blues-fest-2027",
+      "name": "Mississippi Valley Blues Festival",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "venue": "LeClaire Park",
+      "address": "",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "Music",
+      "description": "Premier multi-day blues festival on the riverfront featuring regional and national blues artists at LeClaire Park.",
+      "url": "",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     }
   ]
 }
