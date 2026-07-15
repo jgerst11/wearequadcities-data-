@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-14T14:57:11.757326",
-  "total": 37,
+  "generated": "2026-07-15T08:22:38.256670",
+  "total": 36,
   "events": [
     {
       "id": "mercado-2026",
@@ -64,54 +64,6 @@
       "url": "",
       "image": "",
       "is_free": true,
-      "source": "visitquadcities.com"
-    },
-    {
-      "id": "quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774548839",
-      "name": "Quad Cities: Hyaluron Pen Training, Learn to Fill in Lips & Dissolve Fat!",
-      "start": "2026-07-14",
-      "end": "2026-07-14",
-      "venue": "Regus - Davenport - Birchwood Office Building",
-      "address": "4620 East 53rd Street",
-      "city": "Davenport",
-      "state": "IA",
-      "category": "",
-      "description": "This  needless technique is used to inject hyaluronic acid to fill in lines and wrinkles. You can also use this technique to dissolve fat.",
-      "url": "https://www.eventbrite.com/e/quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774548839",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F934675983%2F151896068309%2F1%2Foriginal.20250113-201856?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=917f7c02451cf36eb1016fa36ea22f2a",
-      "is_free": false,
-      "source": "eventbrite"
-    },
-    {
-      "id": "vqc_c95324678c4a",
-      "name": "Riverboat Twilight 2 Day Cruise",
-      "start": "2026-07-14T08:00:00",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11743&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
-      "id": "vqc_f773b47c4fdb",
-      "name": "Paint Nite at Crawford Brew Works Into the Night II",
-      "start": "2026-07-14T18:30:00",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=12579&sort_cat=",
-      "image": "",
-      "is_free": false,
       "source": "visitquadcities.com"
     },
     {
@@ -339,6 +291,22 @@
       "source": "eventbrite"
     },
     {
+      "id": "quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774558869",
+      "name": "Quad Cities: Hyaluron Pen Training, Learn to Fill in Lips & Dissolve Fat!",
+      "start": "2026-07-21",
+      "end": "2026-07-21",
+      "venue": "Regus - Davenport - Birchwood Office Building",
+      "address": "4620 East 53rd Street",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "This  needless technique is used to inject hyaluronic acid to fill in lines and wrinkles. You can also use this technique to dissolve fat.",
+      "url": "https://www.eventbrite.com/e/quad-cities-hyaluron-pen-training-learn-to-fill-in-lips-dissolve-fat-tickets-1937774558869",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F934675983%2F151896068309%2F1%2Foriginal.20250113-201856?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=917f7c02451cf36eb1016fa36ea22f2a",
+      "is_free": false,
+      "source": "eventbrite"
+    },
+    {
       "id": "bix7-2026",
       "name": "Quad-City Times Bix 7",
       "start": "2026-07-25",
@@ -497,6 +465,22 @@
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
+    },
+    {
+      "id": "paint-nite-brand-creative-events-tickets-1989355255120",
+      "name": "Paint Nite Brand Creative Events",
+      "start": "2026-08-19",
+      "end": "2026-08-19",
+      "venue": "Great River Brewery",
+      "address": "332 E 2nd",
+      "city": "Davenport",
+      "state": "IA",
+      "category": "",
+      "description": "Paint Nite Brand Creative Events (10369391)",
+      "url": "https://www.eventbrite.com/e/paint-nite-brand-creative-events-tickets-1989355255120",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184466226%2F292898063203%2F1%2Foriginal.20190403-194048?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6a284449857cdffd6e310fea30071794",
+      "is_free": false,
+      "source": "eventbrite"
     },
     {
       "id": "when-it-was-fun-live-mlk-tickets-1984644412864",
