@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T15:50:28.266702",
+  "generated": "2026-07-15T16:14:59.117892",
   "total": 421,
   "entities": [
     {
@@ -69,9 +69,7 @@
         "health",
         "fitness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "911 16th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -125,8 +123,7 @@
         "Family Friendly",
         "Educational",
         "Seasonal",
-        "Visitor Friendly",
-        "Hidden Gem"
+        "Visitor Friendly"
       ],
       "address": "2525 4th Avenue",
       "city": "Rock Island",
@@ -279,9 +276,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "502 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -434,8 +429,7 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Hidden Gem"
+        "Arts & Culture"
       ],
       "address": "432 West 3rd Street",
       "city": "Davenport",
@@ -536,9 +530,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2925 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -588,9 +580,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2700 11th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -640,9 +630,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4128 14th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -790,9 +778,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1725 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -843,7 +829,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "115 Davenport Street",
@@ -896,9 +881,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "422 24th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -953,7 +936,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "3811 Harrison Street",
@@ -1056,9 +1038,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3030 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1213,7 +1193,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Educational",
         "Visitor Friendly",
         "Arts & Culture"
@@ -1271,7 +1250,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "2429 9th Street",
@@ -1324,9 +1302,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4320 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1377,9 +1353,7 @@
         "health",
         "fitness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1570 36th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -1484,7 +1458,6 @@
       ],
       "attributes": [
         "River View",
-        "Hidden Gem",
         "Community Impact",
         "Sports & Recreation"
       ],
@@ -1538,9 +1511,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "201 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -1899,8 +1870,7 @@
       "attributes": [
         "River View",
         "Family Friendly",
-        "Sports & Recreation",
-        "Hidden Gem"
+        "Sports & Recreation"
       ],
       "address": "3000 River Drive",
       "city": "Moline",
@@ -2004,8 +1974,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Live Music",
-        "Hidden Gem"
+        "Live Music"
       ],
       "address": "512 24th Street",
       "city": "Rock Island",
@@ -2058,9 +2027,7 @@
         "health",
         "fitness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1020 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -2494,7 +2461,6 @@
         "culture"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly",
         "Visitor Friendly"
       ],
@@ -2553,7 +2519,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Educational",
         "Arts & Culture",
         "Visitor Friendly"
@@ -2809,9 +2774,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "421 West River Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -3071,7 +3034,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "429 North Cody Road",
@@ -3232,9 +3194,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1026 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -3390,7 +3350,6 @@
         "other"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "3232 Bear Tooth Court",
@@ -3563,8 +3522,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Hidden Gem"
+        "Educational"
       ],
       "address": "822 11th Avenue",
       "city": "Moline",
@@ -3785,9 +3743,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1345 West Locust Street",
       "city": "Davenport",
       "neighborhood": "5 Points",
@@ -3887,7 +3843,6 @@
       ],
       "attributes": [
         "River View",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "302 South 14th",
@@ -4041,8 +3996,7 @@
         "coffee"
       ],
       "attributes": [
-        "Visitor Friendly",
-        "Hidden Gem"
+        "Visitor Friendly"
       ],
       "address": "114 North Cody Road",
       "city": "Le Claire",
@@ -4095,7 +4049,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "1315 Jersey Ridge Road",
@@ -4307,7 +4260,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "411 West Mississippi Drive",
@@ -4632,8 +4584,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "2140 16th Street",
       "city": "Moline",
@@ -4685,7 +4636,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly",
         "Historic"
       ],
@@ -4738,9 +4688,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2903 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -4791,9 +4739,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "826 West 1st Avenue",
       "city": "Coal Valley",
       "neighborhood": "",
@@ -4846,7 +4792,6 @@
       "attributes": [
         "Arts & Culture",
         "Educational",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "102 North Cody Road",
@@ -5009,9 +4954,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1306 Mill Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -5171,9 +5114,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1609 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -5225,7 +5166,6 @@
         "wellness"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "207 Western Avenue",
@@ -5336,8 +5276,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Visitor Friendly",
-        "Hidden Gem"
+        "Visitor Friendly"
       ],
       "address": "303 West 3rd Street",
       "city": "Davenport",
@@ -5442,7 +5381,6 @@
         "Family Friendly",
         "Kid Friendly",
         "Educational",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "18817 290th Street",
@@ -5498,7 +5436,6 @@
         "other"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "1566 Illinois 17",
@@ -5607,7 +5544,6 @@
         "other"
       ],
       "attributes": [
-        "Hidden Gem",
         "Sports & Recreation"
       ],
       "address": "2815 West Locust Street",
@@ -5661,9 +5597,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "153 Avenue Of The Cities",
       "city": "East Moline",
       "neighborhood": "",
@@ -5714,7 +5648,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "1525 3rd Avenue A",
@@ -5768,7 +5701,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Seasonal"
       ],
       "address": "521 North Cody Road",
@@ -5877,9 +5809,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "318 North Brady Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -5931,7 +5861,6 @@
         "outdoors"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly",
         "Sports & Recreation"
       ],
@@ -6035,7 +5964,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Historic"
       ],
       "address": "3865 Elmore Avenue",
@@ -6087,9 +6015,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3606 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -6139,9 +6065,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1717 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -6192,7 +6116,6 @@
         "other"
       ],
       "attributes": [
-        "Hidden Gem",
         "River View"
       ],
       "address": "430 West 3rd Street",
@@ -6245,7 +6168,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture",
         "Visitor Friendly"
       ],
@@ -6447,9 +6369,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4520 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -6500,9 +6420,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "689 Avenue Of The Cities",
       "city": "East Moline",
       "neighborhood": "",
@@ -6553,7 +6471,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "3537 Archer Drive",
@@ -6662,7 +6579,6 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "322 North Brady Street",
@@ -6718,7 +6634,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "1132 West Locust Street",
@@ -6869,9 +6784,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "320 West Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -6920,9 +6833,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4500 West Central Park Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -7023,7 +6934,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "",
@@ -7078,7 +6988,6 @@
       ],
       "attributes": [
         "Family Friendly",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "2303 East 53rd Street",
@@ -7501,9 +7410,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1020 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -7554,8 +7461,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "4751 Progress Drive",
       "city": "Davenport",
@@ -7606,9 +7512,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1326 30th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -7661,8 +7565,7 @@
       "attributes": [
         "Family Friendly",
         "Visitor Friendly",
-        "Community Impact",
-        "Hidden Gem"
+        "Community Impact"
       ],
       "address": "421 West River Drive",
       "city": "Davenport",
@@ -7773,9 +7676,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4864 Utica Ridge Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -7826,7 +7727,6 @@
         "other"
       ],
       "attributes": [
-        "Hidden Gem",
         "Sports & Recreation"
       ],
       "address": "1057 Fairway Lane",
@@ -7880,9 +7780,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4020 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -7933,7 +7831,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "102 South State Street",
@@ -7986,8 +7883,7 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Hidden Gem"
+        "Arts & Culture"
       ],
       "address": "1120 40th Street",
       "city": "Rock Island",
@@ -8200,9 +8096,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1631 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -8301,7 +8195,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "3451 Devils Glen Road",
@@ -8410,7 +8303,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "309 North Cody Road",
@@ -8611,9 +8503,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2805 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -8720,7 +8610,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "524 East Locust Street",
@@ -8774,8 +8663,7 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "3903 14th Avenue",
       "city": "Rock Island",
@@ -8886,9 +8774,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4923 Utica Ridge Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -8938,9 +8824,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3651 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -9415,7 +9299,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "102 South Harrison Street",
@@ -9627,8 +9510,7 @@
         "River View",
         "Family Friendly",
         "Kid Friendly",
-        "Sports & Recreation",
-        "Hidden Gem"
+        "Sports & Recreation"
       ],
       "address": "836 State Avenue",
       "city": "Hampton",
@@ -9787,9 +9669,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1618 North Main Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -9839,9 +9719,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2630 16th Street",
       "city": "Moline",
       "neighborhood": "Greater Tartan Oaks",
@@ -9946,7 +9824,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "615 15th Avenue",
@@ -9999,9 +9876,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "836 East River Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -10052,9 +9927,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "545 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -10104,9 +9977,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3703 195th Street",
       "city": "Le Claire",
       "neighborhood": "",
@@ -10211,7 +10082,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "1100 13th Avenue",
@@ -10424,9 +10294,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1408 6th Street",
       "city": "East Moline",
       "neighborhood": "",
@@ -10476,9 +10344,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1829 15th Street Place",
       "city": "Moline",
       "neighborhood": "Uptown",
@@ -10529,7 +10395,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "3637 Avenue Of The Cities",
@@ -10679,7 +10544,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "2139 16th Street",
@@ -10786,7 +10650,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "2132 East 11th Street",
@@ -10840,7 +10703,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "1534 6th Avenue",
@@ -10940,9 +10802,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1606 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -11106,8 +10966,7 @@
       "attributes": [
         "Historic",
         "River View",
-        "Arts & Culture",
-        "Hidden Gem"
+        "Arts & Culture"
       ],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
@@ -11370,7 +11229,6 @@
       ],
       "attributes": [
         "River View",
-        "Hidden Gem",
         "Sports & Recreation"
       ],
       "address": "19408 Loud Thunder Road",
@@ -11426,7 +11284,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "102 East Kimberly Road",
@@ -11528,7 +11385,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Date Night"
       ],
       "address": "316 West 3rd Street",
@@ -11634,7 +11490,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "1927 North Main Street",
@@ -11687,9 +11542,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "201 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -12052,8 +11905,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "1320 5th Avenue",
       "city": "Moline",
@@ -12214,9 +12066,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3800 River Drive",
       "city": "Moline",
       "neighborhood": "",
@@ -12367,9 +12217,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "606 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -12420,7 +12268,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "4004 West Kimberly Road",
@@ -12528,7 +12375,6 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "902 East River Drive",
@@ -12584,7 +12430,6 @@
       "attributes": [
         "Family Friendly",
         "River View",
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "2815 West Locust Street",
@@ -12640,7 +12485,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Date Night"
       ],
       "address": "4830 North Brady Street",
@@ -13006,7 +12850,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Sports & Recreation",
         "Visitor Friendly"
       ],
@@ -13059,9 +12902,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4009 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -13265,9 +13106,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "4513 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -13317,9 +13156,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "217 South College Avenue",
       "city": "Aledo",
       "neighborhood": "",
@@ -13839,8 +13676,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "2035 Martin Luther King Drive",
       "city": "Rock Island",
@@ -13893,9 +13729,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "221 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -14051,8 +13885,7 @@
         "Historic",
         "Family Friendly",
         "Arts & Culture",
-        "Community Impact",
-        "Hidden Gem"
+        "Community Impact"
       ],
       "address": "4950 35th Avenue",
       "city": "Moline",
@@ -14152,9 +13985,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "5260 Northwest Boulevard",
       "city": "Davenport",
       "neighborhood": "",
@@ -14204,9 +14035,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2104 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -14685,8 +14514,7 @@
       ],
       "attributes": [
         "Family Friendly",
-        "Community Impact",
-        "Hidden Gem"
+        "Community Impact"
       ],
       "address": "1201 River Drive",
       "city": "Moline",
@@ -14901,9 +14729,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "425 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -14956,8 +14782,7 @@
       ],
       "attributes": [
         "Sports & Recreation",
-        "Community Impact",
-        "Hidden Gem"
+        "Community Impact"
       ],
       "address": "630 East 4th Street",
       "city": "Davenport",
@@ -15061,7 +14886,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "1340 31st Street",
@@ -15114,7 +14938,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "311 East 2nd Street",
@@ -15332,9 +15155,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1150 East Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -15385,7 +15206,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "210 East 2nd Street",
@@ -15438,9 +15258,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1529 3rd Avenue A",
       "city": "Moline",
       "neighborhood": "",
@@ -15542,9 +15360,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1317 15th Street",
       "city": "Moline",
       "neighborhood": "Uptown",
@@ -15594,9 +15410,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "904 Middle Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -15752,9 +15566,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "320 West Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -16182,9 +15994,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "226 17th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -16297,8 +16107,7 @@
         "River View",
         "Historic",
         "Educational",
-        "Visitor Friendly",
-        "Hidden Gem"
+        "Visitor Friendly"
       ],
       "address": "23 Prospect Drive",
       "city": "Moline",
@@ -16552,8 +16361,7 @@
       "attributes": [
         "Arts & Culture",
         "Educational",
-        "Community Impact",
-        "Hidden Gem"
+        "Community Impact"
       ],
       "address": "108 North State Street",
       "city": "Geneseo",
@@ -16658,9 +16466,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "400 Main Street",
       "city": "New Windsor",
       "neighborhood": "",
@@ -16809,9 +16615,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3435 Spring Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -16864,7 +16668,6 @@
       ],
       "attributes": [
         "River View",
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "3101 38th Street",
@@ -17083,9 +16886,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3915 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -17191,7 +16992,6 @@
       "attributes": [
         "Family Friendly",
         "Kid Friendly",
-        "Hidden Gem",
         "Sports & Recreation"
       ],
       "address": "1140 Avenue Of The Cities",
@@ -17246,7 +17046,6 @@
         "culture"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "520 18th Street",
@@ -17300,8 +17099,7 @@
       ],
       "attributes": [
         "Date Night",
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "420 18th Street",
       "city": "Rock Island",
@@ -17563,7 +17361,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture",
         "Visitor Friendly"
       ],
@@ -17873,9 +17670,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "223 17th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -18085,7 +17880,6 @@
       ],
       "attributes": [
         "Family Friendly",
-        "Hidden Gem",
         "Sports & Recreation"
       ],
       "address": "4675 Telegraph Road",
@@ -18140,7 +17934,6 @@
         "coffee"
       ],
       "attributes": [
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "6816 34th Street Court",
@@ -18195,8 +17988,7 @@
       ],
       "attributes": [
         "Family Friendly",
-        "Date Night",
-        "Hidden Gem"
+        "Date Night"
       ],
       "address": "1901 West 4th Street",
       "city": "Davenport",
@@ -18249,8 +18041,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
-        "Hidden Gem"
+        "Date Night"
       ],
       "address": "4832 Forest Grove Drive",
       "city": "Bettendorf",
@@ -18305,7 +18096,6 @@
       ],
       "attributes": [
         "River View",
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "",
@@ -18555,8 +18345,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "1821 19th Street",
       "city": "East Moline",
@@ -18773,7 +18562,6 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Hidden Gem",
         "Educational"
       ],
       "address": "3913 14th Avenue",
@@ -18879,8 +18667,7 @@
         "wellness"
       ],
       "attributes": [
-        "Date Night",
-        "Hidden Gem"
+        "Date Night"
       ],
       "address": "1018 Mound Street",
       "city": "Davenport",
@@ -18933,7 +18720,6 @@
         "coffee"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "1708 13th Street",
@@ -19095,7 +18881,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "1524 North Harrison Street",
@@ -19194,9 +18979,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "985 Avenue Of The Cities",
       "city": "Silvis",
       "neighborhood": "",
@@ -19350,8 +19133,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
-        "Hidden Gem"
+        "Date Night"
       ],
       "address": "3400 Elmore Avenue",
       "city": "Davenport",
@@ -19405,7 +19187,6 @@
       ],
       "attributes": [
         "Historic",
-        "Hidden Gem",
         "Family Friendly"
       ],
       "address": "3210 Avenue Of The Cities",
@@ -19459,7 +19240,6 @@
       ],
       "attributes": [
         "Date Night",
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "321 East 2nd Street",
@@ -19614,9 +19394,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "3210 41st Street",
       "city": "Moline",
       "neighborhood": "",
@@ -19726,8 +19504,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Date Night",
-        "Hidden Gem"
+        "Date Night"
       ],
       "address": "325 East 2nd Street",
       "city": "Davenport",
@@ -19779,9 +19556,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "256 South State Avenue",
       "city": "Hampton",
       "neighborhood": "",
@@ -19888,7 +19663,6 @@
         "Historic",
         "Educational",
         "Visitor Friendly",
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "901 Tremont Avenue",
@@ -20047,9 +19821,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2248 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -20102,8 +19874,7 @@
       "attributes": [
         "Arts & Culture",
         "Community Impact",
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "1800 7th Avenue",
       "city": "Moline",
@@ -20209,9 +19980,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2754 12th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -20309,9 +20078,7 @@
       "tags": [
         "coffee"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "220 West Davenport Street",
       "city": "Eldridge",
       "neighborhood": "",
@@ -20411,9 +20178,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "219 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -20511,9 +20276,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1321 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -20615,7 +20378,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Community Impact"
       ],
       "address": "4500 16th Street",
@@ -20668,7 +20430,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Arts & Culture"
       ],
       "address": "311 East 2nd Street",
@@ -20824,9 +20585,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "201 North Main Street",
       "city": "Port Byron",
       "neighborhood": "",
@@ -20972,9 +20731,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "615 8th Street",
       "city": "DeWitt",
       "neighborhood": "",
@@ -21073,7 +20830,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Hidden Gem",
         "Date Night"
       ],
       "address": "2585 195th Street",
@@ -21235,8 +20991,7 @@
       "attributes": [
         "Historic",
         "Family Friendly",
-        "Free",
-        "Hidden Gem"
+        "Free"
       ],
       "address": "215 West Central Park Avenue",
       "city": "Davenport",
@@ -21446,7 +21201,6 @@
         "shopping"
       ],
       "attributes": [
-        "Hidden Gem",
         "Visitor Friendly"
       ],
       "address": "2901 16th Street",
@@ -21500,8 +21254,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "2122 53rd Street",
       "city": "Moline",
@@ -21602,9 +21355,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "1305 30th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -21755,9 +21506,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2529 5th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -21960,9 +21709,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "726 15th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -22013,8 +21760,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Hidden Gem"
+        "Family Friendly"
       ],
       "address": "1601 Avenue Of The Cities",
       "city": "Moline",
@@ -22065,9 +21811,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Hidden Gem"
-      ],
+      "attributes": [],
       "address": "2409 11th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -22119,7 +21863,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Hidden Gem",
         "Date Night",
         "Visitor Friendly"
       ],
