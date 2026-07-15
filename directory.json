@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T08:22:32.537728",
+  "generated": "2026-07-15T13:23:12.235164",
   "total": 421,
   "entities": [
     {
@@ -7,8 +7,8 @@
       "type": "place",
       "name": "Adler Theatre",
       "slug": "adler-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts & culture"
       ],
@@ -59,8 +59,8 @@
       "type": "business",
       "name": "Float Quad Cities",
       "slug": "float-quad-cities",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -108,8 +108,8 @@
       "type": "place",
       "name": "Quad City Botanical Center",
       "slug": "quad-city-botanical-center",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -160,8 +160,8 @@
       "type": "business",
       "name": "11th Hour Bar & Grill",
       "slug": "11th-hour-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -208,8 +208,8 @@
       "type": "business",
       "name": "129 Coffee and Wine Bar",
       "slug": "129-coffee-and-wine-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -256,8 +256,8 @@
       "type": "business",
       "name": "392Caffe",
       "slug": "392caffe",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -306,8 +306,8 @@
       "type": "business",
       "name": "7 Brew Coffee",
       "slug": "7-brew-coffee",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -356,8 +356,8 @@
       "type": "business",
       "name": "9Round Kickboxing Fitness",
       "slug": "9round-kickboxing-fitness",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -405,8 +405,8 @@
       "type": "business",
       "name": "Abernathy's",
       "slug": "abernathys",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -454,8 +454,8 @@
       "type": "business",
       "name": "Airbrushed Sunless LLC",
       "slug": "airbrushed-sunless-llc",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -503,8 +503,8 @@
       "type": "business",
       "name": "AJ Nails & Spa",
       "slug": "aj-nails-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -552,8 +552,8 @@
       "type": "business",
       "name": "Alfano's Pizza",
       "slug": "alfanos-pizza",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -600,8 +600,8 @@
       "type": "business",
       "name": "AL’s Burgers",
       "slug": "als-burgers",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -648,8 +648,8 @@
       "type": "business",
       "name": "Anna's Nail Salon",
       "slug": "annas-nail-salon",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -697,8 +697,8 @@
       "type": "business",
       "name": "Ansan Nails & Spa",
       "slug": "ansan-nails-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -746,8 +746,8 @@
       "type": "business",
       "name": "Antique & Treasure Trove",
       "slug": "antique-treasure-trove",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -794,8 +794,8 @@
       "type": "business",
       "name": "Antique Archaeology Le Claire",
       "slug": "antique-archaeology-le-claire",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -842,8 +842,8 @@
       "type": "business",
       "name": "Antojitos Mexican Restaurant",
       "slug": "antojitos-mexican-restaurant",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -890,10 +890,13 @@
       "type": "business",
       "name": "Argrow's House Cafe and Gift Shop",
       "slug": "argrows-house-cafe-and-gift-shop",
-      "category": "Other",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
-        "other"
+        "Non-profit",
+        "Organization",
+        "Domestic Violence",
+        "Women's Services"
       ],
       "attributes": [],
       "address": "3811 Harrison Street",
@@ -934,8 +937,8 @@
       "type": "business",
       "name": "Armored Gardens",
       "slug": "armored-gardens",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -984,8 +987,8 @@
       "type": "business",
       "name": "Aroma Coffee & Cafe",
       "slug": "aroma-coffee-cafe",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1032,8 +1035,8 @@
       "type": "business",
       "name": "AT&T Store",
       "slug": "att-store",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -1080,8 +1083,8 @@
       "type": "business",
       "name": "Atomic Coffee Bar",
       "slug": "atomic-coffee-bar",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1130,8 +1133,8 @@
       "type": "place",
       "name": "Augustana's Fryxell Geology Museum",
       "slug": "augustanas-fryxell-geology-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -1181,8 +1184,8 @@
       "type": "business",
       "name": "Aunt Bea's Cafe",
       "slug": "aunt-beas-cafe",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1229,8 +1232,8 @@
       "type": "business",
       "name": "Awake Coffee Company",
       "slug": "awake-coffee-company",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1279,8 +1282,8 @@
       "type": "business",
       "name": "Awaken Beauty",
       "slug": "awaken-beauty",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -1328,8 +1331,8 @@
       "type": "business",
       "name": "Azteca 1 Mexican Restaurant",
       "slug": "azteca-1-mexican-restaurant",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -1376,8 +1379,8 @@
       "type": "business",
       "name": "Backwater Gamblers Ski Site",
       "slug": "backwater-gamblers-ski-site",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -1392,7 +1395,7 @@
       "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 6:00 – 8:30 PM | Thursday: Closed | Friday: Closed | Saturday: Closed | Sunday: 6:00 – 8:30 PM",
       "lat": "41.4630133",
       "lng": "-90.5423101",
-      "description": "Local ski club keeping River City's winter traditions alive on the water.\n\nWednesday and Sunday evenings, Backwater Gamblers fires up the tow line on the Rock Island riverfront — a small, devoted crew of water skiers and wakeboarders who've been at it for decades. It's not fancy; it's intentional. You'll see the same faces season after season, the kind of people who'd rather spend a February evening getting pulled behind a boat than anywhere else. The club has the feel of something genuinely local, built by people who love the sport more than they care about turning a profit.\n\nBackwater Gamblers sits on the Rock Island side of the Mississippi, part of the QC's quieter recreational backbone — the kind of place that doesn't make it into glossy tourism guides but absolutely should. It's worth seeking out if you're a skier yourself or just curious about how the Quad Cities' most dedicated enthusiasts spend their winters. Once you know it exists, you realize it's been here all along, doing its thing.",
+      "description": "Local ski club keeping River City's summer traditions alive on the water.\n\nWednesday and Sunday evenings, Backwater Gamblers fires up the tow line on the Rock Island riverfront — a small, devoted crew of water skiers and wakeboarders who've been at it for decades. It's not fancy; it's intentional. You'll see the same faces season after season, the kind of people who'd rather spend a July evening getting pulled behind a boat than anywhere else. The club has the feel of something genuinely local, built by people who love the sport more than they care about turning a profit.\n\nBackwater Gamblers sits on the Rock Island side of the Mississippi, part of the QC's quieter recreational backbone — the kind of place that doesn't make it into glossy tourism guides but absolutely should. It's worth seeking out if you're a skier yourself or just curious about how the Quad Cities' most dedicated enthusiasts spend their summers. Once you know it exists, you realize it's been here all along, doing its thing.",
       "rating": {
         "google": "4.9",
         "google_count": "155",
@@ -1424,8 +1427,8 @@
       "type": "business",
       "name": "Bakehouse",
       "slug": "bakehouse",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1472,8 +1475,8 @@
       "type": "business",
       "name": "Ballet Quad Cities",
       "slug": "ballet-quad-cities",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -1520,8 +1523,8 @@
       "type": "business",
       "name": "Bally's Quad Cities Casino & Hotel",
       "slug": "ballys-quad-cities-casino-hotel",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1568,8 +1571,8 @@
       "type": "business",
       "name": "Barrel House",
       "slug": "barrel-house",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -1616,8 +1619,8 @@
       "type": "business",
       "name": "Bass Street Chop House",
       "slug": "bass-street-chop-house",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1664,8 +1667,8 @@
       "type": "business",
       "name": "Beef + Bourbon Chophouse",
       "slug": "beef-bourbon-chophouse",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -1712,8 +1715,8 @@
       "type": "business",
       "name": "Bella Salon",
       "slug": "bella-salon",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -1761,8 +1764,8 @@
       "type": "place",
       "name": "Ben Butterworth Parkway West",
       "slug": "ben-butterworth-parkway-west",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -1814,8 +1817,8 @@
       "type": "place",
       "name": "Bend XPO",
       "slug": "bend-xpo",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -1864,8 +1867,8 @@
       "type": "business",
       "name": "Bent River Brewing Company",
       "slug": "bent-river-brewing-company",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -1915,8 +1918,8 @@
       "type": "business",
       "name": "Bespoke Beauty and Body",
       "slug": "bespoke-beauty-and-body",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -1964,8 +1967,8 @@
       "type": "business",
       "name": "Bettendorf Family YMCA",
       "slug": "bettendorf-family-ymca",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -2013,8 +2016,8 @@
       "type": "business",
       "name": "Beyond Genetics",
       "slug": "beyond-genetics",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -2062,8 +2065,8 @@
       "type": "business",
       "name": "BiBimBap Korean and Thai cuisine",
       "slug": "bibimbap-korean-and-thai-cuisine",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -2110,8 +2113,8 @@
       "type": "business",
       "name": "Bierstube Moline",
       "slug": "bierstube-moline",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -2158,8 +2161,8 @@
       "type": "business",
       "name": "Bix Beiderbecke Memorial Society",
       "slug": "bix-beiderbecke-memorial-society",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -2205,8 +2208,8 @@
       "type": "place",
       "name": "Bix Beiderbecke Museum and Archives",
       "slug": "bix-beiderbecke-museum-and-archives",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -2256,8 +2259,8 @@
       "type": "business",
       "name": "Bix Bistro",
       "slug": "bix-bistro",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -2304,8 +2307,8 @@
       "type": "place",
       "name": "Black Hawk Forest",
       "slug": "black-hawk-forest",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -2355,8 +2358,8 @@
       "type": "place",
       "name": "Black Hawk State Historic Site",
       "slug": "black-hawk-state-historic-site",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -2408,8 +2411,8 @@
       "type": "business",
       "name": "Boba Tea House",
       "slug": "boba-tea-house",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -2456,8 +2459,8 @@
       "type": "business",
       "name": "Books-A-Million",
       "slug": "books-a-million",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -2504,8 +2507,8 @@
       "type": "business",
       "name": "Boot Barn",
       "slug": "boot-barn",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -2552,8 +2555,8 @@
       "type": "business",
       "name": "Bootleg Hill Honey Meads",
       "slug": "bootleg-hill-honey-meads",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -2600,8 +2603,8 @@
       "type": "business",
       "name": "Boozie's Bar & Grill",
       "slug": "boozies-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -2648,8 +2651,8 @@
       "type": "business",
       "name": "Brews Energy",
       "slug": "brews-energy",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -2696,8 +2699,8 @@
       "type": "business",
       "name": "Bruegger's Bagels",
       "slug": "brueggers-bagels",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -2744,8 +2747,8 @@
       "type": "business",
       "name": "Bucktown Social",
       "slug": "bucktown-social",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -2792,8 +2795,8 @@
       "type": "place",
       "name": "Buffalo Bill Museum",
       "slug": "buffalo-bill-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -2843,8 +2846,8 @@
       "type": "business",
       "name": "Buttercupp Candles (Leclaire, Iowa)",
       "slug": "buttercupp-candles-leclaire-iowa",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -2891,8 +2894,8 @@
       "type": "place",
       "name": "Butterworth Center and Deere-Wiman House",
       "slug": "butterworth-center-and-deere-wiman-house",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -2942,8 +2945,8 @@
       "type": "business",
       "name": "California Nails",
       "slug": "california-nails",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -2991,8 +2994,8 @@
       "type": "business",
       "name": "Calla",
       "slug": "calla",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -3039,8 +3042,8 @@
       "type": "place",
       "name": "Capitol Theatre",
       "slug": "capitol-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3089,8 +3092,8 @@
       "type": "business",
       "name": "Capriotti's Sandwich Shop",
       "slug": "capriottis-sandwich-shop",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -3137,8 +3140,8 @@
       "type": "business",
       "name": "Cat's Eye Distillery",
       "slug": "cats-eye-distillery",
-      "category": "Other",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3185,8 +3188,8 @@
       "type": "place",
       "name": "Celebration River Cruises",
       "slug": "celebration-river-cruises",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -3238,8 +3241,8 @@
       "type": "place",
       "name": "Centennial Park",
       "slug": "centennial-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -3289,8 +3292,8 @@
       "type": "place",
       "name": "Center for Belgian Culture",
       "slug": "center-for-belgian-culture",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -3340,8 +3343,8 @@
       "type": "business",
       "name": "Central Standard Craft Burgers & Beer",
       "slug": "central-standard-craft-burgers-beer",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -3388,8 +3391,8 @@
       "type": "place",
       "name": "Channel Cat Water Taxi",
       "slug": "channel-cat-water-taxi",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3440,8 +3443,8 @@
       "type": "business",
       "name": "Circa '21 Dinner Playhouse",
       "slug": "circa-21-dinner-playhouse",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3488,8 +3491,8 @@
       "type": "business",
       "name": "Circle Tap",
       "slug": "circle-tap",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -3536,8 +3539,8 @@
       "type": "business",
       "name": "City Loafers",
       "slug": "city-loafers",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -3584,8 +3587,8 @@
       "type": "business",
       "name": "City of Keithsburg",
       "slug": "city-of-keithsburg",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3632,8 +3635,8 @@
       "type": "business",
       "name": "Clint's Draft House Pizza & Grill",
       "slug": "clints-draft-house-pizza-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -3680,8 +3683,8 @@
       "type": "business",
       "name": "Club Pilates",
       "slug": "club-pilates",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -3729,8 +3732,8 @@
       "type": "business",
       "name": "Cody Road Coffee LeClaire",
       "slug": "cody-road-coffee-leclaire",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "coffee"
       ],
@@ -3777,8 +3780,8 @@
       "type": "business",
       "name": "Coffee House Cafe and Goods",
       "slug": "coffee-house-cafe-and-goods",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -3828,8 +3831,8 @@
       "type": "business",
       "name": "ComedySportz Quad Cities",
       "slug": "comedysportz-quad-cities",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3876,8 +3879,8 @@
       "type": "place",
       "name": "Comfort Inn Davenport East - Bettendorf",
       "slug": "comfort-inn-davenport-east-bettendorf",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -3927,8 +3930,8 @@
       "type": "business",
       "name": "Common Chord | Home of the Redstone Room",
       "slug": "common-chord-home-of-the-redstone-room",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -3975,8 +3978,8 @@
       "type": "business",
       "name": "Contrary Brewing Co",
       "slug": "contrary-brewing-co",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4023,8 +4026,8 @@
       "type": "business",
       "name": "Cookies & Dreams",
       "slug": "cookies-dreams",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4071,8 +4074,8 @@
       "type": "place",
       "name": "Cordova Dragway",
       "slug": "cordova-dragway",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -4121,8 +4124,8 @@
       "type": "business",
       "name": "Costa Del Mar Mexican Grill & Seafood",
       "slug": "costa-del-mar-mexican-grill-seafood",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4169,8 +4172,8 @@
       "type": "place",
       "name": "Country Inn & Suites by Radisson, Davenport - Quad Cities",
       "slug": "country-inn-suites-by-radisson-davenport-quad-cities",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -4220,8 +4223,8 @@
       "type": "business",
       "name": "Country Inn & Suites by Radisson, Moline Airport",
       "slug": "country-inn-suites-by-radisson-moline-airport",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -4269,8 +4272,8 @@
       "type": "business",
       "name": "Country Style",
       "slug": "country-style",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4317,8 +4320,8 @@
       "type": "business",
       "name": "Country Style Ice Cream & Coffee",
       "slug": "country-style-ice-cream-coffee",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4365,8 +4368,8 @@
       "type": "business",
       "name": "Coya's Cafe",
       "slug": "coyas-cafe",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4413,8 +4416,8 @@
       "type": "business",
       "name": "Crabby's Bar & Grill",
       "slug": "crabbys-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -4461,8 +4464,8 @@
       "type": "business",
       "name": "Crafted QC - Handmade, Gifts & Workshops",
       "slug": "crafted-qc-handmade-gifts-workshops",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -4509,8 +4512,8 @@
       "type": "business",
       "name": "Crane & Pelican Cafe",
       "slug": "crane-pelican-cafe",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4557,8 +4560,8 @@
       "type": "business",
       "name": "Crawford Brew Works",
       "slug": "crawford-brew-works",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4605,8 +4608,8 @@
       "type": "business",
       "name": "Crawford Company",
       "slug": "crawford-company",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -4653,8 +4656,8 @@
       "type": "business",
       "name": "Creative Signature Cuisine",
       "slug": "creative-signature-cuisine",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -4701,8 +4704,8 @@
       "type": "place",
       "name": "Crow Creek Dog Park",
       "slug": "crow-creek-dog-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -4752,8 +4755,8 @@
       "type": "business",
       "name": "Cruz Cutz Barbershop",
       "slug": "cruz-cutz-barbershop",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -4801,8 +4804,8 @@
       "type": "business",
       "name": "Culture Shock Barber Studio",
       "slug": "culture-shock-barber-studio",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -4850,8 +4853,8 @@
       "type": "business",
       "name": "D' Lua on the River",
       "slug": "d-lua-on-the-river",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -4898,8 +4901,8 @@
       "type": "business",
       "name": "Daiquiri Factory",
       "slug": "daiquiri-factory",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -4946,8 +4949,8 @@
       "type": "business",
       "name": "Daley Tax Service",
       "slug": "daley-tax-service",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -4994,8 +4997,8 @@
       "type": "place",
       "name": "Dan Nagle Walnut Grove Pioneer Village and Olde St. Ann's Church",
       "slug": "dan-nagle-walnut-grove-pioneer-village-and-olde-st-anns-church",
-      "category": "Community",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "community"
       ],
@@ -5044,8 +5047,8 @@
       "type": "business",
       "name": "Danndee Flowers",
       "slug": "danndee-flowers",
-      "category": "Other",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5092,8 +5095,8 @@
       "type": "business",
       "name": "Davenport Junior Theatre",
       "slug": "davenport-junior-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5140,8 +5143,8 @@
       "type": "place",
       "name": "Davenport Speedway",
       "slug": "davenport-speedway",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5190,8 +5193,8 @@
       "type": "business",
       "name": "Davidson Jewelers",
       "slug": "davidson-jewelers",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -5238,8 +5241,8 @@
       "type": "business",
       "name": "Dead Poet’s Espresso Ltd",
       "slug": "dead-poets-espresso-ltd",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5289,8 +5292,8 @@
       "type": "business",
       "name": "Decades Antiques Shop",
       "slug": "decades-antiques-shop",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5337,8 +5340,8 @@
       "type": "business",
       "name": "Deere & Company World Headquarters",
       "slug": "deere-company-world-headquarters",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -5385,8 +5388,8 @@
       "type": "business",
       "name": "Del-Rich Loan & Neat Stuff Antiques",
       "slug": "del-rich-loan-neat-stuff-antiques",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -5433,8 +5436,8 @@
       "type": "place",
       "name": "Devils Glen Park",
       "slug": "devils-glen-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -5484,8 +5487,8 @@
       "type": "business",
       "name": "Disc Replay Davenport",
       "slug": "disc-replay-davenport",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -5532,8 +5535,8 @@
       "type": "business",
       "name": "Doland Jewelers Inc",
       "slug": "doland-jewelers-inc",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -5580,8 +5583,8 @@
       "type": "business",
       "name": "Donut Delite",
       "slug": "donut-delite",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5628,8 +5631,8 @@
       "type": "business",
       "name": "Donuts & More",
       "slug": "donuts-more",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5676,8 +5679,8 @@
       "type": "business",
       "name": "Doodads Estate Sales",
       "slug": "doodads-estate-sales",
-      "category": "Other",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5724,8 +5727,8 @@
       "type": "business",
       "name": "Dot's Pots",
       "slug": "dots-pots",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -5772,8 +5775,8 @@
       "type": "business",
       "name": "Downtown Bettendorf Organization",
       "slug": "downtown-bettendorf-organization",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5820,8 +5823,8 @@
       "type": "business",
       "name": "Downtown Davenport",
       "slug": "downtown-davenport",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -5868,8 +5871,8 @@
       "type": "business",
       "name": "Duck City Bistro",
       "slug": "duck-city-bistro",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5918,8 +5921,8 @@
       "type": "business",
       "name": "Dunn Brothers Coffee",
       "slug": "dunn-brothers-coffee",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -5966,8 +5969,8 @@
       "type": "business",
       "name": "D’Savor House",
       "slug": "dsavor-house",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6014,8 +6017,8 @@
       "type": "business",
       "name": "East Moline Coffee Company",
       "slug": "east-moline-coffee-company",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6062,8 +6065,8 @@
       "type": "business",
       "name": "East Moline Public Library",
       "slug": "east-moline-public-library",
-      "category": "Education",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "education"
       ],
@@ -6110,8 +6113,8 @@
       "type": "place",
       "name": "ECDYSIAST ARTs MUSEUM",
       "slug": "ecdysiast-arts-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -6161,8 +6164,8 @@
       "type": "business",
       "name": "Eddy's Snack Bar",
       "slug": "eddys-snack-bar",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6209,8 +6212,8 @@
       "type": "business",
       "name": "Egg Parlor",
       "slug": "egg-parlor",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6257,8 +6260,8 @@
       "type": "business",
       "name": "Elevate Trampoline Park",
       "slug": "elevate-trampoline-park",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -6305,8 +6308,8 @@
       "type": "business",
       "name": "Elm Street Apothecary",
       "slug": "elm-street-apothecary",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -6352,8 +6355,8 @@
       "type": "place",
       "name": "Emeis Golf Course",
       "slug": "emeis-golf-course",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -6402,8 +6405,8 @@
       "type": "business",
       "name": "Envied Vintage Clothing Etc",
       "slug": "envied-vintage-clothing-etc",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -6450,8 +6453,8 @@
       "type": "business",
       "name": "Exotic Imports",
       "slug": "exotic-imports",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -6498,8 +6501,8 @@
       "type": "business",
       "name": "Exotic Thai",
       "slug": "exotic-thai",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6546,8 +6549,8 @@
       "type": "place",
       "name": "Family Museum",
       "slug": "family-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -6597,8 +6600,8 @@
       "type": "business",
       "name": "Famous Dave's Bar-B-Que",
       "slug": "famous-daves-bar-b-que",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6645,8 +6648,8 @@
       "type": "business",
       "name": "Fancy Nails & Spa",
       "slug": "fancy-nails-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -6694,8 +6697,8 @@
       "type": "business",
       "name": "Fashion Nails",
       "slug": "fashion-nails",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -6743,8 +6746,8 @@
       "type": "business",
       "name": "Fifth Avenue Syndicate",
       "slug": "fifth-avenue-syndicate",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -6791,8 +6794,8 @@
       "type": "place",
       "name": "Figge Art Museum",
       "slug": "figge-art-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -6845,8 +6848,8 @@
       "type": "business",
       "name": "Five Cities Brewing - Taproom",
       "slug": "five-cities-brewing-taproom",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6893,8 +6896,8 @@
       "type": "business",
       "name": "Five Star Salon",
       "slug": "five-star-salon",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -6942,8 +6945,8 @@
       "type": "business",
       "name": "Flip's Pancake House - Utica Ridge",
       "slug": "flips-pancake-house-utica-ridge",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -6990,8 +6993,8 @@
       "type": "business",
       "name": "Fred & Ethel's 50's Antiques",
       "slug": "fred-ethels-50s-antiques",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -7038,8 +7041,8 @@
       "type": "place",
       "name": "Freight House Farmers Market",
       "slug": "freight-house-farmers-market",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -7091,8 +7094,8 @@
       "type": "business",
       "name": "Front Street Pub & Eatery",
       "slug": "front-street-pub-eatery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -7142,8 +7145,8 @@
       "type": "business",
       "name": "Fusion Salon and Spa",
       "slug": "fusion-salon-and-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -7191,8 +7194,8 @@
       "type": "place",
       "name": "Fyre Lake Golf Club",
       "slug": "fyre-lake-golf-club",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -7241,8 +7244,8 @@
       "type": "business",
       "name": "GATHERED GOODS",
       "slug": "gathered-goods",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -7289,8 +7292,8 @@
       "type": "business",
       "name": "Geneseo Brewing Co.",
       "slug": "geneseo-brewing-co",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -7337,8 +7340,8 @@
       "type": "business",
       "name": "Genesius Guild",
       "slug": "genesius-guild",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -7385,8 +7388,8 @@
       "type": "place",
       "name": "German American Heritage Center & Museum",
       "slug": "german-american-heritage-center-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -7436,8 +7439,8 @@
       "type": "business",
       "name": "Ginza Hibachi and Ramen",
       "slug": "ginza-hibachi-and-ramen",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -7484,8 +7487,8 @@
       "type": "place",
       "name": "Glynns Creek Golf Course",
       "slug": "glynns-creek-golf-course",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -7534,8 +7537,8 @@
       "type": "business",
       "name": "Golden Royal Barbershop",
       "slug": "golden-royal-barbershop",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -7583,8 +7586,8 @@
       "type": "business",
       "name": "Gramma's Kitchen & Checkered Flag",
       "slug": "grammas-kitchen-checkered-flag",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -7631,8 +7634,8 @@
       "type": "business",
       "name": "Gravastar Coffee (Formerly Coffee Hound)",
       "slug": "gravastar-coffee-formerly-coffee-hound",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -7679,8 +7682,8 @@
       "type": "business",
       "name": "Great River Brewery",
       "slug": "great-river-brewery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -7730,8 +7733,8 @@
       "type": "business",
       "name": "Green Tree Brewery",
       "slug": "green-tree-brewery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -7778,8 +7781,8 @@
       "type": "business",
       "name": "Gulliver's Travel Duck Creek",
       "slug": "gullivers-travel-duck-creek",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -7826,8 +7829,8 @@
       "type": "business",
       "name": "Gypsy Highway",
       "slug": "gypsy-highway",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -7874,8 +7877,8 @@
       "type": "business",
       "name": "H&R Block",
       "slug": "hr-block",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -7922,8 +7925,8 @@
       "type": "business",
       "name": "Hafner's Tavern & Liquor Store",
       "slug": "hafners-tavern-liquor-store",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -7970,8 +7973,8 @@
       "type": "place",
       "name": "Hampton Inn & Suites Moline-Quad City Int'l Aprt",
       "slug": "hampton-inn-suites-moline-quad-city-intl-aprt",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -8021,8 +8024,8 @@
       "type": "business",
       "name": "Harris Pizza",
       "slug": "harris-pizza",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -8069,8 +8072,8 @@
       "type": "business",
       "name": "Harris Pizza #1",
       "slug": "harris-pizza-1",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -8117,8 +8120,8 @@
       "type": "place",
       "name": "Hauberg Estate",
       "slug": "hauberg-estate",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -8167,8 +8170,8 @@
       "type": "business",
       "name": "Haus of Heir",
       "slug": "haus-of-heir",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -8216,8 +8219,8 @@
       "type": "business",
       "name": "Healthy Habits",
       "slug": "healthy-habits",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -8264,8 +8267,8 @@
       "type": "business",
       "name": "Helzberg Diamonds",
       "slug": "helzberg-diamonds",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -8312,8 +8315,8 @@
       "type": "place",
       "name": "Hero Street Monument Committee",
       "slug": "hero-street-monument-committee",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -8362,8 +8365,8 @@
       "type": "business",
       "name": "Horizon Movers and Climate Controlled Storage",
       "slug": "horizon-movers-and-climate-controlled-storage",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -8410,8 +8413,8 @@
       "type": "business",
       "name": "Hot Glass, Inc",
       "slug": "hot-glass-inc",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -8458,8 +8461,8 @@
       "type": "business",
       "name": "Hotel Blackhawk, Autograph Collection",
       "slug": "hotel-blackhawk-autograph-collection",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -8506,8 +8509,8 @@
       "type": "business",
       "name": "Huckleberry's Great Pizza and Calzones",
       "slug": "huckleberrys-great-pizza-and-calzones",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -8554,8 +8557,8 @@
       "type": "place",
       "name": "Hyatt Place East Moline / Quad Cities",
       "slug": "hyatt-place-east-moline-quad-cities",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -8605,8 +8608,8 @@
       "type": "place",
       "name": "I 74 Bridge",
       "slug": "i-74-bridge",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -8655,8 +8658,8 @@
       "type": "business",
       "name": "I Love Fufu Restaurant - Davenport | African",
       "slug": "i-love-fufu-restaurant-davenport-african",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -8703,8 +8706,8 @@
       "type": "business",
       "name": "Iconic Coffee + Energy",
       "slug": "iconic-coffee-energy",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -8753,8 +8756,8 @@
       "type": "business",
       "name": "Icons Martini",
       "slug": "icons-martini",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -8801,8 +8804,8 @@
       "type": "business",
       "name": "Icy Bubbles",
       "slug": "icy-bubbles",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "coffee"
       ],
@@ -8849,8 +8852,8 @@
       "type": "place",
       "name": "Illiniwek Forest Preserve",
       "slug": "illiniwek-forest-preserve",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -8900,8 +8903,8 @@
       "type": "business",
       "name": "Insureous Health Solutions",
       "slug": "",
-      "category": "Professional Services",
-      "subcategory": "Insurance ",
+      "category": "services",
+      "entity_type": "Insurance ",
       "tags": [
         "professional_services"
       ],
@@ -8946,8 +8949,8 @@
       "type": "place",
       "name": "Iowa 80 Trucking Museum",
       "slug": "iowa-80-trucking-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -8997,8 +9000,8 @@
       "type": "business",
       "name": "Iron + Grain Coffee House",
       "slug": "iron-grain-coffee-house",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9047,8 +9050,8 @@
       "type": "business",
       "name": "Iron Lion Disc Golf Supply",
       "slug": "iron-lion-disc-golf-supply",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -9095,8 +9098,8 @@
       "type": "business",
       "name": "Isle Casino Hotel Bettendorf - A Caesars Rewards Destination",
       "slug": "isle-casino-hotel-bettendorf-a-caesars-rewards-destination",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -9146,8 +9149,8 @@
       "type": "business",
       "name": "Jaded Java",
       "slug": "jaded-java",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9194,8 +9197,8 @@
       "type": "business",
       "name": "Java Java Cafe",
       "slug": "java-java-cafe",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9242,8 +9245,8 @@
       "type": "business",
       "name": "Jennie's Boxcar",
       "slug": "jennies-boxcar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -9290,8 +9293,8 @@
       "type": "business",
       "name": "Jerry’s",
       "slug": "jerrys",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -9338,8 +9341,8 @@
       "type": "business",
       "name": "Jiang's Hot Pot BBQ",
       "slug": "jiangs-hot-pot-bbq",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9386,8 +9389,8 @@
       "type": "business",
       "name": "John Deere Harvester Works",
       "slug": "john-deere-harvester-works",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9434,8 +9437,8 @@
       "type": "place",
       "name": "John Deere Pavilion",
       "slug": "john-deere-pavilion",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -9487,8 +9490,8 @@
       "type": "business",
       "name": "Johnny's Italian Steakhouse",
       "slug": "johnnys-italian-steakhouse",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -9537,8 +9540,8 @@
       "type": "business",
       "name": "Julie's Video Poker & Slots",
       "slug": "julies-video-poker-slots",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -9585,8 +9588,8 @@
       "type": "business",
       "name": "Junior's Sports Bar",
       "slug": "juniors-sports-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -9633,8 +9636,8 @@
       "type": "business",
       "name": "K'nees Florists & Gifts",
       "slug": "knees-florists-gifts",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -9681,8 +9684,8 @@
       "type": "business",
       "name": "Kick Serve Coffee",
       "slug": "kick-serve-coffee",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9729,8 +9732,8 @@
       "type": "business",
       "name": "Kindred Styles Antiques",
       "slug": "kindred-styles-antiques",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -9777,8 +9780,8 @@
       "type": "business",
       "name": "Kitchens",
       "slug": "kitchens",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9825,8 +9828,8 @@
       "type": "business",
       "name": "La Rancherita 2",
       "slug": "la-rancherita-2",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9873,8 +9876,8 @@
       "type": "business",
       "name": "La' James International College",
       "slug": "la-james-international-college",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -9922,8 +9925,8 @@
       "type": "business",
       "name": "Lagomarcino's Confectionery",
       "slug": "lagomarcinos-confectionery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -9973,8 +9976,8 @@
       "type": "business",
       "name": "Las Salsas Dona Mary",
       "slug": "las-salsas-dona-mary",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10021,8 +10024,8 @@
       "type": "business",
       "name": "Lavender Crest Winery",
       "slug": "lavender-crest-winery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -10069,8 +10072,8 @@
       "type": "business",
       "name": "Le Mekong Vietnamese Restaurant",
       "slug": "le-mekong-vietnamese-restaurant",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10117,8 +10120,8 @@
       "type": "business",
       "name": "LeClaire Park & Bandshell",
       "slug": "leclaire-park-bandshell",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -10166,8 +10169,8 @@
       "type": "business",
       "name": "LemonGrass Cafe",
       "slug": "lemongrass-cafe",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10214,8 +10217,8 @@
       "type": "place",
       "name": "Leon 'Bix' Beiderbecke Memorial",
       "slug": "leon-bix-beiderbecke-memorial",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts & culture"
       ],
@@ -10264,8 +10267,8 @@
       "type": "business",
       "name": "Lifted Energy",
       "slug": "lifted-energy",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10312,8 +10315,8 @@
       "type": "business",
       "name": "Lopiez",
       "slug": "lopiez",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -10362,8 +10365,8 @@
       "type": "business",
       "name": "Los Agaves Mexican Grill",
       "slug": "los-agaves-mexican-grill",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10410,8 +10413,8 @@
       "type": "place",
       "name": "Lost Oasis",
       "slug": "lost-oasis",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -10454,8 +10457,8 @@
       "type": "place",
       "name": "Loud Thunder Forest Preserve",
       "slug": "loud-thunder-forest-preserve",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -10505,8 +10508,8 @@
       "type": "business",
       "name": "Lunardi's Restaurant | Italian",
       "slug": "lunardis-restaurant-italian",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10553,8 +10556,8 @@
       "type": "business",
       "name": "Lynch Heating & Plumbing",
       "slug": "lynch-heating-plumbing",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -10601,8 +10604,8 @@
       "type": "business",
       "name": "Mac's Tavern",
       "slug": "macs-tavern",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -10649,8 +10652,8 @@
       "type": "business",
       "name": "Machine Shed Restaurant",
       "slug": "machine-shed-restaurant",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10697,8 +10700,8 @@
       "type": "business",
       "name": "Main Street Coffee",
       "slug": "main-street-coffee",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10745,8 +10748,8 @@
       "type": "business",
       "name": "Major Art & Hobby Center",
       "slug": "major-art-hobby-center",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -10791,8 +10794,8 @@
       "type": "business",
       "name": "Makenna Koffee Company",
       "slug": "makenna-koffee-company",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10841,8 +10844,8 @@
       "type": "place",
       "name": "Malibu Jack's Quad Cities",
       "slug": "malibu-jacks-quad-cities",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -10891,8 +10894,8 @@
       "type": "business",
       "name": "Mantra Indian Cuisine & Spirits",
       "slug": "mantra-indian-cuisine-spirits",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -10941,8 +10944,8 @@
       "type": "business",
       "name": "Massage Envy",
       "slug": "massage-envy",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -10990,8 +10993,8 @@
       "type": "place",
       "name": "McManus Park",
       "slug": "mcmanus-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -11041,8 +11044,8 @@
       "type": "business",
       "name": "Me & Billy",
       "slug": "me-billy",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -11089,8 +11092,8 @@
       "type": "business",
       "name": "Meli's Pancake House",
       "slug": "melis-pancake-house",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11137,8 +11140,8 @@
       "type": "place",
       "name": "Middle Park",
       "slug": "middle-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -11188,8 +11191,8 @@
       "type": "business",
       "name": "Midwest Ale Works",
       "slug": "midwest-ale-works",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11236,8 +11239,8 @@
       "type": "business",
       "name": "Milltown Coffee",
       "slug": "milltown-coffee",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11284,8 +11287,8 @@
       "type": "business",
       "name": "Miss Mamie's",
       "slug": "miss-mamies",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11332,8 +11335,8 @@
       "type": "business",
       "name": "Miss Phay Cafe",
       "slug": "miss-phay-cafe",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11380,8 +11383,8 @@
       "type": "business",
       "name": "Mississippi Cottage Antiques",
       "slug": "mississippi-cottage-antiques",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -11428,8 +11431,8 @@
       "type": "business",
       "name": "Mississippi Marketplace",
       "slug": "mississippi-marketplace",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -11476,8 +11479,8 @@
       "type": "business",
       "name": "Mississippi River Distilling Company - Downtown Lounge",
       "slug": "mississippi-river-distilling-company-downtown-lounge",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -11527,8 +11530,8 @@
       "type": "business",
       "name": "Mississippi Spoon Gallery",
       "slug": "mississippi-spoon-gallery",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -11576,8 +11579,8 @@
       "type": "business",
       "name": "Mississippi Valley Fair",
       "slug": "mississippi-valley-fair",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -11624,8 +11627,8 @@
       "type": "business",
       "name": "Mo Brady's Steakhouse",
       "slug": "mo-bradys-steakhouse",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -11674,8 +11677,8 @@
       "type": "place",
       "name": "Modern Woodmen Park",
       "slug": "modern-woodmen-park",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -11727,8 +11730,8 @@
       "type": "business",
       "name": "Moline Centre Main Street",
       "slug": "moline-centre-main-street",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -11775,8 +11778,8 @@
       "type": "business",
       "name": "Moments Tux Shop",
       "slug": "moments-tux-shop",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -11823,8 +11826,8 @@
       "type": "business",
       "name": "Monarch -Kitchen & Bar",
       "slug": "monarch-kitchen-bar",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -11871,8 +11874,8 @@
       "type": "business",
       "name": "Monson Full Service Towing",
       "slug": "monson-full-service-towing",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -11919,8 +11922,8 @@
       "type": "place",
       "name": "Nahant Marsh",
       "slug": "nahant-marsh",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -11969,8 +11972,8 @@
       "type": "business",
       "name": "Navarro Canoe Co.",
       "slug": "navarro-canoe-co",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12017,8 +12020,8 @@
       "type": "business",
       "name": "Necker's Jewelers",
       "slug": "neckers-jewelers",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12065,8 +12068,8 @@
       "type": "place",
       "name": "Niabi Zoo",
       "slug": "niabi-zoo",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -12115,8 +12118,8 @@
       "type": "place",
       "name": "NorthPark Mall",
       "slug": "northpark-mall",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12165,8 +12168,8 @@
       "type": "business",
       "name": "Northwest Plumbing, Heating & AC",
       "slug": "northwest-plumbing-heating-ac",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -12213,8 +12216,8 @@
       "type": "business",
       "name": "Obsidian and Sage LLC",
       "slug": "obsidian-and-sage-llc",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12261,8 +12264,8 @@
       "type": "business",
       "name": "Odd Bettie’s",
       "slug": "odd-betties",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12309,8 +12312,8 @@
       "type": "business",
       "name": "Olathea Creek Vineyard and Winery",
       "slug": "olathea-creek-vineyard-and-winery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12357,8 +12360,8 @@
       "type": "business",
       "name": "Old Oaks Winery",
       "slug": "old-oaks-winery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12405,8 +12408,8 @@
       "type": "business",
       "name": "Olde Towne Bakery",
       "slug": "olde-towne-bakery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12453,8 +12456,8 @@
       "type": "business",
       "name": "Ollie's Bargain Outlet",
       "slug": "ollies-bargain-outlet",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -12501,8 +12504,8 @@
       "type": "business",
       "name": "Osaka steakhouse",
       "slug": "osaka-steakhouse",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12549,8 +12552,8 @@
       "type": "place",
       "name": "Palmer Family and Chiropractic History Museum",
       "slug": "palmer-family-and-chiropractic-history-museum",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -12600,8 +12603,8 @@
       "type": "place",
       "name": "Palmer Hills Golf Course",
       "slug": "palmer-hills-golf-course",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -12650,8 +12653,8 @@
       "type": "business",
       "name": "Parkside Grill & Lounge",
       "slug": "parkside-grill-lounge",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -12698,8 +12701,8 @@
       "type": "business",
       "name": "Pedal Pub Quad Cities",
       "slug": "pedal-pub-quad-cities",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -12748,8 +12751,8 @@
       "type": "business",
       "name": "Pee Wees restaurant.",
       "slug": "pee-wees-restaurant",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12796,8 +12799,8 @@
       "type": "business",
       "name": "PERFECTA Beauty",
       "slug": "perfecta-beauty",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -12845,8 +12848,8 @@
       "type": "business",
       "name": "Petco",
       "slug": "petco",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -12893,8 +12896,8 @@
       "type": "business",
       "name": "Planet Fitness",
       "slug": "planet-fitness",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -12942,8 +12945,8 @@
       "type": "business",
       "name": "Playcrafters Barn Theatre",
       "slug": "playcrafters-barn-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -12990,8 +12993,8 @@
       "type": "business",
       "name": "Pour Bros. Craft Taproom Moline",
       "slug": "pour-bros-craft-taproom-moline",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13038,8 +13041,8 @@
       "type": "business",
       "name": "Public House",
       "slug": "public-house",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13086,8 +13089,8 @@
       "type": "business",
       "name": "Purgatory's Pub",
       "slug": "purgatorys-pub",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13134,8 +13137,8 @@
       "type": "place",
       "name": "Putnam Museum and Science Center",
       "slug": "putnam-museum-and-science-center",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -13187,8 +13190,8 @@
       "type": "business",
       "name": "QC Family Entertainment",
       "slug": "qc-family-entertainment",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13235,8 +13238,8 @@
       "type": "business",
       "name": "Quad Cities Community Foundation",
       "slug": "quad-cities-community-foundation",
-      "category": "Other",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -13283,8 +13286,8 @@
       "type": "business",
       "name": "Quad Cities International Airport",
       "slug": "quad-cities-international-airport",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -13331,8 +13334,8 @@
       "type": "business",
       "name": "Quad Cities River Bandits",
       "slug": "quad-cities-river-bandits",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -13380,8 +13383,8 @@
       "type": "business",
       "name": "Quad City Arts",
       "slug": "quad-city-arts",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -13429,8 +13432,8 @@
       "type": "business",
       "name": "Quad City Music Guild",
       "slug": "quad-city-music-guild",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -13477,8 +13480,8 @@
       "type": "business",
       "name": "Quad City Steamwheelers",
       "slug": "quad-city-steamwheelers",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -13524,8 +13527,8 @@
       "type": "business",
       "name": "Quad City Storm",
       "slug": "quad-city-storm",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -13573,8 +13576,8 @@
       "type": "place",
       "name": "Quad City Symphony",
       "slug": "quad-city-symphony",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -13626,8 +13629,8 @@
       "type": "business",
       "name": "Quad City Tennis Club",
       "slug": "quad-city-tennis-club",
-      "category": "Education",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "education"
       ],
@@ -13674,8 +13677,8 @@
       "type": "business",
       "name": "Quad-Cities Waterfront Convention Center",
       "slug": "quad-cities-waterfront-convention-center",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -13722,8 +13725,8 @@
       "type": "business",
       "name": "Quartz Botanicals",
       "slug": "quartz-botanicals",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -13770,8 +13773,8 @@
       "type": "business",
       "name": "R. Richard Bittner Downtown YMCA",
       "slug": "r-richard-bittner-downtown-ymca",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -13819,8 +13822,8 @@
       "type": "business",
       "name": "Raccoon Motel",
       "slug": "raccoon-motel",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13867,8 +13870,8 @@
       "type": "business",
       "name": "Radicle Effect Brewerks",
       "slug": "radicle-effect-brewerks",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -13915,8 +13918,8 @@
       "type": "business",
       "name": "Ragged Records",
       "slug": "ragged-records",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -13963,8 +13966,8 @@
       "type": "place",
       "name": "Railroading Heritage of Midwest America",
       "slug": "railroading-heritage-of-midwest-america",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -14013,8 +14016,8 @@
       "type": "business",
       "name": "Rascals Live Music Venue",
       "slug": "rascals-live-music-venue",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -14061,8 +14064,8 @@
       "type": "business",
       "name": "RAW",
       "slug": "raw",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -14109,8 +14112,8 @@
       "type": "business",
       "name": "Ray'z Barber Shop",
       "slug": "rayz-barber-shop",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -14158,8 +14161,8 @@
       "type": "business",
       "name": "RAYGUN",
       "slug": "raygun",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -14206,8 +14209,8 @@
       "type": "business",
       "name": "Rebellion Brew Haus",
       "slug": "rebellion-brew-haus",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -14254,8 +14257,8 @@
       "type": "business",
       "name": "Redband Coffee Co.",
       "slug": "redband-coffee-co",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -14302,8 +14305,8 @@
       "type": "business",
       "name": "Restaurante El Mariachi",
       "slug": "restaurante-el-mariachi",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -14350,8 +14353,8 @@
       "type": "business",
       "name": "Revell Jewelers",
       "slug": "revell-jewelers",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -14398,8 +14401,8 @@
       "type": "business",
       "name": "Revive Cafe - serving local, organic, healthy, vegan and gluten free options in the Quad Cities",
       "slug": "revive-cafe-serving-local-organic-healthy-vegan-and-gluten-free-options-in-the-quad-cities",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -14446,8 +14449,8 @@
       "type": "business",
       "name": "Rhythm City Casino Resort",
       "slug": "rhythm-city-casino-resort",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -14497,8 +14500,8 @@
       "type": "business",
       "name": "Riddle's Jewelry - Davenport",
       "slug": "riddles-jewelry-davenport",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -14545,8 +14548,8 @@
       "type": "business",
       "name": "Right On Time Plumbing Sewer & Drain Cleaning - Plumbing Repairs",
       "slug": "right-on-time-plumbing-sewer-drain-cleaning-plumbing-repairs",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -14593,8 +14596,8 @@
       "type": "business",
       "name": "River Action Inc",
       "slug": "river-action-inc",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -14641,8 +14644,8 @@
       "type": "business",
       "name": "River House Bar & Grill",
       "slug": "river-house-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -14689,8 +14692,8 @@
       "type": "business",
       "name": "Riverboat Twilight",
       "slug": "riverboat-twilight",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -14737,8 +14740,8 @@
       "type": "business",
       "name": "Riverfront Grille",
       "slug": "riverfront-grille",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -14785,8 +14788,8 @@
       "type": "business",
       "name": "Riverside Grille",
       "slug": "riverside-grille",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -14835,8 +14838,8 @@
       "type": "place",
       "name": "Riverside Park",
       "slug": "riverside-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -14888,8 +14891,8 @@
       "type": "business",
       "name": "Rock Island Ale House Featuring Bennigans On The Fly",
       "slug": "rock-island-ale-house-featuring-bennigans-on-the-fly",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -14936,8 +14939,8 @@
       "type": "place",
       "name": "Rock Island Arsenal Museum",
       "slug": "rock-island-arsenal-museum",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -14987,8 +14990,8 @@
       "type": "business",
       "name": "Rock Island Arsenal Visitor Welcome Center",
       "slug": "rock-island-arsenal-visitor-welcome-center",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -15035,8 +15038,8 @@
       "type": "business",
       "name": "Rock Island Downtown Alliance",
       "slug": "rock-island-downtown-alliance",
-      "category": "Other",
-      "subcategory": "",
+      "category": "community",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -15079,8 +15082,8 @@
       "type": "business",
       "name": "Rock Island Fitness & Activity Center (RIFAC)",
       "slug": "rock-island-fitness-activity-center-rifac",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -15128,8 +15131,8 @@
       "type": "business",
       "name": "Rooster's Sports Bar & Grill",
       "slug": "roosters-sports-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -15176,8 +15179,8 @@
       "type": "business",
       "name": "Rozz-Tox",
       "slug": "rozz-tox",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -15227,8 +15230,8 @@
       "type": "business",
       "name": "Rutabaga Art",
       "slug": "rutabaga-art",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -15275,8 +15278,8 @@
       "type": "business",
       "name": "Ruthie's Steak & Seafood at the Rhythm City Casino®",
       "slug": "ruthies-steak-seafood-at-the-rhythm-city-casino",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -15323,8 +15326,8 @@
       "type": "business",
       "name": "Sales from the Krypt",
       "slug": "sales-from-the-krypt",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -15371,8 +15374,8 @@
       "type": "business",
       "name": "Salon Aria + Spa",
       "slug": "salon-aria-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -15420,8 +15423,8 @@
       "type": "business",
       "name": "Salon Halo",
       "slug": "salon-halo",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -15469,8 +15472,8 @@
       "type": "business",
       "name": "Salon R5",
       "slug": "salon-r5",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -15518,8 +15521,8 @@
       "type": "business",
       "name": "Saukie Golf Course",
       "slug": "saukie-golf-course",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -15567,8 +15570,8 @@
       "type": "business",
       "name": "Schebler Heating and Air",
       "slug": "schebler-heating-and-air",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -15615,8 +15618,8 @@
       "type": "place",
       "name": "Schwiebert Riverfront Park",
       "slug": "schwiebert-riverfront-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -15668,8 +15671,8 @@
       "type": "place",
       "name": "Scott County Park",
       "slug": "scott-county-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -15719,8 +15722,8 @@
       "type": "business",
       "name": "Serenity Salon & Day Spa",
       "slug": "serenity-salon-day-spa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -15768,8 +15771,8 @@
       "type": "business",
       "name": "Sippis American Grill & Craft Beer",
       "slug": "sippis-american-grill-craft-beer",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -15816,8 +15819,8 @@
       "type": "business",
       "name": "Skate City QCA",
       "slug": "skate-city-qca",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -15864,8 +15867,8 @@
       "type": "business",
       "name": "Skeleton Key Art and Antiques",
       "slug": "skeleton-key-art-and-antiques",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -15915,8 +15918,8 @@
       "type": "business",
       "name": "Skellington Manor Escape Experience",
       "slug": "skellington-manor-escape-experience",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -15963,8 +15966,8 @@
       "type": "business",
       "name": "SmartStyle",
       "slug": "smartstyle",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -16012,8 +16015,8 @@
       "type": "place",
       "name": "Snowstar",
       "slug": "snowstar",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -16062,8 +16065,8 @@
       "type": "business",
       "name": "Soar N Bounce Trampoline & Adventure Park - Davenport",
       "slug": "soar-n-bounce-trampoline-adventure-park-davenport",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -16110,8 +16113,8 @@
       "type": "business",
       "name": "Soi 2 Thai Street Food",
       "slug": "soi-2-thai-street-food",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -16158,8 +16161,8 @@
       "type": "business",
       "name": "Source Bookstore",
       "slug": "source-bookstore",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -16208,8 +16211,8 @@
       "type": "place",
       "name": "SouthPark Mall",
       "slug": "southpark-mall",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -16258,8 +16261,8 @@
       "type": "place",
       "name": "SpringHill Suites by Marriott Bettendorf",
       "slug": "springhill-suites-by-marriott-bettendorf",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "hotels",
         "lodging"
@@ -16309,8 +16312,8 @@
       "type": "business",
       "name": "Sriracha Thai Bistro and Oyster Bar",
       "slug": "sriracha-thai-bistro-and-oyster-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -16357,8 +16360,8 @@
       "type": "business",
       "name": "Staybridge Suites Davenport by IHG",
       "slug": "staybridge-suites-davenport-by-ihg",
-      "category": "Hotels & Lodging",
-      "subcategory": "",
+      "category": "hotels",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -16406,8 +16409,8 @@
       "type": "business",
       "name": "Steel Plow Burger Company",
       "slug": "steel-plow-burger-company",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -16454,8 +16457,8 @@
       "type": "business",
       "name": "Steve's Old Time Tap",
       "slug": "steves-old-time-tap",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -16502,8 +16505,8 @@
       "type": "business",
       "name": "Stompbox Brewing",
       "slug": "stompbox-brewing",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -16550,8 +16553,8 @@
       "type": "business",
       "name": "Stoney Creek Hotel Quad Cities - Moline",
       "slug": "stoney-creek-hotel-quad-cities-moline",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -16598,8 +16601,8 @@
       "type": "business",
       "name": "StorageMart",
       "slug": "storagemart",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -16646,8 +16649,8 @@
       "type": "place",
       "name": "Sunderbruch Park",
       "slug": "sunderbruch-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -16697,8 +16700,8 @@
       "type": "business",
       "name": "Sunny's Coffee Shop",
       "slug": "sunnys-coffee-shop",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "coffee"
       ],
@@ -16745,8 +16748,8 @@
       "type": "business",
       "name": "Sweet Delite Ice Cream",
       "slug": "sweet-delite-ice-cream",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -16793,8 +16796,8 @@
       "type": "business",
       "name": "Swirl Wine Bar",
       "slug": "swirl-wine-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -16841,8 +16844,8 @@
       "type": "place",
       "name": "Sylvan Island",
       "slug": "sylvan-island",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -16894,8 +16897,8 @@
       "type": "business",
       "name": "Symmetry Beauty Lounge",
       "slug": "symmetry-beauty-lounge",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -16943,8 +16946,8 @@
       "type": "business",
       "name": "T&L's Java Joint Drive-Thru",
       "slug": "tls-java-joint-drive-thru",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -16991,8 +16994,8 @@
       "type": "business",
       "name": "Take Cover Tiki Club",
       "slug": "take-cover-tiki-club",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17039,8 +17042,8 @@
       "type": "business",
       "name": "Tap 22 Grill & Bar",
       "slug": "tap-22-grill-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17087,8 +17090,8 @@
       "type": "business",
       "name": "Taqueria La Rosa de Michoacan",
       "slug": "taqueria-la-rosa-de-michoacan",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -17135,8 +17138,8 @@
       "type": "business",
       "name": "TBK Bank Entertainment Center",
       "slug": "tbk-bank-entertainment-center",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -17183,8 +17186,8 @@
       "type": "place",
       "name": "TBK Bank Sports Complex",
       "slug": "tbk-bank-sports-complex",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -17233,8 +17236,8 @@
       "type": "business",
       "name": "The 11th Street Precinct Bar & Grill",
       "slug": "the-11th-street-precinct-bar-grill",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17281,8 +17284,8 @@
       "type": "business",
       "name": "The ARTery",
       "slug": "the-artery",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -17330,8 +17333,8 @@
       "type": "business",
       "name": "The Atlas Collective",
       "slug": "the-atlas-collective",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -17380,8 +17383,8 @@
       "type": "business",
       "name": "The Bar Aesthetics & Wellness - Quad Cities MedSpa",
       "slug": "the-bar-aesthetics-wellness-quad-cities-medspa",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -17429,8 +17432,8 @@
       "type": "business",
       "name": "The Bean Field Coffeehouse",
       "slug": "the-bean-field-coffeehouse",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "coffee"
       ],
@@ -17477,8 +17480,8 @@
       "type": "place",
       "name": "The Bend Event Center",
       "slug": "the-bend-event-center",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -17527,8 +17530,8 @@
       "type": "business",
       "name": "The Black Box Theatre",
       "slug": "the-black-box-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -17575,8 +17578,8 @@
       "type": "business",
       "name": "The Brewed Book - Coffee Shop & Used Book Store",
       "slug": "the-brewed-book-coffee-shop-used-book-store",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -17626,8 +17629,8 @@
       "type": "place",
       "name": "The District",
       "slug": "the-district",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -17672,8 +17675,8 @@
       "type": "business",
       "name": "The Docs Inn",
       "slug": "the-docs-inn",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17720,8 +17723,8 @@
       "type": "business",
       "name": "The Filling Station",
       "slug": "the-filling-station",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17768,8 +17771,8 @@
       "type": "business",
       "name": "The Fun Station Quad Cities",
       "slug": "the-fun-station-quad-cities",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -17816,8 +17819,8 @@
       "type": "business",
       "name": "The Grape Life Wine Lounge and Cellar",
       "slug": "the-grape-life-wine-lounge-and-cellar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -17864,8 +17867,8 @@
       "type": "business",
       "name": "The Grinder's & Spaghetti House - Moline",
       "slug": "the-grinders-spaghetti-house-moline",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -17912,8 +17915,8 @@
       "type": "business",
       "name": "The Half Nelson",
       "slug": "the-half-nelson",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -17960,8 +17963,8 @@
       "type": "business",
       "name": "The Healing Touch Massage Studio",
       "slug": "the-healing-touch-massage-studio",
-      "category": "Beauty & Wellness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "beauty",
         "wellness"
@@ -18009,8 +18012,8 @@
       "type": "business",
       "name": "The J Bar Davenport",
       "slug": "the-j-bar-davenport",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -18057,8 +18060,8 @@
       "type": "business",
       "name": "The Java Lab Grind & Dine Cafe",
       "slug": "the-java-lab-grind-dine-cafe",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18105,8 +18108,8 @@
       "type": "place",
       "name": "The Landing Ice Rink",
       "slug": "the-landing-ice-rink",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -18155,8 +18158,8 @@
       "type": "business",
       "name": "The Last Picture House",
       "slug": "the-last-picture-house",
-      "category": "Arts & Culture",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "arts",
         "culture"
@@ -18204,8 +18207,8 @@
       "type": "business",
       "name": "The Logger House",
       "slug": "the-logger-house",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -18252,8 +18255,8 @@
       "type": "business",
       "name": "The Phoenix Restaurant & Martini Bar",
       "slug": "the-phoenix-restaurant-martini-bar",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -18302,8 +18305,8 @@
       "type": "place",
       "name": "The Renwick Mansion",
       "slug": "the-renwick-mansion",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -18352,8 +18355,8 @@
       "type": "business",
       "name": "The Ridge Social Drinkery",
       "slug": "the-ridge-social-drinkery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -18400,8 +18403,8 @@
       "type": "business",
       "name": "The Rust Belt",
       "slug": "the-rust-belt",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18448,8 +18451,8 @@
       "type": "business",
       "name": "The Shameless Chocoholic",
       "slug": "the-shameless-chocoholic",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18496,8 +18499,8 @@
       "type": "business",
       "name": "The Spotlight Theatre",
       "slug": "the-spotlight-theatre",
-      "category": "Other",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -18544,8 +18547,8 @@
       "type": "business",
       "name": "The Tangled Wood",
       "slug": "the-tangled-wood",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18592,8 +18595,8 @@
       "type": "business",
       "name": "The Treasure Chest",
       "slug": "the-treasure-chest",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -18640,8 +18643,8 @@
       "type": "business",
       "name": "The UPS Store",
       "slug": "the-ups-store",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -18688,8 +18691,8 @@
       "type": "business",
       "name": "The Vault Coffee & Cafe",
       "slug": "the-vault-coffee-cafe",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "coffee"
       ],
@@ -18736,8 +18739,8 @@
       "type": "business",
       "name": "The Vault Med Spa + Body Sculpting",
       "slug": "the-vault-med-spa-body-sculpting",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -18785,8 +18788,8 @@
       "type": "business",
       "name": "Theo & Co.",
       "slug": "theo-co",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -18833,8 +18836,8 @@
       "type": "business",
       "name": "TMI - Total Maintenance, Inc. Heating, Air Conditioning, Plumbing",
       "slug": "tmi-total-maintenance-inc-heating-air-conditioning-plumbing",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "other"
       ],
@@ -18881,8 +18884,8 @@
       "type": "business",
       "name": "Tony's Chicago Style Pizzeria",
       "slug": "tonys-chicago-style-pizzeria",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18929,8 +18932,8 @@
       "type": "business",
       "name": "TPC Deere Run",
       "slug": "tpc-deere-run",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -18977,8 +18980,8 @@
       "type": "business",
       "name": "Trade Mart",
       "slug": "trade-mart",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19025,8 +19028,8 @@
       "type": "business",
       "name": "Trash Can Annie | Vintage, Styling & Photography",
       "slug": "trash-can-annie-vintage-styling-photography",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19073,8 +19076,8 @@
       "type": "business",
       "name": "Trattoria Tiramisu",
       "slug": "trattoria-tiramisu",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -19123,8 +19126,8 @@
       "type": "business",
       "name": "Treehouse Pub & Eatery",
       "slug": "treehouse-pub-eatery",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -19174,8 +19177,8 @@
       "type": "business",
       "name": "Tuggers",
       "slug": "tuggers",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -19222,8 +19225,8 @@
       "type": "business",
       "name": "Twin Oaks Shopping Center",
       "slug": "twin-oaks-shopping-center",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19270,8 +19273,8 @@
       "type": "business",
       "name": "Twin Span Brewing",
       "slug": "twin-span-brewing",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -19318,8 +19321,8 @@
       "type": "business",
       "name": "Twisted Paddle Brewery",
       "slug": "twisted-paddle-brewery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -19366,8 +19369,8 @@
       "type": "business",
       "name": "Two Men and a Truck Moving and Storage",
       "slug": "two-men-and-a-truck-moving-and-storage",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -19414,8 +19417,8 @@
       "type": "business",
       "name": "TYCOGA Winery & Distillery",
       "slug": "tycoga-winery-distillery",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -19462,8 +19465,8 @@
       "type": "business",
       "name": "Ultimate Fitness",
       "slug": "ultimate-fitness",
-      "category": "Health & Fitness",
-      "subcategory": "",
+      "category": "wellness",
+      "entity_type": "",
       "tags": [
         "health",
         "fitness"
@@ -19511,8 +19514,8 @@
       "type": "business",
       "name": "UP Skybar & Lounge",
       "slug": "up-skybar-lounge",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -19562,8 +19565,8 @@
       "type": "place",
       "name": "Vander Veer Botanical Park",
       "slug": "vander-veer-botanical-park",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -19614,8 +19617,8 @@
       "type": "business",
       "name": "VanDerGinst Law - Personal Injury Lawyers",
       "slug": "vanderginst-law-personal-injury-lawyers",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
@@ -19662,8 +19665,8 @@
       "type": "business",
       "name": "Vibrant Arena at The MARK",
       "slug": "vibrant-arena-at-the-mark",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -19713,8 +19716,8 @@
       "type": "business",
       "name": "Vibrant Coffeehouse + Kitchen",
       "slug": "vibrant-coffeehouse-kitchen",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -19763,8 +19766,8 @@
       "type": "business",
       "name": "Vicki's Rocks, Readings & Books",
       "slug": "vickis-rocks-readings-books",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19811,8 +19814,8 @@
       "type": "business",
       "name": "Village Inn",
       "slug": "village-inn",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -19859,8 +19862,8 @@
       "type": "place",
       "name": "Village of East Davenport",
       "slug": "village-of-east-davenport",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19909,8 +19912,8 @@
       "type": "business",
       "name": "Vintage Rose Jewelry",
       "slug": "vintage-rose-jewelry",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -19956,8 +19959,8 @@
       "type": "business",
       "name": "Virtual Ventures",
       "slug": "virtual-ventures",
-      "category": "Attractions",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "attractions"
       ],
@@ -20004,8 +20007,8 @@
       "type": "business",
       "name": "Von Maur",
       "slug": "von-maur",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -20052,8 +20055,8 @@
       "type": "business",
       "name": "Wake Brewing",
       "slug": "wake-brewing",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -20100,8 +20103,8 @@
       "type": "business",
       "name": "Wallace's Garden Center",
       "slug": "wallaces-garden-center",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -20148,8 +20151,8 @@
       "type": "business",
       "name": "West End Gardens Florist",
       "slug": "west-end-gardens-florist",
-      "category": "Shopping",
-      "subcategory": "",
+      "category": "shopping",
+      "entity_type": "",
       "tags": [
         "shopping"
       ],
@@ -20196,8 +20199,8 @@
       "type": "place",
       "name": "Wharton Field House",
       "slug": "wharton-field-house",
-      "category": "Sports & Events",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "sports",
         "events"
@@ -20247,8 +20250,8 @@
       "type": "business",
       "name": "Whiskey Stop",
       "slug": "whiskey-stop",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -20295,8 +20298,8 @@
       "type": "business",
       "name": "Whitey's Ice Cream",
       "slug": "whiteys-ice-cream",
-      "category": "Restaurants",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -20343,8 +20346,8 @@
       "type": "business",
       "name": "WHOLLY GRINDS Coffee Shop",
       "slug": "wholly-grinds-coffee-shop",
-      "category": "Coffee",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "restaurants"
       ],
@@ -20391,8 +20394,8 @@
       "type": "business",
       "name": "Wide River Winery Village of East Davenport",
       "slug": "wide-river-winery-village-of-east-davenport",
-      "category": "Nightlife",
-      "subcategory": "",
+      "category": "eat_drink",
+      "entity_type": "",
       "tags": [
         "nightlife"
       ],
@@ -20441,8 +20444,8 @@
       "type": "place",
       "name": "Wildcat Den State Park",
       "slug": "wildcat-den-state-park",
-      "category": "Parks & Outdoors",
-      "subcategory": "",
+      "category": "things",
+      "entity_type": "",
       "tags": [
         "parks",
         "outdoors"
@@ -20492,8 +20495,8 @@
       "type": "business",
       "name": "WIREONE Electric - Davenport",
       "slug": "wireone-electric-davenport",
-      "category": "Professional Services",
-      "subcategory": "",
+      "category": "services",
+      "entity_type": "",
       "tags": [
         "professional_services"
       ],
