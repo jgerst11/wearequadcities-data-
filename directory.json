@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T10:50:48.638134",
+  "generated": "2026-07-16T14:10:36.541669",
   "total": 421,
   "entities": [
     {
@@ -12,11 +12,7 @@
       "tags": [
         "arts & culture"
       ],
-      "attributes": [
-        "Historic",
-        "Arts & Culture",
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "136 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -51,9 +47,7 @@
           "entity_photos\\adler_theatre_photo_5.jpg"
         ]
       },
-      "guides": [
-        "live-music"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": true,
       "sponsor_tier": "none"
@@ -119,7 +113,6 @@
       ],
       "attributes": [
         "Kid Friendly",
-        "Arts & Culture",
         "Educational",
         "Seasonal"
       ],
@@ -224,9 +217,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "129 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -260,7 +251,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "hidden-gems"
       ],
       "seasonal": [],
@@ -277,9 +267,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "502 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -431,9 +419,7 @@
         "arts",
         "culture"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "432 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -583,9 +569,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2700 11th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -635,9 +619,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "4128 14th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -839,9 +821,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "115 Davenport Street",
       "city": "Le Claire",
       "neighborhood": "",
@@ -944,9 +924,7 @@
         "Domestic Violence",
         "Women's Services"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "3811 Harrison Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -993,8 +971,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Patio",
-        "Live Music"
+        "Patio"
       ],
       "address": "315 Pershing Avenue",
       "city": "Davenport",
@@ -1045,9 +1022,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "3030 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1145,9 +1120,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "4707 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1200,7 +1173,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "820 38th Street",
@@ -1403,9 +1375,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1506,9 +1476,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "201 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -1707,9 +1675,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1425 River Drive",
       "city": "Moline",
       "neighborhood": "",
@@ -1742,9 +1708,7 @@
           "entity_photos\\bass_street_chop_house_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1759,9 +1723,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1015 Utica Ridge Place",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -1794,9 +1756,7 @@
           "entity_photos\\beef_bourbon_chophouse_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1968,9 +1928,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "512 24th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -2004,7 +1962,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "patios"
       ],
       "seasonal": [],
@@ -2074,8 +2031,7 @@
         "fitness"
       ],
       "attributes": [
-        "Sports & Recreation",
-        "Community Impact"
+        "Sports & Recreation"
       ],
       "address": "3800 Tanglefoot Lane",
       "city": "Bettendorf",
@@ -2230,8 +2186,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Historic",
-        "Live Music",
         "Patio"
       ],
       "address": "415 15th Street",
@@ -2268,7 +2222,6 @@
       },
       "guides": [
         "river-views",
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -2286,8 +2239,6 @@
         "other"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "129 North Main Street",
@@ -2340,9 +2291,7 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Educational",
-        "Historic"
+        "Educational"
       ],
       "address": "112 West 2nd Street",
       "city": "Davenport",
@@ -2395,10 +2344,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night",
-        "Historic"
-      ],
+      "attributes": [],
       "address": "200 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -2432,7 +2378,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -2506,8 +2451,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "1510 46th Avenue",
@@ -2707,9 +2650,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "226 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -2757,9 +2698,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "421 West River Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -2957,8 +2896,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "199 Front Street",
@@ -3065,8 +3002,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "1105 8th Street",
@@ -3171,9 +3106,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1026 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -3223,10 +3156,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Historic",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "330 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -3326,9 +3256,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "3232 Bear Tooth Court",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -3490,8 +3418,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "822 11th Avenue",
@@ -3597,9 +3523,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2100 East River Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -3652,12 +3576,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Historic",
-        "Live Music",
-        "Date Night",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1828 3rd Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -3691,8 +3610,6 @@
         ]
       },
       "guides": [
-        "live-music",
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -3807,9 +3724,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "302 South 14th",
       "city": "Keithsburg",
       "neighborhood": "",
@@ -4160,10 +4075,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Live Music",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "129 North Main Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -4197,7 +4109,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -4526,8 +4437,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Kid Friendly",
-        "Historic"
+        "Kid Friendly"
       ],
       "address": "2140 16th Street",
       "city": "Moline",
@@ -4579,9 +4489,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Historic",
-        "Kid Friendly",
-        "Date Night"
+        "Kid Friendly"
       ],
       "address": "1640 West 53rd Street",
       "city": "Davenport",
@@ -4734,7 +4642,6 @@
         "shopping"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "102 North Cody Road",
@@ -4786,9 +4693,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "127 South 2nd Street",
       "city": "Le Claire",
       "neighborhood": "",
@@ -4839,9 +4744,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "3659 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -4876,8 +4779,7 @@
       },
       "guides": [
         "river-views",
-        "visitors",
-        "date-night"
+        "visitors"
       ],
       "seasonal": [],
       "featured": false,
@@ -4893,9 +4795,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1306 Mill Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -4945,9 +4845,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "213 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -5155,7 +5053,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
         "Patio"
       ],
       "address": "1201 East River Drive",
@@ -5192,7 +5089,6 @@
       },
       "guides": [
         "river-views",
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -5308,7 +5204,6 @@
         "community"
       ],
       "attributes": [
-        "Historic",
         "Educational",
         "Kid Friendly"
       ],
@@ -5413,7 +5308,6 @@
       ],
       "attributes": [
         "Kid Friendly",
-        "Arts & Culture",
         "Community Impact"
       ],
       "address": "1002 West Kimberly Road",
@@ -5567,9 +5461,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1525 3rd Avenue A",
       "city": "Moline",
       "neighborhood": "",
@@ -5670,8 +5562,6 @@
         "attractions"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "One John Deere Place",
@@ -5880,9 +5770,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "3865 Elmore Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -5932,9 +5820,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "3606 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -5984,9 +5870,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "1717 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -6087,9 +5971,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "2822 16th Street",
       "city": "Moline",
       "neighborhood": "Greater Tartan Oaks",
@@ -6235,10 +6117,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "115 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -6272,7 +6151,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -6339,9 +6217,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "689 Avenue Of The Cities",
       "city": "East Moline",
       "neighborhood": "",
@@ -6391,9 +6267,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "3537 Archer Drive",
       "city": "East Moline",
       "neighborhood": "",
@@ -6497,7 +6371,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Seasonal"
       ],
       "address": "322 North Brady Street",
@@ -6551,9 +6424,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "1132 West Locust Street",
       "city": "Davenport",
       "neighborhood": "Glen Armil",
@@ -6853,9 +6724,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "",
       "city": "Moline",
       "neighborhood": "",
@@ -6958,7 +6827,6 @@
       ],
       "attributes": [
         "Kid Friendly",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "2900 Learning Campus Drive",
@@ -7158,9 +7026,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1630 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -7210,7 +7076,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "225 West 2nd Street",
@@ -7414,9 +7279,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "1326 30th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -7520,8 +7383,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Historic",
-        "Live Music",
         "Patio"
       ],
       "address": "208 East River Drive",
@@ -7557,8 +7418,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "live-music"
+        "patios"
       ],
       "seasonal": [],
       "featured": false,
@@ -7679,9 +7539,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "4020 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -7780,7 +7638,6 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture",
         "Community Impact"
       ],
       "address": "1120 40th Street",
@@ -7835,8 +7692,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "712 West 2nd Street",
@@ -8183,8 +8038,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "live-music"
+        "patios"
       ],
       "seasonal": [],
       "featured": false,
@@ -8298,9 +8152,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "2606 W West Locust Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -8333,9 +8185,7 @@
           "entity_photos\\gypsy_highway_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8398,9 +8248,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2805 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -8505,9 +8353,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "524 East Locust Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -8558,9 +8404,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "3903 14th Avenue",
       "city": "Rock Island",
       "neighborhood": "KeyStone Neighborhood",
@@ -8611,8 +8455,6 @@
         "attractions"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "1300 24th Street",
@@ -8717,9 +8559,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "3651 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -8818,7 +8658,6 @@
         "other"
       ],
       "attributes": [
-        "Historic",
         "Community Impact",
         "Educational"
       ],
@@ -8922,7 +8761,6 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "104 Western Avenue",
@@ -8975,10 +8813,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Historic",
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "200 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -9013,7 +8848,6 @@
       },
       "guides": [
         "visitors",
-        "date-night",
         "river-views"
       ],
       "seasonal": [],
@@ -9184,9 +9018,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "102 South Harrison Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -9288,9 +9120,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "124 18th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -9323,9 +9153,7 @@
           "entity_photos\\icons_martini_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9493,8 +9321,7 @@
         "culture"
       ],
       "attributes": [
-        "Free",
-        "Arts & Culture"
+        "Free"
       ],
       "address": "505 Sterling Drive",
       "city": "Walcott",
@@ -9698,9 +9525,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "615 15th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -9750,9 +9575,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "836 East River Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -9802,9 +9625,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "545 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -9902,9 +9723,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4009 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -9937,9 +9756,7 @@
           "entity_photos\\jiangs_hot_pot_bbq_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9954,10 +9771,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1100 13th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -10009,7 +9823,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational",
         "Kid Friendly"
       ],
@@ -10064,9 +9877,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1300 River Drive",
       "city": "Moline",
       "neighborhood": "",
@@ -10099,9 +9910,7 @@
           "entity_photos\\johnnys_italian_steakhouse_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10260,9 +10069,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "3637 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -10412,9 +10219,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2139 16th Street",
       "city": "Moline",
       "neighborhood": "Wheelock / Velie",
@@ -10513,9 +10318,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2132 East 11th Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -10565,9 +10368,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1534 6th Avenue",
       "city": "Moline",
       "neighborhood": "Overlook",
@@ -10617,9 +10418,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "5401 U.S. 6",
       "city": "Colona",
       "neighborhood": "",
@@ -10721,9 +10520,7 @@
         "outdoors"
       ],
       "attributes": [
-        "Kid Friendly",
-        "Live Music",
-        "Arts & Culture"
+        "Kid Friendly"
       ],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
@@ -10759,7 +10556,6 @@
       },
       "guides": [
         "river-views",
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -10776,9 +10572,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1419 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -10828,10 +10622,7 @@
       "tags": [
         "arts & culture"
       ],
-      "attributes": [
-        "Historic",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -10935,9 +10726,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "429 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -10986,8 +10775,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Patio",
-        "Date Night"
+        "Patio"
       ],
       "address": "5304 Avenue Of The Cities",
       "city": "Moline",
@@ -11022,8 +10810,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "date-night"
+        "patios"
       ],
       "seasonal": [],
       "featured": false,
@@ -11144,9 +10931,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "102 East Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -11245,7 +11030,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Historic",
         "Patio"
       ],
       "address": "316 West 3rd Street",
@@ -11280,9 +11064,7 @@
           "entity_photos\\macs_tavern_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -11397,9 +11179,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "201 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -11447,9 +11227,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "3801 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -11554,9 +11332,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "220 North Harrison Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -11589,9 +11365,7 @@
           "entity_photos\\mantra_indian_cuisine_spirits_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -11865,9 +11639,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "537 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -11965,9 +11737,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "3925 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -12067,9 +11837,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "606 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -12119,9 +11887,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "4004 West Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -12171,9 +11937,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "318 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -12207,7 +11971,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "hiden-gems"
       ],
       "seasonal": [],
@@ -12225,9 +11988,7 @@
         "arts",
         "culture"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "902 East River Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -12331,10 +12092,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic",
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4830 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -12367,9 +12125,7 @@
           "entity_photos\\mo_bradys_steakhouse_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12386,7 +12142,6 @@
         "events"
       ],
       "attributes": [
-        "Historic",
         "Sports & Recreation",
         "Kid Friendly"
       ],
@@ -12537,9 +12292,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4750 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -12745,9 +12498,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "4009 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -13246,9 +12997,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4707 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -13282,7 +13031,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -13301,8 +13049,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "115 West 7th Street",
@@ -13447,8 +13193,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "date-night"
+        "patios"
       ],
       "seasonal": [],
       "featured": false,
@@ -13497,9 +13242,7 @@
           "entity_photos\\pedal_pub_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13514,9 +13257,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2035 Martin Luther King Drive",
       "city": "Rock Island",
       "neighborhood": "",
@@ -13715,8 +13456,6 @@
         "other"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Community Impact"
       ],
       "address": "4950 35th Avenue",
@@ -13916,9 +13655,7 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
         "Kid Friendly",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "1717 West 12th Street",
@@ -14178,9 +13915,7 @@
         "arts",
         "culture"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1715 2nd Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -14384,10 +14119,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture",
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "327 North Brady Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -14423,7 +14155,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -14594,7 +14325,6 @@
         "fitness"
       ],
       "attributes": [
-        "Community Impact",
         "Sports & Recreation"
       ],
       "address": "630 East 4th Street",
@@ -14646,9 +14376,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "315 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -14746,10 +14474,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture",
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "311 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -14800,10 +14525,8 @@
         "other"
       ],
       "attributes": [
-        "Historic",
         "Educational",
-        "Kid Friendly",
-        "Arts & Culture"
+        "Kid Friendly"
       ],
       "address": "1101 North 2nd Avenue",
       "city": "Silvis",
@@ -14856,9 +14579,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "1418 15th Street",
       "city": "Moline",
       "neighborhood": "Uptown",
@@ -14892,7 +14613,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -14909,9 +14629,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "136 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -14944,9 +14662,7 @@
           "entity_photos\\raw_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15010,9 +14726,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "210 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -15160,9 +14874,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "1317 15th Street",
       "city": "Moline",
       "neighborhood": "Uptown",
@@ -15309,10 +15021,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "Live Music",
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "7077 Elmore Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -15463,8 +15172,7 @@
       "attributes": [
         "Community Impact",
         "Volunteer Opportunities",
-        "Educational",
-        "Arts & Culture"
+        "Educational"
       ],
       "address": "822 East River Drive",
       "city": "Davenport",
@@ -15516,9 +15224,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "1510 River Drive",
       "city": "Moline",
       "neighborhood": "",
@@ -15552,7 +15258,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -15569,9 +15274,7 @@
       "tags": [
         "attractions"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "199 Front Street",
       "city": "Le Claire",
       "neighborhood": "",
@@ -15606,7 +15309,6 @@
       },
       "guides": [
         "river-views",
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -15624,7 +15326,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Live Music",
         "Patio"
       ],
       "address": "4619 34th Street",
@@ -15660,7 +15361,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "river-views"
       ],
       "seasonal": [],
@@ -15677,9 +15377,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1710 Grant Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -15835,8 +15533,6 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "3500 North Avenue",
@@ -15891,9 +15587,7 @@
         "other"
       ],
       "attributes": [
-        "Historic",
-        "Educational",
-        "Arts & Culture"
+        "Educational"
       ],
       "address": "23 Prospect Drive",
       "city": "Moline",
@@ -16088,9 +15782,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "2108 3rd Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -16142,7 +15834,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "108 North State Street",
@@ -16193,9 +15884,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "7077 Elmore Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -16229,7 +15918,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "river-views",
         "visitors"
       ],
@@ -16551,8 +16239,7 @@
         "outdoors"
       ],
       "attributes": [
-        "Kid Friendly",
-        "Live Music"
+        "Kid Friendly"
       ],
       "address": "101 17th Street",
       "city": "Rock Island",
@@ -16662,9 +16349,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "3915 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -16714,9 +16399,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "406 West 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -16820,9 +16503,7 @@
         "arts",
         "culture"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "520 18th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -16872,9 +16553,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "420 18th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -16907,9 +16586,7 @@
           "entity_photos\\skellington_manor_escape_experience_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17132,9 +16809,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "232 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -17436,9 +17111,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "223 17th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -17744,8 +17417,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Kid Friendly",
-        "Date Night"
+        "Kid Friendly"
       ],
       "address": "1901 West 4th Street",
       "city": "Davenport",
@@ -17779,9 +17451,7 @@
           "entity_photos\\sweet_delite_ice_cream_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17796,9 +17466,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4832 Forest Grove Drive",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -17831,9 +17499,7 @@
           "entity_photos\\swirl_wine_bar_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17849,9 +17515,7 @@
         "parks",
         "outdoors"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "",
       "city": "Moline",
       "neighborhood": "",
@@ -18257,9 +17921,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "2108 East 11th Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -18293,7 +17955,6 @@
         ]
       },
       "guides": [
-        "live-music",
         "visitors"
       ],
       "seasonal": [],
@@ -18312,7 +17973,6 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
         "Educational"
       ],
       "address": "3913 14th Avenue",
@@ -18364,9 +18024,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "1801 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -18417,9 +18075,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1018 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -18452,9 +18108,7 @@
           "entity_photos\\the_bar_aesthetics_wellness_quad_cities_medspa_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18572,7 +18226,6 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture",
         "Community Impact"
       ],
       "address": "1623 5th Avenue",
@@ -18770,9 +18423,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "305 East 35th Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -18873,9 +18524,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "3400 Elmore Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -18908,9 +18557,7 @@
           "entity_photos\\the_grape_life_wine_lounge_and_cellar_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18925,9 +18572,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "3210 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "Villa Park",
@@ -18977,10 +18622,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night",
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "321 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -19014,7 +18656,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "visitors"
       ],
       "seasonal": [],
@@ -19080,9 +18721,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4215 Elmore Avenue",
       "city": "Davenport",
       "neighborhood": "",
@@ -19115,9 +18754,7 @@
           "entity_photos\\the_j_bar_davenport_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19239,9 +18876,7 @@
         "arts",
         "culture"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "325 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -19274,9 +18909,7 @@
           "entity_photos\\the_last_picture_house_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19341,10 +18974,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night",
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "111 West 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -19377,9 +19007,7 @@
           "entity_photos\\the_phoenix_restaurant_martini_bar_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19395,8 +19023,6 @@
         "other"
       ],
       "attributes": [
-        "Historic",
-        "Arts & Culture",
         "Educational"
       ],
       "address": "901 Tremont Avenue",
@@ -19450,10 +19076,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Live Music",
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "4750 Utica Ridge Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -19486,10 +19109,7 @@
           "entity_photos\\the_ridge_social_drinkery_photo_3.jpg"
         ]
       },
-      "guides": [
-        "live-music",
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19554,9 +19174,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "2248 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -19607,7 +19225,6 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture",
         "Community Impact"
       ],
       "address": "1800 7th Avenue",
@@ -19660,7 +19277,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Live Music",
         "Patio"
       ],
       "address": "3636 Tanglewood Road",
@@ -19695,9 +19311,7 @@
           "entity_photos\\the_tangled_wood_photo_3.jpg"
         ]
       },
-      "guides": [
-        "live-music"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20058,8 +19672,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Patio",
-        "Date Night"
+        "Patio"
       ],
       "address": "3100 Heather Knoll",
       "city": "Silvis",
@@ -20094,8 +19707,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "date-night"
+        "patios"
       ],
       "seasonal": [],
       "featured": false,
@@ -20111,9 +19723,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "4500 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -20163,9 +19773,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "311 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -20215,9 +19823,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1804 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -20250,9 +19856,7 @@
           "entity_photos\\trattoria_tiramisu_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20268,8 +19872,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Patio",
-        "Date Night"
+        "Patio"
       ],
       "address": "2239 Kimberly Road",
       "city": "Bettendorf",
@@ -20304,7 +19907,6 @@
         ]
       },
       "guides": [
-        "date-night",
         "patios"
       ],
       "seasonal": [],
@@ -20321,9 +19923,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "201 North Main Street",
       "city": "Port Byron",
       "neighborhood": "",
@@ -20471,9 +20071,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "615 8th Street",
       "city": "DeWitt",
       "neighborhood": "",
@@ -20571,9 +20169,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "2585 195th Street",
       "city": "DeWitt",
       "neighborhood": "",
@@ -20606,9 +20202,7 @@
           "entity_photos\\tycoga_winery_distillery_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20677,7 +20271,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
         "Patio"
       ],
       "address": "215 North Main Street",
@@ -20712,9 +20305,7 @@
           "entity_photos\\up_skybar_lounge_photo_3.jpg"
         ]
       },
-      "guides": [
-        "date-night"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20730,9 +20321,7 @@
         "attractions"
       ],
       "attributes": [
-        "Historic",
-        "Free",
-        "Arts & Culture"
+        "Free"
       ],
       "address": "215 West Central Park Avenue",
       "city": "Davenport",
@@ -20835,7 +20424,6 @@
         "events"
       ],
       "attributes": [
-        "Live Music",
         "Sports & Recreation"
       ],
       "address": "1201 River Drive",
@@ -20870,9 +20458,7 @@
           "entity_photos\\vibrant_arena_at_the_mark_photo_3.jpg"
         ]
       },
-      "guides": [
-        "live-music"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20939,9 +20525,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Arts & Culture"
-      ],
+      "attributes": [],
       "address": "2901 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -20991,9 +20575,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "2122 53rd Street",
       "city": "Moline",
       "neighborhood": "",
@@ -21144,7 +20726,6 @@
       ],
       "attributes": [
         "Kid Friendly",
-        "Date Night",
         "Sports & Recreation"
       ],
       "address": "320 West Kimberly Road",
@@ -21500,9 +21081,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Historic"
-      ],
+      "attributes": [],
       "address": "1601 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "Willard / Wharton",
@@ -21602,9 +21181,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Date Night"
-      ],
+      "attributes": [],
       "address": "1128 Mound Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -21656,7 +21233,6 @@
         "outdoors"
       ],
       "attributes": [
-        "Historic",
         "Educational",
         "Sports & Recreation"
       ],
