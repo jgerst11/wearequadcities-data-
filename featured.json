@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-15T08:22:38.523365",
+  "generated": "2026-07-16T10:20:33.892641",
   "total": 3,
   "featured": [
     {
       "slot": 1,
       "business_name": "Adler Theatre",
-      "category": "Other · Davenport",
+      "category": "things · Davenport",
       "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.",
       "logo_initials": "AT",
       "rating": "4.5",
@@ -17,7 +17,7 @@
     {
       "slot": 2,
       "business_name": "Float Quad Cities",
-      "category": "Health & Fitness · Moline",
+      "category": "wellness · Moline",
       "description": "Sensory deprivation tanks where an hour feels like a reset button.",
       "logo_initials": "FQ",
       "rating": "4.9",
@@ -29,7 +29,7 @@
     {
       "slot": 99,
       "business_name": "Quad City Botanical Center",
-      "category": "Other · Rock Island",
+      "category": "things · Rock Island",
       "description": "Forty acres of green space where the Mississippi Valley grows things year-round.",
       "logo_initials": "QC",
       "rating": "4.7",
