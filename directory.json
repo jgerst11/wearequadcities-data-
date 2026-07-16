@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T16:30:34.774381",
-  "total": 422,
+  "generated": "2026-07-16T16:32:08.590270",
+  "total": 423,
   "entities": [
     {
       "id": "adler_theatre",
@@ -3733,6 +3733,52 @@
           "entity_photos\\club_pilates_photo_1.jpg",
           "entity_photos\\club_pilates_photo_2.jpg",
           "entity_photos\\club_pilates_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "codfish_hollow_barnstormers",
+      "type": "",
+      "name": "Codfish Hollow Barnstormers",
+      "slug": "codfish-hollow-barnstormers",
+      "category": "Arts & Culture",
+      "entity_type": "business",
+      "tags": [],
+      "attributes": [],
+      "address": "5013 288th Avenue",
+      "city": "Maquoketa",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52060",
+      "phone": "",
+      "website": "http://www.codfishhollowbarnstormers.com/",
+      "hours": "",
+      "lat": "42.07771320000001",
+      "lng": "-90.56170519999999",
+      "description": "A converted barn hosting live music under exposed beams and string lights.\n\nCodfish Hollow is exactly what its name suggests—an old barnstormers' venue where the rafters echo with live sets most weekends. The space keeps its bones (all that weathered wood, the real barn smell that lingers) while rows of picnic tables and a small bar make it feel less museum piece and more genuine gathering spot. You'll catch everything from country to indie rock to folk, and there's something about seeing a band play in front of a wall of hay bales that makes the whole night feel less polished and more real.\n\nCodfish Hollow sits in Maquoketa, a short drive northeast of the core QC but worth the trip if you're looking for the kind of venue that doesn't pretend to be anything other than what it is. It's become a pillar of the region's live music scene—the kind of place locals plan weekends around and visitors stumble upon and never forget. Once you've sat under those lights with a drink in hand and good music filling the barn, you'll understand why it keeps landing on our lists.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "485",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8323962644978607748",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\codfish_hollow_barnstormers_photo_1.jpg",
+        "all": [
+          "entity_photos\\codfish_hollow_barnstormers_photo_1.jpg",
+          "entity_photos\\codfish_hollow_barnstormers_photo_2.jpg",
+          "entity_photos\\codfish_hollow_barnstormers_photo_3.jpg"
         ]
       },
       "guides": [],
