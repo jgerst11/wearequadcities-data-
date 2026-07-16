@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T15:19:32.702274",
+  "generated": "2026-07-16T15:34:34.957067",
   "total": 420,
   "entities": [
     {
@@ -50,9 +50,7 @@
           "entity_photos\\adler_theatre_photo_5.jpg"
         ]
       },
-      "guides": [
-        "Arts & Culture"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": true,
       "sponsor_tier": "none"
@@ -101,7 +99,9 @@
           "entity_photos\\float_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": true,
       "sponsor_tier": "homepage"
@@ -155,7 +155,9 @@
           "entity_photos\\quad_city_botanical_center_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": true,
       "sponsor_tier": "none"
@@ -1588,7 +1590,9 @@
           "entity_photos\\ballys_quad_cities_casino_hotel_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3226,7 +3230,9 @@
           "entity_photos\\cats_eye_distillery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3485,7 +3491,9 @@
           "entity_photos\\channel_cat_water_taxi_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3533,7 +3541,9 @@
           "entity_photos\\circa_21_dinner_playhouse_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3876,7 +3886,9 @@
           "entity_photos\\comedysportz_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4324,7 +4336,9 @@
           "entity_photos\\country_style_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4374,7 +4388,9 @@
           "entity_photos\\country_style_ice_cream_coffee_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4667,9 +4683,7 @@
           "entity_photos\\crawford_company_photo_3.jpg"
         ]
       },
-      "guides": [
-        "coffee"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4918,7 +4932,9 @@
           "entity_photos\\d_lua_on_the_river_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5318,7 +5334,7 @@
         ]
       },
       "guides": [
-        "coffee"
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -5419,7 +5435,9 @@
           "entity_photos\\deere_company_world_headquarters_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5955,7 +5973,9 @@
           "entity_photos\\duck_city_bistro_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6895,7 +6915,9 @@
           "entity_photos\\figge_art_museum_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8138,7 +8160,9 @@
           "entity_photos\\harris_pizza_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8881,7 +8905,9 @@
           "entity_photos\\icons_martini_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9622,7 +9648,9 @@
           "entity_photos\\johnnys_italian_steakhouse_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10059,7 +10087,9 @@
           "entity_photos\\lagomarcinos_confectionery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10799,7 +10829,9 @@
           "entity_photos\\machine_shed_restaurant_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12241,7 +12273,9 @@
           "entity_photos\\niabi_zoo_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12882,7 +12916,9 @@
           "entity_photos\\pedal_pub_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13625,7 +13661,9 @@
           "entity_photos\\quad_city_music_guild_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13777,7 +13815,9 @@
           "entity_photos\\quad_city_symphony_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14221,7 +14261,9 @@
           "entity_photos\\rascals_live_music_venue_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15158,7 +15200,9 @@
           "entity_photos\\rock_island_arsenal_museum_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15400,7 +15444,7 @@
         ]
       },
       "guides": [
-        "coffee"
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -18611,7 +18655,9 @@
           "entity_photos\\the_ridge_social_drinkery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18707,7 +18753,9 @@
           "entity_photos\\the_shameless_chocoholic_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19198,9 +19246,7 @@
           "entity_photos\\tpc_deere_run_photo_3.jpg"
         ]
       },
-      "guides": [
-        "patios"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20579,7 +20625,9 @@
           "entity_photos\\whiteys_ice_cream_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
