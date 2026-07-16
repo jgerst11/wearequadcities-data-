@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T15:42:41.059758",
-  "total": 420,
+  "generated": "2026-07-16T16:24:38.581630",
+  "total": 423,
   "entities": [
     {
       "id": "adler_theatre",
@@ -12,10 +12,7 @@
       "tags": [
         "arts & culture"
       ],
-      "attributes": [
-        "Arts & Culture",
-        "Live Music"
-      ],
+      "attributes": [],
       "address": "136 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -996,7 +993,8 @@
         ]
       },
       "guides": [
-        "live music"
+        "patios",
+        "live-music"
       ],
       "seasonal": [],
       "featured": false,
@@ -2204,8 +2202,7 @@
         "other"
       ],
       "attributes": [
-        "Educational",
-        "Arts & Culture"
+        "Educational"
       ],
       "address": "129 North Main Street",
       "city": "Davenport",
@@ -3744,6 +3741,52 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "codfish_hollow_barnstormers",
+      "type": "business",
+      "name": "Codfish Hollow Barnstormers",
+      "slug": "codfish-hollow-barnstormers",
+      "category": "things",
+      "entity_type": "Music Venue",
+      "tags": [],
+      "attributes": [
+        "Seasonal"
+      ],
+      "address": "5013 288th Avenue",
+      "city": "Maquoketa",
+      "neighborhood": "",
+      "state": "IA",
+      "zip": "52060",
+      "phone": "",
+      "website": "http://www.codfishhollowbarnstormers.com/",
+      "hours": "",
+      "lat": "42.07771320000001",
+      "lng": "-90.56170519999999",
+      "description": "A restored barn hosting live music under the stars, just outside the QC.\n\nCodfish Hollow is the kind of place that makes you drive twenty minutes without hesitation — a genuine timber-frame barn converted into an honest-to-god music venue, where you're just as likely to catch a folk trio as a touring indie band. The stage is simple, the sound is clean, and there's something about watching a live performance in a space that still smells like history that changes how you listen. Bring a blanket, bring friends, and plan to stay past sunset.\n\nCodfish Hollow sits in Maquoketa, a small town east of the Quad Cities that's become a quiet destination for anyone serious about live music and experience over convenience. It's the kind of place that deserves the drive — one of those venues that builds a loyal following because it gets the fundamentals right: good artists, good sound, and a room that feels like something real. Once you've been, you'll understand why locals make the trip again and again.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "485",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=8323962644978607748",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "",
+        "all": []
+      },
+      "guides": [
+        "live-music"
+      ],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "cody_road_coffee_leclaire",
       "type": "business",
       "name": "Cody Road Coffee LeClaire",
@@ -3987,7 +4030,9 @@
           "entity_photos\\common_chord_home_of_the_redstone_room_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4086,6 +4131,50 @@
         ]
       },
       "guides": [],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "cool_beanz_coffee",
+      "type": "business",
+      "name": "Cool Beanz Coffee",
+      "slug": "cool-beanz-coffee",
+      "category": "eat_drink",
+      "entity_type": "Coffee Shop",
+      "tags": [],
+      "attributes": [],
+      "address": "512 24th Street",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 558-0909",
+      "website": "http://coolbeanzcoffeehouse.com/",
+      "hours": "",
+      "lat": "41.507501",
+      "lng": "-90.56705699999999",
+      "description": "Chill spot for espresso drinks, panini & pastries, whiskey & wine flights, craft beer & live music.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "540",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=11752597178475479176",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "",
+        "all": []
+      },
+      "guides": [
+        "coffee"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7157,8 +7246,7 @@
         ]
       },
       "guides": [
-        "patios",
-        "river"
+        "river-views"
       ],
       "seasonal": [],
       "featured": false,
@@ -7959,7 +8047,9 @@
           "entity_photos\\gypsy_highway_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9398,7 +9488,9 @@
           "entity_photos\\jennies_boxcar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10344,8 +10436,7 @@
         "arts & culture"
       ],
       "attributes": [
-        "Educational",
-        "Arts & Culture"
+        "Educational"
       ],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
@@ -12561,7 +12652,9 @@
           "entity_photos\\old_oaks_winery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14025,7 +14118,8 @@
       "category": "eat_drink",
       "entity_type": "Bar",
       "tags": [
-        "nightlife"
+        "date-night",
+        "live-music"
       ],
       "attributes": [],
       "address": "315 East 2nd Street",
@@ -15254,6 +15348,50 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "rock_island_brewing_company",
+      "type": "business",
+      "name": "Rock Island Brewing Company",
+      "slug": "rock-island-brewing-company",
+      "category": "eat_drink",
+      "entity_type": "Brewery",
+      "tags": [],
+      "attributes": [
+        "Patio"
+      ],
+      "address": "1815 2nd Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 506-4924",
+      "website": "http://www.ribco.com/",
+      "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 11:00 AM – 12:00 AM | Thursday: 11:00 AM – 12:00 AM | Friday: 11:00 AM – 12:00 AM | Saturday: 11:00 AM – 12:00 AM | Sunday: 11:00 AM – 10:00 PM",
+      "lat": "41.511177",
+      "lng": "-90.5739974",
+      "description": "Relaxed venue offering pub food & craft beer with regular live music in a comfy brick-walled space.",
+      "rating": {
+        "google": "4.3",
+        "google_count": "203",
+        "yelp": "",
+        "yelp_count": ""
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=10669084334092626842",
+        "yelp": "",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "",
+        "all": []
+      },
+      "guides": [],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "rock_island_downtown_alliance",
       "type": "business",
       "name": "Rock Island Downtown Alliance",
@@ -16034,7 +16172,9 @@
           "entity_photos\\sippis_american_grill_craft_beer_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16384,7 +16524,9 @@
           "entity_photos\\soi_2_thai_street_food_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18701,7 +18843,10 @@
           "entity_photos\\the_rust_belt_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music",
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
