@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T14:10:36.541669",
-  "total": 421,
+  "generated": "2026-07-16T15:00:54.800227",
+  "total": 420,
   "entities": [
     {
       "id": "adler_theatre",
@@ -12,7 +12,10 @@
       "tags": [
         "arts & culture"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture",
+        "Live Music"
+      ],
       "address": "136 East 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -47,7 +50,9 @@
           "entity_photos\\adler_theatre_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "Arts & Culture"
+      ],
       "seasonal": [],
       "featured": true,
       "sponsor_tier": "none"
@@ -771,7 +776,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Antiques"
+      ],
       "address": "1725 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -917,14 +924,19 @@
       "name": "Argrow's House Cafe and Gift Shop",
       "slug": "argrows-house-cafe-and-gift-shop",
       "category": "services",
-      "entity_type": "Coffee Shop",
+      "entity_type": "Gift",
       "tags": [
         "Non-profit",
         "Organization",
         "Domestic Violence",
         "Women's Services"
       ],
-      "attributes": [],
+      "attributes": [
+        "Non-profit",
+        "Organization",
+        "Domestic Violence",
+        "Women's Services"
+      ],
       "address": "3811 Harrison Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1425,7 +1437,7 @@
       ],
       "attributes": [
         "Sports & Recreation",
-        "Community Impact"
+        "Water Skiing"
       ],
       "address": "5000 44th Street",
       "city": "Rock Island",
@@ -2239,7 +2251,8 @@
         "other"
       ],
       "attributes": [
-        "Educational"
+        "Educational",
+        "Arts & Culture"
       ],
       "address": "129 North Main Street",
       "city": "Davenport",
@@ -3715,57 +3728,6 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "city_of_keithsburg",
-      "type": "business",
-      "name": "City of Keithsburg",
-      "slug": "city-of-keithsburg",
-      "category": "community",
-      "entity_type": "City",
-      "tags": [
-        "other"
-      ],
-      "attributes": [],
-      "address": "302 South 14th",
-      "city": "Keithsburg",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61442",
-      "phone": "(309) 598-0114",
-      "website": "https://www.cityofkeithsburg.com/",
-      "hours": "Monday: 1:00 AM – 5:00 PM | Tuesday: 1:00 AM – 5:00 PM | Wednesday: 1:00 AM – 5:00 PM | Thursday: 1:00 AM – 5:00 PM | Friday: 1:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
-      "lat": "41.0986221",
-      "lng": "-90.93161599999999",
-      "description": "A quiet river town where the Mississippi still feels like the main street.\n\nKeithsburg sits on a bend of the river like it's been holding the same spot for 150 years—because it has. Main Street runs parallel to the water, and you can walk from the modest downtown to the riverfront in about five minutes. There's a realness here that doesn't perform for tourists; it's the kind of place where you'll see the same faces at the local diner, where the community bulletin board actually matters, and where the river isn't backdrop—it's context for everything.\n\nKeithsburg is a short drive northwest from the Quad Cities proper, just far enough to feel like stepping outside the metro into something older and slower. It's the kind of destination for people who want to understand how river towns actually work—the small-town Illinois river experience without the polish or the crowds. Include it in your guides because it's real, because it's close, and because sometimes the best discoveries are the places that aren't trying to be discoveries at all.",
-      "rating": {
-        "google": "5",
-        "google_count": "1",
-        "yelp": "",
-        "yelp_count": ""
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=16122465278157727903",
-        "yelp": "",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\city_of_keithsburg_photo_1.jpg",
-        "all": [
-          "entity_photos\\city_of_keithsburg_photo_1.jpg",
-          "entity_photos\\city_of_keithsburg_photo_2.jpg",
-          "entity_photos\\city_of_keithsburg_photo_3.jpg"
-        ]
-      },
-      "guides": [
-        "river-views",
-        "visitors"
-      ],
-      "seasonal": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
       "id": "clints_draft_house_pizza_grill",
       "type": "business",
       "name": "Clint's Draft House Pizza & Grill",
@@ -4229,7 +4191,7 @@
       ],
       "attributes": [
         "Sports & Recreation",
-        "Seasonal"
+        "Dragway"
       ],
       "address": "19425 Illinois 84",
       "city": "Cordova",
@@ -4642,7 +4604,8 @@
         "shopping"
       ],
       "attributes": [
-        "Educational"
+        "Handmcrafts",
+        "Gfts"
       ],
       "address": "102 North Cody Road",
       "city": "Le Claire",
@@ -5258,7 +5221,9 @@
       "tags": [
         "other"
       ],
-      "attributes": [],
+      "attributes": [
+        "Flowers"
+      ],
       "address": "1566 Illinois 17",
       "city": "Aledo",
       "neighborhood": "",
@@ -5360,7 +5325,8 @@
         "other"
       ],
       "attributes": [
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Speedway"
       ],
       "address": "2815 West Locust Street",
       "city": "Davenport",
@@ -5512,7 +5478,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Seasonal"
+        "Antiques"
       ],
       "address": "521 North Cody Road",
       "city": "Le Claire",
@@ -5614,7 +5580,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Antiques"
+      ],
       "address": "318 North Brady Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -5703,9 +5671,7 @@
           "entity_photos\\devils_glen_park_photo_5.jpg"
         ]
       },
-      "guides": [
-        "hidden-gems"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6151,7 +6117,8 @@
         ]
       },
       "guides": [
-        "visitors"
+        "visitors",
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -7114,7 +7081,8 @@
       },
       "guides": [
         "river-views",
-        "visitors"
+        "visitors",
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -7383,7 +7351,8 @@
         "nightlife"
       ],
       "attributes": [
-        "Patio"
+        "Patio",
+        "Beer Garden"
       ],
       "address": "208 East River Drive",
       "city": "Davenport",
@@ -7486,7 +7455,8 @@
         "other"
       ],
       "attributes": [
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "golf"
       ],
       "address": "1057 Fairway Lane",
       "city": "Sherrard",
@@ -7798,7 +7768,8 @@
         "other"
       ],
       "attributes": [
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "golf"
       ],
       "address": "19251 290th Street",
       "city": "Long Grove",
@@ -8559,7 +8530,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Health"
+      ],
       "address": "3651 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -9217,10 +9190,7 @@
         "parks",
         "outdoors"
       ],
-      "attributes": [
-        "Sports & Recreation",
-        "Kid Friendly"
-      ],
+      "attributes": [],
       "address": "836 State Avenue",
       "city": "Hampton",
       "neighborhood": "",
@@ -9424,7 +9394,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Golf Supply"
+      ],
       "address": "2630 16th Street",
       "city": "Moline",
       "neighborhood": "Greater Tartan Oaks",
@@ -9861,7 +9833,8 @@
         ]
       },
       "guides": [
-        "visitors"
+        "visitors",
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -10120,7 +10093,7 @@
         "shopping"
       ],
       "attributes": [
-        "Seasonal"
+        "Antiques"
       ],
       "address": "1918 7th Avenue",
       "city": "Rock Island",
@@ -10352,7 +10325,8 @@
         ]
       },
       "guides": [
-        "visitors"
+        "visitors",
+        "hidden-gems"
       ],
       "seasonal": [],
       "featured": false,
@@ -10622,7 +10596,10 @@
       "tags": [
         "arts & culture"
       ],
-      "attributes": [],
+      "attributes": [
+        "Educational",
+        "Arts & Culture"
+      ],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -10877,7 +10854,6 @@
         "outdoors"
       ],
       "attributes": [
-        "Sports & Recreation",
         "Free"
       ],
       "address": "19408 Loud Thunder Road",
@@ -11179,7 +11155,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Art Supplies"
+      ],
       "address": "201 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -11837,7 +11815,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Antiques"
+      ],
       "address": "606 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -12136,13 +12116,12 @@
       "name": "Modern Woodmen Park",
       "slug": "modern-woodmen-park",
       "category": "things",
-      "entity_type": "Venue",
+      "entity_type": "Park",
       "tags": [
         "sports",
         "events"
       ],
       "attributes": [
-        "Sports & Recreation",
         "Kid Friendly"
       ],
       "address": "209 South Gaines Street",
@@ -12392,8 +12371,8 @@
       ],
       "attributes": [
         "Educational",
-        "Sports & Recreation",
-        "Free"
+        "Free",
+        "Nature"
       ],
       "address": "",
       "city": "Davenport",
@@ -13103,7 +13082,8 @@
         "nightlife"
       ],
       "attributes": [
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Golf"
       ],
       "address": "2999 Middle Road",
       "city": "Bettendorf",
@@ -14173,7 +14153,8 @@
       ],
       "attributes": [
         "Sports & Recreation",
-        "Educational"
+        "Educational",
+        "tennis"
       ],
       "address": "1522 47th Avenue",
       "city": "Moline",
@@ -14963,7 +14944,7 @@
       "sponsor_tier": "none"
     },
     {
-      "id": "revive_cafe_serving_local_organic_healthy_vegan_and_gluten_free_options_in_the_quad_cities",
+      "id": "revive_cafe_",
       "type": "business",
       "name": "Revive Cafe - serving local, organic, healthy, vegan and gluten free options in the Quad Cities",
       "slug": "revive-cafe-serving-local-organic-healthy-vegan-and-gluten-free-options-in-the-quad-cities",
@@ -15274,7 +15255,9 @@
       "tags": [
         "attractions"
       ],
-      "attributes": [],
+      "attributes": [
+        "riverboat"
+      ],
       "address": "199 Front Street",
       "city": "Le Claire",
       "neighborhood": "",
@@ -16293,10 +16276,7 @@
         "parks",
         "outdoors"
       ],
-      "attributes": [
-        "Sports & Recreation",
-        "Kid Friendly"
-      ],
+      "attributes": [],
       "address": "18850 270th Street",
       "city": "Eldridge",
       "neighborhood": "",
@@ -16653,7 +16633,7 @@
       "attributes": [
         "Sports & Recreation",
         "Kid Friendly",
-        "Educational"
+        "skiing"
       ],
       "address": "9500 126th Street West",
       "city": "Andalusia",
@@ -17552,7 +17532,6 @@
       },
       "guides": [
         "river-views",
-        "hidden-gems",
         "visitors"
       ],
       "seasonal": [],
@@ -18358,7 +18337,9 @@
           "entity_photos\\the_district_photo_1.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19326,7 +19307,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Antiques"
+      ],
       "address": "2754 12th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -20305,7 +20288,9 @@
           "entity_photos\\up_skybar_lounge_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20675,7 +20660,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Antiques"
+      ],
       "address": "1305 30th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -20875,7 +20862,10 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Landscape Supplies",
+        "Plants"
+      ],
       "address": "2605 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -21232,10 +21222,7 @@
         "parks",
         "outdoors"
       ],
-      "attributes": [
-        "Educational",
-        "Sports & Recreation"
-      ],
+      "attributes": [],
       "address": "1884 Wildcat Den Road",
       "city": "Muscatine",
       "neighborhood": "",
