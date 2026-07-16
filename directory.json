@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T10:18:12.332134",
+  "generated": "2026-07-16T10:50:48.638134",
   "total": 421,
   "entities": [
     {
@@ -15,7 +15,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Visitor Friendly"
+        "Live Music"
       ],
       "address": "136 East 3rd Street",
       "city": "Davenport",
@@ -118,10 +118,10 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
+        "Kid Friendly",
+        "Arts & Culture",
         "Educational",
-        "Seasonal",
-        "Visitor Friendly"
+        "Seasonal"
       ],
       "address": "2525 4th Avenue",
       "city": "Rock Island",
@@ -174,9 +174,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1600 Crosstown Avenue",
       "city": "Silvis",
       "neighborhood": "",
@@ -209,7 +207,9 @@
           "entity_photos\\11th_hour_bar_grill_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -220,11 +220,13 @@
       "name": "129 Coffee and Wine Bar",
       "slug": "129-coffee-and-wine-bar",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Bar",
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Date Night"
+      ],
       "address": "129 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -257,7 +259,10 @@
           "entity_photos\\129_coffee_and_wine_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night",
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -272,7 +277,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "502 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -459,7 +466,9 @@
           "entity_photos\\abernathys_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -557,7 +566,9 @@
           "entity_photos\\aj_nails_spa_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -572,7 +583,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "2700 11th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -605,7 +618,9 @@
           "entity_photos\\alfanos_pizza_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -620,7 +635,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "4128 14th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -653,7 +670,9 @@
           "entity_photos\\als_burgers_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -664,7 +683,7 @@
       "name": "Anna's Nail Salon",
       "slug": "annas-nail-salon",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -702,7 +721,9 @@
           "entity_photos\\annas_nail_salon_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -713,7 +734,7 @@
       "name": "Ansan Nails & Spa",
       "slug": "ansan-nails-spa",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -751,7 +772,9 @@
           "entity_photos\\ansan_nails_spa_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -799,7 +822,9 @@
           "entity_photos\\antique_treasure_trove_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -815,7 +840,7 @@
         "shopping"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Historic"
       ],
       "address": "115 Davenport Street",
       "city": "Le Claire",
@@ -899,7 +924,9 @@
           "entity_photos\\antojitos_mexican_restaurant_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -918,8 +945,7 @@
         "Women's Services"
       ],
       "attributes": [
-        "Historic",
-        "Family Friendly"
+        "Historic"
       ],
       "address": "3811 Harrison Street",
       "city": "Davenport",
@@ -968,8 +994,7 @@
       ],
       "attributes": [
         "Patio",
-        "Date Night",
-        "Visitor Friendly"
+        "Live Music"
       ],
       "address": "315 Pershing Avenue",
       "city": "Davenport",
@@ -1020,7 +1045,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "3030 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -1119,7 +1146,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Visitor Friendly",
         "Arts & Culture"
       ],
       "address": "4707 North Brady Street",
@@ -1154,7 +1180,10 @@
           "entity_photos\\atomic_coffee_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee",
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1171,10 +1200,8 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
-        "Educational",
-        "Visitor Friendly",
-        "Arts & Culture"
+        "Arts & Culture",
+        "Educational"
       ],
       "address": "820 38th Street",
       "city": "Rock Island",
@@ -1227,9 +1254,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "2429 9th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -1379,8 +1404,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Historic",
-        "Community Impact"
+        "Historic"
       ],
       "address": "North Brady Street",
       "city": "Davenport",
@@ -1430,9 +1454,8 @@
         "other"
       ],
       "attributes": [
-        "River View",
-        "Community Impact",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Community Impact"
       ],
       "address": "5000 44th Street",
       "city": "Rock Island",
@@ -1483,7 +1506,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "201 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -1581,10 +1606,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "River View",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "777 Bally Boulevard",
       "city": "Rock Island",
       "neighborhood": "",
@@ -1631,7 +1653,7 @@
       "name": "Barrel House",
       "slug": "barrel-house",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Bar",
       "tags": [
         "nightlife"
       ],
@@ -1668,7 +1690,9 @@
           "entity_photos\\barrel_house_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1684,8 +1708,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night",
-        "Historic"
+        "Date Night"
       ],
       "address": "1425 River Drive",
       "city": "Moline",
@@ -1784,7 +1807,7 @@
       "name": "Bella Salon",
       "slug": "bella-salon",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -1822,7 +1845,9 @@
           "entity_photos\\bella_salon_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1839,9 +1864,8 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Kid Friendly"
       ],
       "address": "3000 River Drive",
       "city": "Moline",
@@ -1890,7 +1914,7 @@
       "name": "Bend XPO",
       "slug": "bend-xpo",
       "category": "things",
-      "entity_type": "",
+      "entity_type": "Venue",
       "tags": [
         "other"
       ],
@@ -2031,7 +2055,9 @@
           "entity_photos\\bespoke_beauty_and_body_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -2048,7 +2074,7 @@
         "fitness"
       ],
       "attributes": [
-        "Family Friendly",
+        "Sports & Recreation",
         "Community Impact"
       ],
       "address": "3800 Tanglefoot Lane",
@@ -2083,7 +2109,9 @@
           "entity_photos\\bettendorf_family_ymca_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -2134,7 +2162,9 @@
           "entity_photos\\beyond_genetics_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -2149,9 +2179,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "5279 Competition Drive",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -2202,10 +2230,9 @@
         "nightlife"
       ],
       "attributes": [
-        "River View",
         "Historic",
         "Live Music",
-        "Visitor Friendly"
+        "Patio"
       ],
       "address": "415 15th Street",
       "city": "Moline",
@@ -2261,8 +2288,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "129 North Main Street",
       "city": "Davenport",
@@ -2314,10 +2340,9 @@
         "culture"
       ],
       "attributes": [
-        "Historic",
         "Arts & Culture",
         "Educational",
-        "Visitor Friendly"
+        "Historic"
       ],
       "address": "112 West 2nd Street",
       "city": "Davenport",
@@ -2371,8 +2396,8 @@
         "nightlife"
       ],
       "attributes": [
-        "Historic",
-        "Date Night"
+        "Date Night",
+        "Historic"
       ],
       "address": "200 East 3rd Street",
       "city": "Davenport",
@@ -2426,8 +2451,7 @@
         "culture"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Sports & Recreation"
       ],
       "address": "",
       "city": "Rock Island",
@@ -2483,9 +2507,8 @@
       ],
       "attributes": [
         "Historic",
-        "Educational",
         "Arts & Culture",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "1510 46th Avenue",
       "city": "Rock Island",
@@ -2587,8 +2610,7 @@
         "shopping"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "4000 East 53rd Street",
       "city": "Davenport",
@@ -2686,8 +2708,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "226 West 3rd Street",
       "city": "Davenport",
@@ -2736,7 +2757,9 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "421 West River Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -2769,7 +2792,9 @@
           "entity_photos\\boozies_bar_grill_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -2784,9 +2809,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "2324 5th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -2936,9 +2959,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "River View",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "199 Front Street",
       "city": "Le Claire",
@@ -2992,9 +3013,7 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "429 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -3048,8 +3067,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "1105 8th Street",
       "city": "Moline",
@@ -3098,7 +3116,7 @@
       "name": "California Nails",
       "slug": "california-nails",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -3136,7 +3154,9 @@
           "entity_photos\\california_nails_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3151,7 +3171,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "1026 Mound Street",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -3184,7 +3206,9 @@
           "entity_photos\\calla_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3201,8 +3225,7 @@
       ],
       "attributes": [
         "Historic",
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "330 West 3rd Street",
       "city": "Davenport",
@@ -3304,7 +3327,7 @@
         "other"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "3232 Bear Tooth Court",
       "city": "Bettendorf",
@@ -3355,11 +3378,7 @@
       "tags": [
         "attractions"
       ],
-      "attributes": [
-        "River View",
-        "Visitor Friendly",
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "2501 River Drive",
       "city": "Moline",
       "neighborhood": "",
@@ -3414,10 +3433,8 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
         "Sports & Recreation",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "315 South Marquette Street",
       "city": "Davenport",
@@ -3529,8 +3546,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Patio",
-        "Visitor Friendly"
+        "Patio"
       ],
       "address": "2239 Falcon Avenue",
       "city": "Bettendorf",
@@ -3582,9 +3598,7 @@
         "other"
       ],
       "attributes": [
-        "River View",
-        "Visitor Friendly",
-        "Family Friendly"
+        "Historic"
       ],
       "address": "2100 East River Drive",
       "city": "Davenport",
@@ -3620,7 +3634,10 @@
           "entity_photos\\channel_cat_water_taxi_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3639,8 +3656,7 @@
         "Historic",
         "Live Music",
         "Date Night",
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "1828 3rd Avenue",
       "city": "Rock Island",
@@ -3726,7 +3742,9 @@
           "entity_photos\\circle_tap_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -3790,8 +3808,7 @@
         "other"
       ],
       "attributes": [
-        "River View",
-        "Visitor Friendly"
+        "Historic"
       ],
       "address": "302 South 14th",
       "city": "Keithsburg",
@@ -3942,9 +3959,7 @@
       "tags": [
         "coffee"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "114 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -3994,9 +4009,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "1315 Jersey Ridge Road",
       "city": "Davenport",
       "neighborhood": "Village of East Davenport",
@@ -4095,9 +4108,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "3206 East Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -4151,8 +4162,7 @@
       ],
       "attributes": [
         "Live Music",
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "129 North Main Street",
       "city": "Davenport",
@@ -4204,9 +4214,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "411 West Mississippi Drive",
       "city": "Muscatine",
       "neighborhood": "",
@@ -4257,7 +4265,6 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly"
       ],
       "address": "6920 Competition Court",
@@ -4292,7 +4299,9 @@
           "entity_photos\\cookies_dreams_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4303,14 +4312,13 @@
       "name": "Cordova Dragway",
       "slug": "cordova-dragway",
       "category": "things",
-      "entity_type": "Attraction",
+      "entity_type": "Sports Organization",
       "tags": [
         "other"
       ],
       "attributes": [
-        "Seasonal",
-        "Family Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Seasonal"
       ],
       "address": "19425 Illinois 84",
       "city": "Cordova",
@@ -4363,10 +4371,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "3852 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -4417,10 +4422,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "140 East 55th Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -4473,9 +4475,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "2721 69th Avenue Court",
       "city": "Moline",
       "neighborhood": "",
@@ -4526,7 +4526,8 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Kid Friendly",
+        "Historic"
       ],
       "address": "2140 16th Street",
       "city": "Moline",
@@ -4560,7 +4561,9 @@
           "entity_photos\\country_style_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4576,8 +4579,9 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Historic"
+        "Historic",
+        "Kid Friendly",
+        "Date Night"
       ],
       "address": "1640 West 53rd Street",
       "city": "Davenport",
@@ -4611,7 +4615,10 @@
           "entity_photos\\country_style_ice_cream_coffee_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4709,7 +4716,9 @@
           "entity_photos\\crabbys_bar_grill_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4726,8 +4735,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "102 North Cody Road",
       "city": "Le Claire",
@@ -4779,7 +4787,6 @@
         "restaurants"
       ],
       "attributes": [
-        "River View",
         "Historic"
       ],
       "address": "127 South 2nd Street",
@@ -4833,8 +4840,6 @@
         "restaurants"
       ],
       "attributes": [
-        "River View",
-        "Visitor Friendly",
         "Date Night"
       ],
       "address": "3659 Devils Glen Road",
@@ -4888,7 +4893,9 @@
       "tags": [
         "other"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "1306 Mill Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -4939,7 +4946,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night"
+        "Arts & Culture"
       ],
       "address": "213 12th Avenue",
       "city": "East Moline",
@@ -4973,7 +4980,9 @@
           "entity_photos\\creative_signature_cuisine_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -4990,8 +4999,7 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Sports & Recreation"
       ],
       "address": "4800 Devils Glen Road",
       "city": "Bettendorf",
@@ -5078,7 +5086,9 @@
           "entity_photos\\cruz_cutz_barbershop_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5094,9 +5104,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "207 Western Avenue",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -5147,10 +5155,8 @@
         "nightlife"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
         "Date Night",
-        "Visitor Friendly"
+        "Patio"
       ],
       "address": "1201 East River Drive",
       "city": "Davenport",
@@ -5203,9 +5209,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "303 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -5305,10 +5309,8 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
-        "Kid Friendly",
         "Educational",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "18817 290th Street",
       "city": "Long Grove",
@@ -5361,9 +5363,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "1566 Illinois 17",
       "city": "Aledo",
       "neighborhood": "",
@@ -5412,7 +5412,6 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
         "Arts & Culture",
         "Community Impact"
@@ -5503,7 +5502,9 @@
           "entity_photos\\davenport_speedway_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5669,11 +5670,9 @@
         "attractions"
       ],
       "attributes": [
-        "River View",
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "One John Deere Place",
       "city": "Moline",
@@ -5758,7 +5757,9 @@
           "entity_photos\\del_rich_loan_neat_stuff_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5775,8 +5776,8 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Kid Friendly"
       ],
       "address": "1101 Devils Glen Road",
       "city": "Bettendorf",
@@ -5812,7 +5813,9 @@
           "entity_photos\\devils_glen_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5823,7 +5826,7 @@
       "name": "Disc Replay Davenport",
       "slug": "disc-replay-davenport",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -5860,7 +5863,9 @@
           "entity_photos\\disc_replay_davenport_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5910,7 +5915,9 @@
           "entity_photos\\doland_jewelers_inc_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5925,7 +5932,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "3606 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -5958,7 +5967,9 @@
           "entity_photos\\donut_delite_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -5973,7 +5984,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "1717 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -6006,7 +6019,10 @@
           "entity_photos\\donuts_more_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6021,9 +6037,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "River View"
-      ],
+      "attributes": [],
       "address": "430 West 3rd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -6056,7 +6070,9 @@
           "entity_photos\\doodads_estate_sales_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6072,8 +6088,7 @@
         "shopping"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "2822 16th Street",
       "city": "Moline",
@@ -6107,7 +6122,9 @@
           "entity_photos\\dots_pots_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6220,7 +6237,7 @@
       ],
       "attributes": [
         "Date Night",
-        "Historic"
+        "Arts & Culture"
       ],
       "address": "115 East 3rd Street",
       "city": "Davenport",
@@ -6254,7 +6271,10 @@
           "entity_photos\\duck_city_bistro_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "date-night",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6319,7 +6339,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "689 Avenue Of The Cities",
       "city": "East Moline",
       "neighborhood": "",
@@ -6352,7 +6374,9 @@
           "entity_photos\\dsavor_house_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6420,8 +6444,7 @@
         "education"
       ],
       "attributes": [
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "745 16th Avenue",
       "city": "East Moline",
@@ -6455,7 +6478,9 @@
           "entity_photos\\east_moline_public_library_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6473,7 +6498,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Visitor Friendly"
+        "Seasonal"
       ],
       "address": "322 North Brady Street",
       "city": "Davenport",
@@ -6527,7 +6552,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "1132 West Locust Street",
       "city": "Davenport",
@@ -6561,7 +6586,9 @@
           "entity_photos\\eddys_snack_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6572,7 +6599,7 @@
       "name": "Egg Parlor",
       "slug": "egg-parlor",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Restaurant",
       "tags": [
         "restaurants"
       ],
@@ -6609,7 +6636,9 @@
           "entity_photos\\egg_parlor_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6620,13 +6649,13 @@
       "name": "Elevate Trampoline Park",
       "slug": "elevate-trampoline-park",
       "category": "things",
-      "entity_type": "Fitness Center",
+      "entity_type": "Attraction",
       "tags": [
         "other"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "4800 Elmore Avenue",
       "city": "Davenport",
@@ -6707,7 +6736,9 @@
           "entity_photos\\elm_street_apothecary_photo_2.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6768,7 +6799,7 @@
       "name": "Envied Vintage Clothing Etc",
       "slug": "envied-vintage-clothing-etc",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -6805,7 +6836,9 @@
           "entity_photos\\envied_vintage_clothing_etc_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6821,7 +6854,7 @@
         "shopping"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "",
       "city": "Moline",
@@ -6872,10 +6905,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "2303 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -6927,7 +6957,6 @@
         "culture"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
         "Arts & Culture",
         "Educational"
@@ -6983,9 +7012,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1110 East Kimberly Road",
       "city": "Davenport",
       "neighborhood": "",
@@ -7029,7 +7056,7 @@
       "name": "Fancy Nails & Spa",
       "slug": "fancy-nails-spa",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -7183,10 +7210,8 @@
         "culture"
       ],
       "attributes": [
-        "River View",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "225 West 2nd Street",
       "city": "Davenport",
@@ -7240,9 +7265,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "2255 Falcon Avenue",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -7324,7 +7347,9 @@
           "entity_photos\\five_star_salon_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7339,9 +7364,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "4751 Progress Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -7374,7 +7397,9 @@
           "entity_photos\\flips_pancake_house_utica_ridge_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7389,7 +7414,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "1326 30th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -7422,7 +7449,9 @@
           "entity_photos\\fred_ethels_50s_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7437,11 +7466,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly",
-        "Visitor Friendly",
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "421 West River Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -7496,9 +7521,8 @@
       ],
       "attributes": [
         "Historic",
-        "River View",
-        "Patio",
-        "Live Music"
+        "Live Music",
+        "Patio"
       ],
       "address": "208 East River Drive",
       "city": "Davenport",
@@ -7584,7 +7608,9 @@
           "entity_photos\\fusion_salon_and_spa_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7636,7 +7662,9 @@
           "entity_photos\\fyre_lake_golf_club_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7651,7 +7679,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "4020 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -7684,7 +7714,9 @@
           "entity_photos\\gathered_goods_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7699,9 +7731,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "102 South State Street",
       "city": "Geneseo",
       "neighborhood": "",
@@ -7750,7 +7780,8 @@
         "other"
       ],
       "attributes": [
-        "Arts & Culture"
+        "Arts & Culture",
+        "Community Impact"
       ],
       "address": "1120 40th Street",
       "city": "Rock Island",
@@ -7784,7 +7815,10 @@
           "entity_photos\\genesius_guild_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7803,8 +7837,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "712 West 2nd Street",
       "city": "Davenport",
@@ -7858,8 +7891,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "3934 16th Street",
       "city": "Moline",
@@ -7906,11 +7938,13 @@
       "name": "Glynns Creek Golf Course",
       "slug": "glynns-creek-golf-course",
       "category": "things",
-      "entity_type": "",
+      "entity_type": "Golf Course",
       "tags": [
         "other"
       ],
-      "attributes": [],
+      "attributes": [
+        "Sports & Recreation"
+      ],
       "address": "19251 290th Street",
       "city": "Long Grove",
       "neighborhood": "",
@@ -7945,7 +7979,9 @@
           "entity_photos\\glynns_creek_golf_course_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -7994,7 +8030,9 @@
           "entity_photos\\golden_royal_barbershop_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8005,7 +8043,7 @@
       "name": "Gramma's Kitchen & Checkered Flag",
       "slug": "grammas-kitchen-checkered-flag",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Restaurant",
       "tags": [
         "restaurants"
       ],
@@ -8042,7 +8080,9 @@
           "entity_photos\\grammas_kitchen_checkered_flag_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8057,9 +8097,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "3451 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -8110,9 +8148,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Patio",
-        "Family Friendly",
-        "Visitor Friendly"
+        "Patio"
       ],
       "address": "332 East 2nd Street",
       "city": "Davenport",
@@ -8164,9 +8200,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "309 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -8364,7 +8398,9 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "2805 Avenue Of The Cities",
       "city": "Moline",
       "neighborhood": "",
@@ -8397,7 +8433,9 @@
           "entity_photos\\hafners_tavern_liquor_store_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8414,8 +8452,7 @@
         "lodging"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "2450 69th Avenue",
       "city": "Moline",
@@ -8469,7 +8506,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "524 East Locust Street",
       "city": "Davenport",
@@ -8503,7 +8540,10 @@
           "entity_photos\\harris_pizza_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8519,8 +8559,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Historic",
-        "Family Friendly"
+        "Historic"
       ],
       "address": "3903 14th Avenue",
       "city": "Rock Island",
@@ -8573,9 +8612,8 @@
       ],
       "attributes": [
         "Historic",
-        "Educational",
-        "Visitor Friendly",
-        "Arts & Culture"
+        "Arts & Culture",
+        "Educational"
       ],
       "address": "1300 24th Street",
       "city": "Rock Island",
@@ -8662,7 +8700,9 @@
           "entity_photos\\haus_of_heir_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8677,7 +8717,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Community Impact"
+      ],
       "address": "3651 Devils Glen Road",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -8710,7 +8752,9 @@
           "entity_photos\\healthy_habits_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -8775,8 +8819,8 @@
       ],
       "attributes": [
         "Historic",
-        "Free",
-        "Community Impact"
+        "Community Impact",
+        "Educational"
       ],
       "address": "202 1st Avenue",
       "city": "Silvis",
@@ -8879,8 +8923,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Visitor Friendly",
-        "River View"
+        "Educational"
       ],
       "address": "104 Western Avenue",
       "city": "Davenport",
@@ -8934,9 +8977,7 @@
       ],
       "attributes": [
         "Historic",
-        "River View",
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "200 East 3rd Street",
       "city": "Davenport",
@@ -9022,7 +9063,9 @@
           "entity_photos\\huckleberrys_great_pizza_and_calzones_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9038,11 +9081,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "River View",
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "111 Bend Boulevard",
       "city": "East Moline",
       "neighborhood": "",
@@ -9146,7 +9185,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Arts & Culture"
       ],
       "address": "102 South Harrison Street",
       "city": "Davenport",
@@ -9198,8 +9237,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "2777 18th Street",
       "city": "Bettendorf",
@@ -9352,10 +9390,8 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
-        "Kid Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Kid Friendly"
       ],
       "address": "836 State Avenue",
       "city": "Hampton",
@@ -9458,9 +9494,7 @@
       ],
       "attributes": [
         "Free",
-        "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "505 Sterling Drive",
       "city": "Walcott",
@@ -9596,7 +9630,9 @@
           "entity_photos\\iron_lion_disc_golf_supply_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9612,10 +9648,7 @@
         "hotels",
         "lodging"
       ],
-      "attributes": [
-        "River View",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "1777 Isle Parkway",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -9666,7 +9699,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "615 15th Avenue",
       "city": "East Moline",
@@ -9717,7 +9750,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Community Impact"
+      ],
       "address": "836 East River Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -9767,7 +9802,9 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Live Music"
+      ],
       "address": "545 12th Avenue",
       "city": "East Moline",
       "neighborhood": "",
@@ -9800,7 +9837,9 @@
           "entity_photos\\jennies_boxcar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -9864,8 +9903,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night",
-        "Family Friendly"
+        "Date Night"
       ],
       "address": "4009 East 53rd Street",
       "city": "Davenport",
@@ -9918,7 +9956,7 @@
       ],
       "attributes": [
         "Historic",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "1100 13th Avenue",
       "city": "East Moline",
@@ -9965,17 +10003,15 @@
       "name": "John Deere Pavilion",
       "slug": "john-deere-pavilion",
       "category": "things",
-      "entity_type": "Attraction",
+      "entity_type": "Museum",
       "tags": [
         "arts",
         "culture"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly",
-        "Educational",
         "Arts & Culture",
-        "Visitor Friendly"
+        "Educational",
+        "Kid Friendly"
       ],
       "address": "1400 River Drive",
       "city": "Moline",
@@ -10029,8 +10065,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
-        "Historic"
+        "Date Night"
       ],
       "address": "1300 River Drive",
       "city": "Moline",
@@ -10226,7 +10261,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "3637 Avenue Of The Cities",
       "city": "Moline",
@@ -10273,11 +10308,13 @@
       "name": "Kindred Styles Antiques",
       "slug": "kindred-styles-antiques",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Seasonal"
+      ],
       "address": "1918 7th Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -10310,7 +10347,9 @@
           "entity_photos\\kindred_styles_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10374,7 +10413,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "2139 16th Street",
       "city": "Moline",
@@ -10408,7 +10447,9 @@
           "entity_photos\\la_rancherita_2_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10424,9 +10465,7 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "5205 North Brady Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -10475,8 +10514,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Historic",
-        "Family Friendly"
+        "Historic"
       ],
       "address": "2132 East 11th Street",
       "city": "Davenport",
@@ -10528,7 +10566,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Arts & Culture"
       ],
       "address": "1534 6th Avenue",
       "city": "Moline",
@@ -10562,7 +10600,9 @@
           "entity_photos\\las_salsas_dona_mary_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10573,11 +10613,13 @@
       "name": "Lavender Crest Winery",
       "slug": "lavender-crest-winery",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Venue",
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Date Night"
+      ],
       "address": "5401 U.S. 6",
       "city": "Colona",
       "neighborhood": "",
@@ -10610,7 +10652,9 @@
           "entity_photos\\lavender_crest_winery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10658,7 +10702,9 @@
           "entity_photos\\le_mekong_vietnamese_restaurant_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10675,11 +10721,9 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
+        "Kid Friendly",
         "Live Music",
-        "Free",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "400 Beiderbecke Drive",
       "city": "Davenport",
@@ -10767,7 +10811,9 @@
           "entity_photos\\lemongrass_cafe_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10784,7 +10830,6 @@
       ],
       "attributes": [
         "Historic",
-        "River View",
         "Arts & Culture"
       ],
       "address": "400 Beiderbecke Drive",
@@ -10835,7 +10880,7 @@
       "name": "Lifted Energy",
       "slug": "lifted-energy",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Coffee Shop",
       "tags": [
         "restaurants"
       ],
@@ -10872,7 +10917,10 @@
           "entity_photos\\lifted_energy_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "coffee",
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -10888,8 +10936,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "429 East 3rd Street",
       "city": "Davenport",
@@ -10940,7 +10987,7 @@
       ],
       "attributes": [
         "Patio",
-        "Family Friendly"
+        "Date Night"
       ],
       "address": "5304 Avenue Of The Cities",
       "city": "Moline",
@@ -10993,9 +11040,8 @@
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
         "Educational",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "25291 240th Avenue",
       "city": "Princeton",
@@ -11044,8 +11090,8 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Free"
       ],
       "address": "19408 Loud Thunder Road",
       "city": "Illinois City",
@@ -11099,7 +11145,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "102 East Kimberly Road",
       "city": "Davenport",
@@ -11133,7 +11179,9 @@
           "entity_photos\\lunardis_restaurant_italian_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -11198,7 +11246,7 @@
       ],
       "attributes": [
         "Historic",
-        "Date Night"
+        "Patio"
       ],
       "address": "316 West 3rd Street",
       "city": "Davenport",
@@ -11249,9 +11297,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "7250 Northwest Boulevard",
       "city": "Davenport",
       "neighborhood": "",
@@ -11301,9 +11347,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "1927 North Main Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -11353,7 +11397,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "201 East 2nd Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -11384,7 +11430,9 @@
           "entity_photos\\major_art_hobby_center_photo_1.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -11400,7 +11448,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "3801 North Brady Street",
       "city": "Davenport",
@@ -11452,8 +11500,8 @@
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "858 Middle Road",
       "city": "Bettendorf",
@@ -11507,8 +11555,6 @@
         "restaurants"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
         "Date Night"
       ],
       "address": "220 North Harrison Street",
@@ -11611,8 +11657,8 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Kid Friendly"
       ],
       "address": "1200 Mississippi Boulevard",
       "city": "Bettendorf",
@@ -11713,9 +11759,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1320 5th Avenue",
       "city": "Moline",
       "neighborhood": "",
@@ -11767,8 +11811,8 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "2220 23rd Street",
       "city": "Bettendorf",
@@ -11822,8 +11866,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "537 12th Avenue",
       "city": "East Moline",
@@ -12007,7 +12050,9 @@
           "entity_photos\\miss_phay_cafe_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12022,7 +12067,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "606 North Cody Road",
       "city": "Le Claire",
       "neighborhood": "",
@@ -12055,7 +12102,9 @@
           "entity_photos\\mississippi_cottage_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12105,7 +12154,9 @@
           "entity_photos\\mississippi_marketplace_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12121,7 +12172,7 @@
         "nightlife"
       ],
       "attributes": [
-        "River View"
+        "Arts & Culture"
       ],
       "address": "318 East 2nd Street",
       "city": "Davenport",
@@ -12175,8 +12226,7 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "902 East River Drive",
       "city": "Davenport",
@@ -12223,13 +12273,12 @@
       "name": "Mississippi Valley Fair",
       "slug": "mississippi-valley-fair",
       "category": "things",
-      "entity_type": "Attraction",
+      "entity_type": "Event Organizer",
       "tags": [
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
-        "River View",
+        "Kid Friendly",
         "Community Impact"
       ],
       "address": "2815 West Locust Street",
@@ -12337,12 +12386,9 @@
         "events"
       ],
       "attributes": [
-        "River View",
         "Historic",
-        "Family Friendly",
-        "Seasonal",
-        "Visitor Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Kid Friendly"
       ],
       "address": "209 South Gaines Street",
       "city": "Davenport",
@@ -12526,7 +12572,9 @@
           "entity_photos\\monarch_kitchen_bar_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12585,15 +12633,14 @@
       "name": "Nahant Marsh",
       "slug": "nahant-marsh",
       "category": "community",
-      "entity_type": "Attraction",
+      "entity_type": "Park",
       "tags": [
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Educational",
         "Sports & Recreation",
-        "Visitor Friendly"
+        "Free"
       ],
       "address": "",
       "city": "Davenport",
@@ -12647,8 +12694,7 @@
         "shopping"
       ],
       "attributes": [
-        "Sports & Recreation",
-        "Visitor Friendly"
+        "Sports & Recreation"
       ],
       "address": "2219 3rd Avenue",
       "city": "Rock Island",
@@ -12682,7 +12728,9 @@
           "entity_photos\\navarro_canoe_co_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12697,7 +12745,9 @@
       "tags": [
         "shopping"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "4009 East 53rd Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -12730,7 +12780,9 @@
           "entity_photos\\neckers_jewelers_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12746,9 +12798,8 @@
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "13010 Niabi Zoo Road",
       "city": "Coal Valley",
@@ -12932,7 +12983,9 @@
           "entity_photos\\obsidian_and_sage_llc_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -12980,7 +13033,9 @@
           "entity_photos\\odd_betties_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13091,9 +13146,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1824 7th Street",
       "city": "Moline",
       "neighborhood": "Old Towne",
@@ -13126,7 +13179,9 @@
           "entity_photos\\olde_towne_bakery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13137,7 +13192,7 @@
       "name": "Ollie's Bargain Outlet",
       "slug": "ollies-bargain-outlet",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -13174,7 +13229,9 @@
           "entity_photos\\ollies_bargain_outlet_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13190,9 +13247,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Date Night",
-        "Live Music"
+        "Date Night"
       ],
       "address": "4707 16th Street",
       "city": "Moline",
@@ -13248,8 +13303,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "115 West 7th Street",
       "city": "Davenport",
@@ -13303,7 +13357,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Family Friendly",
         "Sports & Recreation"
       ],
       "address": "2999 Middle Road",
@@ -13340,7 +13393,9 @@
           "entity_photos\\palmer_hills_golf_course_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13460,7 +13515,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "2035 Martin Luther King Drive",
       "city": "Rock Island",
@@ -13560,10 +13615,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "4411 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -13664,7 +13716,6 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
         "Arts & Culture",
         "Community Impact"
       ],
@@ -13846,7 +13897,9 @@
           "entity_photos\\purgatorys_pub_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13863,13 +13916,10 @@
         "culture"
       ],
       "attributes": [
-        "River View",
         "Historic",
-        "Family Friendly",
         "Kid Friendly",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "1717 West 12th Street",
       "city": "Davenport",
@@ -13923,7 +13973,6 @@
         "nightlife"
       ],
       "attributes": [
-        "Family Friendly",
         "Sports & Recreation"
       ],
       "address": "4401 44th Avenue",
@@ -13975,7 +14024,6 @@
       ],
       "attributes": [
         "Community Impact",
-        "Donation Supported",
         "Scholarships & Grants"
       ],
       "address": "852 Middle Road",
@@ -14075,10 +14123,9 @@
         "events"
       ],
       "attributes": [
-        "River View",
         "Seasonal",
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "209 Gaines Street",
       "city": "Davenport",
@@ -14132,8 +14179,7 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "1715 2nd Avenue",
       "city": "Rock Island",
@@ -14234,9 +14280,8 @@
         "events"
       ],
       "attributes": [
-        "Family Friendly",
         "Community Impact",
-        "Visitor Friendly"
+        "Sports & Recreation"
       ],
       "address": "1201 River Drive",
       "city": "Moline",
@@ -14287,7 +14332,7 @@
         "events"
       ],
       "attributes": [
-        "Family Friendly",
+        "Sports & Recreation",
         "Community Impact"
       ],
       "address": "1201 River Drive",
@@ -14341,7 +14386,6 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Visitor Friendly",
         "Date Night"
       ],
       "address": "327 North Brady Street",
@@ -14398,7 +14442,6 @@
       ],
       "attributes": [
         "Sports & Recreation",
-        "Family Friendly",
         "Educational"
       ],
       "address": "1522 47th Avenue",
@@ -14448,10 +14491,7 @@
       "tags": [
         "other"
       ],
-      "attributes": [
-        "River View",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "2021 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -14535,7 +14575,9 @@
           "entity_photos\\quartz_botanicals_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14552,8 +14594,8 @@
         "fitness"
       ],
       "attributes": [
-        "Sports & Recreation",
-        "Community Impact"
+        "Community Impact",
+        "Sports & Recreation"
       ],
       "address": "630 East 4th Street",
       "city": "Davenport",
@@ -14587,7 +14629,9 @@
           "entity_photos\\r_richard_bittner_downtown_ymca_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14637,7 +14681,9 @@
           "entity_photos\\raccoon_motel_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14652,9 +14698,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "1340 31st Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -14703,7 +14747,8 @@
         "shopping"
       ],
       "attributes": [
-        "Arts & Culture"
+        "Arts & Culture",
+        "Community Impact"
       ],
       "address": "311 East 2nd Street",
       "city": "Davenport",
@@ -14737,7 +14782,9 @@
           "entity_photos\\ragged_records_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -14754,10 +14801,9 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
         "Educational",
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Kid Friendly",
+        "Arts & Culture"
       ],
       "address": "1101 North 2nd Avenue",
       "city": "Silvis",
@@ -14811,8 +14857,7 @@
         "other"
       ],
       "attributes": [
-        "Live Music",
-        "Visitor Friendly"
+        "Live Music"
       ],
       "address": "1418 15th Street",
       "city": "Moline",
@@ -14966,7 +15011,7 @@
         "shopping"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "210 East 2nd Street",
       "city": "Davenport",
@@ -15065,9 +15110,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "329 East 4th Street",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -15117,7 +15160,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "1317 15th Street",
       "city": "Moline",
       "neighborhood": "Uptown",
@@ -15150,7 +15195,9 @@
           "entity_photos\\restaurante_el_mariachi_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15213,9 +15260,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "4360 Kennedy Drive",
       "city": "East Moline",
       "neighborhood": "",
@@ -15259,14 +15304,14 @@
       "name": "Rhythm City Casino Resort",
       "slug": "rhythm-city-casino-resort",
       "category": "eat_drink",
-      "entity_type": "Hotel",
+      "entity_type": "Venue",
       "tags": [
         "hotels",
         "lodging"
       ],
       "attributes": [
         "Live Music",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "7077 Elmore Avenue",
       "city": "Davenport",
@@ -15350,7 +15395,9 @@
           "entity_photos\\riddles_jewelry_davenport_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15417,7 +15464,7 @@
         "Community Impact",
         "Volunteer Opportunities",
         "Educational",
-        "River View"
+        "Arts & Culture"
       ],
       "address": "822 East River Drive",
       "city": "Davenport",
@@ -15470,8 +15517,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Live Music",
-        "Visitor Friendly"
+        "Live Music"
       ],
       "address": "1510 River Drive",
       "city": "Moline",
@@ -15524,8 +15570,6 @@
         "attractions"
       ],
       "attributes": [
-        "River View",
-        "Visitor Friendly",
         "Date Night"
       ],
       "address": "199 Front Street",
@@ -15581,7 +15625,7 @@
       ],
       "attributes": [
         "Live Music",
-        "River View"
+        "Patio"
       ],
       "address": "4619 34th Street",
       "city": "Rock Island",
@@ -15687,10 +15731,8 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly",
         "Sports & Recreation",
-        "River View"
+        "Kid Friendly"
       ],
       "address": "1004 5th Avenue",
       "city": "Moline",
@@ -15795,8 +15837,7 @@
       "attributes": [
         "Historic",
         "Arts & Culture",
-        "Educational",
-        "Visitor Friendly"
+        "Educational"
       ],
       "address": "3500 North Avenue",
       "city": "Rock Island",
@@ -15850,10 +15891,9 @@
         "other"
       ],
       "attributes": [
-        "River View",
         "Historic",
         "Educational",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "23 Prospect Drive",
       "city": "Moline",
@@ -15951,8 +15991,7 @@
         "fitness"
       ],
       "attributes": [
-        "Sports & Recreation",
-        "Family Friendly"
+        "Sports & Recreation"
       ],
       "address": "4303 24th Street",
       "city": "Rock Island",
@@ -16104,8 +16143,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Educational",
-        "Community Impact"
+        "Educational"
       ],
       "address": "108 North State Street",
       "city": "Geneseo",
@@ -16138,7 +16176,9 @@
           "entity_photos\\rutabaga_art_photo_2.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16154,7 +16194,6 @@
         "restaurants"
       ],
       "attributes": [
-        "River View",
         "Date Night"
       ],
       "address": "7077 Elmore Avenue",
@@ -16241,7 +16280,9 @@
           "entity_photos\\sales_from_the_krypt_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16301,7 +16342,7 @@
       "name": "Salon Halo",
       "slug": "salon-halo",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -16339,7 +16380,9 @@
           "entity_photos\\salon_halo_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16388,7 +16431,9 @@
           "entity_photos\\salon_r5_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16405,8 +16450,7 @@
         "events"
       ],
       "attributes": [
-        "River View",
-        "Community Impact"
+        "Sports & Recreation"
       ],
       "address": "3101 38th Street",
       "city": "Rock Island",
@@ -16507,10 +16551,7 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Family Friendly",
         "Kid Friendly",
-        "Visitor Friendly",
         "Live Music"
       ],
       "address": "101 17th Street",
@@ -16566,10 +16607,8 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly",
         "Sports & Recreation",
-        "Free"
+        "Kid Friendly"
       ],
       "address": "18850 270th Street",
       "city": "Eldridge",
@@ -16623,7 +16662,9 @@
         "beauty",
         "wellness"
       ],
-      "attributes": [],
+      "attributes": [
+        "Date Night"
+      ],
       "address": "3915 16th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -16656,7 +16697,9 @@
           "entity_photos\\serenity_salon_day_spa_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16672,8 +16715,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "406 West 2nd Street",
       "city": "Davenport",
@@ -16720,12 +16762,11 @@
       "name": "Skate City QCA",
       "slug": "skate-city-qca",
       "category": "things",
-      "entity_type": "Attraction",
+      "entity_type": "Venue",
       "tags": [
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
         "Sports & Recreation"
       ],
@@ -16814,7 +16855,9 @@
           "entity_photos\\skeleton_key_art_and_antiques_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16830,8 +16873,7 @@
         "other"
       ],
       "attributes": [
-        "Date Night",
-        "Family Friendly"
+        "Date Night"
       ],
       "address": "420 18th Street",
       "city": "Rock Island",
@@ -16932,9 +16974,8 @@
         "shopping"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly",
         "Sports & Recreation",
+        "Kid Friendly",
         "Educational"
       ],
       "address": "9500 126th Street West",
@@ -16989,8 +17030,8 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "902 West Kimberly Road",
       "city": "Davenport",
@@ -17041,9 +17082,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1825 2nd Avenue",
       "city": "Rock Island",
       "neighborhood": "",
@@ -17076,7 +17115,9 @@
           "entity_photos\\soi_2_thai_street_food_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17092,8 +17133,7 @@
         "shopping"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "232 West 3rd Street",
       "city": "Davenport",
@@ -17127,7 +17167,9 @@
           "entity_photos\\source_bookstore_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17138,7 +17180,7 @@
       "name": "SouthPark Mall",
       "slug": "southpark-mall",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -17194,8 +17236,7 @@
         "lodging"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "5235 Competition Drive",
       "city": "Bettendorf",
@@ -17297,9 +17338,7 @@
         "health",
         "fitness"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "4729 Progress Drive",
       "city": "Davenport",
       "neighborhood": "",
@@ -17347,9 +17386,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "2180 53rd Street",
       "city": "Moline",
       "neighborhood": "",
@@ -17382,7 +17419,9 @@
           "entity_photos\\steel_plow_burger_company_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17397,7 +17436,9 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "223 17th Street",
       "city": "Rock Island",
       "neighborhood": "",
@@ -17430,7 +17471,9 @@
           "entity_photos\\steves_old_time_tap_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17445,11 +17488,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "River View",
-        "Family Friendly",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "210 East River Drive",
       "city": "Davenport",
       "neighborhood": "Downtown Davenport",
@@ -17500,10 +17539,7 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [
-        "River View",
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "101 18th Street",
       "city": "Moline",
       "neighborhood": "",
@@ -17604,7 +17640,6 @@
         "outdoors"
       ],
       "attributes": [
-        "Family Friendly",
         "Sports & Recreation"
       ],
       "address": "4675 Telegraph Road",
@@ -17641,7 +17676,9 @@
           "entity_photos\\sunderbruch_park_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -17656,9 +17693,7 @@
       "tags": [
         "coffee"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "6816 34th Street Court",
       "city": "Moline",
       "neighborhood": "",
@@ -17709,7 +17744,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
+        "Kid Friendly",
         "Date Night"
       ],
       "address": "1901 West 4th Street",
@@ -17815,8 +17850,7 @@
         "outdoors"
       ],
       "attributes": [
-        "River View",
-        "Visitor Friendly"
+        "Historic"
       ],
       "address": "",
       "city": "Moline",
@@ -17852,7 +17886,11 @@
           "entity_photos\\sylvan_island_photo_5.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "river-views",
+        "hidden-gems",
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18062,9 +18100,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Family Friendly"
-      ],
+      "attributes": [],
       "address": "1821 19th Street",
       "city": "East Moline",
       "neighborhood": "",
@@ -18097,7 +18133,9 @@
           "entity_photos\\taqueria_la_rosa_de_michoacan_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18113,7 +18151,6 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Sports & Recreation"
       ],
       "address": "4850 Competition Drive",
@@ -18166,7 +18203,6 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
         "Sports & Recreation"
       ],
@@ -18222,8 +18258,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Live Music",
-        "Visitor Friendly"
+        "Live Music"
       ],
       "address": "2108 East 11th Street",
       "city": "Davenport",
@@ -18312,7 +18347,9 @@
           "entity_photos\\the_artery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18328,7 +18365,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "1801 5th Avenue",
       "city": "Moline",
@@ -18432,9 +18469,7 @@
       "tags": [
         "coffee"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "1708 13th Street",
       "city": "Viola",
       "neighborhood": "",
@@ -18484,9 +18519,7 @@
       "tags": [
         "attractions"
       ],
-      "attributes": [
-        "Visitor Friendly"
-      ],
+      "attributes": [],
       "address": "910 Bend Boulevard",
       "city": "East Moline",
       "neighborhood": "",
@@ -18540,8 +18573,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Community Impact",
-        "Visitor Friendly"
+        "Community Impact"
       ],
       "address": "1623 5th Avenue",
       "city": "Moline",
@@ -18592,9 +18624,7 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [
-        "Community Impact"
-      ],
+      "attributes": [],
       "address": "1524 North Harrison Street",
       "city": "Davenport",
       "neighborhood": "",
@@ -18723,7 +18753,9 @@
           "entity_photos\\the_docs_inn_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18789,8 +18821,8 @@
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
-        "Kid Friendly"
+        "Kid Friendly",
+        "Sports & Recreation"
       ],
       "address": "400 South 14th Avenue",
       "city": "Eldridge",
@@ -18824,7 +18856,9 @@
           "entity_photos\\the_fun_station_quad_cities_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18892,8 +18926,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Historic",
-        "Family Friendly"
+        "Historic"
       ],
       "address": "3210 Avenue Of The Cities",
       "city": "Moline",
@@ -18927,7 +18960,9 @@
           "entity_photos\\the_grinders_spaghetti_house_moline_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -18992,7 +19027,7 @@
       "name": "The Healing Touch Massage Studio",
       "slug": "the-healing-touch-massage-studio",
       "category": "wellness",
-      "entity_type": "",
+      "entity_type": "Salon & Spa",
       "tags": [
         "beauty",
         "wellness"
@@ -19148,9 +19183,9 @@
         "other"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Seasonal"
       ],
       "address": "2255 Middle Road",
       "city": "Bettendorf",
@@ -19205,8 +19240,7 @@
         "culture"
       ],
       "attributes": [
-        "Arts & Culture",
-        "Date Night"
+        "Arts & Culture"
       ],
       "address": "325 East 2nd Street",
       "city": "Davenport",
@@ -19290,7 +19324,9 @@
           "entity_photos\\the_logger_house_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19360,9 +19396,8 @@
       ],
       "attributes": [
         "Historic",
-        "Educational",
-        "Visitor Friendly",
-        "Arts & Culture"
+        "Arts & Culture",
+        "Educational"
       ],
       "address": "901 Tremont Avenue",
       "city": "Davenport",
@@ -19502,7 +19537,9 @@
           "entity_photos\\the_rust_belt_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19517,7 +19554,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "2248 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -19550,7 +19589,9 @@
           "entity_photos\\the_shameless_chocoholic_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19567,8 +19608,7 @@
       ],
       "attributes": [
         "Arts & Culture",
-        "Community Impact",
-        "Family Friendly"
+        "Community Impact"
       ],
       "address": "1800 7th Avenue",
       "city": "Moline",
@@ -19621,8 +19661,7 @@
       ],
       "attributes": [
         "Live Music",
-        "Patio",
-        "Family Friendly"
+        "Patio"
       ],
       "address": "3636 Tanglewood Road",
       "city": "Bettendorf",
@@ -19706,7 +19745,9 @@
           "entity_photos\\the_treasure_chest_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19901,7 +19942,9 @@
           "entity_photos\\theo_co_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -19997,7 +20040,9 @@
           "entity_photos\\tonys_chicago_style_pizzeria_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20014,7 +20059,7 @@
       ],
       "attributes": [
         "Patio",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "3100 Heather Knoll",
       "city": "Silvis",
@@ -20048,7 +20093,10 @@
           "entity_photos\\tpc_deere_run_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "patios",
+        "date-night"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20098,7 +20146,9 @@
           "entity_photos\\trade_mart_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20148,7 +20198,9 @@
           "entity_photos\\trash_can_annie_vintage_styling_photography_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20159,11 +20211,13 @@
       "name": "Trattoria Tiramisu",
       "slug": "trattoria-tiramisu",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Restaurant",
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Date Night"
+      ],
       "address": "1804 State Street",
       "city": "Bettendorf",
       "neighborhood": "",
@@ -20267,7 +20321,9 @@
       "tags": [
         "nightlife"
       ],
-      "attributes": [],
+      "attributes": [
+        "Historic"
+      ],
       "address": "201 North Main Street",
       "city": "Port Byron",
       "neighborhood": "",
@@ -20300,7 +20356,9 @@
           "entity_photos\\tuggers_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20359,7 +20417,7 @@
       "name": "Twin Span Brewing",
       "slug": "twin-span-brewing",
       "category": "eat_drink",
-      "entity_type": "",
+      "entity_type": "Brewery",
       "tags": [
         "nightlife"
       ],
@@ -20396,7 +20454,9 @@
           "entity_photos\\twin_span_brewing_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20411,7 +20471,9 @@
       "tags": [
         "restaurants"
       ],
-      "attributes": [],
+      "attributes": [
+        "Arts & Culture"
+      ],
       "address": "615 8th Street",
       "city": "DeWitt",
       "neighborhood": "",
@@ -20444,7 +20506,9 @@
           "entity_photos\\twisted_paddle_brewery_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20595,7 +20659,9 @@
           "entity_photos\\ultimate_fitness_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -20611,9 +20677,8 @@
         "nightlife"
       ],
       "attributes": [
-        "River View",
         "Date Night",
-        "Visitor Friendly"
+        "Patio"
       ],
       "address": "215 North Main Street",
       "city": "Davenport",
@@ -20666,8 +20731,8 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
-        "Free"
+        "Free",
+        "Arts & Culture"
       ],
       "address": "215 West Central Park Avenue",
       "city": "Davenport",
@@ -20771,8 +20836,7 @@
       ],
       "attributes": [
         "Live Music",
-        "Sports & Recreation",
-        "Visitor Friendly"
+        "Sports & Recreation"
       ],
       "address": "1201 River Drive",
       "city": "Moline",
@@ -20824,8 +20888,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly",
-        "Visitor Friendly"
+        "Kid Friendly"
       ],
       "address": "6600 44th Avenue",
       "city": "Moline",
@@ -20877,7 +20940,7 @@
         "shopping"
       ],
       "attributes": [
-        "Visitor Friendly"
+        "Arts & Culture"
       ],
       "address": "2901 16th Street",
       "city": "Moline",
@@ -20929,7 +20992,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "2122 53rd Street",
       "city": "Moline",
@@ -20963,7 +21026,9 @@
           "entity_photos\\village_inn_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21060,7 +21125,9 @@
           "entity_photos\\vintage_rose_jewelry_photo_2.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21076,9 +21143,9 @@
         "attractions"
       ],
       "attributes": [
-        "Family Friendly",
         "Kid Friendly",
-        "Date Night"
+        "Date Night",
+        "Sports & Recreation"
       ],
       "address": "320 West Kimberly Road",
       "city": "Davenport",
@@ -21162,7 +21229,9 @@
           "entity_photos\\von_maur_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21221,7 +21290,7 @@
       "name": "Wallace's Garden Center",
       "slug": "wallaces-garden-center",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -21258,7 +21327,9 @@
           "entity_photos\\wallaces_garden_center_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21269,7 +21340,7 @@
       "name": "West End Gardens Florist",
       "slug": "west-end-gardens-florist",
       "category": "shopping",
-      "entity_type": "",
+      "entity_type": "Retail Store",
       "tags": [
         "shopping"
       ],
@@ -21306,7 +21377,9 @@
           "entity_photos\\west_end_gardens_florist_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21323,9 +21396,8 @@
         "events"
       ],
       "attributes": [
-        "Family Friendly",
-        "Community Impact",
-        "Sports & Recreation"
+        "Sports & Recreation",
+        "Community Impact"
       ],
       "address": "1800 20th Avenue",
       "city": "Moline",
@@ -21411,7 +21483,9 @@
           "entity_photos\\whiskey_stop_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21427,7 +21501,7 @@
         "restaurants"
       ],
       "attributes": [
-        "Family Friendly"
+        "Historic"
       ],
       "address": "1601 Avenue Of The Cities",
       "city": "Moline",
@@ -21461,7 +21535,9 @@
           "entity_photos\\whiteys_ice_cream_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "hidden-gems"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -21527,8 +21603,7 @@
         "nightlife"
       ],
       "attributes": [
-        "Date Night",
-        "Visitor Friendly"
+        "Date Night"
       ],
       "address": "1128 Mound Street",
       "city": "Davenport",
@@ -21582,9 +21657,8 @@
       ],
       "attributes": [
         "Historic",
-        "Family Friendly",
-        "Sports & Recreation",
-        "Educational"
+        "Educational",
+        "Sports & Recreation"
       ],
       "address": "1884 Wildcat Den Road",
       "city": "Muscatine",
