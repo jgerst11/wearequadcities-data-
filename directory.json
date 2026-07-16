@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T16:32:08.590270",
+  "generated": "2026-07-16T16:36:05.965276",
   "total": 423,
   "entities": [
     {
@@ -3742,13 +3742,15 @@
     },
     {
       "id": "codfish_hollow_barnstormers",
-      "type": "",
+      "type": "business",
       "name": "Codfish Hollow Barnstormers",
       "slug": "codfish-hollow-barnstormers",
-      "category": "Arts & Culture",
-      "entity_type": "business",
+      "category": "things",
+      "entity_type": "Music Venue",
       "tags": [],
-      "attributes": [],
+      "attributes": [
+        "Seasonal"
+      ],
       "address": "5013 288th Avenue",
       "city": "Maquoketa",
       "neighborhood": "",
@@ -3781,7 +3783,9 @@
           "entity_photos\\codfish_hollow_barnstormers_photo_3.jpg"
         ]
       },
-      "guides": [],
+      "guides": [
+        "live-music"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
