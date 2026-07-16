@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T16:24:38.581630",
-  "total": 423,
+  "generated": "2026-07-16T16:30:34.774381",
+  "total": 422,
   "entities": [
     {
       "id": "adler_theatre",
@@ -3736,52 +3736,6 @@
         ]
       },
       "guides": [],
-      "seasonal": [],
-      "featured": false,
-      "sponsor_tier": "none"
-    },
-    {
-      "id": "codfish_hollow_barnstormers",
-      "type": "business",
-      "name": "Codfish Hollow Barnstormers",
-      "slug": "codfish-hollow-barnstormers",
-      "category": "things",
-      "entity_type": "Music Venue",
-      "tags": [],
-      "attributes": [
-        "Seasonal"
-      ],
-      "address": "5013 288th Avenue",
-      "city": "Maquoketa",
-      "neighborhood": "",
-      "state": "IA",
-      "zip": "52060",
-      "phone": "",
-      "website": "http://www.codfishhollowbarnstormers.com/",
-      "hours": "",
-      "lat": "42.07771320000001",
-      "lng": "-90.56170519999999",
-      "description": "A restored barn hosting live music under the stars, just outside the QC.\n\nCodfish Hollow is the kind of place that makes you drive twenty minutes without hesitation — a genuine timber-frame barn converted into an honest-to-god music venue, where you're just as likely to catch a folk trio as a touring indie band. The stage is simple, the sound is clean, and there's something about watching a live performance in a space that still smells like history that changes how you listen. Bring a blanket, bring friends, and plan to stay past sunset.\n\nCodfish Hollow sits in Maquoketa, a small town east of the Quad Cities that's become a quiet destination for anyone serious about live music and experience over convenience. It's the kind of place that deserves the drive — one of those venues that builds a loyal following because it gets the fundamentals right: good artists, good sound, and a room that feels like something real. Once you've been, you'll understand why locals make the trip again and again.",
-      "rating": {
-        "google": "4.9",
-        "google_count": "485",
-        "yelp": "",
-        "yelp_count": ""
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=8323962644978607748",
-        "yelp": "",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "",
-        "all": []
-      },
-      "guides": [
-        "live-music"
-      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
