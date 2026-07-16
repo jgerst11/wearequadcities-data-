@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T15:34:34.957067",
+  "generated": "2026-07-16T15:42:41.059758",
   "total": 420,
   "entities": [
     {
@@ -4388,9 +4388,7 @@
           "entity_photos\\country_style_ice_cream_coffee_photo_3.jpg"
         ]
       },
-      "guides": [
-        "hidden-gems"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -6121,9 +6119,7 @@
           "entity_photos\\east_moline_coffee_company_photo_3.jpg"
         ]
       },
-      "guides": [
-        "coffee"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
