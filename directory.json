@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T15:10:45.632977",
+  "generated": "2026-07-16T15:17:27.653251",
   "total": 420,
   "entities": [
     {
@@ -1450,9 +1450,7 @@
           "entity_photos\\backwater_gamblers_ski_site_photo_3.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -1599,7 +1597,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -1848,9 +1845,7 @@
           "entity_photos\\ben_butterworth_parkway_west_photo_5.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -2202,7 +2197,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -2913,7 +2907,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -3318,8 +3311,7 @@
         ]
       },
       "guides": [
-        "visitors",
-        "river-views"
+        "visitors"
       ],
       "seasonal": [],
       "featured": false,
@@ -3375,7 +3367,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -3535,7 +3526,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -4644,7 +4634,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -4695,7 +4684,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -5001,7 +4989,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -5511,7 +5498,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -7002,7 +6988,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -8664,7 +8649,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -8715,8 +8699,7 @@
         ]
       },
       "guides": [
-        "visitors",
-        "river-views"
+        "visitors"
       ],
       "seasonal": [],
       "featured": false,
@@ -8817,7 +8800,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -9119,7 +9101,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -10406,7 +10387,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -10510,7 +10490,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -10764,9 +10743,7 @@
           "entity_photos\\loud_thunder_forest_preserve_photo_5.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -11919,7 +11896,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -12022,9 +11998,7 @@
           "entity_photos\\modern_woodmen_park_photo_5.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -13723,7 +13697,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -14083,7 +14056,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -14184,9 +14156,7 @@
           "entity_photos\\r_richard_bittner_downtown_ymca_photo_3.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15024,7 +14994,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -15127,7 +15096,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -15179,9 +15147,7 @@
           "entity_photos\\riverfront_grille_photo_3.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15285,9 +15251,7 @@
           "entity_photos\\riverside_park_photo_5.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -15441,7 +15405,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -15735,7 +15698,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -15983,9 +15945,7 @@
           "entity_photos\\saukie_golf_course_photo_3.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16086,9 +16046,7 @@
           "entity_photos\\schwiebert_riverfront_park_photo_5.jpg"
         ]
       },
-      "guides": [
-        "river-views"
-      ],
+      "guides": [],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
@@ -16991,7 +16949,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -17042,7 +16999,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
@@ -17345,7 +17301,6 @@
         ]
       },
       "guides": [
-        "river-views",
         "visitors"
       ],
       "seasonal": [],
