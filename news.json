@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:18:10.033755+00:00",
+  "updated": "2026-07-17T18:08:50.336048+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -8,20 +8,9 @@
       "headline": "More heat, humidity and showers",
       "summary": "No real change for temperatures in the Quad Cities through early next week. However, some relief is on the way after that. Showers and storms are also possible …",
       "url": "https://www.ourquadcities.com/news/local-news/more-heat-humidity-and-showers/",
-      "time": "4 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Baby foxes down on the farm",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-baby-foxes-down-on-the-farm/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/The-Heart-of-the-Story-Baby-foxes-down-on-the-farm.jpg?w=900",
-      "category": "The Heart of the Story"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,7 +19,7 @@
       "headline": "St. Ambrose University, Quad City Symphony aim to build music facility in downtown Davenport",
       "summary": "Space for music rehearsals in Davenport are at a premium for the Quad City Symphony Orchestra and St. Ambrose University. When the symphony isn't performing in …",
       "url": "https://www.ourquadcities.com/news/local-news/st-ambrose-university-quad-city-symphony-aim-to-build-music-facility-in-downtown-davenport/",
-      "time": "18 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/SAU-the-QC-Symphony-Orchestra-aim-to-build-music-facility-in-downtown-Davenport.jpg?w=900",
       "category": "Local News"
     },
@@ -41,8 +30,30 @@
       "headline": "Young competitors tackle GOPEDS pediatric therapy race",
       "summary": "Kids with all abilities took part in a beloved version of the Jr Bix and Bix 7 in the Genesis Outpatient Pediatric Therapy (GOPEDS) race. Our Quad Cities News p…",
       "url": "https://www.ourquadcities.com/news/local-news/young-competitors-tackle-gopeds-pediatric-therapy-race/",
-      "time": "13 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Genesis-Outpatient-Pediatric-Therapy-GOPEDS-race.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Beat the heat with Rock Island Public Library events",
+      "summary": "The Rock Island Public Library is helping residents beat the heat with a variety of summer programming all next week, from a musical kid’s headliner on Monday t…",
+      "url": "https://www.ourquadcities.com/news/local-news/beat-the-heat-with-rock-island-public-library-events/",
+      "time": "39 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/02/Rock-Island-Public-Library.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island Arsenal hosting Military Retiree Appreciation Day",
+      "summary": "Military retirees in the QCA are invited to attend the annual Military Retiree Appreciation Day hosted on the Rock Island Arsenal on Friday, Sept. 25 from 7:30 …",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-arsenal-hosting-military-retiree-appreciation-day/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/Rock-Island-Arsenal-bridge.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,19 +63,8 @@
       "headline": "Pets die in Rock Island fire",
       "summary": "Two cats died in a late-night fire in Rock Island last night. A news release from the Rock Island Fire Department said firefighters were called to a report of a…",
       "url": "https://www.ourquadcities.com/news/local-news/pets-die-in-rock-island-fire/",
-      "time": "59 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Rock-Island-Fire-Department.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine earns 32nd certificate of achievement for financial reporting",
-      "summary": "The Government Finance Officers Association of the United States and Canada (GFOA) has awarded the Certificate of Achievement for Excellence in Financial Report…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-earns-32nd-certificate-of-achievement-for-financial-reporting/",
       "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Muscatine.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Rock-Island-Fire-Department.jpg?w=900",
       "category": "Local News"
     }
   ]
