@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T20:08:38.534777+00:00",
+  "updated": "2026-07-17T21:56:39.490867+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -8,8 +8,19 @@
       "headline": "Vehicle strikes building in Milan",
       "summary": "Our Quad Cities News is on the scene of a vehicle crash that impacted a building in Milan. The incident happened in the 500 block of 1st Street W earlier this a…",
       "url": "https://www.ourquadcities.com/news/local-news/vehicle-strikes-building-in-milan/",
-      "time": "1 min ago",
+      "time": "1 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_eb91ca.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UPDATE: Woman arrested after Rock Island fire",
+      "summary": "UPDATE: A woman has been arrested in connection with the overnight fire in Rock Island. The Rock Island Police Department’s Criminal Investigation Division and …",
+      "url": "https://www.ourquadcities.com/news/local-news/pets-die-in-rock-island-fire/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Michelle-Joslin-mug-shot.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,19 +30,8 @@
       "headline": "More heat, humidity and showers",
       "summary": "No real change for temperatures in the Quad Cities through early next week. However, some relief is on the way after that. Showers and storms are also possible …",
       "url": "https://www.ourquadcities.com/news/local-news/more-heat-humidity-and-showers/",
-      "time": "8 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "St. Ambrose University, Quad City Symphony aim to build music facility in downtown Davenport",
-      "summary": "Space for music rehearsals in Davenport are at a premium for the Quad City Symphony Orchestra and St. Ambrose University. When the symphony isn't performing in …",
-      "url": "https://www.ourquadcities.com/news/local-news/st-ambrose-university-quad-city-symphony-aim-to-build-music-facility-in-downtown-davenport/",
-      "time": "21 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/SAU-the-QC-Symphony-Orchestra-aim-to-build-music-facility-in-downtown-Davenport.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +41,7 @@
       "headline": "Young competitors tackle GOPEDS pediatric therapy race",
       "summary": "Kids with all abilities took part in a beloved version of the Jr Bix and Bix 7 in the Genesis Outpatient Pediatric Therapy (GOPEDS) race. Our Quad Cities News p…",
       "url": "https://www.ourquadcities.com/news/local-news/young-competitors-tackle-gopeds-pediatric-therapy-race/",
-      "time": "17 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Genesis-Outpatient-Pediatric-Therapy-GOPEDS-race.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +52,7 @@
       "headline": "Rock Island begins applications for archery deer hunting season",
       "summary": "The City of Rock Island has begun accepting applications for the 2026-2027 archery deer hunting season, as defined by the Illinois Department of Natural Resourc…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-begins-applications-for-archery-deer-hunting-season/",
-      "time": "1 h ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/deer-GENERIC.jpg?w=900",
       "category": "Local News"
     }
