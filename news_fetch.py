@@ -20,7 +20,7 @@ FEEDS = [
       "url": "https://qctimes.com/search/?f=rss&t=article&l=20&s=start_time&sd=desc&k=%22quad+cities%22" },
 ]
 OUT_FILE   = Path(__file__).parent / "news.json"
-MAX_ITEMS  = 8
+MAX_ITEMS  = 12
 FETCH_EACH = 20   # fetch more per feed so filtering still leaves enough
 
 # Article must mention at least one of these to pass (case-insensitive)
