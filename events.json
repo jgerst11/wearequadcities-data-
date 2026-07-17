@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T08:04:51.386383",
-  "total": 39,
+  "generated": "2026-07-17T08:05:23.318667",
+  "total": 42,
   "events": [
     {
       "id": "mercado-2026",
@@ -78,6 +78,38 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12875&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_9d4cb157e0ae",
+      "name": "Riverboat Twilight 2 Day Cruise",
+      "start": "2026-07-17T08:00:00",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11744&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_fa363c89c831",
+      "name": "NASH BASH 3 DAY WEEKEND",
+      "start": "2026-07-17T17:00:00",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12729&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -174,6 +206,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12793&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_ec57cb79bd98",
+      "name": "Mid Summer Concert Weekend",
+      "start": "2026-07-17T19:00:00",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12827&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
