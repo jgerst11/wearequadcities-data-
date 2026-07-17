@@ -17,10 +17,36 @@ FEEDS = [
     { "source": "WHBF / OurQuadCities", "badge": "QC",  "color": "brick",
       "url": "https://www.ourquadcities.com/feed" },
     { "source": "QC Times",             "badge": "QCT", "color": "brand",
-      "url": "https://qctimes.com/search/?f=rss&t=article&l=10&s=start_time&sd=desc" },
+      "url": "https://qctimes.com/search/?f=rss&t=article&l=20&s=start_time&sd=desc&k=%22quad+cities%22" },
 ]
-OUT_FILE  = Path(__file__).parent / "news.json"
-MAX_ITEMS = 8
+OUT_FILE   = Path(__file__).parent / "news.json"
+MAX_ITEMS  = 8
+FETCH_EACH = 20   # fetch more per feed so filtering still leaves enough
+
+# Article must mention at least one of these to pass (case-insensitive)
+LOCAL_SIGNALS = [
+    "quad cit", "davenport", "bettendorf", "moline", "rock island",
+    "east moline", "milan", "silvis", "coal valley", "hampton",
+    "port byron", "muscatine", "iowa", "illinois", " qc ", "wqad",
+    "whbf", "riverfront", "scott county", "rock island county",
+    "henry county", "arsenal", "john deere", "figge", "adler",
+]
+
+# Article is dropped if title matches any of these (case-insensitive)
+NATIONAL_BLOCKLIST = [
+    "trump", "biden", "white house", "congress", "senate", "supreme court",
+    "inflation", "federal reserve", "interest rate", "wall street", "nasdaq",
+    "s&p 500", "stock market", "ukraine", "russia", "china", "israel",
+    "gaza", "middle east", "hurricane", "wildfire", "california",
+    "new york", "los angeles", "chicago", "washington dc", "washington, d.c",
+    "national weather", "world news", "opinion:", "column:",
+]
+
+def is_local(title, desc, category):
+    text = (title + " " + desc + " " + category).lower()
+    if any(b in text for b in NATIONAL_BLOCKLIST):
+        return False
+    return any(s in text for s in LOCAL_SIGNALS)
 
 def fetch_rss(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -71,6 +97,9 @@ def parse_items(xml_str, feed):
         # Category
         cat_el = item.find("category")
         cat    = (cat_el.text or "").strip() if cat_el is not None else ""
+
+        if not is_local(title, desc, cat):
+            continue
 
         items.append({
             "source":   feed["source"],
