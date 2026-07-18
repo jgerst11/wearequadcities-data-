@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T13:23:47.046952+00:00",
+  "updated": "2026-07-18T13:56:32.744036+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -13,15 +13,37 @@
       "category": "Local News"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities conference standings and schedules",
+      "summary": "Updated high school Mississippi Athletic Conference baseball and softball standings along with state playoff brackets.",
+      "url": "https://qctimes.com/sports/high-school/article_1d98913c-be6d-4365-b055-302b9e5c59dc.html",
+      "time": "20 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/8a/68a311f1-2cf5-4244-b339-46fc2d2adb59/69f40c5f097f7.image.jpg?resize=300%2C505",
+      "category": ""
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
       "headline": "Will Moon, president of Iowa 80 Group and community benefactor, dies suddenly",
       "summary": "The Quad City community has lost a longtime supporter of the trucking industry, athletics, the Iowa Hawkeyes, and scouting. William Moon III, 64, of Bettendorf,…",
       "url": "https://www.ourquadcities.com/news/local-news/bill-moon-president-of-iowa-80-group-and-community-benefactor-dies-suddenly/",
-      "time": "14 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/William-Moon.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "2026 Grand Prix canceled",
+      "summary": "ROCK ISLAND",
+      "url": "https://qctimes.com/article_c0c19641-ea09-522e-9120-41d92c3062e3.html",
+      "time": "1d ago",
+      "image": "",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -35,6 +57,17 @@
       "category": "Local News"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "QCCA Expo Center being rebranded",
+      "summary": "The QCCA Expo Center is being rebranded after a local sponsor is giving the more than 100-year-old building a much-needed facelift.",
+      "url": "https://qctimes.com/article_39d5a967-717b-58c7-a1c6-d38b2359f540.html",
+      "time": "1d ago",
+      "image": "",
+      "category": ""
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
@@ -44,6 +77,17 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Genesis-Outpatient-Pediatric-Therapy-GOPEDS-race.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "MidAmerica National Bank expanding to Eldridge",
+      "summary": "MidAmerica National Bank looks forward to establishing its presence in Eldridge later this summer.",
+      "url": "https://qctimes.com/news/local/business/article_0927f8a4-4e8c-49ec-8201-b61a587c9d8c.html",
+      "time": "1d ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/c6/9c671930-4fb5-4611-b426-1975c2351449/6a592aa56f03d.image.jpg?resize=300%2C170",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -57,6 +101,17 @@
       "category": "Local News"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Five Quad-Cities residents sentenced to federal prison for fentanyl trafficking",
+      "summary": "Five Quad-Cities residents have been sentenced to federal prison after pleading guilty to a fentanyl trafficking conspiracy that involved more than 26,000 pills…",
+      "url": "https://qctimes.com/news/local/crime-courts/article_887db142-af1c-4954-9261-57a49d48997c.html",
+      "time": "2d ago",
+      "image": "",
+      "category": ""
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
@@ -68,26 +123,15 @@
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "KENT WORLDWIDE joins Walk to end Alzheimer's in Muscatine",
-      "summary": "KENT WORLDWIDE will join the Alzheimer’s Association Iowa Chapter as the local presenting sponsor for the 2026 Walk to End Alzheimer’s – Muscatine Area, a news …",
-      "url": "https://www.ourquadcities.com/news/local-news/kent-worldwide-joins-walk-to-end-alzheimers-in-muscatine/",
-      "time": "23 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Walk-to-End-Alzheimers.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "CBI Bank & Trust, Muscatine, announces new board member",
-      "summary": "CBI Bank &#38; Trust has announced the appointment of Will Heidbreder to its board of directors, effective Thursday, July 16. Heidbreder brings more than 33 yea…",
-      "url": "https://www.ourquadcities.com/news/local-news/cbi-bank-trust-muscatine-announces-new-board-member/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Will-Heidbreder-.jpg?w=864",
-      "category": "Local News"
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "QCCA Expo Center gets new name, renovations",
+      "summary": "The facility is getting upgraded and will now be called the \"QCCA Event Center, sponsored by Jackson Generator.\"",
+      "url": "https://qctimes.com/news/local/article_3cad79e6-12c2-4d38-a574-a039c0390a30.html",
+      "time": "2d ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/75/975c7e7a-dc7b-4893-a8b8-0ccc89f66d35/6781b134415d0.image.jpg?resize=300%2C200",
+      "category": ""
     }
   ]
 }

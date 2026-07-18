@@ -25,11 +25,13 @@ FETCH_EACH = 20   # fetch more per feed so filtering still leaves enough
 
 # Article must mention at least one of these to pass (case-insensitive)
 LOCAL_SIGNALS = [
-    "quad cit", "davenport", "bettendorf", "moline", "rock island",
+    "quad cit", "quad-cit", "davenport", "bettendorf", "moline", "rock island",
     "east moline", "milan", "silvis", "coal valley", "hampton",
     "port byron", "muscatine", "iowa", "illinois", " qc ", "wqad",
     "whbf", "riverfront", "scott county", "rock island county",
     "henry county", "arsenal", "john deere", "figge", "adler",
+    "qcca", "bix 7", "bix7", "eldridge", "le claire", "geneseo",
+    "maquoketa", "clinton", "galesburg",
 ]
 
 # Article is dropped if title matches any of these (case-insensitive)
