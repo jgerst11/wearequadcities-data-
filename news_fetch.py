@@ -19,7 +19,7 @@ FEEDS = [
     { "source": "QC Times",             "badge": "QCT", "color": "brand",
       "url": "https://qctimes.com/search/?f=rss&t=article&l=20&s=start_time&sd=desc&k=%22quad+cities%22" },
     { "source": "WQAD",                 "badge": "8",   "color": "slate",
-      "url": "https://wqad.com/feed/" },
+      "url": "https://www.wqad.com/feeds/syndication/rss/news" },
 ]
 OUT_FILE   = Path(__file__).parent / "news.json"
 MAX_ITEMS  = 12
