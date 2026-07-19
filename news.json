@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:57:10.489299+00:00",
+  "updated": "2026-07-19T03:39:37.904840+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +19,7 @@
       "headline": "Hawkeyes buck the transfer trend: 'That’s just the culture'",
       "summary": "It’s a tale as old as time: An unstoppable force meets an immovable object.  In pop culture, it’s Batman vs. the Joker. In football, it’s Bo Jackson vs. Brian B…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-buck-the-transfer-trend-thats-just-the-culture/",
-      "time": "20 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/GettyImages-2245218552.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -30,30 +30,8 @@
       "headline": "Rookies Bar reopens in Davenport",
       "summary": "Rookies was once a staple in Davenport along Brady Street. It was a common spot for college kids and the local community to hang out, watch a game, and enjoy co…",
       "url": "https://www.ourquadcities.com/news/local-news/rookies-bar-reopens-in-davenport/",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Rookies-Bar-reopens-in-Davenport.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Vehicle strikes building in Milan",
-      "summary": "Our Quad Cities News is on the scene of a vehicle crash that impacted a building in Milan. The incident happened in the 500 block of 1st Street W earlier this a…",
-      "url": "https://www.ourquadcities.com/news/local-news/vehicle-strikes-building-in-milan/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_eb91ca.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: Woman arrested after Rock Island fire",
-      "summary": "UPDATE: A woman has been arrested in connection with the overnight fire in Rock Island. The Rock Island Police Department’s Criminal Investigation Division and …",
-      "url": "https://www.ourquadcities.com/news/local-news/pets-die-in-rock-island-fire/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Michelle-Joslin-mug-shot.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,8 +41,8 @@
       "headline": "Street stocks, IMCA late models make for night of action at Davenport Speedway",
       "summary": "It was a full night, and then some at Davenport Speedway on Friday. Along with the weekly racing program in five classes, the announcement of Davenport Speedway…",
       "url": "https://www.ourquadcities.com/news/local-news/street-stocks-imca-late-models-make-for-night-of-action-at-davenport-speedway/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/05/davenportspeedway.jpg?w=843",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Davenport-Speedway.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -74,8 +52,19 @@
       "headline": "Free tire, electronics drop-off coming in Muscatine",
       "summary": "Muscatine residents with city refuse service can dispose of old tires and unwanted electronics for free during two special drop-off weeks at the Muscatine Trans…",
       "url": "https://www.ourquadcities.com/news/local-news/free-tire-electronics-drop-off-coming-in-muscatine/",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "KENT WORLDWIDE joins Walk to end Alzheimer's in Muscatine",
+      "summary": "KENT WORLDWIDE will join the Alzheimer’s Association Iowa Chapter as the local presenting sponsor for the 2026 Walk to End Alzheimer’s – Muscatine Area, a news …",
+      "url": "https://www.ourquadcities.com/news/local-news/kent-worldwide-joins-walk-to-end-alzheimers-in-muscatine/",
+      "time": "14 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Walk-to-End-Alzheimers.jpg?w=900",
       "category": "Local News"
     }
   ]
