@@ -124,6 +124,7 @@ def parse_items(xml_str, feed):
             "time":     relative_time(pub),
             "image":    image,
             "category": cat,
+            "_pubdate": pub,   # used for sorting, removed before writing
         })
 
     return items[:MAX_ITEMS]
@@ -141,14 +142,23 @@ def main():
             print(f"    ERROR: {e}")
             all_items.append([])
 
-    # Interleave sources, cap at MAX_ITEMS
+    # Merge all items, sort by age (freshest first), cap at MAX_ITEMS
+    from email.utils import parsedate_to_datetime
+    def _sort_key(item):
+        try:
+            return parsedate_to_datetime(item.get("_pubdate", "")).timestamp()
+        except Exception:
+            return 0
+
     interleaved = []
-    max_len = max(len(x) for x in all_items) if all_items else 0
-    for i in range(max_len):
-        for feed_items in all_items:
-            if i < len(feed_items):
-                interleaved.append(feed_items[i])
+    for feed_items in all_items:
+        interleaved.extend(feed_items)
+    interleaved.sort(key=_sort_key, reverse=True)
     interleaved = interleaved[:MAX_ITEMS]
+
+    # Remove internal sort key before writing
+    for item in interleaved:
+        item.pop("_pubdate", None)
 
     payload = {
         "updated": datetime.now(timezone.utc).isoformat(),
