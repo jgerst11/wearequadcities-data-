@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-19T16:41:04.901497+00:00",
+  "updated": "2026-07-19T20:35:36.278089+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport motorcycle crash ends attempted Iowa State Patrol stop",
+      "summary": "A motorcyclist was injured after fleeing an attempted Iowa State Patrol traffic stop late Saturday in Davenport before crashing into a parked vehicle.",
+      "url": "https://www.wqad.com/article/news/crime/davenport-motorcyclist-injured-high-speed-crash-fleeing-troopers/526-06fc2340-169a-4c40-a8fd-9a6a0d0d3c10",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WZZM/images/c890b098-80c2-4b69-9223-84a426ca2573/20260413T144117/c890b098-80c2-4b69-9223-84a426ca2573_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "4 the Record WEB EXTRA: Indicted Illinois state lawmaker not the first to deny resignation",
       "summary": "Let's take a look at a serious situation in Illinois. Federal prosecutors indicted state representative Carol Ammons more than a week ago on charges of wire fra…",
       "url": "https://www.ourquadcities.com/news/4-the-record/4-the-record-web-extra-indicted-illinois-state-lawmaker-not-the-first-to-deny-resignation/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/4TR-WEB-EXTRA-1.jpg?w=900",
       "category": "4 The Record"
     },
@@ -19,7 +30,7 @@
       "headline": "Iowa takes on Temu in legal battle regarding data security and consumer fraud",
       "summary": "Iowa Attorney General Brenna Bird filed a lawsuit against a Chinese company that's essentially that country's version of Amazon. The lawsuit against Temu claims…",
       "url": "https://www.ourquadcities.com/news/4-the-record/iowa-takes-on-temu-in-legal-battle-regarding-data-security-and-consumer-fraud/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/4TR-B-BLOCK-2.jpg?w=900",
       "category": "4 The Record"
     },
@@ -30,7 +41,7 @@
       "headline": "Moline mayor optimistic patience will payoff in Downtown revitalization",
       "summary": "Big plans take time. That's the situation for Moline as the city tries to overhaul the downtown and riverfront. City leaders are pursuing the vision that took s…",
       "url": "https://www.ourquadcities.com/news/4-the-record/moline-mayor-optimistic-patience-will-payoff-in-downtown-revitalization/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/4TR-A-BLOCK-2.jpg?w=900",
       "category": "4 The Record"
     },
@@ -41,7 +52,7 @@
       "headline": "Maquoketa residents protest proposed data center",
       "summary": "Residents of Maquoketa rallied on Main Street during National Data Center Protest Day to demand transparency from city leaders about a proposed data center.",
       "url": "https://www.wqad.com/article/news/local/maquoketa-residents-protest-proposed-data-center/526-afac8228-06bd-4215-a5e2-c89261cdad3a",
-      "time": "13 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/131b95e7-a7c4-4afe-80a2-c9f6eeafda04/20260719T030505/131b95e7-a7c4-4afe-80a2-c9f6eeafda04_750x422.jpg",
       "category": "local"
     },
@@ -77,28 +88,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/131e96eb-db3b-441e-8498-8412d7983b91/20260717T232330/131e96eb-db3b-441e-8498-8412d7983b91_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "From Homer to Hollywood: Why The Odyssey still captivates audiences",
-      "summary": "A Greek literature expert from the University of Iowa breaks down how the 12,000-line epic poem is still strikingly modern.",
-      "url": "https://www.wqad.com/article/news/local/the-current/homer-the-odyssey-christopher-nolan-greek-literature-expert-hollywood-movie-modern-explain-breakdown/526-a6ecd575-3c88-4939-a5d3-36e3afe1d369",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d6f9fa54-690d-46a7-bd1d-a43e16b7a539/20260717T232248/d6f9fa54-690d-46a7-bd1d-a43e16b7a539_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Gulf War veteran finds healing through bees and farming",
-      "summary": "Gene Miller says beekeeping helped him cope with trauma after Desert Storm and build a new life at his farm in Milan.",
-      "url": "https://www.wqad.com/article/life/people/veteran-finds-healing-through-bees-and-farming/526-97c41623-34ce-4a5c-8b33-9f94bb1463f3",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e0f5c523-680e-481d-ad19-5f16699f3ef7/20260717T190630/e0f5c523-680e-481d-ad19-5f16699f3ef7_750x422.jpg",
-      "category": "people"
     },
     {
       "source": "WHBF / OurQuadCities",
