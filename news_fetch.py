@@ -51,9 +51,18 @@ def is_local(title, desc, category):
     return any(s in text for s in LOCAL_SIGNALS)
 
 def fetch_rss(url):
+    import time
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except Exception as e:
+            if attempt == 0 and "429" in str(e):
+                print(f"    429 rate limit — waiting 30s before retry...")
+                time.sleep(30)
+            else:
+                raise
 
 def relative_time(pub_date_str):
     """Convert RSS pubDate string to a relative label."""
