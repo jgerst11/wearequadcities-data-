@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T12:42:21.717143+00:00",
+  "updated": "2026-07-19T12:55:24.392653+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -13,6 +13,28 @@
       "category": "Local News"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Mark Schwiebert: Washington's words for our time",
+      "summary": "Former Rock Island mayor Mark Schwiebert writes that Washington’s words seem to anticipate the circumstances in which we find ourselves 250 years after our nati…",
+      "url": "https://qctimes.com/opinion/column/article_cc6300b6-f63b-4f74-9028-a8625b559d52.html",
+      "time": "25 min ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/a7/da78b1a1-1f45-46b8-a865-5bbf0de28554/5b68c0700e866.image.jpg?resize=300%2C375",
+      "category": ""
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Maquoketa residents protest proposed data center",
+      "summary": "Residents of Maquoketa rallied on Main Street during National Data Center Protest Day to demand transparency from city leaders about a proposed data center.",
+      "url": "https://www.wqad.com/article/news/local/maquoketa-residents-protest-proposed-data-center/526-afac8228-06bd-4215-a5e2-c89261cdad3a",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/131b95e7-a7c4-4afe-80a2-c9f6eeafda04/20260719T030505/131b95e7-a7c4-4afe-80a2-c9f6eeafda04_750x422.jpg",
+      "category": "local"
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
@@ -22,6 +44,28 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/William-Moon.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Looking for information about the Quad-City Times Bix 7? You can find it here",
+      "summary": "Here are some of the most commonly asked questions about the annual trek through some of Davenport’s older neighborhoods.",
+      "url": "https://qctimes.com/sports/professional/article_8b366b3d-cc38-44e1-b65d-b2efc88463ba.html",
+      "time": "1 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/4/da/4dab324a-9325-4ce3-bb47-06dd430e2a07/688637236c8b0.image.jpg?resize=300%2C159",
+      "category": ""
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport's John Brown Freedom Trail marker to be replaced after 20 years",
+      "summary": "A new historical marker will replace Davenport's John Brown Freedom Trail plaque after two decades, preserving a key piece of Iowa's Underground Railroad histor…",
+      "url": "https://www.wqad.com/article/news/local/davenports-john-brown-freedom-trail-marker-to-be-replaced-after-20-years/526-3be2998d-a68b-484e-b50f-1b756edaaf0d",
+      "time": "1d ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/131e96eb-db3b-441e-8498-8412d7983b91/20260717T232330/131e96eb-db3b-441e-8498-8412d7983b91_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -35,6 +79,28 @@
       "category": "Hawkeye Headquarters"
     },
     {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Former Rock Island County treasurer named to regional economic development authority",
+      "summary": "Gov. J.B. Pritzker named Louisa Ewert to the Quad Cities Regional Economic Development Authority, a finance agency that serves 11 counties.",
+      "url": "https://qctimes.com/news/local/government-politics/article_fc6937d9-d358-4b47-af13-1a193937212d.html",
+      "time": "14 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/6a/36adc0f8-f85d-56c5-8acc-f95123f6bae1/629a5ee2e1140.image.jpg?resize=300%2C303",
+      "category": ""
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "From Homer to Hollywood: Why The Odyssey still captivates audiences",
+      "summary": "A Greek literature expert from the University of Iowa breaks down how the 12,000-line epic poem is still strikingly modern.",
+      "url": "https://www.wqad.com/article/news/local/the-current/homer-the-odyssey-christopher-nolan-greek-literature-expert-hollywood-movie-modern-explain-breakdown/526-a6ecd575-3c88-4939-a5d3-36e3afe1d369",
+      "time": "1d ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d6f9fa54-690d-46a7-bd1d-a43e16b7a539/20260717T232248/d6f9fa54-690d-46a7-bd1d-a43e16b7a539_750x422.jpg",
+      "category": "the-current"
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
@@ -46,26 +112,26 @@
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Free tire, electronics drop-off coming in Muscatine",
-      "summary": "Muscatine residents with city refuse service can dispose of old tires and unwanted electronics for free during two special drop-off weeks at the Muscatine Trans…",
-      "url": "https://www.ourquadcities.com/news/local-news/free-tire-electronics-drop-off-coming-in-muscatine/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
-      "category": "Local News"
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities conference standings and schedules",
+      "summary": "Updated high school Mississippi Athletic Conference baseball and softball standings along with state playoff brackets.",
+      "url": "https://qctimes.com/sports/high-school/article_1d98913c-be6d-4365-b055-302b9e5c59dc.html",
+      "time": "1d ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/8a/68a311f1-2cf5-4244-b339-46fc2d2adb59/69f40c5f097f7.image.jpg?resize=300%2C505",
+      "category": ""
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "KENT WORLDWIDE joins Walk to end Alzheimer's in Muscatine",
-      "summary": "KENT WORLDWIDE will join the Alzheimer’s Association Iowa Chapter as the local presenting sponsor for the 2026 Walk to End Alzheimer’s – Muscatine Area, a news …",
-      "url": "https://www.ourquadcities.com/news/local-news/kent-worldwide-joins-walk-to-end-alzheimers-in-muscatine/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Walk-to-End-Alzheimers.jpg?w=900",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Gulf War veteran finds healing through bees and farming",
+      "summary": "Gene Miller says beekeeping helped him cope with trauma after Desert Storm and build a new life at his farm in Milan.",
+      "url": "https://www.wqad.com/article/life/people/veteran-finds-healing-through-bees-and-farming/526-97c41623-34ce-4a5c-8b33-9f94bb1463f3",
+      "time": "1d ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e0f5c523-680e-481d-ad19-5f16699f3ef7/20260717T190630/e0f5c523-680e-481d-ad19-5f16699f3ef7_750x422.jpg",
+      "category": "people"
     }
   ]
 }
