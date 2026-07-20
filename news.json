@@ -1,6 +1,50 @@
 {
-  "updated": "2026-07-20T13:40:33.423735+00:00",
+  "updated": "2026-07-20T17:13:34.108767+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Kenny G playing Adler Theatre in November",
+      "summary": "The Adler Theatre has announced that Kenny G Live with special guest Atlys is coming to the Adler Theatre, 136 E. Third Street in Davenport, on Wednesday, Novem…",
+      "url": "https://www.ourquadcities.com/news/local-news/kenny-g-playing-adler-theatre-in-november/",
+      "time": "49 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2017/06/OTD20June20520-20Kenny20G_22374085_ver1.0.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UnityPoint Health – Trinity introduces new enlarged prostate treatment",
+      "summary": "UnityPoint Health – Trinity recently introduced the Quad Cities’ first HYDROS Robotic System for Aquablation, a new option for men dealing with benign prostatic…",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-introduces-new-enlarged-prostate-treatment/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/UnityPoint-Health-Trinity.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "12th Avenue at 41st Street, Moline, closed due to water main break",
+      "summary": "Utility crews with the City of Moline Utilities are responding to a water main break on 12th Avenue, near 41st Street. Westbound 12th Avenue at 41st Street is c…",
+      "url": "https://www.ourquadcities.com/news/local-news/12th-avenue-at-41st-street-moline-closed-due-to-water-main-break/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/02/water-main-break.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Learn colored pencil techniques with Cancer Support Community Iowa and NW Illinois",
+      "summary": "Cancer Support Community Iowa and NW Illinois is hosting a free creative art session workshop on Monday, August 3 from 1 – 3 p.m. at Gilda’s Club Moline, 600 Jo…",
+      "url": "https://www.ourquadcities.com/news/local-news/learn-colored-pencil-techniques-with-cancer-support-community-iowa-and-nw-illinois/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Cancer-Support-Community-colored-pencils.png?w=624",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Iowa man saves local boys from fiery train crash, calls it 'grace of God'",
       "summary": "Two Iowa boys are recovering after a fiery train crash and Alex Horak is credited with saving their lives.",
       "url": "https://www.wqad.com/article/news/regional/iowa-man-saves-local-boys-fiery-train-crash-grace-of-god/524-e7c8577a-ad72-431b-a183-2d8225f7039f",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/bf711822-e8a6-4e27-aeeb-8bf9154799e1/20260717T213141/bf711822-e8a6-4e27-aeeb-8bf9154799e1_750x422.jpg",
       "category": "regional"
     },
@@ -19,7 +63,7 @@
       "headline": "House Speaker Mike Johnson makes stop in Iowa for FAMiLY Leadership Summit",
       "summary": "The summit was the latest stop for some notable GOP candidates seeking election, and top of mind for them was reshaping culture.",
       "url": "https://www.wqad.com/article/news/regional/house-speaker-mike-johnson-iowa-family-leadership-summit/524-a344f1ff-f809-485c-9b1e-db89b651ae61",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/cf3e6e2f-2f61-47b7-a663-cca3970011de/20260718T022054/cf3e6e2f-2f61-47b7-a663-cca3970011de_750x422.jpg",
       "category": "regional"
     },
@@ -30,7 +74,7 @@
       "headline": "Iowa blood donation centers struggling due to national blood shortage",
       "summary": "The American Red Cross declared an emergency blood shortage on July 13. Donation centers say critically low supply can force hospitals to make tough decisions.",
       "url": "https://www.wqad.com/article/news/health/iowa-blood-shortage-donations-down-red-cross-lifeserve-des-moines/524-25ffbace-369b-4843-ba58-51a16610d214",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/db605d69-6d39-44d7-84a0-9897afcc9492/db605d69-6d39-44d7-84a0-9897afcc9492_750x422.jpg",
       "category": "health"
     },
@@ -41,20 +85,9 @@
       "headline": "Iowa DOT expects to reopen road below collapsed bridge by Wednesday night",
       "summary": "The railroad bridge over Iowa 415/NW 2nd Street was struck by a truck and collapsed on Friday.",
       "url": "https://www.wqad.com/article/traffic/iowa-dot-expects-to-reopen-road-below-collapsed-bridge-by-wednesday-night/524-8cdb7e46-71e6-43d8-aaf6-f208d2cf78d0",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/fef836b4-de72-4131-ba54-f81313cf728b/20260718T031625/fef836b4-de72-4131-ba54-f81313cf728b_750x422.jpg",
       "category": "traffic"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "New restaurant and bar, gift shop closing, Bubba's 33 grand opening, and more Quad-Cities business news",
-      "summary": "Bubba's 33 grand opening, gift shop closing after 49 years, new restaurant and bar, more Quad-Cities business news.",
-      "url": "https://qctimes.com/exclusive/insight/article_58df8df4-9750-43ab-8a00-be8f3b7a4e27.html",
-      "time": "2 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/08/008410dc-0c32-4d7a-bfcf-308b600eea2e/682220b0de501.image.jpg",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -63,7 +96,7 @@
       "headline": "Hot, humid, smoky, and stormy Monday",
       "summary": "The Quad Cities will be dealing with a lot of hazards to kick off the new week. It'll be another hot and humid day with poor air quality again. A few showers an…",
       "url": "https://www.ourquadcities.com/news/local-news/hot-humid-smoky-and-stormy-monday/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -74,20 +107,9 @@
       "headline": "Lettuce recall sends some shoppers to local farmers markets",
       "summary": "A Cyclospora outbreak and lettuce recall have Quad Cities shoppers turning to local farmers for safe, locally grown greens.",
       "url": "https://www.wqad.com/article/news/local/lettuce-recall-sends-some-shoppers-to-local-farmers-markets/526-d1cbe95f-b07f-4f86-afb8-4f5be16ea01b",
-      "time": "14 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/5e2fd8cf-f89d-4221-9a14-2e09e438784e/20260719T224938/5e2fd8cf-f89d-4221-9a14-2e09e438784e_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Quad-Cities school board preview: Budget and operation costs on this week's agendas",
-      "summary": "United Township and Bettendorf both have school board meetings this week.",
-      "url": "https://qctimes.com/news/local/education/article_650a37c2-3046-4bc0-ab01-167fdbfcb5c9.html",
-      "time": "17 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/d1/fd1fd525-31e3-53aa-81fa-7650673a6e05/657f6996d77b0.image.jpg?resize=300%2C200",
-      "category": ""
     },
     {
       "source": "WQAD",
@@ -96,7 +118,7 @@
       "headline": "Davenport motorcycle crash ends attempted Iowa State Patrol stop",
       "summary": "A motorcyclist was injured after fleeing an attempted Iowa State Patrol traffic stop late Saturday in Davenport before crashing into a parked vehicle.",
       "url": "https://www.wqad.com/article/news/crime/davenport-motorcyclist-injured-high-speed-crash-fleeing-troopers/526-06fc2340-169a-4c40-a8fd-9a6a0d0d3c10",
-      "time": "19 h ago",
+      "time": "22 h ago",
       "image": "https://media.tegna-media.com/assets/WZZM/images/c890b098-80c2-4b69-9223-84a426ca2573/20260413T144117/c890b098-80c2-4b69-9223-84a426ca2573_750x422.jpg",
       "category": "crime"
     },
@@ -104,34 +126,12 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "4 the Record WEB EXTRA: Indicted Illinois state lawmaker not the first to deny resignation",
-      "summary": "Let's take a look at a serious situation in Illinois. Federal prosecutors indicted state representative Carol Ammons more than a week ago on charges of wire fra…",
-      "url": "https://www.ourquadcities.com/news/4-the-record/4-the-record-web-extra-indicted-illinois-state-lawmaker-not-the-first-to-deny-resignation/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/4TR-WEB-EXTRA-1.jpg?w=900",
+      "headline": "Moline mayor optimistic patience will pay off in downtown revitalization",
+      "summary": "Big plans take time. That's the situation for Moline as the city tries to overhaul the downtown and riverfront. City leaders are pursuing the vision that took s…",
+      "url": "https://www.ourquadcities.com/news/4-the-record/moline-mayor-optimistic-patience-will-payoff-in-downtown-revitalization/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/4TR-A-BLOCK-2.jpg?w=900",
       "category": "4 The Record"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Mark Schwiebert: Washington's words for our time",
-      "summary": "Former Rock Island mayor Mark Schwiebert writes that Washington’s words seem to anticipate the circumstances in which we find ourselves 250 years after our nati…",
-      "url": "https://qctimes.com/opinion/column/article_cc6300b6-f63b-4f74-9028-a8625b559d52.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/a7/da78b1a1-1f45-46b8-a865-5bbf0de28554/5b68c0700e866.image.jpg?resize=300%2C375",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Looking for information about the Quad-City Times Bix 7? You can find it here",
-      "summary": "Here are some of the most commonly asked questions about the annual trek through some of Davenport’s older neighborhoods.",
-      "url": "https://qctimes.com/sports/professional/article_8b366b3d-cc38-44e1-b65d-b2efc88463ba.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/4/da/4dab324a-9325-4ce3-bb47-06dd430e2a07/688637236c8b0.image.jpg?resize=300%2C159",
-      "category": ""
     }
   ]
 }
