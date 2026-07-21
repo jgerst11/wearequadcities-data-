@@ -1,49 +1,27 @@
 {
-  "updated": "2026-07-21T01:16:07.453478+00:00",
+  "updated": "2026-07-21T06:20:44.567085+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Muscatine City Council to rule on building appeals following partial collapse",
-      "summary": "The Muscatine City Council will consider evidence and rule on nine appeals filed by owners of buildings on the north side of the 200 block of E. 2nd St. Accordi…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-to-rule-on-building-appeals-following-partial-collapse/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Muscatine-building-demolition-begins.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Severe weather passing SW of QC Monday evening",
-      "summary": "A few strong storms are showing up on the radar but they're staying SW of the QC so far Monday evening. For now there is a Severe T'Storm Watch for the Quad Cit…",
-      "url": "https://www.ourquadcities.com/news/local-news/severe-weather-passing-sw-of-qc-monday-evening/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere named presenting sponsor of 2026 MLB at Field of Dreams game",
-      "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
-      "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
-      "category": "john-deere"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities students mow lawns for free through YWCA program",
-      "summary": "Quad Cities students are gaining job skills and community spirit by providing free lawn care to residents in need, as part of the YWCA's summer program.",
-      "url": "https://www.wqad.com/article/news/community/quad-cities-students-mow-lawns-for-free-through-ywca-program/526-895dcc9c-a5f8-43f0-8c0c-51fdefe8b25f",
+      "headline": "Eldridge approves city absorption of volunteer fire department",
+      "summary": "The Eldridge City Council decided to take over control of the fire department at a city council meeting Monday night. The fire department was all-volunteer unti…",
+      "url": "https://www.ourquadcities.com/news/local-news/eldridge-approves-city-absorption-of-volunteer-fire-department/",
       "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a2aa03b5-8bb6-450d-bb32-066435fce325/20260720T223631/a2aa03b5-8bb6-450d-bb32-066435fce325_750x422.jpg",
-      "category": "community"
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/eldridge.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Eldridge to take on volunteer fire company as a City department",
+      "summary": "Negotiations soured last month amid disputes over proposed budgets and trust in the City, but all parties came back to the table for the final decision.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-volunteer-fire-company-becoming-city-department/526-fd9131db-a525-4bf3-abe1-729f42c014d6",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/50b88c44-1478-4c56-a8b8-efe882cc62cc/20260721T030908/50b88c44-1478-4c56-a8b8-efe882cc62cc_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -60,10 +38,76 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
+      "headline": "Kids Crafting Day will help animals at QC Animal Welfare Center, Milan",
+      "summary": "The Quad City Animal Welfare Center will present a Kids Crafting Day in honor of National Craft for Your Local Shelter Day from 2-4 p.m. Saturday, July 25, at t…",
+      "url": "https://www.ourquadcities.com/news/local-news/kids-crafting-day-will-help-animals-at-qc-animal-welfare-center-milan/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Quad-City-Animal-Welfare-Center.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "QC Answers: Participating in Bix activities? Here's what to know",
+      "summary": "From the Bechtel Trusts Sr. Bix to the full 7-mile Quad-City Times Bix 7, here’s what to know about participating in Bix Week races.",
+      "url": "https://qctimes.com/exclusive/bix/article_89d596db-33b4-4343-a4d3-d028a96eb9e1.html",
+      "time": "5 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/36/236cf257-bf2e-4707-853b-adef53b07836/6881004387f5e.image.jpg?resize=300%2C210",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine City Council to rule on building appeals following partial collapse",
+      "summary": "The Muscatine City Council will consider evidence and rule on nine appeals filed by owners of buildings on the north side of the 200 block of E. 2nd St. Accordi…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-to-rule-on-building-appeals-following-partial-collapse/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Muscatine-building-demolition-begins.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Severe weather passing SW of QC Monday evening",
+      "summary": "A few strong storms are showing up on the radar but they're staying SW of the QC so far Monday evening. For now there is a Severe T'Storm Watch for the Quad Cit…",
+      "url": "https://www.ourquadcities.com/news/local-news/severe-weather-passing-sw-of-qc-monday-evening/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "John Deere named presenting sponsor of 2026 MLB at Field of Dreams game",
+      "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
+      "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
+      "category": "john-deere"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities students mow lawns for free through YWCA program",
+      "summary": "Quad Cities students are gaining job skills and community spirit by providing free lawn care to residents in need, as part of the YWCA's summer program.",
+      "url": "https://www.wqad.com/article/news/community/quad-cities-students-mow-lawns-for-free-through-ywca-program/526-895dcc9c-a5f8-43f0-8c0c-51fdefe8b25f",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a2aa03b5-8bb6-450d-bb32-066435fce325/20260720T223631/a2aa03b5-8bb6-450d-bb32-066435fce325_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
       "headline": "Bubba's 33 plans ribbon cutting, grand opening in Davenport",
       "summary": "The new Bubba’s 33 at 4741 E. 53rd St., Davenport, will open at 11 a.m. Monday, July 27, according to a news release. A ribbon-cutting with the Davenport Chambe…",
       "url": "https://www.ourquadcities.com/news/local-news/bubbas-33-plans-ribbon-cutting-grand-opening-in-davenport/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Bubbas-33-1.jpg?w=900",
       "category": "Local News"
     },
@@ -74,7 +118,7 @@
       "headline": "Tornado Watch West of Quad Cities Monday night",
       "summary": "After some afternoon severe t'storms, there could be another round coming up this evening. The NWS has issued a Tornado Watch for areas West of the Quad Cities.…",
       "url": "https://www.ourquadcities.com/news/local-news/tornado-watch-west-of-quad-cities-monday-night/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/tornado-watch-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -85,53 +129,9 @@
       "headline": "Davenport Fire Department names 2 assistant chiefs",
       "summary": "The Davenport Fire Department has promoted both Brian Mohr and Ryan Stremlow to assistant chief.",
       "url": "https://www.wqad.com/article/news/local/public-safety/davenport-fire-department-assistant-chiefs-named/526-68087900-fc40-42d1-b539-ed4cc181eab1",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae4c1b03-ca59-43a2-92c4-05a5db018a84/20260720T205851/ae4c1b03-ca59-43a2-92c4-05a5db018a84_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Grammy Award-winning musician Kenny G coming to the Quad Cities",
-      "summary": "The iconic saxophonist will play at the Adler Theatre on Wednesday, Nov. 18, with special guest ATLYS.",
-      "url": "https://www.wqad.com/article/entertainment/music/kenny-g-adler-theatre-performance-davenport-iowa/526-0d3e2328-e4ad-4abb-bad8-929048b38d82",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c59ea3e9-f85e-4a04-a8d1-937a7ed5cc44/20260720T173400/c59ea3e9-f85e-4a04-a8d1-937a7ed5cc44_750x422.jpg",
-      "category": "music"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man arrested after 1 person shot in Rock Island",
-      "summary": "Officials say a man was arrested after one person was shot in Rock Island early Monday.",
-      "url": "https://www.wqad.com/article/news/crime/man-arrested-after-1-person-shot-in-rock-island/526-2b548fe6-1157-4166-abd9-4189482b609f",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f5f38942-2c4d-4a1a-8b19-3ec5c2423891/20260623T144547/f5f38942-2c4d-4a1a-8b19-3ec5c2423891_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lettuce recall sends some shoppers to local farmers markets",
-      "summary": "A Cyclospora outbreak and lettuce recall have Quad Cities shoppers turning to local farmers for safe, locally grown greens.",
-      "url": "https://www.wqad.com/article/news/local/lettuce-recall-sends-some-shoppers-to-local-farmers-markets/526-d1cbe95f-b07f-4f86-afb8-4f5be16ea01b",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/5e2fd8cf-f89d-4221-9a14-2e09e438784e/20260720T203757/5e2fd8cf-f89d-4221-9a14-2e09e438784e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "7 Iowa breweries win awards from 2026 US Open Beer Championship",
-      "summary": "Breweries from the Hawkeye State took home a total of 18 medals.",
-      "url": "https://www.wqad.com/article/life/food/brewed/7-iowa-breweries-awards-2026-us-open-beer-championship/526-596a2288-62c2-4c20-849f-2e63e7fcbf5e",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bd6fc1d2-a35c-4b5c-aee8-784d51b15fb1/20260720T201329/bd6fc1d2-a35c-4b5c-aee8-784d51b15fb1_750x422.jpg",
-      "category": "brewed"
     }
   ]
 }
