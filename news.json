@@ -1,37 +1,81 @@
 {
-  "updated": "2026-07-21T13:08:22.084216+00:00",
+  "updated": "2026-07-21T17:04:37.467769+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Thornton Flooring acquires nine Carpetland USA locations",
-      "summary": "Thornton Flooring &#38; Design Center announced it has acquired all nine Carpetland USA locations across two Midwestern states, according to an article in Floor…",
-      "url": "https://www.ourquadcities.com/news/local-news/thornton-flooring-acquires-nine-carpetland-usa-locations/",
-      "time": "37 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Carpetland-USA.jpg?w=900",
+      "headline": "UnityPoint Health Trinity receives American College of Cardiology award for achievement",
+      "summary": "UnityPoint Health – Trinity Bettendorf and Rock Island have received the American College of Cardiology’s NCDR Chest Pain ̶ MI Registry Performance Achievement …",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-receives-american-college-of-cardiology-award-for-achievement/",
+      "time": "8 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/UnityPoint-Health-Trinity.jpg?w=900",
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "A break from the heat and humidity",
-      "summary": "It'll still be humid Tuesday across the Quad Cities, but cooler air settles in for a few days before the heat and humidity returns. It'll be mostly dry over the…",
-      "url": "https://www.ourquadcities.com/news/local-news/a-break-from-the-heat-and-humidity/",
-      "time": "47 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/sunny-skies-GENERIC.jpg?w=900",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bureau County motorcyclist killed in Illinois 29 crash identified",
+      "summary": "The Bureau County Coroner has identified a 45-year-old Bureau County man who died in a motorcycle crash Sunday on Illinois 29 near Depue.",
+      "url": "https://www.wqad.com/article/news/local/bureau-county-motorcyclist-killed-illinois-29-crash-identified/526-ab710b20-ca64-476d-a23c-84808f9ec7c3",
+      "time": "52 min ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/e2cab027-dfc7-418b-92a8-f0cd54d76cbb/20260413T100801/e2cab027-dfc7-418b-92a8-f0cd54d76cbb_750x422.jpg",
+      "category": "local"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Save More, Davenport, adds U-Haul services",
-      "summary": "U-Haul Co. of Iowa, Inc. has announced that Save More, a local grocery store, has signed on as a U-Haul neighborhood dealer to serve the Davenport community, ac…",
-      "url": "https://www.ourquadcities.com/news/local-news/save-more-davenport-adds-u-haul-services/",
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island native pushes for memorial at site of first NFL game",
+      "summary": "The first NFL game was played by the Rock Island Independents in 1920, but there are no plaques to memorialize the history. One local man is trying to change th…",
+      "url": "https://www.wqad.com/article/news/local/the-current/rock-island-independents-first-nfl-game-football-plaque-memorial-monument-fundraise-history-honor/526-968df47b-6c0d-42e2-90bf-3c335deac6b5",
       "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/U-Haul-.jpg?w=473",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d1250b36-3faa-4a60-8682-9dc4c1778089/20260720T213305/d1250b36-3faa-4a60-8682-9dc4c1778089_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "No charges filed against Illinois State Police trooper in fatal January shooting",
+      "summary": "Prosecutors have cleared an Illinois State Police trooper in the fatal shooting of a woman during a January traffic stop in East St. Louis.",
+      "url": "https://www.wqad.com/article/news/state/no-charges-filed-against-illinois-state-police-trooper-in-fatal-january-shooting-rachel-tarrence/63-75474810-37d8-4430-b450-920b3f6cae6e",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/dd89eab3-ef6a-4788-ae98-57f1dd17b6b3/20260123T224402/dd89eab3-ef6a-4788-ae98-57f1dd17b6b3_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Nick Teddy 5K raises funds for Ewing's sarcoma research",
+      "summary": "The Nick Teddy Foundation is holding its Nick Teddy 5K Presented by TugFest Illinois on Saturday, August 15 at 8 a.m. on the Great River Trail along the Mississ…",
+      "url": "https://www.ourquadcities.com/news/local-news/nick-teddy-5k-raises-funds-for-ewings-sarcoma-research/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/07/Nick-Teddy-5k.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Celebrate Medicare/Medicaid's 61st anniversary at Davenport Library",
+      "summary": "The Iowa Citizen Action Network, along with Citizen Action Illinois, Fairness for Iowa, Health Care for America NOW, the Main Street Alliance and One Human Fami…",
+      "url": "https://www.ourquadcities.com/news/local-news/celebrate-medicare-medicaids-61st-anniversary-at-davenport-library/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/AP25171814042246-e1750775019796.jpg?w=800",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine boat harbor, marina, open after dredging",
+      "summary": "Dredging operations in the Muscatine Boat Harbor and Marina are wrapping up, and the harbor facilities are open and available for use, a news release says. The …",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-boat-harbor-marina-open-after-dredging/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +85,7 @@
       "headline": "Iowa State Fair invites service members to sing national anthem during daily ceremony",
       "summary": "Fair organizers are looking for veteran, law enforcement or military groups to perform the national anthem at 10 a.m. every day of the fair.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-national-anthem-service-members-perform/524-84db3f12-3f2d-46de-8f69-148d9c6549aa",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/fbaf5817-da60-437c-b81b-034b2912cd25/fbaf5817-da60-437c-b81b-034b2912cd25_750x422.jpg",
       "category": "regional"
     },
@@ -52,7 +96,7 @@
       "headline": "2026 Iowa State Fair full Grandstand lineup",
       "summary": "With artists representing country, indie pop, rock, rap, Christian and more, this year's Grandstand lineup has something for everyone.",
       "url": "https://www.wqad.com/article/news/entertainment-news/iowa-state-fair-full-grandstand-lineup-2026/524-83806f20-4380-40d0-856b-b4fa5c77ff51",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/ecbdb5be-38c2-4e5c-837f-73e9055b2f37/20250812T234351/ecbdb5be-38c2-4e5c-837f-73e9055b2f37_750x422.jpg",
       "category": "entertainment-news"
     },
@@ -63,7 +107,7 @@
       "headline": "Des Moines-based Krause Group to acquire majority stake in historic Portuguese soccer club",
       "summary": "Krause Group's portfolio already includes the soccer clubs Parma Calcio 1913 in Italy and the Des Moines Menace in Iowa.",
       "url": "https://www.wqad.com/article/sports/soccer/krause-group-acquire-majority-stake-historic-portuguese-soccer-club-casa-pia-ac/524-619a46ff-a324-4f8c-9669-3e34fd7f4308",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/befc9dd3-6c9f-44d8-9228-0240a656be58/20260721T011752/befc9dd3-6c9f-44d8-9228-0240a656be58_750x422.jpg",
       "category": "soccer"
     },
@@ -74,7 +118,7 @@
       "headline": "Eldridge approves city absorption of volunteer fire department",
       "summary": "The Eldridge City Council decided to take over control of the fire department at a city council meeting Monday night. The fire department was all-volunteer unti…",
       "url": "https://www.ourquadcities.com/news/local-news/eldridge-approves-city-absorption-of-volunteer-fire-department/",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/eldridge.jpg?w=900",
       "category": "Local News"
     },
@@ -85,53 +129,9 @@
       "headline": "Eldridge to take on volunteer fire company as a City department",
       "summary": "Negotiations soured last month amid disputes over proposed budgets and trust in the City, but all parties came back to the table for the final decision.",
       "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-volunteer-fire-company-becoming-city-department/526-fd9131db-a525-4bf3-abe1-729f42c014d6",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/50b88c44-1478-4c56-a8b8-efe882cc62cc/20260721T030908/50b88c44-1478-4c56-a8b8-efe882cc62cc_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Inmate found dead at Dixon Correctional Center, Illinois DOC confirms",
-      "summary": "Officials with the Illinois Department of Corrections said the facility is currently on a level one lockdown while an investigation into the death continues.",
-      "url": "https://www.wqad.com/article/news/local/inmate-dead-dixon-correctional-center/526-5be6e554-67fc-4afb-a3b9-541231168333",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/68168c18-412b-47b0-aa47-92c3b330baec/68168c18-412b-47b0-aa47-92c3b330baec_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine City Council to rule on building appeals following partial collapse",
-      "summary": "The Muscatine City Council will consider evidence and rule on nine appeals filed by owners of buildings on the north side of the 200 block of E. 2nd St. Accordi…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-to-rule-on-building-appeals-following-partial-collapse/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Muscatine-building-demolition-begins.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere named presenting sponsor of 2026 MLB at Field of Dreams game",
-      "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
-      "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
-      "category": "john-deere"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities students mow lawns for free through YWCA program",
-      "summary": "Quad Cities students are gaining job skills and community spirit by providing free lawn care to residents in need, as part of the YWCA's summer program.",
-      "url": "https://www.wqad.com/article/news/community/quad-cities-students-mow-lawns-for-free-through-ywca-program/526-895dcc9c-a5f8-43f0-8c0c-51fdefe8b25f",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a2aa03b5-8bb6-450d-bb32-066435fce325/20260720T223631/a2aa03b5-8bb6-450d-bb32-066435fce325_750x422.jpg",
-      "category": "community"
     }
   ]
 }
