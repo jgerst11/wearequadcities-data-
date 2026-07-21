@@ -1,6 +1,94 @@
 {
-  "updated": "2026-07-20T20:57:30.954680+00:00",
+  "updated": "2026-07-21T01:16:07.453478+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine City Council to rule on building appeals following partial collapse",
+      "summary": "The Muscatine City Council will consider evidence and rule on nine appeals filed by owners of buildings on the north side of the 200 block of E. 2nd St. Accordi…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-to-rule-on-building-appeals-following-partial-collapse/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Muscatine-building-demolition-begins.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Severe weather passing SW of QC Monday evening",
+      "summary": "A few strong storms are showing up on the radar but they're staying SW of the QC so far Monday evening. For now there is a Severe T'Storm Watch for the Quad Cit…",
+      "url": "https://www.ourquadcities.com/news/local-news/severe-weather-passing-sw-of-qc-monday-evening/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "John Deere named presenting sponsor of 2026 MLB at Field of Dreams game",
+      "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
+      "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
+      "category": "john-deere"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities students mow lawns for free through YWCA program",
+      "summary": "Quad Cities students are gaining job skills and community spirit by providing free lawn care to residents in need, as part of the YWCA's summer program.",
+      "url": "https://www.wqad.com/article/news/community/quad-cities-students-mow-lawns-for-free-through-ywca-program/526-895dcc9c-a5f8-43f0-8c0c-51fdefe8b25f",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a2aa03b5-8bb6-450d-bb32-066435fce325/20260720T223631/a2aa03b5-8bb6-450d-bb32-066435fce325_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Inmate found dead at Dixon Correctional Center, Illinois DOC confirms",
+      "summary": "Officials with the Illinois Department of Corrections said the facility is currently on a level one lockdown while an investigation into the death continues.",
+      "url": "https://www.wqad.com/article/news/local/inmate-dead-dixon-correctional-center/526-5be6e554-67fc-4afb-a3b9-541231168333",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/68168c18-412b-47b0-aa47-92c3b330baec/68168c18-412b-47b0-aa47-92c3b330baec_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bubba's 33 plans ribbon cutting, grand opening in Davenport",
+      "summary": "The new Bubba’s 33 at 4741 E. 53rd St., Davenport, will open at 11 a.m. Monday, July 27, according to a news release. A ribbon-cutting with the Davenport Chambe…",
+      "url": "https://www.ourquadcities.com/news/local-news/bubbas-33-plans-ribbon-cutting-grand-opening-in-davenport/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Bubbas-33-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Tornado Watch West of Quad Cities Monday night",
+      "summary": "After some afternoon severe t'storms, there could be another round coming up this evening. The NWS has issued a Tornado Watch for areas West of the Quad Cities.…",
+      "url": "https://www.ourquadcities.com/news/local-news/tornado-watch-west-of-quad-cities-monday-night/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/tornado-watch-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport Fire Department names 2 assistant chiefs",
+      "summary": "The Davenport Fire Department has promoted both Brian Mohr and Ryan Stremlow to assistant chief.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/davenport-fire-department-assistant-chiefs-named/526-68087900-fc40-42d1-b539-ed4cc181eab1",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ae4c1b03-ca59-43a2-92c4-05a5db018a84/20260720T205851/ae4c1b03-ca59-43a2-92c4-05a5db018a84_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,9 +96,20 @@
       "headline": "Grammy Award-winning musician Kenny G coming to the Quad Cities",
       "summary": "The iconic saxophonist will play at the Adler Theatre on Wednesday, Nov. 18, with special guest ATLYS.",
       "url": "https://www.wqad.com/article/entertainment/music/kenny-g-adler-theatre-performance-davenport-iowa/526-0d3e2328-e4ad-4abb-bad8-929048b38d82",
-      "time": "8 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c59ea3e9-f85e-4a04-a8d1-937a7ed5cc44/20260720T173400/c59ea3e9-f85e-4a04-a8d1-937a7ed5cc44_750x422.jpg",
       "category": "music"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man arrested after 1 person shot in Rock Island",
+      "summary": "Officials say a man was arrested after one person was shot in Rock Island early Monday.",
+      "url": "https://www.wqad.com/article/news/crime/man-arrested-after-1-person-shot-in-rock-island/526-2b548fe6-1157-4166-abd9-4189482b609f",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f5f38942-2c4d-4a1a-8b19-3ec5c2423891/20260623T144547/f5f38942-2c4d-4a1a-8b19-3ec5c2423891_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WQAD",
@@ -19,7 +118,7 @@
       "headline": "Lettuce recall sends some shoppers to local farmers markets",
       "summary": "A Cyclospora outbreak and lettuce recall have Quad Cities shoppers turning to local farmers for safe, locally grown greens.",
       "url": "https://www.wqad.com/article/news/local/lettuce-recall-sends-some-shoppers-to-local-farmers-markets/526-d1cbe95f-b07f-4f86-afb8-4f5be16ea01b",
-      "time": "18 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/5e2fd8cf-f89d-4221-9a14-2e09e438784e/20260720T203757/5e2fd8cf-f89d-4221-9a14-2e09e438784e_750x422.jpg",
       "category": "local"
     },
@@ -30,108 +129,9 @@
       "headline": "7 Iowa breweries win awards from 2026 US Open Beer Championship",
       "summary": "Breweries from the Hawkeye State took home a total of 18 medals.",
       "url": "https://www.wqad.com/article/life/food/brewed/7-iowa-breweries-awards-2026-us-open-beer-championship/526-596a2288-62c2-4c20-849f-2e63e7fcbf5e",
-      "time": "27 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bd6fc1d2-a35c-4b5c-aee8-784d51b15fb1/20260720T201329/bd6fc1d2-a35c-4b5c-aee8-784d51b15fb1_750x422.jpg",
       "category": "brewed"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Water shut off to impact several homes, businesses in Maquoketa",
-      "summary": "The city said the water will be shut off for around five hours on Tuesday in the 600-800 blocks of S. Niagara Street and the 200-400 blocks of W. Monroe Street.",
-      "url": "https://www.wqad.com/article/news/local/water-shut-off-to-impact-several-homes-businesses-in-maquoketa/526-638a88a8-e042-40db-9be2-d961f7a730da",
-      "time": "30 min ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/aaa5d3e9-9c5b-4c02-8524-5668c51125fb/20250121T221636/aaa5d3e9-9c5b-4c02-8524-5668c51125fb_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Fire promotes two to Assistant Chief",
-      "summary": "The Davenport Fire Department has two new Assistant Chiefs. The department announced that Brian Mohr and Ryan Stremlow have been promoted to Assistant Chief. Th…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-fire-promotes-two-to-assistant-chief/",
-      "time": "33 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Brian-Mohr-Ryan-Stremlow.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Man arrested after early morning shooting in Rock Island",
-      "summary": "Police in Rock Island arrested a man after he allegedly shot a man during an argument. A news release from the Rock Island Police Department said officers respo…",
-      "url": "https://www.ourquadcities.com/news/local-news/man-arrested-after-early-morning-shooting-in-rock-island/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Kantrell-Williams-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Silvis to host meeting on its comprehensive plan",
-      "summary": "Silvis is looking for input on its comprehensive plan. The city invites the public to attend a public meeting on its comprehensive plan on Wednesday, July 29 fr…",
-      "url": "https://www.ourquadcities.com/news/local-news/silvis-to-host-meeting-on-its-comprehensive-plan/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/City-of-Silvis.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man arrested after 1 person shot in Rock Island",
-      "summary": "Officials say a man was arrested after one person was shot in Rock Island early Monday.",
-      "url": "https://www.wqad.com/article/news/crime/man-arrested-after-1-person-shot-in-rock-island/526-2b548fe6-1157-4166-abd9-4189482b609f",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f5f38942-2c4d-4a1a-8b19-3ec5c2423891/20260623T144547/f5f38942-2c4d-4a1a-8b19-3ec5c2423891_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere named presenting sponsor of 2026 MLB Field of Dreams game",
-      "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
-      "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
-      "category": "john-deere"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Kenny G playing Adler Theatre in November",
-      "summary": "The Adler Theatre has announced that Kenny G Live with special guest Atlys is coming to the Adler Theatre, 136 E. Third Street in Davenport, on Wednesday, Novem…",
-      "url": "https://www.ourquadcities.com/news/local-news/kenny-g-playing-adler-theatre-in-november/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2017/06/OTD20June20520-20Kenny20G_22374085_ver1.0.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "12th Avenue at 41st Street, Moline, closed due to water main break",
-      "summary": "Utility crews with the City of Moline Utilities are responding to a water main break on 12th Avenue, near 41st Street. Westbound 12th Avenue at 41st Street is c…",
-      "url": "https://www.ourquadcities.com/news/local-news/12th-avenue-at-41st-street-moline-closed-due-to-water-main-break/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/02/water-main-break.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa man saves local boys from fiery train crash, calls it 'grace of God'",
-      "summary": "Two Iowa boys are recovering after a fiery train crash and Alex Horak is credited with saving their lives.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-man-saves-local-boys-fiery-train-crash-grace-of-god/524-e7c8577a-ad72-431b-a183-2d8225f7039f",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/bf711822-e8a6-4e27-aeeb-8bf9154799e1/20260717T213141/bf711822-e8a6-4e27-aeeb-8bf9154799e1_750x422.jpg",
-      "category": "regional"
     }
   ]
 }
