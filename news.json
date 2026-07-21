@@ -1,6 +1,72 @@
 {
-  "updated": "2026-07-21T10:10:18.546023+00:00",
+  "updated": "2026-07-21T13:08:22.084216+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Thornton Flooring acquires nine Carpetland USA locations",
+      "summary": "Thornton Flooring &#38; Design Center announced it has acquired all nine Carpetland USA locations across two Midwestern states, according to an article in Floor…",
+      "url": "https://www.ourquadcities.com/news/local-news/thornton-flooring-acquires-nine-carpetland-usa-locations/",
+      "time": "37 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Carpetland-USA.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "A break from the heat and humidity",
+      "summary": "It'll still be humid Tuesday across the Quad Cities, but cooler air settles in for a few days before the heat and humidity returns. It'll be mostly dry over the…",
+      "url": "https://www.ourquadcities.com/news/local-news/a-break-from-the-heat-and-humidity/",
+      "time": "47 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/sunny-skies-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Save More, Davenport, adds U-Haul services",
+      "summary": "U-Haul Co. of Iowa, Inc. has announced that Save More, a local grocery store, has signed on as a U-Haul neighborhood dealer to serve the Davenport community, ac…",
+      "url": "https://www.ourquadcities.com/news/local-news/save-more-davenport-adds-u-haul-services/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/U-Haul-.jpg?w=473",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair invites service members to sing national anthem during daily ceremony",
+      "summary": "Fair organizers are looking for veteran, law enforcement or military groups to perform the national anthem at 10 a.m. every day of the fair.",
+      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-national-anthem-service-members-perform/524-84db3f12-3f2d-46de-8f69-148d9c6549aa",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/fbaf5817-da60-437c-b81b-034b2912cd25/fbaf5817-da60-437c-b81b-034b2912cd25_750x422.jpg",
+      "category": "regional"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2026 Iowa State Fair full Grandstand lineup",
+      "summary": "With artists representing country, indie pop, rock, rap, Christian and more, this year's Grandstand lineup has something for everyone.",
+      "url": "https://www.wqad.com/article/news/entertainment-news/iowa-state-fair-full-grandstand-lineup-2026/524-83806f20-4380-40d0-856b-b4fa5c77ff51",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/ecbdb5be-38c2-4e5c-837f-73e9055b2f37/20250812T234351/ecbdb5be-38c2-4e5c-837f-73e9055b2f37_750x422.jpg",
+      "category": "entertainment-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Des Moines-based Krause Group to acquire majority stake in historic Portuguese soccer club",
+      "summary": "Krause Group's portfolio already includes the soccer clubs Parma Calcio 1913 in Italy and the Des Moines Menace in Iowa.",
+      "url": "https://www.wqad.com/article/sports/soccer/krause-group-acquire-majority-stake-historic-portuguese-soccer-club-casa-pia-ac/524-619a46ff-a324-4f8c-9669-3e34fd7f4308",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/befc9dd3-6c9f-44d8-9228-0240a656be58/20260721T011752/befc9dd3-6c9f-44d8-9228-0240a656be58_750x422.jpg",
+      "category": "soccer"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +74,7 @@
       "headline": "Eldridge approves city absorption of volunteer fire department",
       "summary": "The Eldridge City Council decided to take over control of the fire department at a city council meeting Monday night. The fire department was all-volunteer unti…",
       "url": "https://www.ourquadcities.com/news/local-news/eldridge-approves-city-absorption-of-volunteer-fire-department/",
-      "time": "6 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/eldridge.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +85,7 @@
       "headline": "Eldridge to take on volunteer fire company as a City department",
       "summary": "Negotiations soured last month amid disputes over proposed budgets and trust in the City, but all parties came back to the table for the final decision.",
       "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-volunteer-fire-company-becoming-city-department/526-fd9131db-a525-4bf3-abe1-729f42c014d6",
-      "time": "6 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/50b88c44-1478-4c56-a8b8-efe882cc62cc/20260721T030908/50b88c44-1478-4c56-a8b8-efe882cc62cc_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,31 +96,9 @@
       "headline": "Inmate found dead at Dixon Correctional Center, Illinois DOC confirms",
       "summary": "Officials with the Illinois Department of Corrections said the facility is currently on a level one lockdown while an investigation into the death continues.",
       "url": "https://www.wqad.com/article/news/local/inmate-dead-dixon-correctional-center/526-5be6e554-67fc-4afb-a3b9-541231168333",
-      "time": "6 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/68168c18-412b-47b0-aa47-92c3b330baec/68168c18-412b-47b0-aa47-92c3b330baec_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Kids Crafting Day will help animals at QC Animal Welfare Center, Milan",
-      "summary": "The Quad City Animal Welfare Center will present a Kids Crafting Day in honor of National Craft for Your Local Shelter Day from 2-4 p.m. Saturday, July 25, at t…",
-      "url": "https://www.ourquadcities.com/news/local-news/kids-crafting-day-will-help-animals-at-qc-animal-welfare-center-milan/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Quad-City-Animal-Welfare-Center.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "QC Answers: Participating in Bix activities? Here's what to know",
-      "summary": "From the Bechtel Trusts Sr. Bix to the full 7-mile Quad-City Times Bix 7, here’s what to know about participating in Bix Week races.",
-      "url": "https://qctimes.com/exclusive/bix/article_89d596db-33b4-4343-a4d3-d028a96eb9e1.html",
-      "time": "9 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/36/236cf257-bf2e-4707-853b-adef53b07836/6881004387f5e.image.jpg?resize=300%2C210",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -63,19 +107,8 @@
       "headline": "Muscatine City Council to rule on building appeals following partial collapse",
       "summary": "The Muscatine City Council will consider evidence and rule on nine appeals filed by owners of buildings on the north side of the 200 block of E. 2nd St. Accordi…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-to-rule-on-building-appeals-following-partial-collapse/",
-      "time": "9 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Muscatine-building-demolition-begins.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Severe weather passing SW of QC Monday evening",
-      "summary": "A few strong storms are showing up on the radar but they're staying SW of the QC so far Monday evening. For now there is a Severe T'Storm Watch for the Quad Cit…",
-      "url": "https://www.ourquadcities.com/news/local-news/severe-weather-passing-sw-of-qc-monday-evening/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -85,7 +118,7 @@
       "headline": "John Deere named presenting sponsor of 2026 MLB at Field of Dreams game",
       "summary": "The Minnesota Twins and Philadelphia Phillies will play at the iconic movie site in Dyersville, Iowa, on Aug. 13.",
       "url": "https://www.wqad.com/article/money/business/john-deere/mlb-field-of-dreams-game-2026-minnesota-twins-philadelphia-phillies-john-deere-presenting-sponsor/526-8d746624-8d60-4a2d-8b9d-da706fe057ab",
-      "time": "10 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb/20260720T153023/cce5412c-1a25-4c53-b6e8-2e63bf11a5bb_750x422.jpg",
       "category": "john-deere"
     },
@@ -96,42 +129,9 @@
       "headline": "Quad Cities students mow lawns for free through YWCA program",
       "summary": "Quad Cities students are gaining job skills and community spirit by providing free lawn care to residents in need, as part of the YWCA's summer program.",
       "url": "https://www.wqad.com/article/news/community/quad-cities-students-mow-lawns-for-free-through-ywca-program/526-895dcc9c-a5f8-43f0-8c0c-51fdefe8b25f",
-      "time": "11 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a2aa03b5-8bb6-450d-bb32-066435fce325/20260720T223631/a2aa03b5-8bb6-450d-bb32-066435fce325_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bubba's 33 plans ribbon cutting, grand opening in Davenport",
-      "summary": "The new Bubba’s 33 at 4741 E. 53rd St., Davenport, will open at 11 a.m. Monday, July 27, according to a news release. A ribbon-cutting with the Davenport Chambe…",
-      "url": "https://www.ourquadcities.com/news/local-news/bubbas-33-plans-ribbon-cutting-grand-opening-in-davenport/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Bubbas-33-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Tornado Watch West of Quad Cities Monday night",
-      "summary": "After some afternoon severe t'storms, there could be another round coming up this evening. The NWS has issued a Tornado Watch for areas West of the Quad Cities.…",
-      "url": "https://www.ourquadcities.com/news/local-news/tornado-watch-west-of-quad-cities-monday-night/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/tornado-watch-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport Fire Department names 2 assistant chiefs",
-      "summary": "The Davenport Fire Department has promoted both Brian Mohr and Ryan Stremlow to assistant chief.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/davenport-fire-department-assistant-chiefs-named/526-68087900-fc40-42d1-b539-ed4cc181eab1",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ae4c1b03-ca59-43a2-92c4-05a5db018a84/20260720T205851/ae4c1b03-ca59-43a2-92c4-05a5db018a84_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
