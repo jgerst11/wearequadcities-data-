@@ -1,6 +1,94 @@
 {
-  "updated": "2026-07-21T17:04:37.467769+00:00",
+  "updated": "2026-07-21T20:56:10.199499+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bailey seeks to classify any organization receiving $10K in Illinois state grants as a ‘public body’",
+      "summary": "The move would subject those orgs to open meetings, FOIA laws; the Pritzker campaign calls it a stunt that would hurt small nonprofits.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/darren-bailey-classify-organization-receiving-10k-state-grants-public-body-capitol-news/526-4cb2b7f7-83a3-4ef6-8012-3a2a84ce57c9",
+      "time": "44 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fc6debb4-dbef-4970-9d80-4acd0036c21a/20260721T200814/fc6debb4-dbef-4970-9d80-4acd0036c21a_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘Surreal’: Illinois’ only International Dark Sky Place attracts tourists worldwide",
+      "summary": "The legislature in recent years has taken steps to limit light pollution.",
+      "url": "https://www.wqad.com/article/news/state/surreal-illinois-only-international-dark-sky-place-attracts-tourists-worldwide/526-3bf272be-fc37-45cf-975c-401e335ec6d5",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b9294c97-b367-49e2-a71c-47cfe9584a29/20260721T193609/b9294c97-b367-49e2-a71c-47cfe9584a29_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Jessica Dixon Heitman appointed to ex-IL Rep. Harry Benton’s seat",
+      "summary": "The granddaughter of late U.S. Sen. Alan Dixon is the choice of local Democratic Party insiders.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/jessica-dixon-heitman-appointed-il-rep-harry-benton-seat-capitol-news/526-6d9097d8-4f3c-470c-a72e-a85f65d058ca",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b7a17c6e-5059-4250-bf8e-7554a3a915f1/20260721T192900/b7a17c6e-5059-4250-bf8e-7554a3a915f1_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New mural to be unveiled at The River's Edge, Davenport",
+      "summary": "Davenport Parks and Recreation is unveiling a new mural at The River’s Edge, 700 W. River Drive,  on Friday, July 24 at 9 a.m. Apprentices from Quad City Arts s…",
+      "url": "https://www.ourquadcities.com/news/local-news/new-mural-to-be-unveiled-at-the-rivers-edge-davenport/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "OneTable QC hosting session on avoiding burnout",
+      "summary": "OneTable QC is bringing nationally recognized leadership and burnout researchers to the Quad Cities for a free conversation on sustaining people behind the nonp…",
+      "url": "https://www.ourquadcities.com/news/local-news/onetable-qc-hosting-session-on-avoiding-burnout/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/OneTable-QC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Don't park in Historic Block Courtyard: Moline Police",
+      "summary": "A post on the Moline Police Department’s Facebook page reminds motorcycle drivers about parking protocol in downtown Moline. “To our motorcycling friends that v…",
+      "url": "https://www.ourquadcities.com/news/local-news/dont-park-in-historic-block-courtyard-moline-police/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Moline-Police-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Nicole Cisne Durbin named CEO of Girl Scouts of Eastern Iowa and Western Illinois",
+      "summary": "Girl Scouts of Eastern Iowa and Western Illinois has a new Chief Executive Officer. Nicole Cisne Durbin has been announced as its next Chief Executive Officer. …",
+      "url": "https://www.ourquadcities.com/news/local-news/nicole-cisne-durbin-named-ceo-of-girl-scouts-of-eastern-iowa-and-western-illinois/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Nicole-Cisne-Durbin.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Illinois laws taking effect July 1: What to know",
+      "summary": "New Illinois laws taking effect July 1 affect driver's licenses, schools, foster care, liquor laws, e-bikes and more across the state.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/new-laws-illinois-july-1/526-10e501c1-9be4-4428-a824-eba537296e68",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d17ddacc-6444-4013-bc09-e81f0f87cf42/20260326T201417/d17ddacc-6444-4013-bc09-e81f0f87cf42_750x422.jpg",
+      "category": "illinois-politics"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +96,7 @@
       "headline": "UnityPoint Health Trinity receives American College of Cardiology award for achievement",
       "summary": "UnityPoint Health – Trinity Bettendorf and Rock Island have received the American College of Cardiology’s NCDR Chest Pain ̶ MI Registry Performance Achievement …",
       "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-receives-american-college-of-cardiology-award-for-achievement/",
-      "time": "8 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/UnityPoint-Health-Trinity.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +107,7 @@
       "headline": "Bureau County motorcyclist killed in Illinois 29 crash identified",
       "summary": "The Bureau County Coroner has identified a 45-year-old Bureau County man who died in a motorcycle crash Sunday on Illinois 29 near Depue.",
       "url": "https://www.wqad.com/article/news/local/bureau-county-motorcyclist-killed-illinois-29-crash-identified/526-ab710b20-ca64-476d-a23c-84808f9ec7c3",
-      "time": "52 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WTLV/images/e2cab027-dfc7-418b-92a8-f0cd54d76cbb/20260413T100801/e2cab027-dfc7-418b-92a8-f0cd54d76cbb_750x422.jpg",
       "category": "local"
     },
@@ -30,7 +118,7 @@
       "headline": "Rock Island native pushes for memorial at site of first NFL game",
       "summary": "The first NFL game was played by the Rock Island Independents in 1920, but there are no plaques to memorialize the history. One local man is trying to change th…",
       "url": "https://www.wqad.com/article/news/local/the-current/rock-island-independents-first-nfl-game-football-plaque-memorial-monument-fundraise-history-honor/526-968df47b-6c0d-42e2-90bf-3c335deac6b5",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d1250b36-3faa-4a60-8682-9dc4c1778089/20260720T213305/d1250b36-3faa-4a60-8682-9dc4c1778089_750x422.jpg",
       "category": "the-current"
     },
@@ -41,97 +129,9 @@
       "headline": "No charges filed against Illinois State Police trooper in fatal January shooting",
       "summary": "Prosecutors have cleared an Illinois State Police trooper in the fatal shooting of a woman during a January traffic stop in East St. Louis.",
       "url": "https://www.wqad.com/article/news/state/no-charges-filed-against-illinois-state-police-trooper-in-fatal-january-shooting-rachel-tarrence/63-75474810-37d8-4430-b450-920b3f6cae6e",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/dd89eab3-ef6a-4788-ae98-57f1dd17b6b3/20260123T224402/dd89eab3-ef6a-4788-ae98-57f1dd17b6b3_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Nick Teddy 5K raises funds for Ewing's sarcoma research",
-      "summary": "The Nick Teddy Foundation is holding its Nick Teddy 5K Presented by TugFest Illinois on Saturday, August 15 at 8 a.m. on the Great River Trail along the Mississ…",
-      "url": "https://www.ourquadcities.com/news/local-news/nick-teddy-5k-raises-funds-for-ewings-sarcoma-research/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/07/Nick-Teddy-5k.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Celebrate Medicare/Medicaid's 61st anniversary at Davenport Library",
-      "summary": "The Iowa Citizen Action Network, along with Citizen Action Illinois, Fairness for Iowa, Health Care for America NOW, the Main Street Alliance and One Human Fami…",
-      "url": "https://www.ourquadcities.com/news/local-news/celebrate-medicare-medicaids-61st-anniversary-at-davenport-library/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/AP25171814042246-e1750775019796.jpg?w=800",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine boat harbor, marina, open after dredging",
-      "summary": "Dredging operations in the Muscatine Boat Harbor and Marina are wrapping up, and the harbor facilities are open and available for use, a news release says. The …",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-boat-harbor-marina-open-after-dredging/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair invites service members to sing national anthem during daily ceremony",
-      "summary": "Fair organizers are looking for veteran, law enforcement or military groups to perform the national anthem at 10 a.m. every day of the fair.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-national-anthem-service-members-perform/524-84db3f12-3f2d-46de-8f69-148d9c6549aa",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/fbaf5817-da60-437c-b81b-034b2912cd25/fbaf5817-da60-437c-b81b-034b2912cd25_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2026 Iowa State Fair full Grandstand lineup",
-      "summary": "With artists representing country, indie pop, rock, rap, Christian and more, this year's Grandstand lineup has something for everyone.",
-      "url": "https://www.wqad.com/article/news/entertainment-news/iowa-state-fair-full-grandstand-lineup-2026/524-83806f20-4380-40d0-856b-b4fa5c77ff51",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ecbdb5be-38c2-4e5c-837f-73e9055b2f37/20250812T234351/ecbdb5be-38c2-4e5c-837f-73e9055b2f37_750x422.jpg",
-      "category": "entertainment-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Des Moines-based Krause Group to acquire majority stake in historic Portuguese soccer club",
-      "summary": "Krause Group's portfolio already includes the soccer clubs Parma Calcio 1913 in Italy and the Des Moines Menace in Iowa.",
-      "url": "https://www.wqad.com/article/sports/soccer/krause-group-acquire-majority-stake-historic-portuguese-soccer-club-casa-pia-ac/524-619a46ff-a324-4f8c-9669-3e34fd7f4308",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/befc9dd3-6c9f-44d8-9228-0240a656be58/20260721T011752/befc9dd3-6c9f-44d8-9228-0240a656be58_750x422.jpg",
-      "category": "soccer"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Eldridge approves city absorption of volunteer fire department",
-      "summary": "The Eldridge City Council decided to take over control of the fire department at a city council meeting Monday night. The fire department was all-volunteer unti…",
-      "url": "https://www.ourquadcities.com/news/local-news/eldridge-approves-city-absorption-of-volunteer-fire-department/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/eldridge.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Eldridge to take on volunteer fire company as a City department",
-      "summary": "Negotiations soured last month amid disputes over proposed budgets and trust in the City, but all parties came back to the table for the final decision.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-volunteer-fire-company-becoming-city-department/526-fd9131db-a525-4bf3-abe1-729f42c014d6",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/50b88c44-1478-4c56-a8b8-efe882cc62cc/20260721T030908/50b88c44-1478-4c56-a8b8-efe882cc62cc_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
