@@ -1,6 +1,83 @@
 {
-  "updated": "2026-07-22T13:14:11.985285+00:00",
+  "updated": "2026-07-22T17:06:12.472044+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Regular customer charged in 2025 Davenport vape shop robbery",
+      "summary": "A Davenport man is charged with first-degree robbery after police say he threatened a vape shop employee with a knife during a 2025 robbery.",
+      "url": "https://www.wqad.com/article/news/local/davenport-man-charged-2025-vape-shop-robbery-yearlong-investigation/526-7983abb7-837b-4ccf-a796-0f2ea8e49355",
+      "time": "12 min ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quad Cities Community Foundation launches nonprofit networking series",
+      "summary": "The Quad Cities Community Foundation has a new way to help nonprofits find skilled, engaged board members. The foundation is launching Quad Cities Board Connect…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-community-foundation-launches-nonprofit-networking-series/",
+      "time": "17 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Quad-Cities-Community-Foundation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-217/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Crime-Stoppers-Markcus-Davis-Andrea-Huston-mug-shot.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Multiple departments respond to Carbon Cliff fire",
+      "summary": "UPDATE: The Our Quad Cities news crew has received more information on the fire in Carbon Cliff. The initial call went out at 9:34 a.m. Silvis Fire Department a…",
+      "url": "https://www.ourquadcities.com/news/local-news/multiple-departments-respond-to-carbon-cliff-fire/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Carbon-Cliff-fire-Silvis-FD.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Iowa law eliminates racial and cultural awareness, bias prevention training requirements. How local police, NAACP respond",
+      "summary": "Some local departments say they're going to continue the trainings, but critics worry the new law sets the state back in terms of criminal justice reform.",
+      "url": "https://www.wqad.com/article/news/state/iowa-law-eliminates-racial-cultural-awareness-bias-prevention-training-police-naacp/524-d974713a-4caa-41a7-b64a-3d35e6608e8c",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/c986ec5b-90ff-469c-9c93-852156220e86/c986ec5b-90ff-469c-9c93-852156220e86_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois man speaks for the first time in 12 years thanks to AI program",
+      "summary": "\"We're able to have a working voice that's based on his vocal data,” Cody Pees said. \"Him hearing his own voice again was an experience you can’t even imagine.”",
+      "url": "https://www.wqad.com/article/news/nation-world/illinois-man-speaks-for-the-first-time-in-12-years-thanks-to-ai-program/507-d0d02ca0-18ad-4606-8ddf-eceb5ff78d9e",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/f84448eb-363a-45fd-8dac-11733f2d3b1d/20260722T110701/f84448eb-363a-45fd-8dac-11733f2d3b1d_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "MercyOne centers honored for treatment of heart disease, stroke",
+      "summary": "MercyOne Medical Centers in Iowa have been recognized for their work to treat heart disease and strokes. The medical centers received 17 American Heart Associat…",
+      "url": "https://www.ourquadcities.com/news/local-news/mercyone-centers-honored-for-treatment-of-heart-disease-stroke/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/MercyOne.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +85,7 @@
       "headline": "Downtown Davenport to host events, festivities for Bix Weekend",
       "summary": "As thousands of runners, spectators and visitors arrive in Downtown Davenport for the annual Bix 7 race, the Downtown Davenport Partnership (DDP), in collaborat…",
       "url": "https://www.ourquadcities.com/news/local-news/downtown-davenport-to-host-events-festivities-for-bix-weekend/",
-      "time": "13 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Bix-7-GENERIC-road-race.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +96,7 @@
       "headline": "Iowa governor appoints QC member to Developmental Disabilities Council",
       "summary": "The Iowa Developmental Disabilities Council has announced Gov. Kim Reynolds' appointment of five new members - one from the Quad Cities - who bring diverse expe…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-governor-appoints-qc-member-to-developmental-disabilities-council/",
-      "time": "43 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Iowa-Developmental-Disabilities-Council.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +107,7 @@
       "headline": "Riverside Park, Muscatine, will close for late-July events",
       "summary": "Most of Riverside Park will be closed to vehicular traffic during the final week of July as several major summer events take place along the riverfront in Musca…",
       "url": "https://www.ourquadcities.com/news/local-news/riverside-park-muscatine-will-close-for-late-july-events/",
-      "time": "43 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Muscatine-Island-Levee.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +118,7 @@
       "headline": "Iowa State Fair announces over 40 new drinks for 2026",
       "summary": "Fairgoers can vote for their favorite drinks on the Official Iowa State Fair App between Aug. 13 and Aug. 19.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-new-drinks-contest/524-bb3201a1-d415-465c-a9ec-833fb6c2df1b",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/d2b2ec2f-cadb-4e41-93c2-b3f6de275c0c/d2b2ec2f-cadb-4e41-93c2-b3f6de275c0c_750x422.jpg",
       "category": "regional"
     },
@@ -52,86 +129,9 @@
       "headline": "Iowa nonprofit adapts to rising costs to keep seniors fed",
       "summary": "Amid rising costs for gas and food, WesleyLife is adapting operations to maintain sercices for 14,000 Iowa seniors.",
       "url": "https://www.wqad.com/article/news/regional/wesleylife-meals-on-wheels-rising-gas-food-costs/524-ad001266-2b75-40f1-8be0-8745f1cfc2be",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/2762b6cc-d6e8-461f-9001-48ab298cfc43/20260325T233748/2762b6cc-d6e8-461f-9001-48ab298cfc43_750x422.jpg",
       "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "RAGBRAI leadership gives city of Perry approval for museum",
-      "summary": "As riders passed through Tuesday, the Perry Iowa Historical Society sold raffle tickets to raise money for the new facility.",
-      "url": "https://www.wqad.com/article/news/local/outreach/ragbrai-leadership-approves-perry-museum/524-9c89ca4b-dd12-425a-8942-bb198de51d94",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c6889734-41d9-4a63-bfa7-7dc775a1e113/20260721T232512/c6889734-41d9-4a63-bfa7-7dc775a1e113_750x422.jpg",
-      "category": "outreach"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jessica VanDyke of Visit Quad Cities earns Forty Under 40 Award",
-      "summary": "Visit Quad Cities has announced that Jessica VanDyke, business growth &#38; sports manager for Visit Quad Cities, has been named a recipient of the 2026 Quad Ci…",
-      "url": "https://www.ourquadcities.com/news/local-news/jessica-vandyke-of-visit-quad-cities-earns-forty-under-40-award/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Jessica-VanDyke-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois' Blue Envelope Program aims to help drivers with autism during traffic stops",
-      "summary": "Starting Jan. 1, 2027, drivers can get a free blue envelope at their DMV to hold their vehicle documents. Similar programs have been established across the U.S.",
-      "url": "https://www.wqad.com/article/news/state/illinois-blue-envelope-program-drivers-with-autism-law-enforcement-communication/526-0fd15a0e-cc5f-48a5-a0ea-d4ef7f4652bb",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ed33d9de-3a79-415b-9a4e-f4c12d084b66/20260721T232512/ed33d9de-3a79-415b-9a4e-f4c12d084b66_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "DMV services returning to Aledo, Illinois Secretary of State confirms",
-      "summary": "Since the previous location's closure last year, Aledo residents have had to travel to DMV facilities in Silvis, Monmouth and Galesburg for in-person services.",
-      "url": "https://www.wqad.com/article/news/local/dmv-services-returning-to-aledo-illinois-secretary-of-state-confirms/526-d0820a21-4297-4c88-a072-a626bd5323f2",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2e44f825-def9-4b57-9ca9-3d35d85d11da/20260721T205255/2e44f825-def9-4b57-9ca9-3d35d85d11da_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Semi truck driver airlifted to hospital after crash that landed in Linn County creek",
-      "summary": "According to an Iowa State Patrol crash report, the semi truck suffered a tire failure while traveling north on Interstate 380.",
-      "url": "https://www.wqad.com/article/news/local/semi-truck-driver-injured-linn-county-crash-creek/526-cc6204e1-ba9c-4b05-8cfd-bfa9eee6e83c",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf expanding park cameras after vandalism causes thousands of dollars in damage",
-      "summary": "Kiwanis Park currently has three security cameras, and city officials are now planning to install additional cameras at other parks.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/bettendorf-expanding-park-cameras-after-vandalism-causes-thousands-of-dollars-in-damage/526-0ed01550-906c-423b-b613-f23c43b22b48",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c40e02ef-998c-40de-8b1d-ce7d58c0455a/20260721T231844/c40e02ef-998c-40de-8b1d-ce7d58c0455a_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois Tollway seeks public input on $26.5 billion plan",
-      "summary": "Illinois Tollway users might face higher toll rates in 2027 under a $26.5 billion plan that officials said would rebuild infrastructure and modernize the system…",
-      "url": "https://www.wqad.com/article/traffic/illinois-tollway-seeks-public-input-on-265-billion-plan/526-cb32312d-02e7-4cfe-9e2e-b3702fa6a2d6",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/74492605-38f1-42a7-8907-290238b92005/20260721T220853/74492605-38f1-42a7-8907-290238b92005_750x422.jpg",
-      "category": "traffic"
     }
   ]
 }
