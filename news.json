@@ -1,6 +1,61 @@
 {
-  "updated": "2026-07-22T17:06:12.472044+00:00",
+  "updated": "2026-07-22T20:52:32.714711+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Police: Stalking suspect fired at Moline PD during arrest, hit squad car",
+      "summary": "A stalking suspect is accused of firing at a Moline police vehicle while fleeing officers on Wednesday. No injuries were reported.",
+      "url": "https://www.wqad.com/article/news/crime/moline-stalking-suspect-arrested-allegedly-fired-weapon-at-police/526-8326541e-c6ad-4c24-a1ad-d44562071a99",
+      "time": "29 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f989a20d-4706-4ad3-a4aa-c692c87c7801/20260722T201457/f989a20d-4706-4ad3-a4aa-c692c87c7801_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Silvis Ethics Commission holds hearing following alderman's resignation",
+      "summary": "Former Alderman Craig Pirmann was accused of recording a closed-door City Council meeting.",
+      "url": "https://www.wqad.com/article/news/local/silvis-alderman-resignation-craig-pirmann-ethics-hearing/526-dc452325-9200-4848-8a22-c7972a7c4229",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a4a9c684-0010-4b1c-8dfe-bed6089ce299/20260721T220401/a4a9c684-0010-4b1c-8dfe-bed6089ce299_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker says he doesn’t know details of deadly Jan. 4 shooting by Illinois State Police",
+      "summary": "The governor refers to the unarmed mother who was shot as a \"victim,\" but says he’s otherwise not ready to comment.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-state-police-january-shooting-rachel-tarrence-pritzker-comments/526-2a7183a8-1571-4139-85f5-37ca8c4fcbc9",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fcf8611d-7683-40cb-ade5-fb0316499abf/20260722T192251/fcf8611d-7683-40cb-ade5-fb0316499abf_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Goose Creek Spray Pad closed due to infrastructure, mechanical issues",
+      "summary": "Residents who cool off at the Goose Creek Spray Pad in Davenport will have to find other ways to beat the heat. A post on the Davenport Parks &#38; Recreation’s…",
+      "url": "https://www.ourquadcities.com/news/local-news/goose-creek-spray-pad-closed-due-to-infrastructure-mechanical-issues/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Media-65.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pay It Forward: Pam's Place supporting Quad Cities",
+      "summary": "Pamela Seales was presented with the Pay It Forward award for her hard work and dedication in fostering a strong and resourceful community.",
+      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-wqad-ascentra-credit-union-pams-place-quad-cities/526-db714bc6-753a-40a8-a6b8-3195fd4839c9",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f01e6476-fa77-4818-b5f3-9d0deb445c2f/20260722T160809/f01e6476-fa77-4818-b5f3-9d0deb445c2f_750x422.jpg",
+      "category": "pay-it-forward"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +63,7 @@
       "headline": "Regular customer charged in 2025 Davenport vape shop robbery",
       "summary": "A Davenport man is charged with first-degree robbery after police say he threatened a vape shop employee with a knife during a 2025 robbery.",
       "url": "https://www.wqad.com/article/news/local/davenport-man-charged-2025-vape-shop-robbery-yearlong-investigation/526-7983abb7-837b-4ccf-a796-0f2ea8e49355",
-      "time": "12 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +74,7 @@
       "headline": "Quad Cities Community Foundation launches nonprofit networking series",
       "summary": "The Quad Cities Community Foundation has a new way to help nonprofits find skilled, engaged board members. The foundation is launching Quad Cities Board Connect…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-cities-community-foundation-launches-nonprofit-networking-series/",
-      "time": "17 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Quad-Cities-Community-Foundation.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +85,7 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-217/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Crime-Stoppers-Markcus-Davis-Andrea-Huston-mug-shot.jpg?w=900",
       "category": "Crime"
     },
@@ -41,7 +96,7 @@
       "headline": "Multiple departments respond to Carbon Cliff fire",
       "summary": "UPDATE: The Our Quad Cities news crew has received more information on the fire in Carbon Cliff. The initial call went out at 9:34 a.m. Silvis Fire Department a…",
       "url": "https://www.ourquadcities.com/news/local-news/multiple-departments-respond-to-carbon-cliff-fire/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Carbon-Cliff-fire-Silvis-FD.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +107,7 @@
       "headline": "New Iowa law eliminates racial and cultural awareness, bias prevention training requirements. How local police, NAACP respond",
       "summary": "Some local departments say they're going to continue the trainings, but critics worry the new law sets the state back in terms of criminal justice reform.",
       "url": "https://www.wqad.com/article/news/state/iowa-law-eliminates-racial-cultural-awareness-bias-prevention-training-police-naacp/524-d974713a-4caa-41a7-b64a-3d35e6608e8c",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/c986ec5b-90ff-469c-9c93-852156220e86/c986ec5b-90ff-469c-9c93-852156220e86_750x422.jpg",
       "category": "state"
     },
@@ -63,7 +118,7 @@
       "headline": "Illinois man speaks for the first time in 12 years thanks to AI program",
       "summary": "\"We're able to have a working voice that's based on his vocal data,” Cody Pees said. \"Him hearing his own voice again was an experience you can’t even imagine.”",
       "url": "https://www.wqad.com/article/news/nation-world/illinois-man-speaks-for-the-first-time-in-12-years-thanks-to-ai-program/507-d0d02ca0-18ad-4606-8ddf-eceb5ff78d9e",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/f84448eb-363a-45fd-8dac-11733f2d3b1d/20260722T110701/f84448eb-363a-45fd-8dac-11733f2d3b1d_750x422.jpg",
       "category": "nation-world"
     },
@@ -74,64 +129,9 @@
       "headline": "MercyOne centers honored for treatment of heart disease, stroke",
       "summary": "MercyOne Medical Centers in Iowa have been recognized for their work to treat heart disease and strokes. The medical centers received 17 American Heart Associat…",
       "url": "https://www.ourquadcities.com/news/local-news/mercyone-centers-honored-for-treatment-of-heart-disease-stroke/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/MercyOne.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Downtown Davenport to host events, festivities for Bix Weekend",
-      "summary": "As thousands of runners, spectators and visitors arrive in Downtown Davenport for the annual Bix 7 race, the Downtown Davenport Partnership (DDP), in collaborat…",
-      "url": "https://www.ourquadcities.com/news/local-news/downtown-davenport-to-host-events-festivities-for-bix-weekend/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Bix-7-GENERIC-road-race.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa governor appoints QC member to Developmental Disabilities Council",
-      "summary": "The Iowa Developmental Disabilities Council has announced Gov. Kim Reynolds' appointment of five new members - one from the Quad Cities - who bring diverse expe…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-governor-appoints-qc-member-to-developmental-disabilities-council/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Iowa-Developmental-Disabilities-Council.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Riverside Park, Muscatine, will close for late-July events",
-      "summary": "Most of Riverside Park will be closed to vehicular traffic during the final week of July as several major summer events take place along the riverfront in Musca…",
-      "url": "https://www.ourquadcities.com/news/local-news/riverside-park-muscatine-will-close-for-late-july-events/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Muscatine-Island-Levee.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair announces over 40 new drinks for 2026",
-      "summary": "Fairgoers can vote for their favorite drinks on the Official Iowa State Fair App between Aug. 13 and Aug. 19.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-new-drinks-contest/524-bb3201a1-d415-465c-a9ec-833fb6c2df1b",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/d2b2ec2f-cadb-4e41-93c2-b3f6de275c0c/d2b2ec2f-cadb-4e41-93c2-b3f6de275c0c_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa nonprofit adapts to rising costs to keep seniors fed",
-      "summary": "Amid rising costs for gas and food, WesleyLife is adapting operations to maintain sercices for 14,000 Iowa seniors.",
-      "url": "https://www.wqad.com/article/news/regional/wesleylife-meals-on-wheels-rising-gas-food-costs/524-ad001266-2b75-40f1-8be0-8745f1cfc2be",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/2762b6cc-d6e8-461f-9001-48ab298cfc43/20260325T233748/2762b6cc-d6e8-461f-9001-48ab298cfc43_750x422.jpg",
-      "category": "regional"
     }
   ]
 }
