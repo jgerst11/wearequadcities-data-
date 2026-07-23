@@ -1,6 +1,105 @@
 {
-  "updated": "2026-07-22T20:52:32.714711+00:00",
+  "updated": "2026-07-23T01:22:10.576788+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Muscatine honors lifeguards",
+      "summary": "The City of Muscatine will join communities worldwide in recognizing the dedicated women and men who keep public pools safe during International Lifeguard and P…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-muscatine-honors-lifeguards/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_879a4b.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Southern rust confirmed in Iowa corn, but expert says weather outlook eases concerns",
+      "summary": "In 2025, Iowa was hit by some of the highest levels of the fungal disease the state has ever seen. This week, it was spotted again, but experts say not to worry…",
+      "url": "https://www.wqad.com/article/news/local/the-current/southern-rust-corn-crops-fungal-disease-iowa-state-university-extension-office/526-a5d26e70-c2b4-4f74-9a78-a74f3238077a",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f25ebd5f-57a0-4f26-a3d7-c3f8d5dcffba/20250731T214459/f25ebd5f-57a0-4f26-a3d7-c3f8d5dcffba_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Eldridge Fire Department is finally a city entity. What's next?",
+      "summary": "Eldridge city leaders will now move forward with their plans to take over the local fire department. It was volunteer-run until Monday, when the city council vo…",
+      "url": "https://www.ourquadcities.com/news/local-news/eldridge-fire-department-is-finally-a-city-entity-whats-next/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Eldridge-Fire-Department-is-finally-a-city-entity.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa 80 Group names new president and CEO",
+      "summary": "Iowa 80 Group, Inc. and Cat Scale Company announced Delia Moon Meier as president and chief executive officer of both companies, effective immediately. Accordin…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-80-group-names-new-president-and-ceo/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_e1b8f8.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'Blue Envelope Program' in Illinois hopes to improve traffic stops for drivers with autism",
+      "summary": "The voluntary \"Blue Envelope Program\" starts Jan. 1, 2027. It hopes to improve traffic stops for autistic drivers, aiming to ease communication and reduce stres…",
+      "url": "https://www.wqad.com/article/news/state/blue-envelope-program-illinois-drivers-with-autism-traffic-stops-police/526-7ce2af98-4321-4659-a099-ff361724abd7",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/9726f631-b21b-4d4c-bf41-a16dd4174ad9/20260722T225746/9726f631-b21b-4d4c-bf41-a16dd4174ad9_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "2 more comfortable days in the QC before next mini heat wave",
+      "summary": "Wednesday's high was only in the middle 70s! That's more than 10° below normal for mid to late July. Thursday and Friday look good with sunny skies and highs ne…",
+      "url": "https://www.ourquadcities.com/news/local-news/2-more-comfortable-days-in-the-qc-before-next-mini-heat-wave/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/warm-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island man arrested for shots fired, weapons charges",
+      "summary": "A Rock Island man was arrested on weapons charges and violation of the Illinois Sex Offender Registration Act. According to a release from the Moline Police Dep…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-man-arrested-for-shots-fired-weapons-charges/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Ervin-Conner-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa 80 Group names new leader after CEO's death",
+      "summary": "Iowa 80 Group and CAT Scale Company have named a new president and CEO following the recent death of the companies' longtime leader.",
+      "url": "https://www.wqad.com/article/news/local/iowa-80-group-new-ceo-president-will-moon-death/526-465b6dd6-15e2-4c9c-8e13-63aeaf412976",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f556ac67-fc38-489d-80f6-93d64869358e/f556ac67-fc38-489d-80f6-93d64869358e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline City Council approves AI language translation software for police body cameras",
+      "summary": "The technology will be used when a human interpreter is not immediately available. It can translate 60 languages through the camera within seconds.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/moline-city-council-ai-translation-language-software-police-department/526-870e5cf9-284c-4882-9229-54f7687d3d55",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f9f9f8bf-868f-4fff-bb9a-4f44109a0d0b/f9f9f8bf-868f-4fff-bb9a-4f44109a0d0b_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,9 +107,20 @@
       "headline": "Police: Stalking suspect fired at Moline PD during arrest, hit squad car",
       "summary": "A stalking suspect is accused of firing at a Moline police vehicle while fleeing officers on Wednesday. No injuries were reported.",
       "url": "https://www.wqad.com/article/news/crime/moline-stalking-suspect-arrested-allegedly-fired-weapon-at-police/526-8326541e-c6ad-4c24-a1ad-d44562071a99",
-      "time": "29 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f989a20d-4706-4ad3-a4aa-c692c87c7801/20260722T201457/f989a20d-4706-4ad3-a4aa-c692c87c7801_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA athlete shines at Special Olympics USA Games",
+      "summary": "Fresh off big wins at the 2026 Special Olympics USA Games, Team Illinois ranked sixth overall in medal count with 54 medals, and a Quad-City athlete earned two …",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-athlete-shines-at-special-olympics-usa-games/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/QCA-athlete-shines-at-Special-Olympics-USA-Games.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -19,119 +129,9 @@
       "headline": "Silvis Ethics Commission holds hearing following alderman's resignation",
       "summary": "Former Alderman Craig Pirmann was accused of recording a closed-door City Council meeting.",
       "url": "https://www.wqad.com/article/news/local/silvis-alderman-resignation-craig-pirmann-ethics-hearing/526-dc452325-9200-4848-8a22-c7972a7c4229",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a4a9c684-0010-4b1c-8dfe-bed6089ce299/20260721T220401/a4a9c684-0010-4b1c-8dfe-bed6089ce299_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pritzker says he doesn’t know details of deadly Jan. 4 shooting by Illinois State Police",
-      "summary": "The governor refers to the unarmed mother who was shot as a \"victim,\" but says he’s otherwise not ready to comment.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-state-police-january-shooting-rachel-tarrence-pritzker-comments/526-2a7183a8-1571-4139-85f5-37ca8c4fcbc9",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fcf8611d-7683-40cb-ade5-fb0316499abf/20260722T192251/fcf8611d-7683-40cb-ade5-fb0316499abf_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Goose Creek Spray Pad closed due to infrastructure, mechanical issues",
-      "summary": "Residents who cool off at the Goose Creek Spray Pad in Davenport will have to find other ways to beat the heat. A post on the Davenport Parks &#38; Recreation’s…",
-      "url": "https://www.ourquadcities.com/news/local-news/goose-creek-spray-pad-closed-due-to-infrastructure-mechanical-issues/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Media-65.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pay It Forward: Pam's Place supporting Quad Cities",
-      "summary": "Pamela Seales was presented with the Pay It Forward award for her hard work and dedication in fostering a strong and resourceful community.",
-      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-wqad-ascentra-credit-union-pams-place-quad-cities/526-db714bc6-753a-40a8-a6b8-3195fd4839c9",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f01e6476-fa77-4818-b5f3-9d0deb445c2f/20260722T160809/f01e6476-fa77-4818-b5f3-9d0deb445c2f_750x422.jpg",
-      "category": "pay-it-forward"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Regular customer charged in 2025 Davenport vape shop robbery",
-      "summary": "A Davenport man is charged with first-degree robbery after police say he threatened a vape shop employee with a knife during a 2025 robbery.",
-      "url": "https://www.wqad.com/article/news/local/davenport-man-charged-2025-vape-shop-robbery-yearlong-investigation/526-7983abb7-837b-4ccf-a796-0f2ea8e49355",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad Cities Community Foundation launches nonprofit networking series",
-      "summary": "The Quad Cities Community Foundation has a new way to help nonprofits find skilled, engaged board members. The foundation is launching Quad Cities Board Connect…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-community-foundation-launches-nonprofit-networking-series/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Quad-Cities-Community-Foundation.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-217/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Crime-Stoppers-Markcus-Davis-Andrea-Huston-mug-shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Multiple departments respond to Carbon Cliff fire",
-      "summary": "UPDATE: The Our Quad Cities news crew has received more information on the fire in Carbon Cliff. The initial call went out at 9:34 a.m. Silvis Fire Department a…",
-      "url": "https://www.ourquadcities.com/news/local-news/multiple-departments-respond-to-carbon-cliff-fire/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Carbon-Cliff-fire-Silvis-FD.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Iowa law eliminates racial and cultural awareness, bias prevention training requirements. How local police, NAACP respond",
-      "summary": "Some local departments say they're going to continue the trainings, but critics worry the new law sets the state back in terms of criminal justice reform.",
-      "url": "https://www.wqad.com/article/news/state/iowa-law-eliminates-racial-cultural-awareness-bias-prevention-training-police-naacp/524-d974713a-4caa-41a7-b64a-3d35e6608e8c",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c986ec5b-90ff-469c-9c93-852156220e86/c986ec5b-90ff-469c-9c93-852156220e86_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois man speaks for the first time in 12 years thanks to AI program",
-      "summary": "\"We're able to have a working voice that's based on his vocal data,” Cody Pees said. \"Him hearing his own voice again was an experience you can’t even imagine.”",
-      "url": "https://www.wqad.com/article/news/nation-world/illinois-man-speaks-for-the-first-time-in-12-years-thanks-to-ai-program/507-d0d02ca0-18ad-4606-8ddf-eceb5ff78d9e",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/f84448eb-363a-45fd-8dac-11733f2d3b1d/20260722T110701/f84448eb-363a-45fd-8dac-11733f2d3b1d_750x422.jpg",
-      "category": "nation-world"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "MercyOne centers honored for treatment of heart disease, stroke",
-      "summary": "MercyOne Medical Centers in Iowa have been recognized for their work to treat heart disease and strokes. The medical centers received 17 American Heart Associat…",
-      "url": "https://www.ourquadcities.com/news/local-news/mercyone-centers-honored-for-treatment-of-heart-disease-stroke/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/MercyOne.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
