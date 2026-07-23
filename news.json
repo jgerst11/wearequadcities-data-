@@ -1,6 +1,83 @@
 {
-  "updated": "2026-07-23T17:07:58.333071+00:00",
+  "updated": "2026-07-23T20:47:52.829698+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Chick-fil-A warns cyberattack may have exposed customer data in Iowa, other states",
+      "summary": "Some Chick-fil-A loyalty members may have had their personal information exposed following a recent cyberattack, the company said.",
+      "url": "https://www.ourquadcities.com/news/local-news/chick-fil-a-warns-cyberattack-may-have-exposed-customer-data-in-iowa-other-states/",
+      "time": "17 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Chick-fil-A-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Suspect wanted in Henry County, Iowa hit-and-run",
+      "summary": "The suspect's vehicle is believed to be a white Ford Escape. Anyone with information about the driver is asked to contact the Henry County Sheriff's Office.",
+      "url": "https://www.wqad.com/article/news/local/henry-county-sheriff-office-searching-suspect-hit-and-run/526-a3c01b97-efc2-469a-8ed9-f9971f392efe",
+      "time": "38 min ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/d8856921-6d89-4890-8e79-4738d265add6/20240908T193037/d8856921-6d89-4890-8e79-4738d265add6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gov. Pritzker signs bill to honor Emmett Till and his mother",
+      "summary": "Governor JB Pritzker signed House Bill 4323 to designate July 25 as Emmett Till Day in Illinois, honoring the legacy of the young civil rights icon and his moth…",
+      "url": "https://www.ourquadcities.com/news/local-news/gov-pritzker-signs-bill-to-honor-emmett-till-and-his-mother/",
+      "time": "47 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Emmett-Louis-Till.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Here’s how Illinois election authorities guard against noncitizen voting",
+      "summary": "Officials said safeguards are in place to prevent inadvertent registration.",
+      "url": "https://www.wqad.com/article/news/politics/elections/noncitizen-voting-illinois-safeguards-election-security/526-c9e20e43-18b5-4992-a8f7-fad715635a28",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/aaa7cf53-bfb8-4d89-ae14-0ffb324c7a36/20260723T181637/aaa7cf53-bfb8-4d89-ae14-0ffb324c7a36_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Roadway improvements close part of 12th Street, Rock Island",
+      "summary": "Rock Island has a new roadway improvement project starting next week. A news release from the city’s Public Works Department said 12th Street between 7th Avenue…",
+      "url": "https://www.ourquadcities.com/news/local-news/roadway-improvements-close-part-of-12th-street-rock-island/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/05/road-work-GENERIC-construction.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Unemployment unchanged in Illinois Quad Cities: Report",
+      "summary": "New numbers show that unemployment in the Illinois Quad Cities has not changed since last year, according to data from the U.S. Bureau of Labor Statistics (BLS)…",
+      "url": "https://www.ourquadcities.com/news/local-news/unemployment-unchanged-in-illinois-quad-cities-report/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/12/695528bf62dd31.16054763.jpeg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker says he doesn’t know details of deadly Jan. 4 shooting by Illinois State Police",
+      "summary": "The governor refers to the unarmed mother who was shot as a \"victim,\" but says he’s otherwise not ready to comment.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-state-police-january-shooting-rachel-tarrence-pritzker-comments/526-2a7183a8-1571-4139-85f5-37ca8c4fcbc9",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fcf8611d-7683-40cb-ade5-fb0316499abf/20260722T192251/fcf8611d-7683-40cb-ade5-fb0316499abf_750x422.jpg",
+      "category": "illinois-politics"
+    },
     {
       "source": "QC Times",
       "badge": "QCT",
@@ -8,7 +85,7 @@
       "headline": "High school sports: Quad-Cities conference standings and schedules",
       "summary": "Updated high school Mississippi Athletic Conference baseball and softball standings along with state playoff brackets.",
       "url": "https://qctimes.com/sports/high-school/article_78dcc79f-f560-4a7f-884c-5e98a7c44717.html",
-      "time": "7 min ago",
+      "time": "3 h ago",
       "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/8a/68a311f1-2cf5-4244-b339-46fc2d2adb59/69f40c5f097f7.image.jpg?resize=300%2C505",
       "category": ""
     },
@@ -19,7 +96,7 @@
       "headline": "Davenport family to host 8th annual gun violence prevention walk",
       "summary": "The public is invited to the walk this Saturday at 10 a.m. from the intersection of 4th and Warren streets to the Davenport police station.",
       "url": "https://www.wqad.com/article/news/local/local-outreach-davenport-family-invites-community-gun-violence-walk/526-c5f818ba-6a39-4868-b915-2f901b3ad563",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d2eb3d9a-e1a4-46a0-b087-88500d11654c/20260723T152418/d2eb3d9a-e1a4-46a0-b087-88500d11654c_750x422.jpg",
       "category": "local"
     },
@@ -30,20 +107,9 @@
       "headline": "Police: Stalking suspect fired at Moline PD during arrest, hit police vehicle",
       "summary": "A stalking suspect is accused of firing at a Moline police vehicle while fleeing officers on Wednesday. No injuries were reported.",
       "url": "https://www.wqad.com/article/news/crime/moline-stalking-suspect-arrested-allegedly-fired-weapon-at-police/526-8326541e-c6ad-4c24-a1ad-d44562071a99",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f989a20d-4706-4ad3-a4aa-c692c87c7801/20260722T201457/f989a20d-4706-4ad3-a4aa-c692c87c7801_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC students earn award at FBLA National Leadership Conference",
-      "summary": "Iowa Future Business Leaders of America (FBLA) students, including two from the Quad Cities, made their mark at the 2026 FBLA National Leadership Conference fro…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-student-earn-award-at-fbla-national-leadership-conference/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_895f1d.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,7 +118,7 @@
       "headline": "Pay It Forward: Rock Island nonprofit gives children clothes, school supplies and hope",
       "summary": "Pamela Seales was presented with the Pay It Forward award for her hard work and dedication in fostering a strong and resourceful community.",
       "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-wqad-ascentra-credit-union-pams-place-quad-cities/526-db714bc6-753a-40a8-a6b8-3195fd4839c9",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a6a82f71-6ad4-403b-9416-66b81472c0be/20260723T122345/a6a82f71-6ad4-403b-9416-66b81472c0be_750x422.jpg",
       "category": "pay-it-forward"
     },
@@ -63,75 +129,9 @@
       "headline": "What content will you see in your paper this week?",
       "summary": "In today's edition, you'll find pages listing the people who participated in the third annual Bechtel Trusts Sr. Bix in Bettendorf on Tuesday. This is a new ite…",
       "url": "https://qctimes.com/article_c4923449-93d1-5573-be88-b4472f3f0681.html",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/cb/6cbe33cb-4519-522c-a46f-4ada496e4e2a/6a620bb60fb20.image.jpg",
       "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "'FAVORITE WEEK OF THE YEAR'",
-      "summary": "QUAD-CITY TIMES BIX 7",
-      "url": "https://qctimes.com/article_ed43c9a6-9f77-58dd-b92f-956ee490a0f0.html",
-      "time": "4 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/13/d13d033d-c58f-5cc2-95bf-161754ac61b7/6a620bb56b185.image.jpg?resize=300%2C218",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "What Quad-City Times Bix 7 content will you see in your paper this week?",
-      "summary": "Here is what you can expect to see in your paper in terms of participant lists and results from Bix Week events.",
-      "url": "https://qctimes.com/exclusive/bix/article_dffa97e7-1eff-42f6-88e3-b8963cbf7163.html",
-      "time": "5 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/b6/8b66847d-08af-49b4-8b83-47aad12279b8/6886372447aee.image.jpg?resize=300%2C138",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "New event series looks to connect Quad-Cities nonprofits with potential board members",
-      "summary": "The Quad Cities Community Foundation is launching Board Connections, a networking series for nonprofits and professionals interested in contributing.",
-      "url": "https://qctimes.com/news/local/business/article_0d2f62ae-d311-4f86-925d-b665582c5211.html",
-      "time": "5 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "QC Answers: When is the first day for schools around the Quad-Cities",
-      "summary": "School is around the corner in the Quad-Cities. Here is when area districts start.",
-      "url": "https://qctimes.com/news/local/education/article_15acb6f2-38b9-4cc6-b1a3-569a605d18aa.html",
-      "time": "5 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa Board of Nursing disciplines nurses for alleged patient care concerns, intoxication",
-      "summary": "The board sanctioned three nurses for alleged misconduct, including medication mismanagement and working while intoxicated.",
-      "url": "https://www.wqad.com/article/news/health/iowa-board-of-nursing-disciplines-nurses-patient-care-alleged-drunkenness/524-4ce45ac5-f330-4971-9d0b-e63ca91242e6",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WHAS/images/2532fd86-fb49-4806-8567-4e8fc8bcb1eb/2532fd86-fb49-4806-8567-4e8fc8bcb1eb_750x422.jpeg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "RAGBRAI riders embrace Vegas vibes in Nevada, Iowa",
-      "summary": "The day was more than just a celebration as one Nevada business took the opportunity to raise money after fire heavily damaged their building earlier this month…",
-      "url": "https://www.wqad.com/article/news/local/outreach/ragbrai-nevada-las-vegas-theme-starbucks-drive-in-colo-marshalltown/524-75108d22-abd8-42bc-bbf3-0b265022f192",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a01bc875-c23e-4373-903b-d48269244c12/20260722T220954/a01bc875-c23e-4373-903b-d48269244c12_750x422.jpg",
-      "category": "outreach"
     }
   ]
 }
