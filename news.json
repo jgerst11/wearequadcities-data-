@@ -1,6 +1,61 @@
 {
-  "updated": "2026-07-24T13:10:02.227121+00:00",
+  "updated": "2026-07-24T17:18:20.006358+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island Arsenal Museum social media account to deactivate",
+      "summary": "The Rock Island Arsenal Museum announced that its Facebook account will be deactivated by July 30.",
+      "url": "https://www.wqad.com/article/news/local/rock-island-arsenal-museum-social-media-account-to-deactivate/526-c33b974f-4f6c-45e1-90d1-d94510d1f2d3",
+      "time": "23 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a831b9e7-a395-4a34-a922-3356002f10f3/20250609T203842/a831b9e7-a395-4a34-a922-3356002f10f3_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Two Iowa men indicted on Ponzi scheme charges",
+      "summary": "Two Iowa men were indicted on federal charges related to a multi-million dollar Ponzi scheme. According to a release and public records, a federal grand jury re…",
+      "url": "https://www.ourquadcities.com/news/local-news/two-iowa-men-indicted-on-ponzi-scheme-charges/",
+      "time": "50 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/prison-handcuffs-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes announce details and date for 2026 Kids' Day at Kinnick",
+      "summary": "The Iowa football team will host its annual Kids’ Day at Kinnick on August 15. Fans will be able to watch the Hawkeyes practice for free and spend time explorin…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-announce-details-and-date-for-2026-kids-day-at-kinnick/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/07/20210731_141025.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'Iowa has saved my life': Swedish man goes viral for falling in love with Iowa",
+      "summary": "Filip Johansson graduated from school in London, moved back home to Sweden, then realized he wanted to live somewhere completely different: Iowa.",
+      "url": "https://www.wqad.com/article/news/community/sweden-man-falls-in-love-with-iowa-filip-johansson/524-5126005a-d82e-406a-b5a8-6995aea2a6e3",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/bdb4e264-6af1-4748-a492-4bdb8797c016/20260724T112015/bdb4e264-6af1-4748-a492-4bdb8797c016_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Visit Quad Cities' Dave Herrell appointed to Destinations International board of directors",
+      "summary": "Visit Quad Cities president and CEO Dave Herrell has been appointed to the Destinations International board of directors. According to a release from Visit Quad…",
+      "url": "https://www.ourquadcities.com/news/local-news/visit-quad-cities-dave-herrell-appointed-to-destinations-international-board-of-directors/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/12/Dave-Herrell.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,20 +63,9 @@
       "headline": "Rock Island County Sheriff's Office investigates multi-vehicle crash",
       "summary": "The crash occurred in the 10000 block of Route 150 on Thursday evening. Two people were transported to nearby hospitals for treatment.",
       "url": "https://www.wqad.com/article/traffic/incidents/traffic-incident-police-coal-valley-respond-multi-vehicle-crash/526-df3d9afd-2e81-4bfb-bf57-13cf4f37933c",
-      "time": "24 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e5bb96e8-f301-49a8-bd1f-de19d81a161a/20260724T123738/e5bb96e8-f301-49a8-bd1f-de19d81a161a_750x422.jpg",
       "category": "incidents"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Pleasant Valley School District principal resigns, resignations, hirings from June 22 school board agenda",
-      "summary": "The following personnel items are from the July 13 of the Pleasant Valley School District. The School Board met at Belmont Administration Center at 525 Belmont …",
-      "url": "https://qctimes.com/news/local/education/article_472ca5a5-cb7c-43e2-a357-574640caad88.html",
-      "time": "40 min ago",
-      "image": "",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,7 +74,7 @@
       "headline": "Our QC Crime Watch: Davenport man faces child-pornography charges: Episode 74",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-davenport-man-faces-child-pornography-charges-episode-74/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/cellphone-GENERIC-cell-phone-phones-4.jpg?w=900",
       "category": "Local News"
     },
@@ -41,20 +85,9 @@
       "headline": "Heat and humidity build back in for the weekend",
       "summary": "One more comfortable day for the Quad Cities before it turns hot and humid again. A few showers are possible today and tonight, but many of us will stay dry. He…",
       "url": "https://www.ourquadcities.com/news/local-news/heat-and-humidity-build-back-in-for-the-weekend/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Inspiring stories from first-timers running the Quad-City Times Bix 7",
-      "summary": "A cancer survivor, a brother-sister duo, a woman rebounding from heart failure and another on a weight-loss journey will run in the Quad-Cities Bix 7 for the fi…",
-      "url": "https://qctimes.com/news/local/article_37e8455c-48d1-41f7-b42a-9e976dea0baa.html",
-      "time": "1 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/30/e30b3cc0-82f5-4a9e-b737-e4754048d21c/6a5fa4842d609.image.png?resize=300%2C533",
-      "category": ""
     },
     {
       "source": "WQAD",
@@ -63,20 +96,9 @@
       "headline": "New central Iowa housing development aims to tackle state's small-town housing crisis",
       "summary": "Panora is tackling a housing shortage common in Iowa's small towns, with new developments aiming to boost community growth and attract business opportunities.",
       "url": "https://www.wqad.com/article/news/regional/new-housing-development-aims-tackle-iowa-small-town-housing-crisis/524-4da68267-26e3-4a54-bec4-324c6d24a665",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/c940800c-b6a7-4c76-9deb-27225c594e11/20260724T023026/c940800c-b6a7-4c76-9deb-27225c594e11_750x422.jpg",
       "category": "regional"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois residents needed for food waste survey",
-      "summary": "University of Illinois Extension is seeking input from Illinois households to better understand food waste and develop practical, community focused solutions. A…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-residents-needed-for-food-waste-survey/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_d72d9f.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,20 +107,9 @@
       "headline": "Proposed Coal Valley sports complex draws concerns from neighbors",
       "summary": "The mayor says economic growth is important for the tax base. People living near the site worry about noise and traffic.",
       "url": "https://www.wqad.com/article/news/local/coal-valley-sports-complex-concerns-neighbors/526-d2496247-32a2-42e9-844f-7e33ea32b17d",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dc2990b8-cc1a-4828-b06e-d881eec1537e/20260724T032911/dc2990b8-cc1a-4828-b06e-d881eec1537e_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: In search of baby foxes",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-in-search-of-baby-foxes/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/The-Heart-of-the-Story-In-search-of-baby-foxes.jpg?w=900",
-      "category": "The Heart of the Story"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -107,7 +118,7 @@
       "headline": "Geifman Group buys former Quad-City Times building in Davenport",
       "summary": "Geifman Group has bought the former Quad City Times building at 500 E. 3rd St., Davenport. Steve Geifman, managing partner/president of the Geifman Group, on Th…",
       "url": "https://www.ourquadcities.com/news/local-news/geifman-group-buys-former-quad-city-times-building-in-davenport/",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/QC-Times-rendering.jpg?w=900",
       "category": "Local News"
     },
@@ -118,20 +129,9 @@
       "headline": "Road closures, forecast and more: What to know ahead of the Quad-City Times Bix 7 this weekend",
       "summary": "What started with just 84 runners in 1975 has grown to thousands of participants. Here's a look at what's in store.",
       "url": "https://www.wqad.com/article/entertainment/events/bix-7-race-weekend-road-closures-forecast-information-quad-cities/526-c4bcf644-613a-4c21-873c-97ea99e7ef1c",
-      "time": "12 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d3c04bd6-f26d-4438-bcd8-2bc6e00ab555/20250623T193353/d3c04bd6-f26d-4438-bcd8-2bc6e00ab555_750x422.jpg",
       "category": "events"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Emergency responders extricate man from car at crash site on U. S. Route 150",
-      "summary": "Emergency responders are at the scene of a crash that happened shortly after 6 p.m. Thursday about halfway between Coal Valley and Orion on U. S. Route 150, whi…",
-      "url": "https://www.ourquadcities.com/news/local-news/emergency-responders-extricate-man-from-car-at-crash-site-on-route-150/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_bd7513.png?w=900",
-      "category": "Local News"
     }
   ]
 }
