@@ -1,6 +1,94 @@
 {
-  "updated": "2026-07-24T17:18:20.006358+00:00",
+  "updated": "2026-07-24T20:53:43.555599+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Humane Society of Scott County waives some adoption fees through July 26 due to space issues",
+      "summary": "Due to space issues, the Humane Society of Scott County announced some adoption fees are being waived through July 26. According to a Facebook post from the Hum…",
+      "url": "https://www.ourquadcities.com/news/local-news/humane-society-of-scott-county-waives-some-adoption-fees-through-july-26-due-to-space-issues/",
+      "time": "34 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/Humane-Society-of-Scott-County.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2 southeast Iowa men indicted for alleged multi-million-dollar Ponzi scheme",
+      "summary": "The Ponzi scheme involved dozens of victims and millions of dollars lost, the U.S. Attorney's Office for the Southern District of Iowa said.",
+      "url": "https://www.wqad.com/article/news/crime/ponzi-scheme-indictment-southern-district-of-iowa/526-d00aa34a-d376-4148-92aa-834d78e68e5e",
+      "time": "48 min ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/c45a64fb-260e-4a38-9a3f-82b8e7bb535a/c45a64fb-260e-4a38-9a3f-82b8e7bb535a_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Tennessee child abduction ends with non-custodial parent's arrest in Mt. Pleasant, Iowa",
+      "summary": "The local police department learned that the suspect and child in the McMinn County, Tennessee, abduction were traveling on U.S. Highway 218.",
+      "url": "https://www.wqad.com/article/news/crime/child-abduction-arrest-noncustodial-parent-mt-pleasant-iowa-tennessee/526-acfb5bb0-12b3-40f3-beca-0e310c0bc5da",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WATN/images/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf/20260714T215723/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "These 9 Illinois communities say they’re interested in new nuclear facilities",
+      "summary": "The state lifted its moratorium on new nuclear facilities, but development could still be decades away.",
+      "url": "https://www.wqad.com/article/news/state/illinois-nuclear-facilities-new-construction-moratorium-lifted-communities-voice-interest-new-sites/526-35785d6b-99cb-4122-8261-19d31a0a95ff",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bad0d59d-0dfc-4259-a63d-4e1ae0003c74/20260724T185314/bad0d59d-0dfc-4259-a63d-4e1ae0003c74_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bix 7 boosts tourism in Quad Cities, downtown Davenport",
+      "summary": "The Quad-City Times Bix 7 brought an estimated $2.6 million impact last year, with tourism leaders expecting another boost for Quad Cities businesses.",
+      "url": "https://www.wqad.com/article/news/community/bix-7-race-economic-impact-quad-cites-businesses/526-276ecf48-e5ea-4656-8f31-e1dd2049ac68",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e6fc2c0c-2b92-4256-8dd1-780bf8111e01/20260724T183330/e6fc2c0c-2b92-4256-8dd1-780bf8111e01_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Parasite outbreak tied to lettuce expands to 9 states",
+      "summary": "Illinois, Kansas, Oklahoma and Pennsylvania were newly linked to the outbreak as investigators continue tracing recalled shredded iceberg lettuce.",
+      "url": "https://www.wqad.com/article/news/nation-world/parasite-outbreak-lettuce-expands-9-states/507-4b5cd2dc-39b9-429d-bd81-eb67f72ce0fc",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/be660e8a-da7a-40c3-af8d-dd3feff14c6a/20260715T084629/be660e8a-da7a-40c3-af8d-dd3feff14c6a_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Autism, veteran organizations to benefit at Backyard Classic in Bettendorf",
+      "summary": "A series of sports competitions will be on deck Aug. 22, including tournaments in bags, wiffle ball and bucket golf. Cash prizes are offered in select activitie…",
+      "url": "https://www.wqad.com/article/news/local/backyard-classic-bettendorf-iowa-benefitting-autism-veteran-organizations/526-df92f263-553b-4eaf-917c-9d4b97c559b8",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c5b91ecf-68ed-4177-97df-8e4de947b806/20260724T173849/c5b91ecf-68ed-4177-97df-8e4de947b806_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Democrats select South Carolina for first primary in 2028; Iowa Dems lose first-in-nation status",
+      "summary": "The decision Friday most likely cements a Democratic primary calendar that moves away from Iowa and New Hampshire in favor of more racially diverse states.",
+      "url": "https://www.wqad.com/article/news/politics/elections/democrats-to-finalize-their-2028-presidential-nominating-calendar-led-by-more-diverse-states/616-69aec077-c3f9-4893-b41e-fa573f51648a",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/d45460dd-6a49-481b-a978-431baa7c2fb9/20260724T172013/d45460dd-6a49-481b-a978-431baa7c2fb9_750x422.jpg",
+      "category": "elections"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +96,7 @@
       "headline": "Rock Island Arsenal Museum social media account to deactivate",
       "summary": "The Rock Island Arsenal Museum announced that its Facebook account will be deactivated by July 30.",
       "url": "https://www.wqad.com/article/news/local/rock-island-arsenal-museum-social-media-account-to-deactivate/526-c33b974f-4f6c-45e1-90d1-d94510d1f2d3",
-      "time": "23 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a831b9e7-a395-4a34-a922-3356002f10f3/20250609T203842/a831b9e7-a395-4a34-a922-3356002f10f3_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +107,7 @@
       "headline": "Two Iowa men indicted on Ponzi scheme charges",
       "summary": "Two Iowa men were indicted on federal charges related to a multi-million dollar Ponzi scheme. According to a release and public records, a federal grand jury re…",
       "url": "https://www.ourquadcities.com/news/local-news/two-iowa-men-indicted-on-ponzi-scheme-charges/",
-      "time": "50 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/prison-handcuffs-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +118,7 @@
       "headline": "Hawkeyes announce details and date for 2026 Kids' Day at Kinnick",
       "summary": "The Iowa football team will host its annual Kids’ Day at Kinnick on August 15. Fans will be able to watch the Hawkeyes practice for free and spend time explorin…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-announce-details-and-date-for-2026-kids-day-at-kinnick/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/07/20210731_141025.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -41,97 +129,9 @@
       "headline": "'Iowa has saved my life': Swedish man goes viral for falling in love with Iowa",
       "summary": "Filip Johansson graduated from school in London, moved back home to Sweden, then realized he wanted to live somewhere completely different: Iowa.",
       "url": "https://www.wqad.com/article/news/community/sweden-man-falls-in-love-with-iowa-filip-johansson/524-5126005a-d82e-406a-b5a8-6995aea2a6e3",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/bdb4e264-6af1-4748-a492-4bdb8797c016/20260724T112015/bdb4e264-6af1-4748-a492-4bdb8797c016_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Visit Quad Cities' Dave Herrell appointed to Destinations International board of directors",
-      "summary": "Visit Quad Cities president and CEO Dave Herrell has been appointed to the Destinations International board of directors. According to a release from Visit Quad…",
-      "url": "https://www.ourquadcities.com/news/local-news/visit-quad-cities-dave-herrell-appointed-to-destinations-international-board-of-directors/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/12/Dave-Herrell.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island County Sheriff's Office investigates multi-vehicle crash",
-      "summary": "The crash occurred in the 10000 block of Route 150 on Thursday evening. Two people were transported to nearby hospitals for treatment.",
-      "url": "https://www.wqad.com/article/traffic/incidents/traffic-incident-police-coal-valley-respond-multi-vehicle-crash/526-df3d9afd-2e81-4bfb-bf57-13cf4f37933c",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e5bb96e8-f301-49a8-bd1f-de19d81a161a/20260724T123738/e5bb96e8-f301-49a8-bd1f-de19d81a161a_750x422.jpg",
-      "category": "incidents"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Our QC Crime Watch: Davenport man faces child-pornography charges: Episode 74",
-      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
-      "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-davenport-man-faces-child-pornography-charges-episode-74/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/cellphone-GENERIC-cell-phone-phones-4.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Heat and humidity build back in for the weekend",
-      "summary": "One more comfortable day for the Quad Cities before it turns hot and humid again. A few showers are possible today and tonight, but many of us will stay dry. He…",
-      "url": "https://www.ourquadcities.com/news/local-news/heat-and-humidity-build-back-in-for-the-weekend/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New central Iowa housing development aims to tackle state's small-town housing crisis",
-      "summary": "Panora is tackling a housing shortage common in Iowa's small towns, with new developments aiming to boost community growth and attract business opportunities.",
-      "url": "https://www.wqad.com/article/news/regional/new-housing-development-aims-tackle-iowa-small-town-housing-crisis/524-4da68267-26e3-4a54-bec4-324c6d24a665",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c940800c-b6a7-4c76-9deb-27225c594e11/20260724T023026/c940800c-b6a7-4c76-9deb-27225c594e11_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Proposed Coal Valley sports complex draws concerns from neighbors",
-      "summary": "The mayor says economic growth is important for the tax base. People living near the site worry about noise and traffic.",
-      "url": "https://www.wqad.com/article/news/local/coal-valley-sports-complex-concerns-neighbors/526-d2496247-32a2-42e9-844f-7e33ea32b17d",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dc2990b8-cc1a-4828-b06e-d881eec1537e/20260724T032911/dc2990b8-cc1a-4828-b06e-d881eec1537e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Geifman Group buys former Quad-City Times building in Davenport",
-      "summary": "Geifman Group has bought the former Quad City Times building at 500 E. 3rd St., Davenport. Steve Geifman, managing partner/president of the Geifman Group, on Th…",
-      "url": "https://www.ourquadcities.com/news/local-news/geifman-group-buys-former-quad-city-times-building-in-davenport/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/QC-Times-rendering.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Road closures, forecast and more: What to know ahead of the Quad-City Times Bix 7 this weekend",
-      "summary": "What started with just 84 runners in 1975 has grown to thousands of participants. Here's a look at what's in store.",
-      "url": "https://www.wqad.com/article/entertainment/events/bix-7-race-weekend-road-closures-forecast-information-quad-cities/526-c4bcf644-613a-4c21-873c-97ea99e7ef1c",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d3c04bd6-f26d-4438-bcd8-2bc6e00ab555/20250623T193353/d3c04bd6-f26d-4438-bcd8-2bc6e00ab555_750x422.jpg",
-      "category": "events"
     }
   ]
 }
