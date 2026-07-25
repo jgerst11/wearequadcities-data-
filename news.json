@@ -1,82 +1,27 @@
 {
-  "updated": "2026-07-24T20:53:43.555599+00:00",
+  "updated": "2026-07-25T01:19:16.222716+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Half a century of Bix: Davenport runner celebrates 50 consecutive races",
+      "summary": "Mark McMullen ran in his first Bix at just 18 years old. Here's why he keeps coming back, year after year, and his advice for any first time Bix 7 runners.",
+      "url": "https://www.wqad.com/article/news/local/the-current/mark-mcmullen-quad-city-times-bix-7-race-50-consecutive-years-history/526-cdba991e-e199-4d5f-8825-6aa4038ad5cd",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f5f35594-69ed-4dc5-be2c-aeab716af49d/20260724T224538/f5f35594-69ed-4dc5-be2c-aeab716af49d_750x422.jpg",
+      "category": "the-current"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Humane Society of Scott County waives some adoption fees through July 26 due to space issues",
-      "summary": "Due to space issues, the Humane Society of Scott County announced some adoption fees are being waived through July 26. According to a Facebook post from the Hum…",
-      "url": "https://www.ourquadcities.com/news/local-news/humane-society-of-scott-county-waives-some-adoption-fees-through-july-26-due-to-space-issues/",
-      "time": "34 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/Humane-Society-of-Scott-County.jpg?w=900",
+      "headline": "Runners prepare to run the Bix 7",
+      "summary": "Throughout the day on Friday, runners bustled in and out of the RiverCenter in downtown Davenport. Most were picking up the necessities at the Running Wild Expo…",
+      "url": "https://www.ourquadcities.com/news/local-news/runners-prepare-to-run-the-bix-7/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Bix-7.jpg?w=709",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 southeast Iowa men indicted for alleged multi-million-dollar Ponzi scheme",
-      "summary": "The Ponzi scheme involved dozens of victims and millions of dollars lost, the U.S. Attorney's Office for the Southern District of Iowa said.",
-      "url": "https://www.wqad.com/article/news/crime/ponzi-scheme-indictment-southern-district-of-iowa/526-d00aa34a-d376-4148-92aa-834d78e68e5e",
-      "time": "48 min ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/c45a64fb-260e-4a38-9a3f-82b8e7bb535a/c45a64fb-260e-4a38-9a3f-82b8e7bb535a_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Tennessee child abduction ends with non-custodial parent's arrest in Mt. Pleasant, Iowa",
-      "summary": "The local police department learned that the suspect and child in the McMinn County, Tennessee, abduction were traveling on U.S. Highway 218.",
-      "url": "https://www.wqad.com/article/news/crime/child-abduction-arrest-noncustodial-parent-mt-pleasant-iowa-tennessee/526-acfb5bb0-12b3-40f3-beca-0e310c0bc5da",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WATN/images/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf/20260714T215723/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "These 9 Illinois communities say they’re interested in new nuclear facilities",
-      "summary": "The state lifted its moratorium on new nuclear facilities, but development could still be decades away.",
-      "url": "https://www.wqad.com/article/news/state/illinois-nuclear-facilities-new-construction-moratorium-lifted-communities-voice-interest-new-sites/526-35785d6b-99cb-4122-8261-19d31a0a95ff",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bad0d59d-0dfc-4259-a63d-4e1ae0003c74/20260724T185314/bad0d59d-0dfc-4259-a63d-4e1ae0003c74_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bix 7 boosts tourism in Quad Cities, downtown Davenport",
-      "summary": "The Quad-City Times Bix 7 brought an estimated $2.6 million impact last year, with tourism leaders expecting another boost for Quad Cities businesses.",
-      "url": "https://www.wqad.com/article/news/community/bix-7-race-economic-impact-quad-cites-businesses/526-276ecf48-e5ea-4656-8f31-e1dd2049ac68",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e6fc2c0c-2b92-4256-8dd1-780bf8111e01/20260724T183330/e6fc2c0c-2b92-4256-8dd1-780bf8111e01_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Parasite outbreak tied to lettuce expands to 9 states",
-      "summary": "Illinois, Kansas, Oklahoma and Pennsylvania were newly linked to the outbreak as investigators continue tracing recalled shredded iceberg lettuce.",
-      "url": "https://www.wqad.com/article/news/nation-world/parasite-outbreak-lettuce-expands-9-states/507-4b5cd2dc-39b9-429d-bd81-eb67f72ce0fc",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/be660e8a-da7a-40c3-af8d-dd3feff14c6a/20260715T084629/be660e8a-da7a-40c3-af8d-dd3feff14c6a_750x422.jpg",
-      "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Autism, veteran organizations to benefit at Backyard Classic in Bettendorf",
-      "summary": "A series of sports competitions will be on deck Aug. 22, including tournaments in bags, wiffle ball and bucket golf. Cash prizes are offered in select activitie…",
-      "url": "https://www.wqad.com/article/news/local/backyard-classic-bettendorf-iowa-benefitting-autism-veteran-organizations/526-df92f263-553b-4eaf-917c-9d4b97c559b8",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c5b91ecf-68ed-4177-97df-8e4de947b806/20260724T173849/c5b91ecf-68ed-4177-97df-8e4de947b806_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WQAD",
@@ -93,45 +38,100 @@
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Rock Island Arsenal Museum social media account to deactivate",
-      "summary": "The Rock Island Arsenal Museum announced that its Facebook account will be deactivated by July 30.",
-      "url": "https://www.wqad.com/article/news/local/rock-island-arsenal-museum-social-media-account-to-deactivate/526-c33b974f-4f6c-45e1-90d1-d94510d1f2d3",
+      "headline": "Bix 7 boosts tourism in Quad Cities, downtown Davenport",
+      "summary": "The Quad-City Times Bix 7 brought an estimated $2.6 million impact last year, with tourism leaders expecting another boost for Quad Cities businesses.",
+      "url": "https://www.wqad.com/article/news/community/bix-7-race-economic-impact-quad-cites-businesses/526-276ecf48-e5ea-4656-8f31-e1dd2049ac68",
       "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a831b9e7-a395-4a34-a922-3356002f10f3/20250609T203842/a831b9e7-a395-4a34-a922-3356002f10f3_750x422.jpg",
-      "category": "local"
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e6fc2c0c-2b92-4256-8dd1-780bf8111e01/20260724T183330/e6fc2c0c-2b92-4256-8dd1-780bf8111e01_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "State to lay off hundreds at troubled southern Illinois mental health facility",
+      "summary": "Choate Mental Health and Developmental Center will reduce patient population and staff amid operational changes.",
+      "url": "https://www.wqad.com/article/news/state/state-lay-off-hundreds-troubled-southern-illinois-mental-health-facility-capitol-news/526-a0e09b22-859f-4270-8864-0683053a15af",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e023888b-87bd-44b9-bc65-3ec947001709/20260724T214620/e023888b-87bd-44b9-bc65-3ec947001709_750x422.jpg",
+      "category": "state"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Two Iowa men indicted on Ponzi scheme charges",
-      "summary": "Two Iowa men were indicted on federal charges related to a multi-million dollar Ponzi scheme. According to a release and public records, a federal grand jury re…",
-      "url": "https://www.ourquadcities.com/news/local-news/two-iowa-men-indicted-on-ponzi-scheme-charges/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/prison-handcuffs-GENERIC.jpg?w=900",
+      "headline": "Scott County Sheriff's Office celebrates four big promotions",
+      "summary": "It was a busy day for the Scott County Sheriff's Office. In addition to their usual tasks, they held a ceremony to celebrate the promotion of four officers. Lt.…",
+      "url": "https://www.ourquadcities.com/news/local-news/scott-county-sheriffs-office-celebrates-four-big-promotions/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Scott-County-Sheriffs-Office-celebrates-four-big-promotions.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Hawkeyes announce details and date for 2026 Kids' Day at Kinnick",
-      "summary": "The Iowa football team will host its annual Kids’ Day at Kinnick on August 15. Fans will be able to watch the Hawkeyes practice for free and spend time explorin…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-announce-details-and-date-for-2026-kids-day-at-kinnick/",
+      "headline": "Kewanee man wins $1 million from Illinois Lottery Instant Ticket",
+      "summary": "A Kewanee man is $1 million richer after scratching his way to a top prize on a $5 Onyx Instant Ticket. According to a release from the Illinois Lottery, Steve …",
+      "url": "https://www.ourquadcities.com/news/local-news/kewanee-man-wins-1-million-from-illinois-lottery-instant-ticket/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_c2a4dd.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Humane Society of Scott County waives some adoption fees through July 26 due to space issues",
+      "summary": "Due to space issues, the Humane Society of Scott County announced some adoption fees are being waived through July 26. According to a Facebook post from the Hum…",
+      "url": "https://www.ourquadcities.com/news/local-news/humane-society-of-scott-county-waives-some-adoption-fees-through-july-26-due-to-space-issues/",
       "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/07/20210731_141025.jpg?w=900",
-      "category": "Hawkeye Headquarters"
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/Humane-Society-of-Scott-County.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "'Iowa has saved my life': Swedish man goes viral for falling in love with Iowa",
-      "summary": "Filip Johansson graduated from school in London, moved back home to Sweden, then realized he wanted to live somewhere completely different: Iowa.",
-      "url": "https://www.wqad.com/article/news/community/sweden-man-falls-in-love-with-iowa-filip-johansson/524-5126005a-d82e-406a-b5a8-6995aea2a6e3",
+      "headline": "2 southeast Iowa men indicted for alleged multi-million-dollar Ponzi scheme",
+      "summary": "The Ponzi scheme involved dozens of victims and millions of dollars lost, the U.S. Attorney's Office for the Southern District of Iowa said.",
+      "url": "https://www.wqad.com/article/news/crime/ponzi-scheme-indictment-southern-district-of-iowa/526-d00aa34a-d376-4148-92aa-834d78e68e5e",
       "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/bdb4e264-6af1-4748-a492-4bdb8797c016/20260724T112015/bdb4e264-6af1-4748-a492-4bdb8797c016_750x422.jpg",
-      "category": "community"
+      "image": "https://media.tegna-media.com/assets/WNEP/images/c45a64fb-260e-4a38-9a3f-82b8e7bb535a/c45a64fb-260e-4a38-9a3f-82b8e7bb535a_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Tennessee child abduction ends with non-custodial parent's arrest in Mt. Pleasant, Iowa",
+      "summary": "The local police department learned that the suspect and child in the McMinn County, Tennessee, abduction were traveling on U.S. Highway 218.",
+      "url": "https://www.wqad.com/article/news/crime/child-abduction-arrest-noncustodial-parent-mt-pleasant-iowa-tennessee/526-acfb5bb0-12b3-40f3-beca-0e310c0bc5da",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WATN/images/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf/20260714T215723/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "These 9 Illinois communities say they’re interested in new nuclear facilities",
+      "summary": "The state lifted its moratorium on new nuclear facilities, but development could still be decades away.",
+      "url": "https://www.wqad.com/article/news/state/illinois-nuclear-facilities-new-construction-moratorium-lifted-communities-voice-interest-new-sites/526-35785d6b-99cb-4122-8261-19d31a0a95ff",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bad0d59d-0dfc-4259-a63d-4e1ae0003c74/20260724T185314/bad0d59d-0dfc-4259-a63d-4e1ae0003c74_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Parasite outbreak tied to lettuce expands to 9 states",
+      "summary": "Illinois, Kansas, Oklahoma and Pennsylvania were newly linked to the outbreak as investigators continue tracing recalled shredded iceberg lettuce.",
+      "url": "https://www.wqad.com/article/news/nation-world/parasite-outbreak-lettuce-expands-9-states/507-4b5cd2dc-39b9-429d-bd81-eb67f72ce0fc",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/be660e8a-da7a-40c3-af8d-dd3feff14c6a/20260715T084629/be660e8a-da7a-40c3-af8d-dd3feff14c6a_750x422.jpg",
+      "category": "nation-world"
     }
   ]
 }
