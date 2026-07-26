@@ -1,6 +1,39 @@
 {
-  "updated": "2026-07-25T20:38:19.379328+00:00",
+  "updated": "2026-07-26T01:21:36.376364+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "More Iowans traveling out of state for reproductive healthcare: What to know",
+      "summary": "More women in Iowa are traveling out of state for reproductive healthcare after a ban on telehealth prescriptions for abortion pills in the state. Our Quad Citi…",
+      "url": "https://www.ourquadcities.com/news/local-news/more-iowans-traveling-out-of-state-for-reproductive-healthcare-what-to-know/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/reproductive-healthcare-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Crowd support keeps runners returning to annual Bix 7",
+      "summary": "Thousands of runners thrived in Davenport's vibrant streets for the 52nd annual Bix 7 race.",
+      "url": "https://www.wqad.com/article/news/local/crowd-support-keeps-runners-returning-to-annual-bix-7/526-d56fb46c-457c-4c2d-a28d-1a40de258591",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dbb7af69-1319-4da0-80d9-1284a23b73be/20260725T224217/dbb7af69-1319-4da0-80d9-1284a23b73be_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Second man faces charges after vandalism at new Bettendorf park",
+      "summary": "Another Bettendorf man faces charges after vandalism in a new Bettendorf park, according to Scott County arrest affidavits. Michael Taylor, 19, of Bettendorf, f…",
+      "url": "https://www.ourquadcities.com/news/local-news/second-man-faces-charges-after-vandalism-at-new-bettendorf-park/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Michael-Taylor-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +41,7 @@
       "headline": "Iowa DOT to use traffic counters to collect data in Muscatine",
       "summary": "The Iowa Department of Transportation (Iowa DOT) will begin its annual summer traffic collection program in Muscatine starting Sunday, July 26, with work contin…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-dot-to-use-traffic-counters-to-collect-data-in-muscatine/",
-      "time": "7 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/BG6.png?w=900",
       "category": "Local News"
     },
@@ -19,7 +52,7 @@
       "headline": "43 treated at MercyOne Genesis Quad-City Times Bix 7 medical tent",
       "summary": "MercyOne Genesis announced its team treated 43 patients at its Quad-City Times Bix 7 medical tent.",
       "url": "https://www.wqad.com/article/news/local/43-treated-at-mercyone-genesis-quad-city-times-bix-7-medical-tent/526-94ef5a8d-1e57-49f2-8412-421082df2e18",
-      "time": "35 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e6fc2c0c-2b92-4256-8dd1-780bf8111e01/20260724T183330/e6fc2c0c-2b92-4256-8dd1-780bf8111e01_750x422.jpg",
       "category": "local"
     },
@@ -30,7 +63,7 @@
       "headline": "Mohammed El Youssfi wins 2026 Bix 7",
       "summary": "Mohammed El Youssfi won the Bix 7 with a time of 32:07 on Saturday. Everlyn Kemboi won the women's race at 35:29, just seconds off the all-time record, accordin…",
       "url": "https://www.ourquadcities.com/news/local-news/mohammed-el-youssfi-wins-2026-bix-7/",
-      "time": "6 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/IMG_E0299.jpg?w=894",
       "category": "Local News"
     },
@@ -41,7 +74,7 @@
       "headline": "Bettendorf Library's main entrance to change so sidewalks can be replaced",
       "summary": "Beginning Tuesday, July 28, work will begin outside the Bettendorf Public Library, 2950 Learning Campus Drive, as crews remove and replace the sidewalks and ADA…",
       "url": "https://www.ourquadcities.com/news/local-news/bettendorf-librarys-main-entrance-to-change-so-sidewalks-can-be-replaced/",
-      "time": "7 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/Bettendorf-Public-Library-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "Habaneros to stay in Moline after moving out of SouthPark Mall",
       "summary": "Owner Josue Sanchez expects to open his new location on Avenue of the Cities in the first few weeks of September.",
       "url": "https://www.wqad.com/article/news/local/habaneros-moving-out-southpark-mall-stay-moline/526-fc1d909a-a7ec-4128-a214-e1f7f6d8b8e5",
-      "time": "17 h ago",
+      "time": "22 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/aaa5b13f-0221-49bb-88d0-f5cf471123fa/20260725T031028/aaa5b13f-0221-49bb-88d0-f5cf471123fa_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +96,7 @@
       "headline": "Dani Carnegie is already pushing through adversity for Hawkeye women's basketball",
       "summary": "Throughout the off-season for the Iowa Hawkeyes women's basketball team, they've been preparing to implement a new look offense. With Hannah Stuelke's career do…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/dani-carnegie-is-already-pushing-through-adversity-for-hawkeye-womens-basketball/",
-      "time": "19 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Dani-Carnegie.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -74,7 +107,7 @@
       "headline": "Half a century of Bix: Davenport runner celebrates 50 consecutive races",
       "summary": "Mark McMullen ran in his first Bix at just 18 years old. Here's why he keeps coming back, year after year, and his advice for any first time Bix 7 runners.",
       "url": "https://www.wqad.com/article/news/local/the-current/mark-mcmullen-quad-city-times-bix-7-race-50-consecutive-years-history/526-cdba991e-e199-4d5f-8825-6aa4038ad5cd",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f5f35594-69ed-4dc5-be2c-aeab716af49d/20260724T224538/f5f35594-69ed-4dc5-be2c-aeab716af49d_750x422.jpg",
       "category": "the-current"
     },
@@ -85,7 +118,7 @@
       "headline": "Democrats select South Carolina for first primary in 2028; Iowa Dems lose first-in-nation status",
       "summary": "The decision Friday most likely cements a Democratic primary calendar that moves away from Iowa and New Hampshire in favor of more racially diverse states.",
       "url": "https://www.wqad.com/article/news/politics/elections/democrats-to-finalize-their-2028-presidential-nominating-calendar-led-by-more-diverse-states/616-69aec077-c3f9-4893-b41e-fa573f51648a",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/AssociatedPress/images/d45460dd-6a49-481b-a978-431baa7c2fb9/20260724T172013/d45460dd-6a49-481b-a978-431baa7c2fb9_750x422.jpg",
       "category": "elections"
     },
@@ -96,42 +129,9 @@
       "headline": "Bix 7 boosts tourism in Quad Cities, downtown Davenport",
       "summary": "The Quad-City Times Bix 7 brought an estimated $2.6 million impact last year, with tourism leaders expecting another boost for Quad Cities businesses.",
       "url": "https://www.wqad.com/article/news/community/bix-7-race-economic-impact-quad-cites-businesses/526-276ecf48-e5ea-4656-8f31-e1dd2049ac68",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e6fc2c0c-2b92-4256-8dd1-780bf8111e01/20260724T183330/e6fc2c0c-2b92-4256-8dd1-780bf8111e01_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "State to lay off hundreds at troubled southern Illinois mental health facility",
-      "summary": "Choate Mental Health and Developmental Center will reduce patient population and staff amid operational changes.",
-      "url": "https://www.wqad.com/article/news/state/state-lay-off-hundreds-troubled-southern-illinois-mental-health-facility-capitol-news/526-a0e09b22-859f-4270-8864-0683053a15af",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e023888b-87bd-44b9-bc65-3ec947001709/20260724T214620/e023888b-87bd-44b9-bc65-3ec947001709_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 southeast Iowa men indicted for alleged multi-million-dollar Ponzi scheme",
-      "summary": "The Ponzi scheme involved dozens of victims and millions of dollars lost, the U.S. Attorney's Office for the Southern District of Iowa said.",
-      "url": "https://www.wqad.com/article/news/crime/ponzi-scheme-indictment-southern-district-of-iowa/526-d00aa34a-d376-4148-92aa-834d78e68e5e",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/c45a64fb-260e-4a38-9a3f-82b8e7bb535a/c45a64fb-260e-4a38-9a3f-82b8e7bb535a_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Tennessee child abduction ends with non-custodial parent's arrest in Mt. Pleasant, Iowa",
-      "summary": "The local police department learned that the suspect and child in the McMinn County, Tennessee, abduction were traveling on U.S. Highway 218.",
-      "url": "https://www.wqad.com/article/news/crime/child-abduction-arrest-noncustodial-parent-mt-pleasant-iowa-tennessee/526-acfb5bb0-12b3-40f3-beca-0e310c0bc5da",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WATN/images/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf/20260714T215723/f5ffdcc5-ac94-4d2f-9d53-eb8905b7efdf_750x422.jpg",
-      "category": "crime"
     }
   ]
 }
