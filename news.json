@@ -1,6 +1,50 @@
 {
-  "updated": "2026-07-29T17:16:31.142302+00:00",
+  "updated": "2026-07-29T21:00:19.627918+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-218/",
+      "time": "1 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Crime-Stoppers-Tyler-Copell-Michael-Noe-Mug-Shot.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Former Quad City Arts interim director appears in court on child sexual abuse material charges",
+      "summary": "Benjamin Morris was arrested Monday night on 30 charges related to possession and dissemination of child sexual abuse material.",
+      "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-director-appears-in-court-on-child-sexual-abuse-material-charges/526-f3f6a855-afac-41e8-bf4f-7d8b19e01880",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d82845ad-09fa-4659-9284-bf558db8ea6c/20260728T180854/d82845ad-09fa-4659-9284-bf558db8ea6c_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "How online predator hunters pointed police to a former Quad City Arts leader",
+      "summary": "Benjamin Morris, former interim executive director at Quad City Arts, was arrested on 30 felonies relating to child sexual abuse material on Monday night.",
+      "url": "https://www.wqad.com/article/news/local/how-online-predator-hunters-lead-police-benjamin-morris-quad-city-arts/526-5fccd190-eabc-4ba9-98d4-a63aa5a0ea9b",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/77c4c311-48eb-4b6d-923a-695cee7706a0/20260729T041054/77c4c311-48eb-4b6d-923a-695cee7706a0_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Purina Incredible Dog Team coming to Alternating Currents",
+      "summary": "Alternating Currents and Purina are bringing Purina's Incredible Dog Team to downtown Davenport this August to celebrate Dog Chow's 100th anniversary and Purina…",
+      "url": "https://www.ourquadcities.com/news/local-news/purina-incredible-dog-team-coming-to-alternating-currents/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Incredible-dog-team-featured-image.png?w=624",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "United Way Quad Cities names new president and CEO",
       "summary": "Dr. Wendy Hilton-Morrow, former provost and vice president for academic affairs at Augustana College, will start with United Way on Sept. 14.",
       "url": "https://www.wqad.com/article/news/local/united-way-quad-cities-names-new-president-and-ceo/526-e8101359-3173-4d60-89fc-68c6e8ca9990",
-      "time": "56 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a46bbc55-14e6-440f-93d3-5dc27fa8a806/20260729T154450/a46bbc55-14e6-440f-93d3-5dc27fa8a806_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +63,7 @@
       "headline": "Rock Island announces Thursday Night Groove schedule",
       "summary": "The Thursday Night Groove Concert Series returns to the Ellis Kell Stage at Schwiebert Riverfront Park, 1st Avenue and 18th Street in Rock Island, next month. C…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-announces-thursday-night-groove-schedule/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/Thursday-Night-Groove.jpg?w=900",
       "category": "Local News"
     },
@@ -30,30 +74,8 @@
       "headline": "Dr. Heather A. Wakefield joins Hammond-Henry Hospital staff",
       "summary": "Hammond-Henry Hospital is expanding its surgical team. Dr. Heather A. Wakefield, general surgeon, will join Dr. James Schrier at Hammond-Henry Hospital, 600 N. …",
       "url": "https://www.ourquadcities.com/news/local-news/dr-heather-a-wakefield-joins-hammond-henry-hospital-staff/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Heather-Wakefield.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Geneseo Moose Lodge hosting annual Moose Carnival",
-      "summary": "Geneseo Moose Lodge #990 is hosting its annual Geneseo Moose Carnival from Thursday, Aug. 6 through Saturday, Aug. 8 on the grounds of the Geneseo Moose Lodge #…",
-      "url": "https://www.ourquadcities.com/news/local-news/geneseo-moose-lodge-hosting-annual-moose-carnival/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Geneseo-Moose-Lodge-990.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "West Burlington deputy city clerk, finance manager earn state certification",
-      "summary": "Katie Willeford, deputy city clerk with the City of West Burlington, has successfully earned her Iowa Certified Municipal Finance Officer and Iowa Certified Mun…",
-      "url": "https://www.ourquadcities.com/news/local-news/west-burlington-deputy-city-clerk-finance-manager-earn-state-certification/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/West-Burlington.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,7 +85,7 @@
       "headline": "Two more dry days for the Quad Cities",
       "summary": "It feels much more comfortable across the Quad Cities with less humidity in the air. Dry weather today and Thursday gives way to a much-needed rain event Friday…",
       "url": "https://www.ourquadcities.com/news/local-news/two-more-dry-days-for-the-quad-cities/",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/sunny-skies-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -74,7 +96,7 @@
       "headline": "Food Bank of Iowa: 1 in 6 Iowa kids face food insecurity",
       "summary": "A recent survey supports the food bank's assertion that food security has risen drastically in recent years as living costs outpace wage growth.",
       "url": "https://www.wqad.com/article/news/state/food-bank-of-iowa-insecurity-need-rising-kids-face-hunger/524-2833e821-c6d9-450e-90c4-ee0284a39873",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/eb24d7dd-5560-4e02-8504-f6cc7acc3314/20240801T010211/eb24d7dd-5560-4e02-8504-f6cc7acc3314_750x422.jpg",
       "category": "state"
     },
@@ -85,20 +107,9 @@
       "headline": "US Marshals' 'Operation Heatwave' leads to arrest of 61 fugitives in central Iowa",
       "summary": "In all, authorities said the operation led to the closing of 97 felony arrest warrants in central Iowa.",
       "url": "https://www.wqad.com/article/news/crime/us-marshals-state-local-iowa-law-enforcement-arrest-61-individuals-operation-heatwave/524-6aadb0a2-ab67-4498-ae09-ca28cd4b236d",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/d88a6365-4a79-4449-8625-12ab9df598f2/20260728T211240/d88a6365-4a79-4449-8625-12ab9df598f2_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "How online predator hunters pointed police to a former Quad City Arts leader",
-      "summary": "Benjamin Morris, former interim executive director at Quad City Arts, was arrested on 30 felonies relating to child pornography Monday night.",
-      "url": "https://www.wqad.com/article/news/local/how-online-predator-hunters-lead-police-benjamin-morris-quad-city-arts/526-5fccd190-eabc-4ba9-98d4-a63aa5a0ea9b",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/77c4c311-48eb-4b6d-923a-695cee7706a0/20260729T041054/77c4c311-48eb-4b6d-923a-695cee7706a0_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -107,31 +118,20 @@
       "headline": "Sink holes appear in Village of East Davenport after water-main break",
       "summary": "A large water-main break early Tuesday on 12th Street in the Village of East Davenport has closed the road between Spring and Heldreth. At one point, one of two…",
       "url": "https://www.ourquadcities.com/news/local-news/sink-holes-appear-in-village-of-east-davenport-after-water-main-break/",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/hole-.jpg?w=900",
       "category": "Local News"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Speech-language pathologist shortage leaves hundreds of children waiting",
-      "summary": "A national shortage of speech-language pathologists leaves hundreds of Quad Cities children facing up to a year-long wait.",
-      "url": "https://www.wqad.com/article/news/health/speech-language-pathologist-shortage-quad-cities-wait-time/526-841a19d0-1c43-4adb-981f-f8161cf1e8fe",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0432e315-301e-496c-b5d6-e0089dfe24da/20260728T223314/0432e315-301e-496c-b5d6-e0089dfe24da_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "3 injured in Muscatine County crash after wrong-way driver attempts U-turn",
-      "summary": "Three people were injured after a wrong-way driver attempted a U-turn on U.S. Highway 61 Monday evening, according to the Iowa State Patrol.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/3-injured-muscatine-county-crash-wrong-way-driver-attempts-u-turn/526-52de1344-f5d3-4743-852d-44c8c123b8ae",
-      "time": "19 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/88a65f1c-5427-435e-b156-7063cc63d0ac/88a65f1c-5427-435e-b156-7063cc63d0ac_750x422.jpg",
-      "category": "public-safety"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Former Quad City Arts interim director faces charges for child sex-abuse material",
+      "summary": "The former interim director of Quad City Arts has been arrested and charged with 30 counts of possession and dissemination of Child Sex Abuse Material (CSAM), a…",
+      "url": "https://www.ourquadcities.com/news/local-news/former-quad-city-arts-interim-director-arrested-on-csam-charges/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Benjamin-Morris-mug-shot-1.jpg?w=900",
+      "category": "Local News"
     }
   ]
 }
