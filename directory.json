@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T08:05:21.179277",
+  "generated": "2026-07-29T11:15:36.340783",
   "total": 423,
   "entities": [
     {
@@ -10885,7 +10885,7 @@
       "category": "eat_drink",
       "entity_type": "Restaurant",
       "tags": [
-        "restaurants"
+        "Family Style"
       ],
       "attributes": [],
       "address": "7250 Northwest Boulevard",
