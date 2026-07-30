@@ -1,6 +1,94 @@
 {
-  "updated": "2026-07-30T17:28:40.086287+00:00",
+  "updated": "2026-07-30T21:11:45.318445+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Former Quad City Arts interim director's detention hearing delayed after attorney change",
+      "summary": "Former Quad City Arts interim director Benjamin Morris remains jailed after a judge delayed his detention hearing following a change in defense attorneys.",
+      "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-directors-detention-hearing-delayed-attorney-change/526-00d54dff-691e-4d19-88ed-9fcbb7e1ed57",
+      "time": "26 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/800f7f6d-ae9c-4619-bd2b-1b892369ff3d/20260729T230923/800f7f6d-ae9c-4619-bd2b-1b892369ff3d_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island police searching for suspect in vape shop armed robbery",
+      "summary": "Investigators believe a suspect, described as a Black male with his face partially concealed, entered the store with a handgun and demanded money from the regis…",
+      "url": "https://www.wqad.com/article/news/local/rock-island-police-searching-suspect-vape-shop-robbery/526-1861a720-d365-4894-80b6-42bd6eb1e43c",
+      "time": "47 min ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/ee912908-be13-4234-ae19-64b30ba58d14/20240705T184139/ee912908-be13-4234-ae19-64b30ba58d14_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline man charged in Rock Island County's first AI-generated child sexual abuse material case",
+      "summary": "A Moline man faces felony charges in what the Rock Island County State's Attorney says is the first local case involving AI-generated child sexual abuse materia…",
+      "url": "https://www.wqad.com/article/news/crime/rock-island-county-ai-generated-child-sexual-abuse-material-first-case/526-67ad23b6-a8c8-40ae-8ea7-05f204836896",
+      "time": "59 min ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island Police investigating vape shop robbery",
+      "summary": "Rock Island Police are investigating a reported armed robbery that took place last night. A news release from the Rock Island Police Department said officers re…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-investigating-vape-shop-robbery/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "UAW counters John Deere contract extension proposal with higher wage increases",
+      "summary": "The union's counterproposal would increase wage hikes from 4% to 5% in 2026 and 2027 and roll current cost-of-living adjustments into employees' base wages.",
+      "url": "https://www.wqad.com/article/news/local/uaw-counters-john-deere-contract-extension-proposal-higher-wage-increases/526-8887397c-34b7-4b94-9b67-60975a7654dd",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WHAS/images/b6e6eb55-70f4-4c3d-9537-22965a9f29e7/b6e6eb55-70f4-4c3d-9537-22965a9f29e7_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Wendy Walljasper running for seat on Scott County Board of Supervisors",
+      "summary": "Another QC resident has announced plans to run for a seat on the Scott County Board of Supervisors. Wendy Walljasper is campaigning for a seat on the board in t…",
+      "url": "https://www.ourquadcities.com/news/local-news/wendy-walljasper-running-for-seat-on-scott-county-board-of-supervisors/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Wendy-Walljasper.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Clinton police chief appointed interim city administrator",
+      "summary": "The Clinton City Council appointed Police Chief Kevin Gyrion as interim city administrator Tuesday while he continues serving as police chief.",
+      "url": "https://www.wqad.com/article/news/local/clinton-police-chief-appointed-interim-city-administrator/526-0c1cce49-baab-4087-870c-429f130748ae",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b598cf39-9124-49e4-88a1-8c6e33c0df79/20260730T175828/b598cf39-9124-49e4-88a1-8c6e33c0df79_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Greater Quad Cities Hispanic Chamber of Commerce hosting award gala",
+      "summary": "The Greater Quad Cities Hispanic Chamber of Commerce (GQCHCC) is hosting its 2026 Signature Mariposa Gala &#38; Awards Celebration on October 16 at 5 p.m. at Rh…",
+      "url": "https://www.ourquadcities.com/news/local-news/greater-quad-cities-hispanic-chamber-of-commerce-hosting-award-gala/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/Greater-Quad-Cities-Hispanic-Chamber-of-Commerce.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +96,7 @@
       "headline": "Tools for Schools seeks school supply donations for area students",
       "summary": "WQAD News 8 is partnering with local businesses to gather essential school supplies for area students during the month of July",
       "url": "https://www.wqad.com/article/news/education/tools-for-schools-seeks-school-supply-donations-for-area-students/526-b59899e6-7b8e-4303-847b-d42f6ba7a2e9",
-      "time": "44 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3030054-66a8-4332-af18-3db742bccab8/20260707T145514/f3030054-66a8-4332-af18-3db742bccab8_750x422.jpg",
       "category": "education"
     },
@@ -19,7 +107,7 @@
       "headline": "Pay It Forward: Davenport man known as father figure, mentor to many",
       "summary": "Michael Cribbs received the WQAD News 8 and Ascentra Credit Union Pay It Forward award for his passion, sacrifice and dedication to serve the community.",
       "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-davenport-man-known-father-figure-mentor/526-d2eccdab-be3e-4d0f-8249-32a8dd574d7d",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ea221e60-4739-4bef-a425-757618a838d2/20260729T165637/ea221e60-4739-4bef-a425-757618a838d2_750x422.jpg",
       "category": "pay-it-forward"
     },
@@ -30,7 +118,7 @@
       "headline": "Trinity Muscatine Public Health hosting back to school clinic",
       "summary": "Trinity Muscatine Public Health is helping area families get ready for a new school year. The fifth annual Back-to-School Health Clinic is a convenient, one-sto…",
       "url": "https://www.ourquadcities.com/news/local-news/trinity-muscatine-public-health-hosting-back-to-school-clinic/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Trinity-Muscatine-Public-Health.jpg?w=900",
       "category": "Local News"
     },
@@ -41,97 +129,9 @@
       "headline": "UnityPoint Health - Trinity earns national recognition for stroke care",
       "summary": "UnityPoint Health – Trinity Rock Island received the Get With The Guidelines – StrokeSilver Plus with Target: Stroke Honor Roll Elite Get With The Guidelines – …",
       "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-earns-national-recognition-for-stroke-care/",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/Butterflies.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Pleasant Valley School District resignations, hirings from July school board agenda",
-      "summary": "The following personnel items are from the July 13 of the Pleasant Valley School District. The School Board met at Belmont Administration Center at 525 Belmont …",
-      "url": "https://qctimes.com/news/local/education/article_630b9d53-ac64-4e9b-907c-72f972c5069b.html",
-      "time": "4 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Resignation, hirings and transfers from Bettendorf School District for July 22",
-      "summary": "The following personnel items are from the July 22 agenda of the Bettendorf Community School District. The School Board met at the Administration Center, 3311 1…",
-      "url": "https://qctimes.com/news/local/education/article_1da64aab-2ed9-4253-bbb9-80e7883b1e1b.html",
-      "time": "5 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Judge opts to keep Libertarian candidates off November ballot",
-      "summary": "The lawsuit was centered on an interaction that the lieutenant governor candidate, Jules Cutler, claims she had with an Iowa Secretary of State staffer.",
-      "url": "https://www.wqad.com/article/news/politics/libertarian-candidate-nicholas-gluba-jules-cutler-polk-county-judge-november-2026-election/524-be9d8a93-7407-44d6-8f67-04c6107e47f6",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/0636f4dd-5116-4f2c-9445-c15055b6400f/20260617T223913/0636f4dd-5116-4f2c-9445-c15055b6400f_750x422.jpg",
-      "category": "politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Much-needed rain headed to the Quad Cities",
-      "summary": "One more nice summer day is in the forecast before it turns very wet tomorrow. It'll be warm today, but much cooler tomorrow and Saturday with the rain. Here's …",
-      "url": "https://www.ourquadcities.com/news/local-news/much-needed-rain-headed-to-the-quad-cities/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island trying to regulate small offroad vehicles driving in city streets",
-      "summary": "Since March 1, Rock Island Police have received about 75 complaints involving dirt bikes, mini-bikes and ATVs driving recklessly.",
-      "url": "https://www.wqad.com/article/news/local/rock-island-trying-to-regulate-small-offroad-vehicles-driving-in-city-streets/526-848e2595-d7bd-428a-bce4-67f825396991",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639/20260730T030456/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Illinois e-bike regulations go into effect next year",
-      "summary": "Starting on Jan. 1, 2027, there will be regulations on high-speed motorized bikes on sidewalks.",
-      "url": "https://www.wqad.com/article/news/local/new-illinois-regulations-e-bikes-july-1/526-4cb9c435-67e6-4c37-a141-8df1dcf93c05",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ad24c2de-7739-4dca-8b13-50f247c7e58e/20260616T235329/ad24c2de-7739-4dca-8b13-50f247c7e58e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Judge rules on witness testimony in upcoming Trudy Appleby trial",
-      "summary": "On Wednesday, a judge ruled on what witness testimony will be allowed in the upcoming trial of a man suspected in the death of an 11-year-old girl. Additionally…",
-      "url": "https://www.ourquadcities.com/news/local-news/judge-rules-on-witness-testimony-in-upcoming-trudy-appleby-trial/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Judge-rules-on-witness-testimony-in-upcoming-Trudy-Appleby-trial.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport daycare provider plans overnight expansion to meet childcare demand",
-      "summary": "Jennifer Conner with Adventures and Lullabies Daycare and Nursery plans to offer five openings for children with parents who work overnight.",
-      "url": "https://www.wqad.com/article/life/parenting/davenport-daycare-provider-overnight-expansion-childcare-demand-third-shift/526-c0de085c-9db6-4e71-8d34-7f35514bb264",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2e8caa34-8244-4a0f-a85a-5c56ac9afda4/20260729T231320/2e8caa34-8244-4a0f-a85a-5c56ac9afda4_750x422.jpg",
-      "category": "parenting"
     }
   ]
 }
