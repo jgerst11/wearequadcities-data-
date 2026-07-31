@@ -1,59 +1,15 @@
 {
-  "updated": "2026-07-31T02:54:54.599352+00:00",
+  "updated": "2026-07-31T06:45:05.396494+00:00",
   "items": [
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Oak Street, Muscatine, reduced to one lane while HNI plant gets new roof section",
-      "summary": "Oak Street in Muscatine will be reduced to one lane of traffic between 2nd and 5th streets, from Tuesday, Aug. 4 -Friday, Aug. 2, a news release says. The north…",
-      "url": "https://www.ourquadcities.com/news/local-news/oak-street-muscatine-reduced-to-one-lane-hni-plant-gets-new-roof-section/",
-      "time": "25 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/HNI-Charitable-Foundation.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "August declared No-Kill Shelter Month in Illinois",
-      "summary": "Governor JB Pritzker proclaimed August as No-Kill Shelter Month in Illinois. Pritzker emphasized his commitment to making the entire state no-kill. According to…",
-      "url": "https://www.ourquadcities.com/news/local-news/august-declared-no-kill-shelter-month-in-illinois/",
-      "time": "29 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/dog-GENERIC-shelter-Humane-Society-of-Scott-County-.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Residents speak out about proposed Coal Valley sports complex",
-      "summary": "Residents packed the house for a Coal Valley sports complex rezoning meeting. Developer Kevin Chumbley presented his plans for the complex. The Crete Life Sport…",
-      "url": "https://www.ourquadcities.com/news/local-news/residents-speak-out-about-proposed-coal-valley-sports-complex/",
-      "time": "41 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_01337b.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Speedway announces eight more Hall of Fame inductees",
-      "summary": "Eight more inductees to the Davenport Speedway Hall of Fame have been announced.  The inductees were chosen through the work of the selection committee and the …",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-speedway-announces-eight-more-hall-of-fame-inductees/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Davenport-Speedway.jpg?w=900",
-      "category": "Local News"
-    },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Rock Island police searching for suspect in vape shop armed robbery",
-      "summary": "Investigators believe a suspect, described as a Black male with his face partially concealed, entered the store with a handgun and demanded money from the regis…",
-      "url": "https://www.wqad.com/article/news/local/rock-island-police-searching-suspect-vape-shop-robbery/526-1861a720-d365-4894-80b6-42bd6eb1e43c",
+      "headline": "Proposed Coal Valley sports complex clears first zoning hurdle",
+      "summary": "Coal Valley's Zoning Board recommends the piece of land at Route 6 and Niabi Zoo Road be rezoned from residential to commercial, but some neighbors aren't happy…",
+      "url": "https://www.wqad.com/article/news/local/proposed-coal-valley-sports-complex-clears-zoning-hurdle/526-a36d6726-5e61-4ed5-91ed-e1018832eeb0",
       "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/ee912908-be13-4234-ae19-64b30ba58d14/20240705T184139/ee912908-be13-4234-ae19-64b30ba58d14_750x422.jpg",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/82a963ca-2760-4840-a0e7-017e2542a906/20260731T030436/82a963ca-2760-4840-a0e7-017e2542a906_750x422.jpg",
       "category": "local"
     },
     {
@@ -68,13 +24,79 @@
       "category": "local"
     },
     {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "River Bandits, Modern Woodmen of America team up for student book drive",
+      "summary": "Baseball wasn't the only thing happening Thursday at Modern Woodmen Park, Davenport, where Modern Woodmen of America teamed up with the River Bandits for a book…",
+      "url": "https://www.ourquadcities.com/news/local-news/river-bandits-modern-woodmen-of-america-team-up-for-student-book-drive/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/River-Bandits-host-book-drive-.jpg?w=555",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Oak Street, Muscatine, reduced to one lane while HNI plant gets new roof section",
+      "summary": "Oak Street in Muscatine will be reduced to one lane of traffic between 2nd and 5th streets, from Tuesday, Aug. 4 -Friday, Aug. 2, a news release says. The north…",
+      "url": "https://www.ourquadcities.com/news/local-news/oak-street-muscatine-reduced-to-one-lane-hni-plant-gets-new-roof-section/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/HNI-Charitable-Foundation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "August declared No-Kill Shelter Month in Illinois",
+      "summary": "Governor JB Pritzker proclaimed August as No-Kill Shelter Month in Illinois. Pritzker emphasized his commitment to making the entire state no-kill. According to…",
+      "url": "https://www.ourquadcities.com/news/local-news/august-declared-no-kill-shelter-month-in-illinois/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/dog-GENERIC-shelter-Humane-Society-of-Scott-County-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Residents speak out about proposed Coal Valley sports complex",
+      "summary": "Residents packed the house for a Coal Valley sports complex rezoning meeting. Developer Kevin Chumbley presented his plans for the complex. The Crete Life Sport…",
+      "url": "https://www.ourquadcities.com/news/local-news/residents-speak-out-about-proposed-coal-valley-sports-complex/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_01337b.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport Speedway announces eight more Hall of Fame inductees",
+      "summary": "Eight more inductees to the Davenport Speedway Hall of Fame have been announced.  The inductees were chosen through the work of the selection committee and the …",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-speedway-announces-eight-more-hall-of-fame-inductees/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Davenport-Speedway.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island police searching for suspect in vape shop armed robbery",
+      "summary": "Investigators believe a suspect, described as a Black male with his face partially concealed, entered the store with a handgun and demanded money from the regis…",
+      "url": "https://www.wqad.com/article/news/local/rock-island-police-searching-suspect-vape-shop-robbery/526-1861a720-d365-4894-80b6-42bd6eb1e43c",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/ee912908-be13-4234-ae19-64b30ba58d14/20240705T184139/ee912908-be13-4234-ae19-64b30ba58d14_750x422.jpg",
+      "category": "local"
+    },
+    {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
       "headline": "Former Quad City Arts interim director's detention hearing delayed after attorney change",
       "summary": "Former Quad City Arts interim director Benjamin Morris remains jailed after a judge delayed his detention hearing following a change in defense attorneys.",
       "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-directors-detention-hearing-delayed-attorney-change/526-00d54dff-691e-4d19-88ed-9fcbb7e1ed57",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/800f7f6d-ae9c-4619-bd2b-1b892369ff3d/20260729T230923/800f7f6d-ae9c-4619-bd2b-1b892369ff3d_750x422.jpg",
       "category": "crime"
     },
@@ -85,7 +107,7 @@
       "headline": "The Heart of the Story: Let's go camping!",
       "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
       "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-lets-go-camping/",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/The-Heart-of-the-Story-Lets-go-camping.jpg?w=900",
       "category": "The Heart of the Story"
     },
@@ -96,7 +118,7 @@
       "headline": "Some much needed rain hitting the Quad Cities",
       "summary": "With July wrapping up in just a couple of days, it has been a bit lackluster in terms of rainfall, especially compared to last July. Where our average July rain…",
       "url": "https://www.ourquadcities.com/news/local-news/some-much-needed-rain-hitting-the-quad-cities/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -107,31 +129,9 @@
       "headline": "Motorcyclist killed in Davenport crash",
       "summary": "A 19-year-old motorcyclist was killed Wednesday in a single-vehicle crash in Davenport, according to a news release from the Davenport Police Department. The cr…",
       "url": "https://www.ourquadcities.com/news/local-news/motorcyclist-killed-in-davenport-crash/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fatal-accident-GENERIC.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "John Deere will not increase proposed contract extension for UAW workers",
-      "summary": "John Deere reports it will not increase a proposed contract extension with the United Auto Workers (UAW) union. According to a release from John Deere: Earlier …",
-      "url": "https://www.ourquadcities.com/news/local-news/john-deere-will-not-increase-proposed-contract-extension-for-uaw-workers/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/John-Deere.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Clinton police chief appointed interim city administrator",
-      "summary": "The Clinton City Council appointed Police Chief Kevin Gyrion as interim city administrator Tuesday while he continues serving as police chief.",
-      "url": "https://www.wqad.com/article/news/local/clinton-police-chief-appointed-interim-city-administrator/526-0c1cce49-baab-4087-870c-429f130748ae",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b598cf39-9124-49e4-88a1-8c6e33c0df79/20260730T175828/b598cf39-9124-49e4-88a1-8c6e33c0df79_750x422.jpg",
-      "category": "local"
     }
   ]
 }
