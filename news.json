@@ -1,16 +1,49 @@
 {
-  "updated": "2026-07-30T21:11:45.318445+00:00",
+  "updated": "2026-07-31T02:54:54.599352+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former Quad City Arts interim director's detention hearing delayed after attorney change",
-      "summary": "Former Quad City Arts interim director Benjamin Morris remains jailed after a judge delayed his detention hearing following a change in defense attorneys.",
-      "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-directors-detention-hearing-delayed-attorney-change/526-00d54dff-691e-4d19-88ed-9fcbb7e1ed57",
-      "time": "26 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/800f7f6d-ae9c-4619-bd2b-1b892369ff3d/20260729T230923/800f7f6d-ae9c-4619-bd2b-1b892369ff3d_750x422.jpg",
-      "category": "crime"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Oak Street, Muscatine, reduced to one lane while HNI plant gets new roof section",
+      "summary": "Oak Street in Muscatine will be reduced to one lane of traffic between 2nd and 5th streets, from Tuesday, Aug. 4 -Friday, Aug. 2, a news release says. The north…",
+      "url": "https://www.ourquadcities.com/news/local-news/oak-street-muscatine-reduced-to-one-lane-hni-plant-gets-new-roof-section/",
+      "time": "25 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/HNI-Charitable-Foundation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "August declared No-Kill Shelter Month in Illinois",
+      "summary": "Governor JB Pritzker proclaimed August as No-Kill Shelter Month in Illinois. Pritzker emphasized his commitment to making the entire state no-kill. According to…",
+      "url": "https://www.ourquadcities.com/news/local-news/august-declared-no-kill-shelter-month-in-illinois/",
+      "time": "29 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/dog-GENERIC-shelter-Humane-Society-of-Scott-County-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Residents speak out about proposed Coal Valley sports complex",
+      "summary": "Residents packed the house for a Coal Valley sports complex rezoning meeting. Developer Kevin Chumbley presented his plans for the complex. The Crete Life Sport…",
+      "url": "https://www.ourquadcities.com/news/local-news/residents-speak-out-about-proposed-coal-valley-sports-complex/",
+      "time": "41 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_01337b.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport Speedway announces eight more Hall of Fame inductees",
+      "summary": "Eight more inductees to the Davenport Speedway Hall of Fame have been announced.  The inductees were chosen through the work of the selection committee and the …",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-speedway-announces-eight-more-hall-of-fame-inductees/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Davenport-Speedway.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -19,31 +52,9 @@
       "headline": "Rock Island police searching for suspect in vape shop armed robbery",
       "summary": "Investigators believe a suspect, described as a Black male with his face partially concealed, entered the store with a handgun and demanded money from the regis…",
       "url": "https://www.wqad.com/article/news/local/rock-island-police-searching-suspect-vape-shop-robbery/526-1861a720-d365-4894-80b6-42bd6eb1e43c",
-      "time": "47 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/ee912908-be13-4234-ae19-64b30ba58d14/20240705T184139/ee912908-be13-4234-ae19-64b30ba58d14_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline man charged in Rock Island County's first AI-generated child sexual abuse material case",
-      "summary": "A Moline man faces felony charges in what the Rock Island County State's Attorney says is the first local case involving AI-generated child sexual abuse materia…",
-      "url": "https://www.wqad.com/article/news/crime/rock-island-county-ai-generated-child-sexual-abuse-material-first-case/526-67ad23b6-a8c8-40ae-8ea7-05f204836896",
-      "time": "59 min ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island Police investigating vape shop robbery",
-      "summary": "Rock Island Police are investigating a reported armed robbery that took place last night. A news release from the Rock Island Police Department said officers re…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-investigating-vape-shop-robbery/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,19 +63,63 @@
       "headline": "UAW counters John Deere contract extension proposal with higher wage increases",
       "summary": "The union's counterproposal would increase wage hikes from 4% to 5% in 2026 and 2027 and roll current cost-of-living adjustments into employees' base wages.",
       "url": "https://www.wqad.com/article/news/local/uaw-counters-john-deere-contract-extension-proposal-higher-wage-increases/526-8887397c-34b7-4b94-9b67-60975a7654dd",
-      "time": "1 h ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WHAS/images/b6e6eb55-70f4-4c3d-9537-22965a9f29e7/b6e6eb55-70f4-4c3d-9537-22965a9f29e7_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Former Quad City Arts interim director's detention hearing delayed after attorney change",
+      "summary": "Former Quad City Arts interim director Benjamin Morris remains jailed after a judge delayed his detention hearing following a change in defense attorneys.",
+      "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-directors-detention-hearing-delayed-attorney-change/526-00d54dff-691e-4d19-88ed-9fcbb7e1ed57",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/800f7f6d-ae9c-4619-bd2b-1b892369ff3d/20260729T230923/800f7f6d-ae9c-4619-bd2b-1b892369ff3d_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Wendy Walljasper running for seat on Scott County Board of Supervisors",
-      "summary": "Another QC resident has announced plans to run for a seat on the Scott County Board of Supervisors. Wendy Walljasper is campaigning for a seat on the board in t…",
-      "url": "https://www.ourquadcities.com/news/local-news/wendy-walljasper-running-for-seat-on-scott-county-board-of-supervisors/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Wendy-Walljasper.jpg?w=900",
+      "headline": "The Heart of the Story: Let's go camping!",
+      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
+      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-lets-go-camping/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/The-Heart-of-the-Story-Lets-go-camping.jpg?w=900",
+      "category": "The Heart of the Story"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Some much needed rain hitting the Quad Cities",
+      "summary": "With July wrapping up in just a couple of days, it has been a bit lackluster in terms of rainfall, especially compared to last July. Where our average July rain…",
+      "url": "https://www.ourquadcities.com/news/local-news/some-much-needed-rain-hitting-the-quad-cities/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Motorcyclist killed in Davenport crash",
+      "summary": "A 19-year-old motorcyclist was killed Wednesday in a single-vehicle crash in Davenport, according to a news release from the Davenport Police Department. The cr…",
+      "url": "https://www.ourquadcities.com/news/local-news/motorcyclist-killed-in-davenport-crash/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fatal-accident-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "John Deere will not increase proposed contract extension for UAW workers",
+      "summary": "John Deere reports it will not increase a proposed contract extension with the United Auto Workers (UAW) union. According to a release from John Deere: Earlier …",
+      "url": "https://www.ourquadcities.com/news/local-news/john-deere-will-not-increase-proposed-contract-extension-for-uaw-workers/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/John-Deere.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -74,64 +129,9 @@
       "headline": "Clinton police chief appointed interim city administrator",
       "summary": "The Clinton City Council appointed Police Chief Kevin Gyrion as interim city administrator Tuesday while he continues serving as police chief.",
       "url": "https://www.wqad.com/article/news/local/clinton-police-chief-appointed-interim-city-administrator/526-0c1cce49-baab-4087-870c-429f130748ae",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b598cf39-9124-49e4-88a1-8c6e33c0df79/20260730T175828/b598cf39-9124-49e4-88a1-8c6e33c0df79_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Greater Quad Cities Hispanic Chamber of Commerce hosting award gala",
-      "summary": "The Greater Quad Cities Hispanic Chamber of Commerce (GQCHCC) is hosting its 2026 Signature Mariposa Gala &#38; Awards Celebration on October 16 at 5 p.m. at Rh…",
-      "url": "https://www.ourquadcities.com/news/local-news/greater-quad-cities-hispanic-chamber-of-commerce-hosting-award-gala/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/Greater-Quad-Cities-Hispanic-Chamber-of-Commerce.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Tools for Schools seeks school supply donations for area students",
-      "summary": "WQAD News 8 is partnering with local businesses to gather essential school supplies for area students during the month of July",
-      "url": "https://www.wqad.com/article/news/education/tools-for-schools-seeks-school-supply-donations-for-area-students/526-b59899e6-7b8e-4303-847b-d42f6ba7a2e9",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f3030054-66a8-4332-af18-3db742bccab8/20260707T145514/f3030054-66a8-4332-af18-3db742bccab8_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pay It Forward: Davenport man known as father figure, mentor to many",
-      "summary": "Michael Cribbs received the WQAD News 8 and Ascentra Credit Union Pay It Forward award for his passion, sacrifice and dedication to serve the community.",
-      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-davenport-man-known-father-figure-mentor/526-d2eccdab-be3e-4d0f-8249-32a8dd574d7d",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ea221e60-4739-4bef-a425-757618a838d2/20260729T165637/ea221e60-4739-4bef-a425-757618a838d2_750x422.jpg",
-      "category": "pay-it-forward"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Trinity Muscatine Public Health hosting back to school clinic",
-      "summary": "Trinity Muscatine Public Health is helping area families get ready for a new school year. The fifth annual Back-to-School Health Clinic is a convenient, one-sto…",
-      "url": "https://www.ourquadcities.com/news/local-news/trinity-muscatine-public-health-hosting-back-to-school-clinic/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Trinity-Muscatine-Public-Health.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UnityPoint Health - Trinity earns national recognition for stroke care",
-      "summary": "UnityPoint Health – Trinity Rock Island received the Get With The Guidelines – StrokeSilver Plus with Target: Stroke Honor Roll Elite Get With The Guidelines – …",
-      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-earns-national-recognition-for-stroke-care/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/Butterflies.png?w=900",
-      "category": "Local News"
     }
   ]
 }
