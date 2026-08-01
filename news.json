@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-01T17:02:28.052086+00:00",
+  "updated": "2026-08-01T20:54:32.442571+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Missing teen reported out of Scott County has been found",
+      "summary": "Officials says they have located the teen reported missing out of Scott County.",
+      "url": "https://www.wqad.com/article/news/local/missing-teen-reported-scott-county/526-2c5d6b26-c3de-4845-8a12-4e4169761085",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WLTX/images/bcc82516-cb53-4305-891a-076e6a5d0c80/bcc82516-cb53-4305-891a-076e6a5d0c80_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "Buildings collapse overnight in Muscatine",
       "summary": "Two of the buildings evacuated in Muscatine late last year collapsed late Friday during heavy rainfall. The collapses near the intersection of 2nd and Sycamore …",
       "url": "https://www.ourquadcities.com/news/local-news/buildings-collapse-overnight-in-muscatine/",
-      "time": "57 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Screenshot-2026-08-01-104847.png?w=900",
       "category": "Local News"
     },
@@ -19,8 +30,19 @@
       "headline": "Quad City Music Guild presents \"The 25th Annual Putnam County Spelling Bee\"",
       "summary": "Quad City Music Guild presents \"The 25th Annual Putnam County Spelling Bee.\" According to a release, Quad City Music Guild is ending its summer shows with the w…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-city-music-guild-presents-the-25th-annual-putnam-county-spelling-bee/",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_5f8bed.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton Public Library hosting community appreciation celebration",
+      "summary": "The Clinton Public Library is celebrating a new enhancement for its library spaces. The public is invited to a community appreciation celebration on Wednesday, …",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-public-library-hosting-community-appreciation-celebration/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/Clinton-Public-Library.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -30,7 +52,7 @@
       "headline": "CBI Bank & Trust announces new mortgage loan originator",
       "summary": "CBI Bank &#38; Trust has announced that Lindsay Trumbull has joined the organization as mortgage loan originator, a news release says. Trumbull brings more than…",
       "url": "https://www.ourquadcities.com/news/local-news/cbi-bank-trust-announces-new-mortgage-loan-originator/",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Lindsay-Trumbull.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +63,7 @@
       "headline": "Illinois FRESH Program gives one-time payments to people who lost SNAP benefits",
       "summary": "The program is aimed at people who couldn't qualify for new federal work requirements to continue receiving SNAP benefits.",
       "url": "https://www.wqad.com/article/news/local/illinois-fresh-program-one-time-payments-lost-snap-benefits/526-baad00c4-b857-4059-9eee-4a80150fe694",
-      "time": "12 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/624fab5b-692f-4e52-b428-6ebdc743ab04/20260801T043248/624fab5b-692f-4e52-b428-6ebdc743ab04_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +74,7 @@
       "headline": "Rock Island police announce missing juveniles have been found",
       "summary": "According to police, J'Vaiya and Nyijae were last seen around Ninth Street and 21st Avenue in Rock Island.",
       "url": "https://www.wqad.com/article/news/local/2-juveniles-missing-rock-island/526-4a8b938b-8f32-42f2-9ac7-7b5fd8077fb2",
-      "time": "14 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_750x422.jpg",
       "category": "local"
     },
@@ -63,20 +85,20 @@
       "headline": "Downtown Davenport quiet zones move closer as rail crossing upgrades near completion",
       "summary": "Davenport has nearly finished upgrades needed for downtown railroad quiet zones, but final approval still rests with federal regulators.",
       "url": "https://www.wqad.com/article/news/community/transportation/downtown-davenport-quiet-zones-closer-rail-crossing-near-completion/526-4a9144ee-51bf-4960-b71d-d7e42428c887",
-      "time": "17 h ago",
+      "time": "21 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ad8622ea-aa91-4ee4-9011-51f0df504b64/20260731T232142/ad8622ea-aa91-4ee4-9011-51f0df504b64_750x422.jpg",
       "category": "transportation"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Missing teen reported out of Scott County",
-      "summary": "The Scott County Sheriff's Office is asking for the public's assistance locating 14-year-old Ellyzabeth Bristol.",
-      "url": "https://www.wqad.com/article/news/local/missing-teen-reported-scott-county/526-2c5d6b26-c3de-4845-8a12-4e4169761085",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b8322a49-18c0-4314-b871-2a4794f095d7/20260731T223333/b8322a49-18c0-4314-b871-2a4794f095d7_750x422.jpg",
-      "category": "local"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "A wet end to July with a wet start to August",
+      "summary": "After a fairly dry July, we are ending things off with some much-needed rain in the Quad Cities on this Friday. We have already received an inch of rain from th…",
+      "url": "https://www.ourquadcities.com/news/local-news/a-wet-end-to-july-with-a-wet-start-to-august/",
+      "time": "22 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +107,7 @@
       "headline": "Illinois Prisoner Review Board denies early release for Sean Grayson",
       "summary": "Former Sangamon County Sheriff’s deputy serving 20 years for death of Sonya Massey",
       "url": "https://www.wqad.com/article/news/state/sean-grayson-denied-early-release-capitol-news-illinois/526-9259f7e7-d1a8-4d8d-959f-d0c2132307d6",
-      "time": "18 h ago",
+      "time": "22 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d5288b9a-98f4-490e-9d2a-a9ae6c0f38a8/20260731T222417/d5288b9a-98f4-490e-9d2a-a9ae6c0f38a8_750x422.jpg",
       "category": "state"
     },
@@ -96,7 +118,7 @@
       "headline": "Report finds 'pattern and practice' of sexual harassment by ex-Rep. Harry Benton",
       "summary": "The Speaker knew about 2023 incident but left it unaddressed for months.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/report-sexual-harassment-ex-rep-harry-benton-capitol-news-illinois/526-5639cbc5-80f1-4f00-ab8e-22f5be6c5f92",
-      "time": "18 h ago",
+      "time": "22 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c7d7931a-e8fe-4497-a96d-cf6cc98bc387/20260731T221951/c7d7931a-e8fe-4497-a96d-cf6cc98bc387_750x422.jpg",
       "category": "illinois-politics"
     },
@@ -107,31 +129,9 @@
       "headline": "Pritzker signs law regulating how social media platforms interact with children",
       "summary": "Cracking down on social media algorithms is one of the governor’s top priorities this year.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-signs-law-regulating-social-media-children-capitol-news-illinois/526-cc44044b-8222-43cf-a95b-53f65988363c",
-      "time": "19 h ago",
+      "time": "23 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d65546da-e28d-4df0-8534-91e66cbf5f2a/20260731T191808/d65546da-e28d-4df0-8534-91e66cbf5f2a_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Crews respond to Geneseo pole barn building fire",
-      "summary": "The Colona Fire Department responded to a structure fire on the 7200 block of North 2200th Avenue Thursday evening.",
-      "url": "https://www.wqad.com/article/news/local/crews-respond-to-geneseo-pole-barn-building-fire/526-2ece3d55-5ff0-4a0e-80b8-016f4e96d41d",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e9e8d51f-c110-46fa-b361-fc961a516761/20260202T174812/e9e8d51f-c110-46fa-b361-fc961a516761_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Verdict reached in Mercer County School District superintendent student records case",
-      "summary": "A verdict has been reached on the second day of the trial of the superintendent of the Mercer County School District who was accused, along with two others, of …",
-      "url": "https://www.ourquadcities.com/news/local-news/verdict-reached-in-mercer-county-school-district-superintendent-student-records-case/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Screenshot-2026-07-31-123740.png?w=584",
-      "category": "Local News"
     }
   ]
 }
