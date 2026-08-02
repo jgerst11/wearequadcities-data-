@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-01T20:54:32.442571+00:00",
+  "updated": "2026-08-02T02:52:57.764699+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Habitat for Humanity Quad Cities brings volunteers and families together for reunion",
+      "summary": "Since 1993, Habitat for Humanity has dedicated homes throughout the QCA, and rain couldn't keep volunteers and those helped by Habitat for Humanity away for a r…",
+      "url": "https://www.ourquadcities.com/news/local-news/habitat-for-humanity-quad-cities-brings-volunteers-and-families-together-for-reunion/",
+      "time": "19 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa Cyclospora infections dropping, Iowa HHS report shows",
+      "summary": "Fewer than 10 people with confirmed infections first reported symptoms this past week, compared to more than 90 who reported symptoms the week of July 5.",
+      "url": "https://www.wqad.com/article/news/health/iowa-cyclospora-infections-dropping-updates-iowa-hhs-cyclosporiasis/524-479e2c95-3c1f-4e3a-b09a-08b84a7c4eab",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/e1042cb7-d2fd-4bdb-84ae-cc5d58dbfcaf/20260724T134944/e1042cb7-d2fd-4bdb-84ae-cc5d58dbfcaf_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quiet days after much-needed rain",
+      "summary": "A few days of sunshine are expected across the Quad Cities after the soaking rains of Friday and Saturday. Heavy rain closed out July and kicked off August. Her…",
+      "url": "https://www.ourquadcities.com/news/local-news/quiet-days-after-much-needed-rain/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/warm-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2 downtown Muscatine buildings collapse overnight",
+      "summary": "Two vacant downtown Muscatine buildings collapsed, sending debris into the street and raising concerns about the stability of neighboring structures.",
+      "url": "https://www.wqad.com/article/news/local/2-downtown-muscatine-buildings-collapse-overnight/526-ddda2b39-da97-4ab8-9613-c98c79c1da80",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f76defc6-9460-4d22-863f-68869a967251/20260801T225932/f76defc6-9460-4d22-863f-68869a967251_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa vape registry law upheld",
+      "summary": "Iowa Attorney General Brenna Bird touted a recent court win for her office. Iowa won a lawsuit that vacates the injunction preventing enforcement of Iowa's vape…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-vape-registry-law-upheld/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/vaping-GENERIC-vape-3.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Fungal disease impacting corn crops hits Iowa",
+      "summary": "IOWA -- More cases of a destructive fungal disease have been found in Iowa corn crops. Iowa State University Extension and Outreach announced last week that cas…",
+      "url": "https://www.ourquadcities.com/news/local-news/fungal-disease-impacting-corn-crops-hits-iowa/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/AP20199581766423.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Puppy love! Six litters now in QCA foster care",
+      "summary": "Six litters of puppies are now in foster homes and under the care of the Quad City Animal Welfare Center. Our Quad Cities News photojournalist Gabe Zwierzynski …",
+      "url": "https://www.ourquadcities.com/news/local-news/puppy-love-six-litters-now-in-qca-foster-care/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Puppy-love-Six-litters-now-in-QCA-foster-care.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "Missing teen reported out of Scott County has been found",
       "summary": "Officials says they have located the teen reported missing out of Scott County.",
       "url": "https://www.wqad.com/article/news/local/missing-teen-reported-scott-county/526-2c5d6b26-c3de-4845-8a12-4e4169761085",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WLTX/images/bcc82516-cb53-4305-891a-076e6a5d0c80/bcc82516-cb53-4305-891a-076e6a5d0c80_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +96,7 @@
       "headline": "Buildings collapse overnight in Muscatine",
       "summary": "Two of the buildings evacuated in Muscatine late last year collapsed late Friday during heavy rainfall. The collapses near the intersection of 2nd and Sycamore …",
       "url": "https://www.ourquadcities.com/news/local-news/buildings-collapse-overnight-in-muscatine/",
-      "time": "4 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Screenshot-2026-08-01-104847.png?w=900",
       "category": "Local News"
     },
@@ -30,7 +107,7 @@
       "headline": "Quad City Music Guild presents \"The 25th Annual Putnam County Spelling Bee\"",
       "summary": "Quad City Music Guild presents \"The 25th Annual Putnam County Spelling Bee.\" According to a release, Quad City Music Guild is ending its summer shows with the w…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-city-music-guild-presents-the-25th-annual-putnam-county-spelling-bee/",
-      "time": "5 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_5f8bed.png?w=900",
       "category": "Local News"
     },
@@ -41,19 +118,8 @@
       "headline": "Clinton Public Library hosting community appreciation celebration",
       "summary": "The Clinton Public Library is celebrating a new enhancement for its library spaces. The public is invited to a community appreciation celebration on Wednesday, …",
       "url": "https://www.ourquadcities.com/news/local-news/clinton-public-library-hosting-community-appreciation-celebration/",
-      "time": "6 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/Clinton-Public-Library.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "CBI Bank & Trust announces new mortgage loan originator",
-      "summary": "CBI Bank &#38; Trust has announced that Lindsay Trumbull has joined the organization as mortgage loan originator, a news release says. Trumbull brings more than…",
-      "url": "https://www.ourquadcities.com/news/local-news/cbi-bank-trust-announces-new-mortgage-loan-originator/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Lindsay-Trumbull.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,75 +129,9 @@
       "headline": "Illinois FRESH Program gives one-time payments to people who lost SNAP benefits",
       "summary": "The program is aimed at people who couldn't qualify for new federal work requirements to continue receiving SNAP benefits.",
       "url": "https://www.wqad.com/article/news/local/illinois-fresh-program-one-time-payments-lost-snap-benefits/526-baad00c4-b857-4059-9eee-4a80150fe694",
-      "time": "16 h ago",
+      "time": "22 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/624fab5b-692f-4e52-b428-6ebdc743ab04/20260801T043248/624fab5b-692f-4e52-b428-6ebdc743ab04_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island police announce missing juveniles have been found",
-      "summary": "According to police, J'Vaiya and Nyijae were last seen around Ninth Street and 21st Avenue in Rock Island.",
-      "url": "https://www.wqad.com/article/news/local/2-juveniles-missing-rock-island/526-4a8b938b-8f32-42f2-9ac7-7b5fd8077fb2",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Downtown Davenport quiet zones move closer as rail crossing upgrades near completion",
-      "summary": "Davenport has nearly finished upgrades needed for downtown railroad quiet zones, but final approval still rests with federal regulators.",
-      "url": "https://www.wqad.com/article/news/community/transportation/downtown-davenport-quiet-zones-closer-rail-crossing-near-completion/526-4a9144ee-51bf-4960-b71d-d7e42428c887",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ad8622ea-aa91-4ee4-9011-51f0df504b64/20260731T232142/ad8622ea-aa91-4ee4-9011-51f0df504b64_750x422.jpg",
-      "category": "transportation"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "A wet end to July with a wet start to August",
-      "summary": "After a fairly dry July, we are ending things off with some much-needed rain in the Quad Cities on this Friday. We have already received an inch of rain from th…",
-      "url": "https://www.ourquadcities.com/news/local-news/a-wet-end-to-july-with-a-wet-start-to-august/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois Prisoner Review Board denies early release for Sean Grayson",
-      "summary": "Former Sangamon County Sheriff’s deputy serving 20 years for death of Sonya Massey",
-      "url": "https://www.wqad.com/article/news/state/sean-grayson-denied-early-release-capitol-news-illinois/526-9259f7e7-d1a8-4d8d-959f-d0c2132307d6",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d5288b9a-98f4-490e-9d2a-a9ae6c0f38a8/20260731T222417/d5288b9a-98f4-490e-9d2a-a9ae6c0f38a8_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Report finds 'pattern and practice' of sexual harassment by ex-Rep. Harry Benton",
-      "summary": "The Speaker knew about 2023 incident but left it unaddressed for months.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/report-sexual-harassment-ex-rep-harry-benton-capitol-news-illinois/526-5639cbc5-80f1-4f00-ab8e-22f5be6c5f92",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c7d7931a-e8fe-4497-a96d-cf6cc98bc387/20260731T221951/c7d7931a-e8fe-4497-a96d-cf6cc98bc387_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pritzker signs law regulating how social media platforms interact with children",
-      "summary": "Cracking down on social media algorithms is one of the governor’s top priorities this year.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-signs-law-regulating-social-media-children-capitol-news-illinois/526-cc44044b-8222-43cf-a95b-53f65988363c",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d65546da-e28d-4df0-8534-91e66cbf5f2a/20260731T191808/d65546da-e28d-4df0-8534-91e66cbf5f2a_750x422.jpg",
-      "category": "illinois-politics"
     }
   ]
 }
