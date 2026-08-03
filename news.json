@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-03T07:28:20.702722+00:00",
+  "updated": "2026-08-03T11:24:59.952188+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Alternating Currents announces muralists",
+      "summary": "QUAD-CITIES ARTS",
+      "url": "https://qctimes.com/article_488e8d47-aa95-5f0e-9554-68c60cfcd952.html",
+      "time": "28 min ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/3e/e3e00f97-8976-5571-8df4-a68ee741ba9a/6a7073bcc5470.image.jpg?resize=300%2C206",
+      "category": ""
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +19,7 @@
       "headline": "Clinton County sheriff warns of celebrity romance scams after local case",
       "summary": "The Clinton County Sheriff's Office is warning about celebrity romance scams after a local woman lost $5,000 in gift cards to someone posing as a Netflix actor.",
       "url": "https://www.wqad.com/article/news/local/public-safety/clinton-county-sheriff-warns-celebrity-romance-scams-local-case/526-5bfb80f4-8247-481a-997f-0e71fcb1112e",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ecea9688-359d-4af2-aa9d-bae176c87d17/20260223T160025/ecea9688-359d-4af2-aa9d-bae176c87d17_750x422.jpg",
       "category": "public-safety"
     },
@@ -19,7 +30,7 @@
       "headline": "Rock Island Brewing Company says it is reorganizing operations, not closing",
       "summary": "Rock Island Brewing Company says it is not closing permanently and is reorganizing its hours while continuing to host special events and offer online food deliv…",
       "url": "https://www.wqad.com/article/life/food/rock-island-brewing-company-reorganizing-operations-not-closing/526-aeab1e84-ce3c-46ae-b07a-8c282d750476",
-      "time": "12 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/2b8f93e7-107c-416f-99d2-d98663ed59b3/20260801T230240/2b8f93e7-107c-416f-99d2-d98663ed59b3_750x422.jpg",
       "category": "food"
     },
@@ -30,9 +41,31 @@
       "headline": "Teen sentenced 20 years for 2024 killing of Iowa youth home worker",
       "summary": "A teen was sentenced to 20 years for the 2024 death of an Iowa youth home employee, Kathleen Galloway-Menke, with restitution mandated by the court.",
       "url": "https://www.wqad.com/article/news/crime/teen-sentenced-20-years-prison-killing-ellipsis-youth-home-worker-jovahn-karhim-deon-mathis/524-cfdde24f-0939-4d8a-89f4-6e7e2f5a6ed8",
-      "time": "14 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/b3421ae6-c3a6-4cb0-9111-d6153252fd27/20240517T004719/b3421ae6-c3a6-4cb0-9111-d6153252fd27_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "The Short List: Aug. 3",
+      "summary": "Welcome to August! The start of school is just around the corner (in fact, several of the Illinois Quad-Cities school districts start tomorrow and Wednesday). T…",
+      "url": "https://qctimes.com/newsletter-templates/paid/short-list/article_12bde3f7-6913-4b5e-9010-29e582d3d199.html",
+      "time": "1d ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "'LIFE AFTER FOOTBALL'",
+      "summary": "IFL| QUAD CITY STEAMWHEELERS",
+      "url": "https://qctimes.com/article_91007ecb-a2ff-5114-b78c-aff0d25eb4bd.html",
+      "time": "1d ago",
+      "image": "",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -98,39 +131,6 @@
       "url": "https://www.ourquadcities.com/news/local-news/fungal-disease-impacting-corn-crops-hits-iowa/",
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/AP20199581766423.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Puppy love! Six litters now in QCA foster care",
-      "summary": "Six litters of puppies are now in foster homes and under the care of the Quad City Animal Welfare Center. Our Quad Cities News photojournalist Gabe Zwierzynski …",
-      "url": "https://www.ourquadcities.com/news/local-news/puppy-love-six-litters-now-in-qca-foster-care/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Puppy-love-Six-litters-now-in-QCA-foster-care.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Missing teen reported out of Scott County has been found",
-      "summary": "Officials says they have located the teen reported missing out of Scott County.",
-      "url": "https://www.wqad.com/article/news/local/missing-teen-reported-scott-county/526-2c5d6b26-c3de-4845-8a12-4e4169761085",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WLTX/images/bcc82516-cb53-4305-891a-076e6a5d0c80/bcc82516-cb53-4305-891a-076e6a5d0c80_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Buildings collapse overnight in Muscatine",
-      "summary": "Two of the buildings evacuated in Muscatine late last year collapsed late Friday during heavy rainfall. The collapses near the intersection of 2nd and Sycamore …",
-      "url": "https://www.ourquadcities.com/news/local-news/buildings-collapse-overnight-in-muscatine/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Screenshot-2026-08-01-104847.png?w=900",
       "category": "Local News"
     }
   ]
