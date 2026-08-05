@@ -1,6 +1,50 @@
 {
-  "updated": "2026-08-05T14:11:40.157773+00:00",
+  "updated": "2026-08-05T17:39:13.442409+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "The most common jobs in Iowa and Illinois: Federal data",
+      "summary": "State-by-state differences show how regional economies shape employment.",
+      "url": "https://www.ourquadcities.com/news/local-news/the-most-common-jobs-in-iowa-and-illinois-federal-data/",
+      "time": "45 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/Iowa-Illinois-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island Arsenal honoring outgoing commander with cannon fire",
+      "summary": "QC residents may hear cannon fire later this week as Rock Island Arsenal hosts two ceremonies for an outgoing commander. Cannon fire will be heard coming from R…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-arsenal-honoring-outgoing-leader-with-cannon-fire/",
+      "time": "48 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_dc3754.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-219/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Reggion-Anderson-Jacob-Frank-Mug-Shot.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Enjoy free ice cream, meet officers at Cops and Cones, Davenport",
+      "summary": "The Davenport Police Association invites residents to the annual Cops and Cones Ice Cream Social at Vander Veer Botanical Park, 215 W. Central Park Avenue, on T…",
+      "url": "https://www.ourquadcities.com/news/local-news/enjoy-free-ice-cream-meet-officers-at-cops-and-cones-davenport/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/08/Cops-Cones.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,20 +52,9 @@
       "headline": "Teen dressed as clown arrested after man found stabbed to death in Illinois",
       "summary": "Less than an hour before the homicide, Ring camera footage captured the man approaching a home, looking into the camera and saying, “I have a gift for you.”",
       "url": "https://www.wqad.com/article/news/nation-world/teen-dressed-as-clown-arrested-missouri-mans-death/507-5c8f1c0a-70a3-47fa-b044-6274fdd38f90",
-      "time": "38 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/a72cfb90-cbc3-44ca-af0c-e62e2480b65d/20260804T175531/a72cfb90-cbc3-44ca-af0c-e62e2480b65d_750x422.jpg",
       "category": "nation-world"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf plans Learning Campus Discovery Fair",
-      "summary": "The Bettendorf Learning Campus Discovery Fair will be 10 a.m.-2 p.m. Saturday, Aug. 15, at the Betendorf Public Library, Family Museum, and Faye’s Field, a news…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-learning-campus-discovery-fair/",
-      "time": "41 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2016/05/BETTENDORF20LIBRARY20WATER20DAMAGE20OUTSIDE202052020201620P2_1463764714455_8639724_ver1.0.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +63,7 @@
       "headline": "Where to find vegan, vegetarian, dairy-free and gluten-friendly options at the Iowa State Fair",
       "summary": "Local 5 has compiled a list of vendors and food options at this year's fair for visitors with dietary restrictions.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-food-vegetarian-vegan-gluten-friendly-dairy-free-dietary-restrictions/524-c10a199f-07c5-4a52-a9c2-044698b0c2f0",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/de5eeb50-bb8a-42b0-a1bd-bbd00c572a50/20260804T161605/de5eeb50-bb8a-42b0-a1bd-bbd00c572a50_750x422.jpg",
       "category": "regional"
     },
@@ -41,20 +74,9 @@
       "headline": "Iowa corn growers hope for boost from year-round E15 sales in new proposed Farm Bill",
       "summary": "After the language passed the House on its own in the spring, farmers are hoping adding it to the omnibus bill will give it a boost.",
       "url": "https://www.wqad.com/article/news/agriculture/farm-bill-e15-iowa-corn/524-ed961baa-acf6-42aa-9e3e-f226187715d7",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WXIA/images/a1aabea4-56cf-49d4-9d72-8415ccd2afc3/a1aabea4-56cf-49d4-9d72-8415ccd2afc3_750x422.jpg",
       "category": "agriculture"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC Arts youth program will bring public art projects to Bettendorf, Milan",
-      "summary": "The momentum of this summer's Metro Arts Youth Apprenticeship Program at Quad-City Arts continues as apprentices bring two new public art projects to Bettendorf…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-arts-youth-program-will-bring-public-art-projects-to-bettendorf-milan/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/07/Quad-City-Arts.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -63,7 +85,7 @@
       "headline": "Tattoo shops in the Village of East Davenport one step closer to staying",
       "summary": "Two tattoo shops will be forced to move unless City Council approves a zoning law change allowing them to stay in the Village.",
       "url": "https://www.wqad.com/article/news/local/tattoo-shops-in-the-village-of-east-davenport-one-step-closer-to-staying/526-4692e66d-cb0a-4b7d-97fb-63839bb2fc0c",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3c9b09bf-0794-4431-ab6a-5b44b0b0db3f/20260805T030622/3c9b09bf-0794-4431-ab6a-5b44b0b0db3f_750x422.jpg",
       "category": "local"
     },
@@ -74,7 +96,7 @@
       "headline": "Iowa Central Community College offering first-in-nation Workforce Pell for EMT training course",
       "summary": "Students can receive up to $7,395 through Workforce Pell for the college's 14-week EMT program.",
       "url": "https://www.wqad.com/article/news/education/iowa-central-community-college-workforce-pell-grants-short-term-program-higher-education-financial-assistance/524-7cea834e-4fa5-4464-985d-9cdea1969a55",
-      "time": "11 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/e770e1ce-093e-435a-8d6f-af33dd818d22/20260805T013017/e770e1ce-093e-435a-8d6f-af33dd818d22_750x422.jpg",
       "category": "education"
     },
@@ -85,7 +107,7 @@
       "headline": "Three Quad Cities area projects compete for Iowa League of Cities community award",
       "summary": "Projects in Bettendorf, Riverdale and Muscatine are in the running for the All-Star Community Award. Here's how to cast your vote. The first round closes Aug. 1…",
       "url": "https://www.wqad.com/article/news/local/iowa-league-of-cities-all-start-community-award-bettendorf-riverdale-muscatine-vote-the-landing-75-musco-sports-dome/526-77c331fb-547f-46e5-9389-ab039f9b8eba",
-      "time": "12 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d8456fa7-ca71-4f3e-bd0d-d3a301568ea1/20260805T012204/d8456fa7-ca71-4f3e-bd0d-d3a301568ea1_750x422.jpg",
       "category": "local"
     },
@@ -96,7 +118,7 @@
       "headline": "Eldridge volunteer firefighters announce resignation",
       "summary": "Shortly before the Eldridge City Council approved the first reading of an ordinance that would make the fire department a city-run entity, the current staff of …",
       "url": "https://www.ourquadcities.com/news/local-news/eldridge-volunteer-firefighters-announce-resignation/",
-      "time": "13 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Eldridge-Fire-Department-is-finally-a-city-entity.jpg?w=900",
       "category": "Local News"
     },
@@ -107,31 +129,9 @@
       "headline": "All 20 Eldridge volunteer firefighters say they're quitting Oct. 1",
       "summary": "It comes amid ongoing disputes over the best path forward after the city council voted to make the volunteer fire company a city department.",
       "url": "https://www.wqad.com/article/news/local/public-safety/all-20-eldridge-volunteer-firefighters-say-theyre-quitting-oct-1/526-60d928d8-70a6-4559-8d2b-9f9a110f6648",
-      "time": "13 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3dd3bcbf-4da0-46ae-8169-0415c46c8952/20260804T233910/3dd3bcbf-4da0-46ae-8169-0415c46c8952_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Musco Sports Center competes for Iowa community award",
-      "summary": "The Musco Sports Center is competing for the Iowa League of Cities' All Star Community Awards. According to a release from the City of Muscatine, the Musco Spor…",
-      "url": "https://www.ourquadcities.com/news/local-news/musco-sports-center-competes-for-iowa-community-award/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Musco-Sports-Center.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "A chance for some storms tonight and tomorrow",
-      "summary": "After a pleasant start to the work week yesterday, with sunshine and warm weather, the risk of severe weather makes a return for tonight and tomorrow. Later thi…",
-      "url": "https://www.ourquadcities.com/news/local-news/a-chance-for-some-storms-tonight-and-tomorrow/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
