@@ -1,6 +1,72 @@
 {
-  "updated": "2026-08-05T21:10:54.211031+00:00",
+  "updated": "2026-08-06T02:39:30.510767+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport takes next step to prevent trucks from hitting low railroad bridge",
+      "summary": "The Davenport City Council voted to take the next step to prevent trucks from hitting a low railroad bridge in the Village of East Davenport. The plan involves …",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-takes-next-step-to-prevent-trucks-from-hitting-low-railroad-bridge/",
+      "time": "25 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_a30eb4.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois law expands assistance for homeless students",
+      "summary": "A new law in Illinois expands emergency assistance for students who are homeless. House Bill 4137 amends the Education for Homeless Children Act to allow school…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-law-expands-assistance-for-homeless-students/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Illinois-schools-school-GENERIC-classroom-classrooms.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities International Airport to conduct mass casualty drill on Wednesday, Aug. 12",
+      "summary": "The Federal Aviation Administration mandates that a drill be done every three years.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/quad-cities-international-airport-mass-casualty-drill-aug-12/526-94896d73-a8e9-4680-872b-3f48dea510a7",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e2e4fa66-51fe-4d00-8fd3-770712722ff7/20250821T225356/e2e4fa66-51fe-4d00-8fd3-770712722ff7_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "3 children from the Quad Cities area have been selected as 2026 University of Iowa Health Care Kid Captains",
+      "summary": "Our local captains include Harlow Taube of Orion, JJ Ward of Davenport and Ellie Walker of Clinton.",
+      "url": "https://www.wqad.com/article/news/local/3-quad-cities-area-children-2026-iowa-kid-captains/526-a1000926-4297-4699-b3dd-b81e21a7dcc0",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a37ee9db-1e94-4516-9748-dc5e7b04346d/20260803T200652/a37ee9db-1e94-4516-9748-dc5e7b04346d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport boy with cystic fibrosis selected as 2026 Iowa Kid Captain",
+      "summary": "6-year-old JJ Ward has been chosen as one of this year's Kid Captain. Over the years his family has raised thousands of dollars for cystic fibrosis research.",
+      "url": "https://www.wqad.com/article/news/local/the-current/jj-ward-iowa-hawkeye-kid-captain-davenport-honoree-cystic-fibrosis-research-fundraiser-awareness-tara-ward/526-bfd65f93-7854-44cc-9be0-3036d601a1bf",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/acfc8fc9-2355-4433-be64-a3ca02979868/20260805T224747/acfc8fc9-2355-4433-be64-a3ca02979868_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bridgeway planning behavioral health crisis center in Galesburg",
+      "summary": "Bridgeway plans to transform the former Knox-Galesburg Symphony building into a walk-in center for those experiencing a mental health or substance-use crisis.",
+      "url": "https://www.wqad.com/article/news/health/behavioral-health-crisis-center-planning-underway-galesburg-illinois-bridgeway/526-52da1047-c329-4715-bd95-034a4b73979f",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/30fee219-16e8-4b9a-adaa-6605e3162af4/20260805T231057/30fee219-16e8-4b9a-adaa-6605e3162af4_750x422.jpg",
+      "category": "health"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Iowa confirms first case of West Nile virus in 2026",
       "summary": "The case was detected in an adult from eastern Iowa.",
       "url": "https://www.wqad.com/article/news/health/iowa-west-nile-virus-first-case-2026/526-0bfdd310-2e60-4dfa-bf48-f80166b154ae",
-      "time": "52 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c87ed1b5-f9ed-431b-bc86-e07c8e446247/20260805T200108/c87ed1b5-f9ed-431b-bc86-e07c8e446247_750x422.jpg",
       "category": "health"
     },
@@ -16,89 +82,45 @@
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "City of East Moline hires consultant to bring more retail business to the community",
-      "summary": "Under the partnership, Retail Strategies will work with the City to attract retail development to East Moline.",
-      "url": "https://www.wqad.com/article/money/business/city-of-east-moline-retail-development-consulting-firm-partnership-retail-strategies/526-182a2d49-2e85-47f6-a8c9-3cffb77b6261",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f148f0a2-1e1d-4f38-b03f-0b1724025119/20260805T190850/f148f0a2-1e1d-4f38-b03f-0b1724025119_750x422.jpg",
-      "category": "business"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pritzker signs new laws requiring businesses to accept cash, pay employees for jury duty",
-      "summary": "The Illinois governor signed a total of 87 bills into law on Friday.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-new-laws-require-businesses-accept-cash-pay-employees-jury-duty-capitol-news-illinois/526-a900ee66-d51e-4df2-b3a8-ded8886e491a",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e9542d52-4ec2-4db8-90d6-2a8cfef4cbd9/20260803T200321/e9542d52-4ec2-4db8-90d6-2a8cfef4cbd9_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Learn about obesity at Dr. V.R. Alla Community Symposium",
-      "summary": "Obesity affects millions of Americans and is recognized as a chronic disease that can contribute to serious health conditions like heart disease, diabetes and s…",
-      "url": "https://www.ourquadcities.com/news/local-news/learn-about-obesity-at-dr-v-r-alla-community-symposium/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/V.R.-Alla.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Employees, local lawmakers rally against layoffs, service cuts at southern Illinois mental health facility",
-      "summary": "Choate Mental Health and Developmental Center has been at the center of controversy for years. It's planning to reduce its patient population and staff.",
-      "url": "https://www.wqad.com/article/news/state/choate-mental-health-and-development-center-southern-illinois-layoffs-service-cuts-rally/526-ad57d974-1c7d-4d3c-b098-0c20959c7b33",
+      "headline": "Three Quad Cities area projects compete for Iowa League of Cities community award",
+      "summary": "Projects in Bettendorf, Riverdale and Muscatine are in the running for the All-Star Community Award. Here's how to cast your vote. The first round closes Aug. 1…",
+      "url": "https://www.wqad.com/article/news/local/iowa-league-of-cities-all-start-community-award-bettendorf-riverdale-muscatine-vote-the-landing-75-musco-sports-dome/526-77c331fb-547f-46e5-9389-ab039f9b8eba",
       "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ac4e6224-9925-463b-b121-cd07f767a985/20260805T180055/ac4e6224-9925-463b-b121-cd07f767a985_750x422.jpg",
-      "category": "state"
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d8456fa7-ca71-4f3e-bd0d-d3a301568ea1/20260805T012204/d8456fa7-ca71-4f3e-bd0d-d3a301568ea1_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Quad City Bank & Trust renews sponsorship of Riverfront Pops",
-      "summary": "Quad City Bank &#38; Trust (QCBT) announced its renewed sponsorship of the Quad City Bank &#38; Trust Riverfront Pops Concert for five additional years at a pre…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-city-bank-trust-renews-sponsorship-of-riverfront-pops/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_c8376b.png?w=900",
+      "headline": "Quad Cities welcome Belgian professors looking to learn, educate",
+      "summary": "Two Belgian professors, their son and grandson are exploring the Belgian culture in the Quad Cities, rich with countless Belgian immigrants searching for jobs, …",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-welcome-belgian-professors-looking-to-learn-educate/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_70f6fa.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "The most common jobs in Iowa and Illinois: Federal data",
-      "summary": "State-by-state differences show how regional economies shape employment.",
-      "url": "https://www.ourquadcities.com/news/local-news/the-most-common-jobs-in-iowa-and-illinois-federal-data/",
+      "headline": "QCA man faces Class X felony sexual-assault charges after bi-state investigation",
+      "summary": "A 53-year-old Morrison man faces Class X felony charges of predatory criminal sexual assault, according to a news release from the Illinois State Police (ISP.) …",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-man-faces-class-x-felony-sexual-assault-charges-after-bi-state-investigation/",
       "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/Iowa-Illinois-GENERIC.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Brian-Coers-Mug-Shot.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Rock Island Arsenal honoring outgoing commander with cannon fire",
-      "summary": "QC residents may hear cannon fire later this week as Rock Island Arsenal hosts two ceremonies for an outgoing commander. Cannon fire will be heard coming from R…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-arsenal-honoring-outgoing-leader-with-cannon-fire/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_dc3754.png?w=900",
+      "headline": "Rock Island Public Library offers weekly events for 'littles' and school-aged kids",
+      "summary": "The Rock Island Public Library is offering weekly events for 'littles' and school-aged kids! According to a release, the Rock Island Public Library Downtown chi…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-public-library-offers-weekly-events-for-littles-and-school-aged-kids/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/02/Rock-Island-Public-Library.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-219/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Reggion-Anderson-Jacob-Frank-Mug-Shot.jpg?w=900",
-      "category": "Crime"
     },
     {
       "source": "WQAD",
@@ -107,31 +129,9 @@
       "headline": "Teen dressed as clown arrested after man found stabbed to death in Illinois",
       "summary": "Less than an hour before the homicide, Ring camera footage captured the man approaching a home, looking into the camera and saying, “I have a gift for you.”",
       "url": "https://www.wqad.com/article/news/nation-world/teen-dressed-as-clown-arrested-missouri-mans-death/507-5c8f1c0a-70a3-47fa-b044-6274fdd38f90",
-      "time": "7 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/a72cfb90-cbc3-44ca-af0c-e62e2480b65d/20260804T175531/a72cfb90-cbc3-44ca-af0c-e62e2480b65d_750x422.jpg",
       "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Where to find vegan, vegetarian, dairy-free and gluten-friendly options at the Iowa State Fair",
-      "summary": "Local 5 has compiled a list of vendors and food options at this year's fair for visitors with dietary restrictions.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-food-vegetarian-vegan-gluten-friendly-dairy-free-dietary-restrictions/524-c10a199f-07c5-4a52-a9c2-044698b0c2f0",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/de5eeb50-bb8a-42b0-a1bd-bbd00c572a50/20260804T161605/de5eeb50-bb8a-42b0-a1bd-bbd00c572a50_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa corn growers hope for boost from year-round E15 sales in new proposed Farm Bill",
-      "summary": "After the language passed the House on its own in the spring, farmers are hoping adding it to the omnibus bill will give it a boost.",
-      "url": "https://www.wqad.com/article/news/agriculture/farm-bill-e15-iowa-corn/524-ed961baa-acf6-42aa-9e3e-f226187715d7",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WXIA/images/a1aabea4-56cf-49d4-9d72-8415ccd2afc3/a1aabea4-56cf-49d4-9d72-8415ccd2afc3_750x422.jpg",
-      "category": "agriculture"
     }
   ]
 }
