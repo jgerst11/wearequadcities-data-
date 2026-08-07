@@ -1,28 +1,6 @@
 {
-  "updated": "2026-08-07T12:52:17.599530+00:00",
+  "updated": "2026-08-07T13:06:02.747065+00:00",
   "items": [
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "BELGIUM NOTABLES PRAISE HOOVER",
-      "summary": "QUAD-CITIES",
-      "url": "https://qctimes.com/article_2c25ab92-eba7-5dbf-9465-cc7d9c799e34.html",
-      "time": "2 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "CHAMBER PRAISES STRONG '26",
-      "summary": "BUSINESS| QUAD-CITIES",
-      "url": "https://qctimes.com/article_87a52140-ba5a-53be-b611-fb7b310338ae.html",
-      "time": "2 h ago",
-      "image": "",
-      "category": ""
-    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -74,7 +52,7 @@
       "headline": "East Moline receives $5 million sewer infrastructure expansion grant",
       "summary": "The City of East Moline received a $5 million Capital Ready Grant. According to a release, the grant came from the Illinois Department of Commerce and Economic …",
       "url": "https://www.ourquadcities.com/news/local-news/east-moline-receives-5-million-sewer-infrastructure-expansion-grant/",
-      "time": "2 h ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/05/City-of-East-Moline.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +63,7 @@
       "headline": "Rock Island receives $120,000 industrial economic development grant",
       "summary": "The City of Rock Island received a $120,000 Regional Site Readiness grant. According to a release, the grant came from the Illinois Department of Commerce and E…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-receives-120000-industrial-economic-development-grant/",
-      "time": "2 h ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/City-of-Rock-Island-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -132,6 +110,28 @@
       "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d7449488-aa17-4fc5-9233-bc8b8df77894/20260806T231749/d7449488-aa17-4fc5-9233-bc8b8df77894_750x422.jpg",
       "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois Quad Cities projects receiving over $7M in state funding",
+      "summary": "East Moline, Rock Island and Galesburg were all awarded a portion of $35 million that the state is distributing to 22 sites across the state.",
+      "url": "https://www.wqad.com/article/news/local/infrastructure/quad-cities-regional-site-readiness-program-funding-7-million-east-moline-rock-island-galesburg/526-7bdc44f7-2cda-4472-b60e-164008f91bc1",
+      "time": "13 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/5e73805d-5ade-4a85-af55-60be7a8c96ab/20260309T230513/5e73805d-5ade-4a85-af55-60be7a8c96ab_750x422.jpg",
+      "category": "infrastructure"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Welch launches private working group to respond to sexual harassment, but it’s off to a rocky start",
+      "summary": "One Democrat says she worries the Democrat-only body is a ‘PR stunt.’",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/welch-private-working-group-sexual-harassment-rocky-start-capitol-news-illinois/526-02ef9c88-dd9b-4209-aeef-106ed6d70e0d",
+      "time": "15 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e4e6e186-028c-42b5-91bd-4791009f9aa7/20260806T214455/e4e6e186-028c-42b5-91bd-4791009f9aa7_750x422.jpg",
+      "category": "illinois-politics"
     }
   ]
 }
