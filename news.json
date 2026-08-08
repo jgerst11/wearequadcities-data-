@@ -1,6 +1,127 @@
 {
-  "updated": "2026-08-07T20:42:02.831781+00:00",
+  "updated": "2026-08-08T01:43:04.883898+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "City of Eldridge looking for firefighters after all 20 volunteers announce they're quitting",
+      "summary": "During a city council meeting this week, a representative for the current 20 firefighters from the Eldridge Volunteer Fire Department said they will quit on Oct…",
+      "url": "https://www.wqad.com/article/news/local/public-safety/city-of-eldridge-firefighter-application-volunteers-quitting-october/526-ca83256b-d896-40b8-a8b1-8d55393bb5b6",
+      "time": "29 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e621fb1f-7367-4651-828c-e236358423e8/20260624T033800/e621fb1f-7367-4651-828c-e236358423e8_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Owner of 'The Green Store' in Rock Island recognized for his work in the community",
+      "summary": "Demetrius Johnson was presented with the Bryant True Heroes Award, a national recognition of those making a difference in their community.",
+      "url": "https://www.wqad.com/article/news/local/good-news/the-green-store-rock-island-illinois-neighborhood-market-bryant-true-heros-award-demetrius-johnson/526-185a8fe7-743f-4124-b452-e4b7d6e37af2",
+      "time": "37 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8/20260807T231001/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8_750x422.jpg",
+      "category": "good-news"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "6pm Friday severe t'storm update",
+      "summary": "The Quad Cities is now included in a Severe T'Storm Watch until 10pm. Storms with strong winds and hail are heading toward to the Quad Cities and should arrive …",
+      "url": "https://www.ourquadcities.com/news/local-news/6pm-friday-severe-tstorm-update/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/TOR-SVR-Watches-1.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rocky grad is new Rock Island High School Resource Officer",
+      "summary": "Rock Island High School has a familiar face as its new School Resource Officer. According to a Facebook post from the Rock Island Police Department, Jacklyn You…",
+      "url": "https://www.ourquadcities.com/news/local-news/rocky-grad-is-new-rock-island-high-school-resource-officer/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Jacklyn-Young.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois school funding stretched thin as costs rise, corporate revenue source shrinks",
+      "summary": "Despite $350M funding increases, the overall ‘adequacy gap’ grows for a 3rd straight year.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-school-funding-stretched-thin-costs-rise-corporate-revenue-shrinks-capitol-news/526-33793f67-a9fe-472f-ac56-4336b2e6b83b",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e075fb22-fdb9-41a5-b382-8c2275db58f0/20260807T223637/e075fb22-fdb9-41a5-b382-8c2275db58f0_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "State asks judge to deny pretrial release for QC man facing child sexual abuse material charges",
+      "summary": "Court filings obtained by News 8 reveal new allegations against Benjamin Morris as prosecutors seek to keep him in custody.",
+      "url": "https://www.wqad.com/article/news/crime/state-seeks-to-keep-former-quad-city-arts-leader-jailed-court-filings-reveal-new-details/526-1bde383e-a939-4da2-bd6f-1377507a3779",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d82845ad-09fa-4659-9284-bf558db8ea6c/20260728T180854/d82845ad-09fa-4659-9284-bf558db8ea6c_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Mississippi Valley Fair update - Chance for storms Friday evening",
+      "summary": "There's a chance we get some thunderstorms in the Quad Cities right around showtime Friday evening... That's not a great thing for the MVF concert. If we get st…",
+      "url": "https://www.ourquadcities.com/news/local-news/mississippi-valley-fair-update-chance-for-storms-friday-evening/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/chance-of-rain-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Feds: Southern Illinois coal mine managers concealed ‘deadly conditions’",
+      "summary": "Four managers of a sprawling Franklin County mine face federal charges of concealing an underground fire, falsifying safety records and obstructing investigator…",
+      "url": "https://www.wqad.com/article/news/state/southern-illinois-coal-mine-managers-concealed-deadly-conditions-capitol-news/526-da4796ad-8681-49ae-8c40-76c2513bbbda",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ced7d93f-55c8-4e60-96ba-d711358fb5ef/20260807T214039/ced7d93f-55c8-4e60-96ba-d711358fb5ef_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "20th Mutt Strut planned for Camden Park during Milan Harvest Festival",
+      "summary": "The Quad City Animal Welfare Center will hold the 20th Annual Mutt Strut from noon to 2 p.m. Sunday, Sept. 6, at Camden Park in Milan during the Milan Harvest F…",
+      "url": "https://www.ourquadcities.com/news/local-news/20th-mutt-strut-planned-for-camden-park-during-milan-harvest-festival/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mutt-Strut.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine street closes for railroad crossing work",
+      "summary": "It's an Our Quad Cities News traffic alert. According to a release from the City of Muscatine, Canadian Pacific–Kansas City Rail (CPKCR) will perform repairs on…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-street-closes-for-railroad-crossing-work/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘I’m embarrassed by it’: Illinois House Speaker Welch apologizes for interactions with former staffer",
+      "summary": "Welch defended his office’s handling of claims against Benton, putting more blame on processes put in place by former Speaker Mike Madigan.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-house-speaker-welch-apologizes-interactions-former-staffer-handling-sexual-harassment-claims-benton/526-84522420-fcd0-4683-9eb0-8e05925fb38c",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a85410d0-b791-4a83-ab51-823ad8f3283a/20260806T192337/a85410d0-b791-4a83-ab51-823ad8f3283a_750x422.jpg",
+      "category": "illinois-politics"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,130 +129,9 @@
       "headline": "Iowa man charged after allegedly shining spotlight at medical helicopter",
       "summary": "A Henry County, Iowa, man is charged after deputies say he shined a powerful spotlight at a Med Force medical helicopter, illuminating the cockpit during flight…",
       "url": "https://www.wqad.com/article/news/crime/henry-county-man-charged-allegedly-shining-spotlight-medical-helicopter/526-0e08c04a-4ea0-454b-8e4b-17248be8dcbe",
-      "time": "22 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9/d3eb023c-2c72-4cc3-82c7-3dbace3bcbb9_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Celebrate Atkinson's 170th anniversary at Heritage Days",
-      "summary": "Celebrate Atkinson’s 170th anniversary with a classic Midwestern community festival. Atkinson Heritage Days will be held on Friday August 21 and Saturday August…",
-      "url": "https://www.ourquadcities.com/news/local-news/celebrate-atkinsons-170th-anniversary-at-heritage-days/",
-      "time": "27 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Atkinson-Heritage-Days-featured-image.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport Fire Department seeks public input as it forms 5-year strategic plan",
-      "summary": "A survey is open through Aug. 21, where residents can leave feedback on topics such as emergency response, fire prevention and community education programs.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/davenport-fire-department-public-survey-5-year-strategic-plan/526-4aa204f5-2df6-4283-ab18-7579c04f3efb",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bb02cf6e-66df-4961-8410-bee126aea0cc/20260807T171204/bb02cf6e-66df-4961-8410-bee126aea0cc_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Todd Noack named membership director for Association for Peer Support",
-      "summary": "The executive director of Life Connections has a new job. Todd Noack is the new membership director for the Association for Peer Support. He spoke with Our Quad…",
-      "url": "https://www.ourquadcities.com/news/local-news/todd-noack-named-membership-director-for-association-for-peer-support/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Association-for-Peer-Support-featured-image.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former Quad City Arts interim director's detention hearing delayed after attorney change",
-      "summary": "Former Quad City Arts interim director Benjamin Morris remains jailed after a judge delayed his detention hearing following a change in defense attorneys.",
-      "url": "https://www.wqad.com/article/news/crime/former-quad-city-arts-interim-directors-detention-hearing-delayed-attorney-change/526-00d54dff-691e-4d19-88ed-9fcbb7e1ed57",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/800f7f6d-ae9c-4619-bd2b-1b892369ff3d/20260729T230923/800f7f6d-ae9c-4619-bd2b-1b892369ff3d_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Sheriff: Illinois high school athletic trainer charged after alleged inappropriate relationship with student",
-      "summary": "The Lee County Sheriff's Office said a former high school athletic trainer is facing felony charges after an alleged inappropriate relationship with a student.",
-      "url": "https://www.wqad.com/article/news/crime/lee-county-sheriff-high-school-athletic-trainer-charged-alleged-inappropriate-relationship-student/526-3335a355-8463-4256-957f-af10c11b4835",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WFAA/images/e832994d-dfb8-409f-8633-f300b4788398/e832994d-dfb8-409f-8633-f300b4788398_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf man accused of firing shot, threatening people outside neighboring home",
-      "summary": "A Bettendorf man is accused of threatening three people, including a child, with a handgun before firing a shot into the air Thursday evening.",
-      "url": "https://www.wqad.com/article/news/crime/bettendorf-man-accused-threatening-people-gun-firing-shot/526-6c8dcfc4-9ded-4ab8-bfc9-f10b6dc036fb",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois soldier missing since Korean War finally identified, returns home for burial",
-      "summary": "Army Cpl. Jackie Lee Thurman was 18 when he died helping a wounded officer. After a decades-long wait, his identified remains return to southern Illinois.",
-      "url": "https://www.wqad.com/article/news/regional/illinois-soldier-missing-since-korean-war-finally-identified-returns-home-for-burial/63-54f9fc39-cf1d-4e77-a3c5-7862363c4de6",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/a3431101-e99e-4d4e-b9d6-4f45e5502255/20260806T235606/a3431101-e99e-4d4e-b9d6-4f45e5502255_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair concession stand opens early, prepares for annual rush",
-      "summary": "Campbell's Concessions says the new year comes amid pricing volatility.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-concession-stand-opens-early/524-c16c7a9d-af45-4215-9855-20f44437c266",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/cf5dd67e-43a6-4f3f-8cf4-4434c1af1dc9/20260806T204259/cf5dd67e-43a6-4f3f-8cf4-4434c1af1dc9_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "University of Northern Iowa Athletics seeks naming-rights sponsor for legendary UNI-Dome",
-      "summary": "The school is celebrating the UNI-Dome's 50th anniversary this year, which has included expansive renovations.",
-      "url": "https://www.wqad.com/article/sports/university-of-northern-iowa-athletics-naming-rights-sponsor-uni-dome/524-4604fa58-fef3-4607-819a-b477f61e9290",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/2a573cf4-edb1-4f20-9f24-50a694995ea9/20260806T232050/2a573cf4-edb1-4f20-9f24-50a694995ea9_750x422.jpg",
-      "category": "sports"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "NASCAR Cup Series returning to Iowa for Fourth of July weekend in 2027",
-      "summary": "2027 will mark the fourth time the Cup Series has raced at Iowa Speedway.",
-      "url": "https://www.wqad.com/article/sports/motor/nascar-cup-series-iowa-forth-of-july-weekend-2027/524-653184b5-430e-449d-a5d2-5f81abf49e14",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/d4a930ae-8d30-4afc-90df-7dd6c30cef49/20260807T010436/d4a930ae-8d30-4afc-90df-7dd6c30cef49_750x422.jpg",
-      "category": "motor"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "\"American Pickers'\" Rob Wolfe hosts antique swap and auction in the QCA",
-      "summary": "An event for fans of antique items and collectibles is taking place at the Bend XPO Center. The Rust Belt Americana Antique Swap and Auction is in East Moline a…",
-      "url": "https://www.ourquadcities.com/news/local-news/american-pickers-rob-wolfe-hosts-antique-swap-and-auction-in-the-qca/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Screenshot-2026-08-06-181152.png?w=900",
-      "category": "Local News"
     }
   ]
 }
