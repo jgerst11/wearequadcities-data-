@@ -1,6 +1,39 @@
 {
-  "updated": "2026-08-09T16:36:12.268047+00:00",
+  "updated": "2026-08-09T20:33:47.217040+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Even without a storefront, ‘Snoop’ Ramirez still sells the Quad-Cities his signature dishes",
+      "summary": "Some people know him as James Ramirez. More know him as Snoop for his delicious chips, salsa and enchiladas he sells around the Quad-Cities, without a storefron…",
+      "url": "https://qctimes.com/life-entertainment/local/food-drink/article_09b396b9-cfbc-424c-a076-f58b4a5ad187.html",
+      "time": "1 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/5/11/51189481-d8d2-4512-b79e-4c269dcfb762/6a5fa4bd43090.image.jpg?resize=300%2C169",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island's Don Nelson, NBA Hall of Famer and former Hawkeye, dead at 86",
+      "summary": "Don Nelson, an NBA Hall of Famer, Rock Island graduate and former Iowa Hawkeye, died Sunday. He was 86. Nelson's death was announced by the Golden State Warrior…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/rock-islands-don-nelson-nba-hall-of-famer-and-former-hawkeye-dead-at-86/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP25159646087348.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'I am still Roger Craig': Davenport football star reveals diagnosis at Hall of Fame",
+      "summary": "Roger Craig revealed during his induction speech into the Pro Football Hall of Fame that he has vascular dementia. The former San Francisco 49ers star running b…",
+      "url": "https://www.ourquadcities.com/news/local-news/i-am-still-roger-craig-davenport-football-star-reveals-diagnosis-at-hall-of-fame/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP26220653313933.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,9 +41,31 @@
       "headline": "Moline Library to host Local Authors Showcase",
       "summary": "Meet talented writers, learn about their writing process, and purchase copies of their published works at Moline Public Library’s Local Author Showcase, a news …",
       "url": "https://www.ourquadcities.com/news/local-news/moline-library-to-host-local-authors-showcase/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Public-Library.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "The art of discovery: Inside the magic of Alternating Currents",
+      "summary": "Three cities, four days, more than 200 performers and all free for attendees. How does the Downtown Davenport Partnership pull it off?",
+      "url": "https://qctimes.com/life-entertainment/local/article_72f1a1b7-aa72-4443-a7d3-71dd8e7d4945.html",
+      "time": "9 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/c7/cc7c544b-28fd-4646-bde3-0099dd4cd4a9/68a0a0ea9fc53.image.jpg?resize=300%2C200",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Letter: Well done on the Bix 7",
+      "summary": "I would like to give a huge thanks to the Quad-Cities area for the recent Bix 7 race. After living most of my life in the area I decided it was time to particip…",
+      "url": "https://qctimes.com/opinion/letters/article_a1e4cec6-bd81-403d-bd85-418b369bb334.html",
+      "time": "10 h ago",
+      "image": "",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +74,7 @@
       "headline": "'The Boys,' 'Obsession' honored by annual Critics Choice Super Awards",
       "summary": "The Critics Choice Association (CCA) has announced announced today the winners of the sixth annual Critics Choice Super Awards, honoring the most popular, fan-o…",
       "url": "https://www.ourquadcities.com/news/local-news/the-boys-obsession-honored-by-annual-critics-choice-super-awards/",
-      "time": "15 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/Obsession.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +85,7 @@
       "headline": "American Serenade will dock in Muscatine",
       "summary": "The City of Muscatine will temporarily close the downriver boat launch and adjacent parking lot near the Iowa Avenue entrance to Riverside Park on Tuesday, Augu…",
       "url": "https://www.ourquadcities.com/news/local-news/american-serenade-will-dock-in-muscatine/",
-      "time": "15 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/American-Serenade.jpg?w=900",
       "category": "Local News"
     },
@@ -77,39 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e621fb1f-7367-4651-828c-e236358423e8/20260624T033800/e621fb1f-7367-4651-828c-e236358423e8_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Owner of 'The Green Store' in Rock Island recognized for his work in the community",
-      "summary": "Demetrius Johnson was presented with the Bryant True Heroes Award, a national recognition of those making a difference in their community.",
-      "url": "https://www.wqad.com/article/news/local/good-news/the-green-store-rock-island-illinois-neighborhood-market-bryant-true-heros-award-demetrius-johnson/526-185a8fe7-743f-4124-b452-e4b7d6e37af2",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8/20260807T231001/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8_750x422.jpg",
-      "category": "good-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois school funding stretched thin as costs rise, corporate revenue source shrinks",
-      "summary": "Despite $350M funding increases, the overall ‘adequacy gap’ grows for a 3rd straight year.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-school-funding-stretched-thin-costs-rise-corporate-revenue-shrinks-capitol-news/526-33793f67-a9fe-472f-ac56-4336b2e6b83b",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e075fb22-fdb9-41a5-b382-8c2275db58f0/20260807T223637/e075fb22-fdb9-41a5-b382-8c2275db58f0_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "State asks judge to deny pretrial release for QC man facing child sexual abuse material charges",
-      "summary": "Court filings obtained by News 8 reveal new allegations against Benjamin Morris as prosecutors seek to keep him in custody.",
-      "url": "https://www.wqad.com/article/news/crime/state-seeks-to-keep-former-quad-city-arts-leader-jailed-court-filings-reveal-new-details/526-1bde383e-a939-4da2-bd6f-1377507a3779",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d82845ad-09fa-4659-9284-bf558db8ea6c/20260728T180854/d82845ad-09fa-4659-9284-bf558db8ea6c_750x422.jpg",
-      "category": "crime"
     }
   ]
 }
