@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-09T08:44:17.504989+00:00",
+  "updated": "2026-08-09T12:52:48.712842+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "The art of discovery: Inside the magic of Alternating Currents",
+      "summary": "Three cities, four days, more than 200 performers and all free for attendees. How does the Downtown Davenport Partnership pull it off?",
+      "url": "https://qctimes.com/life-entertainment/local/article_72f1a1b7-aa72-4443-a7d3-71dd8e7d4945.html",
+      "time": "1 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/c7/cc7c544b-28fd-4646-bde3-0099dd4cd4a9/68a0a0ea9fc53.image.jpg?resize=300%2C200",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Letter: Well done on the Bix 7",
+      "summary": "I would like to give a huge thanks to the Quad-Cities area for the recent Bix 7 race. After living most of my life in the area I decided it was time to particip…",
+      "url": "https://qctimes.com/opinion/letters/article_a1e4cec6-bd81-403d-bd85-418b369bb334.html",
+      "time": "2 h ago",
+      "image": "",
+      "category": ""
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +30,7 @@
       "headline": "'The Boys,' 'Obsession' honored by annual Critics Choice Super Awards",
       "summary": "The Critics Choice Association (CCA) has announced announced today the winners of the sixth annual Critics Choice Super Awards, honoring the most popular, fan-o…",
       "url": "https://www.ourquadcities.com/news/local-news/the-boys-obsession-honored-by-annual-critics-choice-super-awards/",
-      "time": "7 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/Obsession.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +41,7 @@
       "headline": "American Serenade will dock in Muscatine",
       "summary": "The City of Muscatine will temporarily close the downriver boat launch and adjacent parking lot near the Iowa Avenue entrance to Riverside Park on Tuesday, Augu…",
       "url": "https://www.ourquadcities.com/news/local-news/american-serenade-will-dock-in-muscatine/",
-      "time": "7 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/American-Serenade.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "OQC Crime Watch: School superintendent acquitted in student-records case: Episode 76",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-superintendent-acquitted-in-student-records-case-episode-76/",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Screenshot-2026-07-31-123740.png?w=584",
       "category": "Local News"
     },
@@ -110,17 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ced7d93f-55c8-4e60-96ba-d711358fb5ef/20260807T214039/ced7d93f-55c8-4e60-96ba-d711358fb5ef_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "‘I’m embarrassed by it’: Illinois House Speaker Welch apologizes for interactions with former staffer",
-      "summary": "Welch defended his office’s handling of claims against Benton, putting more blame on processes put in place by former Speaker Mike Madigan.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-house-speaker-welch-apologizes-interactions-former-staffer-handling-sexual-harassment-claims-benton/526-84522420-fcd0-4683-9eb0-8e05925fb38c",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a85410d0-b791-4a83-ab51-823ad8f3283a/20260806T192337/a85410d0-b791-4a83-ab51-823ad8f3283a_750x422.jpg",
-      "category": "illinois-politics"
     }
   ]
 }
