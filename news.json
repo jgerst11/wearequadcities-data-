@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-10T09:23:51.444524+00:00",
+  "updated": "2026-08-10T13:10:22.644394+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair 2026 guide: Tickets, parking, new foods, live entertainment and more",
+      "summary": "Here's everything you need to know before you head to the Iowa State Fair.",
+      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-dates-concerts-new-foods-tickets-bag-policy-parking-transportation-fairgrounds-des-moines/524-d1a87206-81b9-4829-a2d6-0e7ade4d71f2",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/ede2796a-1465-4a52-9461-6fa7e133a19f/20250812T210955/ede2796a-1465-4a52-9461-6fa7e133a19f_750x422.jpg",
+      "category": "regional"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Severe storms, heat and humidity for the Quad Cities",
+      "summary": "Hot weather sticks around today and tomorrow before cooler weather arrives later this week. A daily chance of showers and storms is in the forecast. Here's your…",
+      "url": "https://www.ourquadcities.com/news/local-news/severe-storms-heat-and-humidity-for-the-quad-cities/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +30,7 @@
       "headline": "Davenport weighs future of historic Levee Inn",
       "summary": "Davenport is weighing options for the historic Levee Inn's future. Current and former residents chimed in on what they want to see.",
       "url": "https://www.wqad.com/article/news/local/davenport-weighs-future-of-historic-levee-inn/526-b8381031-4858-4ecf-a4f8-d8aaf3477b0f",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/5e63af26-87f2-4483-a179-811b5b5ea580/20260809T225119/5e63af26-87f2-4483-a179-811b5b5ea580_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +41,7 @@
       "headline": "It's Iowa vs. Illinois at Tug Fest!",
       "summary": "Gear up for one of the most unique summer festivals in the country as LeClaire and Port Byron compete for the win at the 39th annual Tug Fest! According to a re…",
       "url": "https://www.ourquadcities.com/news/local-news/its-iowa-vs-illinois-at-tug-fest/",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_e13e07.png?w=900",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "Rock Island's Don Nelson, NBA Hall of Famer and former Hawkeye, dead at 86",
       "summary": "Don Nelson, an NBA Hall of Famer, Rock Island graduate and former Iowa Hawkeye, died Sunday. He was 86. Nelson's death was announced by the Golden State Warrior…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/rock-islands-don-nelson-nba-hall-of-famer-and-former-hawkeye-dead-at-86/",
-      "time": "14 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP25159646087348.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -41,7 +63,7 @@
       "headline": "'I am still Roger Craig': Davenport football star reveals diagnosis at Hall of Fame",
       "summary": "Roger Craig revealed during his induction speech into the Pro Football Hall of Fame that he has vascular dementia. The former San Francisco 49ers star running b…",
       "url": "https://www.ourquadcities.com/news/local-news/i-am-still-roger-craig-davenport-football-star-reveals-diagnosis-at-hall-of-fame/",
-      "time": "14 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP26220653313933.jpg?w=900",
       "category": "Local News"
     },
@@ -52,20 +74,9 @@
       "headline": "Moline Library to host Local Authors Showcase",
       "summary": "Meet talented writers, learn about their writing process, and purchase copies of their published works at Moline Public Library’s Local Author Showcase, a news …",
       "url": "https://www.ourquadcities.com/news/local-news/moline-library-to-host-local-authors-showcase/",
-      "time": "18 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Public-Library.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Cyclosporiasis confirmed in Iowa: Symptoms, prevention and when to seek treatment",
-      "summary": "An infectious diseases doctor with UnityPoint Trinity says young children, seniors and immunocompromised people are most at risk.",
-      "url": "https://www.wqad.com/article/news/health/cyclosporiasis-confirmed-iowa-symptoms-prevention-when-seek-treatment/526-b1ead949-5031-43ec-b45e-573d5fb73317",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/48911688-e1a2-4550-9056-ecf06fa6c76c/20260803T234217/48911688-e1a2-4550-9056-ecf06fa6c76c_750x422.jpg",
-      "category": "health"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -77,28 +88,6 @@
       "time": "2d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/spires-collapse--e1786217858576.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "City of Eldridge looking for firefighters after all 20 volunteers announce they're quitting",
-      "summary": "During a city council meeting this week, a representative for the current 20 firefighters from the Eldridge Volunteer Fire Department said they will quit on Oct…",
-      "url": "https://www.wqad.com/article/news/local/public-safety/city-of-eldridge-firefighter-application-volunteers-quitting-october/526-ca83256b-d896-40b8-a8b1-8d55393bb5b6",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e621fb1f-7367-4651-828c-e236358423e8/20260624T033800/e621fb1f-7367-4651-828c-e236358423e8_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Owner of 'The Green Store' in Rock Island recognized for his work in the community",
-      "summary": "Demetrius Johnson was presented with the Bryant True Heroes Award, a national recognition of those making a difference in their community.",
-      "url": "https://www.wqad.com/article/news/local/good-news/the-green-store-rock-island-illinois-neighborhood-market-bryant-true-heros-award-demetrius-johnson/526-185a8fe7-743f-4124-b452-e4b7d6e37af2",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8/20260807T231001/a412f69e-2c84-42b5-a0c8-44f9d59d6cc8_750x422.jpg",
-      "category": "good-news"
     },
     {
       "source": "WHBF / OurQuadCities",
