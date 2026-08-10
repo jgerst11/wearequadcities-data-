@@ -1,6 +1,105 @@
 {
-  "updated": "2026-08-10T16:54:42.079011+00:00",
+  "updated": "2026-08-10T20:43:17.242460+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "3 brief tornadoes confirmed during Sunday night storms in Henry County, Illinois",
+      "summary": "None of the tornadoes caused any damage, resulting in an EF-Unknown rating for all of them.",
+      "url": "https://www.wqad.com/article/weather/severe-weather/tornadoes-confirmed-henry-county-illinois-sunday-night-storms-national-weather-service/526-30dec451-6df2-4878-851b-88836dc07682",
+      "time": "39 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d80c24c2-a361-4a85-84a6-1b0473962932/20260810T195920/d80c24c2-a361-4a85-84a6-1b0473962932_750x422.jpg",
+      "category": "severe-weather"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Johnston: Roger Craig, Don Nelson make for an emotional weekend; both have made QC proud",
+      "summary": "The emotional roller coaster was flying over the weekend with news regarding local sports standouts Roger Craig and Don Nelson, both of whom have made the Quad-…",
+      "url": "https://qctimes.com/sports/professional/article_18393b2d-71be-4f4d-8642-bc8f2583ea2e.html",
+      "time": "43 min ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/e5/8e5b4b37-212b-5ec3-ad58-2c44e294b8fe/6a749ebb87ad4.image.jpg?resize=300%2C200",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "LIST: Dips, salsas sold in Illinois, other states recalled over salmonella concerns",
+      "summary": "The salsa, dips, guacamole, and more were sold at Kroger, Target, Trader Joe's, Whole Foods, and Walmart locations across half the U.S.",
+      "url": "https://www.ourquadcities.com/news/local-news/list-dips-salsas-sold-in-illinois-other-states-recalled-over-salmonella-concerns/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/GettyImages-2276082026.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport weighs future of historic Levee Inn",
+      "summary": "Davenport is weighing options for the historic Levee Inn's future. Current and former residents chimed in on what they want to see.",
+      "url": "https://www.wqad.com/article/news/local/davenport-weighs-future-of-historic-levee-inn/526-b8381031-4858-4ecf-a4f8-d8aaf3477b0f",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/5e63af26-87f2-4483-a179-811b5b5ea580/20260810T181611/5e63af26-87f2-4483-a179-811b5b5ea580_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil order in place for parts of Silvis after water main break",
+      "summary": "The City of Silvis issued a boil order for 7th Street from 1st Avenue to 4th Avenue due to a water main break.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/water-main-break-silvis-illinois-boil-order/526-c36d3c6d-5d9c-4377-a6f2-230d41afee27",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d6b97f59-10d7-468f-98ad-b194a2639903/20260530T201636/d6b97f59-10d7-468f-98ad-b194a2639903_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "28-year-old airlifted after crashing ATV in rural Henry County, Iowa",
+      "summary": "The crash happened Monday morning near the intersection of Lexington Avenue and 335th Street.",
+      "url": "https://www.wqad.com/article/news/local/henry-county-iowa-rural-salem-atv-crash-airlifted/526-05137623-4ca8-4736-b614-2e54a3e18ead",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/dd9f675b-dd12-4126-b66a-dc4c0274a1bc/20250130T172050/dd9f675b-dd12-4126-b66a-dc4c0274a1bc_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Part of Silvis under boil order",
+      "summary": "A section of Silvis is currently under a boil order. A news release from the city said residents on 7th Street from 1st Avenue to 4th Avenue must boil water bef…",
+      "url": "https://www.ourquadcities.com/news/local-news/part-of-silvis-under-boil-order-6/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/boil-order.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Central States Shrine Association holding Ceremonial Session in Davenport",
+      "summary": "Davenport is welcoming the 2026 Central States Shrine Association (CSSA) for its Ceremonial Session on August 19-22. The Ceremonial Session will feature a grand…",
+      "url": "https://www.ourquadcities.com/news/local-news/central-states-shrine-association-holding-ceremonial-session-in-davenport/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Central-States-Shrine-Association.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +107,7 @@
       "headline": "Monarch Tagging",
       "summary": "Monarch butterflies are getting ready for their journey south, and a local event is giving people a chance to help researchers track their migration. Michelle B…",
       "url": "https://www.ourquadcities.com/news/local-news/monarch-tagging/",
-      "time": "32 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/IMG_5387.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +118,7 @@
       "headline": "Learn about caregiver support at Cancer Support Community Iowa and NW Illinois at Gilda’s Club",
       "summary": "Cancer Support Community Iowa and NW Illinois at Gilda’s Club is hosting a free educational workshop on caregiver support. The workshop is offered in a hybrid f…",
       "url": "https://www.ourquadcities.com/news/local-news/learn-about-caregiver-support-at-cancer-support-community-iowa-and-nw-illinois-at-gildas-club/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Pause-button.png?w=470",
       "category": "Local News"
     },
@@ -30,97 +129,9 @@
       "headline": "2 arrested after shots fired in Clinton",
       "summary": "Two people have been arrested after the Clinton Police Department responded to reports of shots fired at a Kwik Star.",
       "url": "https://www.wqad.com/article/news/local/2-arrested-after-shots-fired-in-clinton/526-e8f60f86-97ba-4676-b9a6-e6fae82b4bab",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b05d4880-2e86-4af1-a82a-2a76b495ace9/20260810T145310/b05d4880-2e86-4af1-a82a-2a76b495ace9_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "YWCA Clinton Street Fest kicks off half marathon weekend",
-      "summary": "Clinton is kicking off its half marathon weekend with an evening full of family fun. The YWCA Clinton Street Fest will bring live music, local food and fun to t…",
-      "url": "https://www.ourquadcities.com/news/local-news/ywca-clinton-street-fest-kicks-off-half-marathon-weekend/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/12/YWCA-Clinton.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Scott County Health Department hosting community baby shower",
-      "summary": "The Scott County Health Department’s Healthy Pregnancy Coalition is hosting a community baby shower on Saturday, August 15 from 1 – 3 p.m. at the TMBC Lincoln C…",
-      "url": "https://www.ourquadcities.com/news/local-news/scott-county-health-department-hosting-community-baby-shower/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/Scott-County-Health-Department.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair 2026 guide: Tickets, parking, new foods, live entertainment and more",
-      "summary": "Here's everything you need to know before you head to the Iowa State Fair.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-dates-concerts-new-foods-tickets-bag-policy-parking-transportation-fairgrounds-des-moines/524-d1a87206-81b9-4829-a2d6-0e7ade4d71f2",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ede2796a-1465-4a52-9461-6fa7e133a19f/20250812T210955/ede2796a-1465-4a52-9461-6fa7e133a19f_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport weighs future of historic Levee Inn",
-      "summary": "Davenport is weighing options for the historic Levee Inn's future. Current and former residents chimed in on what they want to see.",
-      "url": "https://www.wqad.com/article/news/local/davenport-weighs-future-of-historic-levee-inn/526-b8381031-4858-4ecf-a4f8-d8aaf3477b0f",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/5e63af26-87f2-4483-a179-811b5b5ea580/20260809T225119/5e63af26-87f2-4483-a179-811b5b5ea580_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island's Don Nelson, NBA Hall of Famer and former Hawkeye, dead at 86",
-      "summary": "Don Nelson, an NBA Hall of Famer, Rock Island graduate and former Iowa Hawkeye, died Sunday. He was 86. Nelson's death was announced by the Golden State Warrior…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/rock-islands-don-nelson-nba-hall-of-famer-and-former-hawkeye-dead-at-86/",
-      "time": "21 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP25159646087348.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'I am still Roger Craig': Davenport football star reveals diagnosis at Hall of Fame",
-      "summary": "Roger Craig revealed during his induction speech into the Pro Football Hall of Fame that he has vascular dementia. The former San Francisco 49ers star running b…",
-      "url": "https://www.ourquadcities.com/news/local-news/i-am-still-roger-craig-davenport-football-star-reveals-diagnosis-at-hall-of-fame/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP26220653313933.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Spire partially collapses at Rock Island church; police detour drivers from area",
-      "summary": "About 10 p.m. Friday, police and other emergency responders remained at the scene of a partial collapse of a Rock Island church spire. About 7 p.m., police, fir…",
-      "url": "https://www.ourquadcities.com/news/local-news/spire-partially-collapses-at-rock-island-church-police-detour-drivers-from-area/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/spires-collapse--e1786217858576.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Dekhockey continues to grow in popularity, especially in Quad Cities",
-      "summary": "Crow Creek Park in Bettendorf was filled with enthusiastic dekhockey players on Friday. One of those players is Dave Chmiel. He enjoys each minute he is in the …",
-      "url": "https://www.ourquadcities.com/sports/local-sports/dekhockey-continues-to-grow-in-popularity-especially-in-quad-cities/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/dekhockey-picture.jpg?w=589",
-      "category": "Local Sports"
     }
   ]
 }
