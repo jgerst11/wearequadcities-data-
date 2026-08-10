@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T12:42:12.558726+00:00",
+  "generated": "2026-08-10T18:39:40.689870+00:00",
   "total": 25,
   "events": [
     {
@@ -195,9 +195,9 @@
       "source": "visitquadcities.com"
     },
     {
-      "id": "vqc_05903068ae86",
-      "name": "Wildlife Wednesdays with the Bettendorf Conservation Committee",
-      "start": "2026-08-12",
+      "id": "vqc_676fea7a09f6",
+      "name": "Trivia at Jennies Boxcar",
+      "start": "2026-08-13",
       "end": "",
       "venue": "",
       "address": "",
@@ -205,7 +205,7 @@
       "state": "",
       "category": "Events",
       "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=12624&sort_cat=",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13016&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
