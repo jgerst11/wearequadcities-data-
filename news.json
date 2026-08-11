@@ -1,6 +1,61 @@
 {
-  "updated": "2026-08-11T16:58:18.658673+00:00",
+  "updated": "2026-08-11T20:45:51.543082+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker, Bailey seek to convince farmers at forum they’re the best for agriculture",
+      "summary": "Illinois farmers heard pitches from both candidates on Monday as each argued they’re best positioned to address agricultural issues.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-bailey-convince-farmers-forum-best-agriculture-capitol-news-illinois/526-ce8119f6-f7fa-4be3-bc2c-c32f8cf797ea",
+      "time": "27 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cf358374-cb1d-47e5-9041-86d338ac3006/20260811T200805/cf358374-cb1d-47e5-9041-86d338ac3006_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad City Arts names new executive director",
+      "summary": "Ben Gougeon stepped into the role on Monday, Aug. 10.",
+      "url": "https://www.wqad.com/article/news/local/quad-city-arts-ben-gougeon-new-executive-director/526-1bf184c2-251d-4f87-902a-dc7c27260bca",
+      "time": "49 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f/20250319T222605/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Maquoketa declares local community disaster period after Tuesday morning storms",
+      "summary": "While the disaster period is in effect, brush and tree limbs may be placed along curbs for Maquoketa Public Works to pick up.",
+      "url": "https://www.wqad.com/article/news/local/maquoketa-local-community-disaster-tuesday-morning-storm/526-129f38f1-e83e-4303-acc6-f8e84a6d3965",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bb8c051a-5ce6-463c-b222-c4ef911e4e74/20260811T185749/bb8c051a-5ce6-463c-b222-c4ef911e4e74_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ice Cream Safety Citation Program rewards kids for riding safely",
+      "summary": "The Bettendorf Police Department is recognizing kids who ride bikes safely with a sweet reward. A post on the department’s Facebook page said officers are on th…",
+      "url": "https://www.ourquadcities.com/news/local-news/ice-cream-safety-citation-program-rewards-kids-for-riding-safely/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/Bettendorf-Police-patch-.jpg?w=740",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Meet Home Runs for Life honoree Hayden",
+      "summary": "MercyOne Genesis Home Runs for Life is honoring another of its physical therapy and rehabilitation patients at Friday night’s Quad City River Bandits game. Hayd…",
+      "url": "https://www.ourquadcities.com/news/local-news/meet-home-runs-for-life-honoree-hayden/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Hayden-Bancroft-featured-image.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +63,7 @@
       "headline": "A review of this morning's storms",
       "summary": "Starting our Tuesday morning with a lot of active weather as a line of showers and thunderstorms blew through the area. Lots of heavy rain just North of the met…",
       "url": "https://www.ourquadcities.com/news/local-news/a-review-of-this-mornings-storms/",
-      "time": "27 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +74,7 @@
       "headline": "Geneseo Police Department K9 passes at age 9",
       "summary": "The Geneseo Police Department announced K9 Kauzi passed away Monday night.",
       "url": "https://www.wqad.com/article/news/local/geneseo-police-department-k9-passes-at-age-9/526-d626e44b-6c46-46c1-bd4d-d5a58c8820ab",
-      "time": "34 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e19e6504-5189-4ab2-aab9-5ebbcd20784c/20260811T161046/e19e6504-5189-4ab2-aab9-5ebbcd20784c_750x422.jpg",
       "category": "local"
     },
@@ -30,7 +85,7 @@
       "headline": "VenuWorks announces new executive director of RiverCenter and Adler Theatre",
       "summary": "Jim Wynkoop has been appointed as the RiverCenter and Adler Theatre's executive director.",
       "url": "https://www.wqad.com/article/news/local/venuworks-announces-new-executive-director-of-rivercenter-and-adler-theatre/526-23a820a4-b0af-479c-92e6-9984e771c43d",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e498fced-29fc-4593-b6f1-fc1fc3aef4c2/20260811T154135/e498fced-29fc-4593-b6f1-fc1fc3aef4c2_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +96,7 @@
       "headline": "RiverCenter, Adler name new Executive Director",
       "summary": "VenuWorks has named James “Jim” Wynkoop, CVE, as executive director of the RiverCenter and Adler Theatre in Davenport, effective Monday, August 17. Wynkoop is a…",
       "url": "https://www.ourquadcities.com/news/local-news/rivercenter-adler-name-new-executive-director/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Jim-Wynkoop-featured-image.png?w=900",
       "category": "Local News"
     },
@@ -52,7 +107,7 @@
       "headline": "Nearly 5,000 without power in Quad Cities areas",
       "summary": "MidAmerican Energy has identified widespread outages in the metro and surrounding communities.",
       "url": "https://www.wqad.com/article/weather/severe-weather/nearly-5000-without-power-in-quad-cities-areas/526-62755448-aaec-4775-9764-0e7e7bdd6a03",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/dc03cb57-3a21-4f45-b204-8b306c72ab31/dc03cb57-3a21-4f45-b204-8b306c72ab31_750x422.jpg",
       "category": "severe-weather"
     },
@@ -63,7 +118,7 @@
       "headline": "Quad City Arts names Ben Gougeon new Executive Director",
       "summary": "Quad City Arts has a new Executive Director. The organization’s Board of Directors announced that Ben Gougeon will be the next Executive Director, effective Aug…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-city-arts-names-ben-gougeon-new-executive-director/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Ben-Gougeon-featured-image.png?w=900",
       "category": "Local News"
     },
@@ -74,64 +129,9 @@
       "headline": "Seeing severe weather, send in your photos and video",
       "summary": "With strong storms moving into the Quad Cities viewing area, it's important to remain weather aware. If you capture any photos or video of the weather in your a…",
       "url": "https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c428840b-8881-481e-9179-d4aa8f59938f/20251228T130937/c428840b-8881-481e-9179-d4aa8f59938f_750x422.jpg",
       "category": "weather-impact"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "'Be respectful': Iowa State Fair CEO says increased pre-fair crowds leading to safety issues",
-      "summary": "As the Iowa State Fair approaches, officials are urging Iowans to wait for opening day before visiting.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-early-visitors/524-587e82d9-a57f-4b10-aebd-1aa7642624b7",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9/20250808T011130/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair: Expert shares tips to enjoy festivities on a budget amid rising prices",
-      "summary": "As food prices rise, attendees at the Iowa State Fair are advised by financial experts to plan ahead to enjoy the event on a budget.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-expert-shares-tips-enjoy-festivities-budget-rising-prices/524-dfb9367a-4450-4424-acd7-ca7f1fa8fc67",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/f9f4ae7c-8e65-4287-b9d2-752491a1a824/f9f4ae7c-8e65-4287-b9d2-752491a1a824_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Fair food delivery: EatFuti bringing service to the Iowa State Fair for the first time",
-      "summary": "Attendees will be able to place an order on EatFuti's website and a food runner will deliver it to one of five pickup hubs across the state fairgrounds.",
-      "url": "https://www.wqad.com/article/news/regional/eatfuti-iowa-state-fair-food-delivery-service-pickup-hub/524-b7da15a6-283a-4960-88b4-40b6f617d45f",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/aa578e6d-7d4d-4206-a868-ac2650a288c0/20260811T090119/aa578e6d-7d4d-4206-a868-ac2650a288c0_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Could Iowa soon get its first Buc-ee's? What we know",
-      "summary": "Plans for a potential Buc-ee's travel center off of I-80 in Urbandale took their first step forward on Monday.",
-      "url": "https://www.wqad.com/article/news/regional/could-iowa-first-buc-ees-what-we-know/524-59511e34-6f6a-465b-ac0b-3c8cf0871b46",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WKYC/images/ab19ff48-2e34-4ca2-a7c5-9d9ffe8e1ade/20260603T143015/ab19ff48-2e34-4ca2-a7c5-9d9ffe8e1ade_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa Barn Foundation tour includes historic QCA barns: See a slideshow here",
-      "summary": "The Iowa Barn Foundation will hold its 26th Annual All-State Barn Tour on Saturday and Sunday,Sept. 19-20, featuring more than 100 barns across the state - incl…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-barn-foundation-tour-includes-historic-qca-barns-see-a-slideshow-here/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Herbs-Crib.jpg?w=739",
-      "category": "Local News"
     }
   ]
 }
