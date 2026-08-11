@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-11T01:49:27.287575+00:00",
+  "updated": "2026-08-11T05:10:20.069346+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island approves ordinance regulating small off-road vehicles driving on city streets",
+      "summary": "Since March 1, Rock Island Police have received about 75 complaints involving dirt bikes, mini-bikes and ATVs driving recklessly.",
+      "url": "https://www.wqad.com/article/news/local/rock-island-ordinance-small-offroad-vehicles-driving-city-streets/526-c4f7630b-20ba-46bf-be28-c14b574c7455",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639/20260730T030456/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Former Bettendorf resident, Pleasant Valley graduate killed in firefighting mission crash",
+      "summary": "A Pleasant Valley graduate who was an aerial firefighting pilot was killed Friday during a firefighting mission in a crash in central Utah. U. S. Army veteran C…",
+      "url": "https://www.ourquadcities.com/news/local-news/former-bettendorf-resident-pleasant-valley-graduate-killed-in-firefighting-mission-crash/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Christopher-Andersen-002.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +30,7 @@
       "headline": "Muscatine firefighters test precision in 'cone challenge'",
       "summary": "On Friday at Muscatine Fire Station One, members of the Muscatine Fire Department turned aerial ladder training into a full‑blown game of skill. The goal: Pract…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-firefighters-test-precision-in-cone-challenge/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Muscatine-Fire-Department.jpg?w=718",
       "category": "Local News"
     },
@@ -19,7 +41,7 @@
       "headline": "Davenport Country Club hopes to open doors for aspiring youth caddies",
       "summary": "Summer break offers many high schoolers the time to work longer hours and gives many their first taste of joining the work force. For some that means becoming a…",
       "url": "https://www.ourquadcities.com/news/local-news/davenport-country-club-hopes-to-open-doors-for-aspiring-youth-caddies/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Davenport-Country-Club-hopes-to-open-doors-for-aspirational-youth-caddies.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "Red Cross issues blood crisis; blood drives scheduled for Illinois QCA",
       "summary": "The American Red Cross continues to experience a national blood crisis and donors of all blood types are needed. While many have rolled up a sleeve to give, dem…",
       "url": "https://www.ourquadcities.com/news/local-news/red-cross-issues-blood-crisis-blood-drives-scheduled-for-illinois-qca/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/07/American-Red-Cross.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +63,7 @@
       "headline": "Davenport dueling-piano spot closes, according to social media post",
       "summary": "A new Davenport night spot that featured dueling pianos is closed for good, according to a Facebook post. \"After such a short but exciting beginning, we are hea…",
       "url": "https://www.ourquadcities.com/news/local-news/davenport-dueling-piano-spot-closes-according-to-social-media-post/",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Piano2.jpg?w=667",
       "category": "Local News"
     },
@@ -52,7 +74,7 @@
       "headline": "Illinois school funding stretched thin as costs rise, corporate revenue source shrinks",
       "summary": "Despite $350M funding increases, the overall ‘adequacy gap’ grows for a 3rd straight year.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-school-funding-stretched-thin-costs-rise-corporate-revenue-shrinks-capitol-news/526-33793f67-a9fe-472f-ac56-4336b2e6b83b",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e075fb22-fdb9-41a5-b382-8c2275db58f0/20260807T223637/e075fb22-fdb9-41a5-b382-8c2275db58f0_750x422.jpg",
       "category": "illinois-politics"
     },
@@ -63,7 +85,7 @@
       "headline": "3 brief tornadoes confirmed during Sunday night storms in Henry County, Illinois",
       "summary": "None of the tornadoes caused any damage, resulting in an EF-Unknown rating for all of them.",
       "url": "https://www.wqad.com/article/weather/severe-weather/tornadoes-confirmed-henry-county-illinois-sunday-night-storms-national-weather-service/526-30dec451-6df2-4878-851b-88836dc07682",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d80c24c2-a361-4a85-84a6-1b0473962932/20260810T195920/d80c24c2-a361-4a85-84a6-1b0473962932_750x422.jpg",
       "category": "severe-weather"
     },
@@ -74,7 +96,7 @@
       "headline": "Alternating Currents events taking place throughout the Quad Cities Aug. 13-16",
       "summary": "The four-day celebration of creativity features over 230 events and more than 600 artists, with events taking place in Davenport, Bettendorf and Rock Island.",
       "url": "https://www.wqad.com/article/news/local/the-current/alternating-currents-davenport-bettendorf-iowa-rock-island-illinois-music-art-comedy-film-festival/526-095df667-a189-4cf1-be44-a8117c8f93eb",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dac4c36a-3995-4c85-b779-2d6524024378/20240723T212141/dac4c36a-3995-4c85-b779-2d6524024378_750x422.jpg",
       "category": "the-current"
     },
@@ -85,7 +107,7 @@
       "headline": "Rideshare unionization, drug-pricing oversight, plastic pellet and light pollution bills become law in Illinois",
       "summary": "Immigrant detention center limitation was also among the 75 bills signed by the governor.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/rideshare-unionization-drug-pricing-oversight-plastic-pellet-light-pollution-law-illinois-capitol-news/526-236101d9-e4d2-478b-a41a-1d232ec0d17b",
-      "time": "5 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c829f342-19d3-4cbd-b09b-b501d5d046dc/20260810T203527/c829f342-19d3-4cbd-b09b-b501d5d046dc_750x422.jpg",
       "category": "illinois-politics"
     },
@@ -96,7 +118,7 @@
       "headline": "Davenport weighs future of historic Levee Inn",
       "summary": "Davenport is weighing options for the historic Levee Inn's future. Current and former residents chimed in on what they want to see.",
       "url": "https://www.wqad.com/article/news/local/davenport-weighs-future-of-historic-levee-inn/526-b8381031-4858-4ecf-a4f8-d8aaf3477b0f",
-      "time": "7 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/5e63af26-87f2-4483-a179-811b5b5ea580/20260810T181611/5e63af26-87f2-4483-a179-811b5b5ea580_750x422.jpg",
       "category": "local"
     },
@@ -107,31 +129,9 @@
       "headline": "Boil orders in the Quad Cities region",
       "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
       "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "7 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Boil order in place for parts of Silvis after water main break",
-      "summary": "The City of Silvis issued a boil order for 7th Street from 1st Avenue to 4th Avenue due to a water main break.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/water-main-break-silvis-illinois-boil-order/526-c36d3c6d-5d9c-4377-a6f2-230d41afee27",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d6b97f59-10d7-468f-98ad-b194a2639903/20260530T201636/d6b97f59-10d7-468f-98ad-b194a2639903_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "28-year-old airlifted after crashing ATV in rural Henry County, Iowa",
-      "summary": "The crash happened Monday morning near the intersection of Lexington Avenue and 335th Street.",
-      "url": "https://www.wqad.com/article/news/local/henry-county-iowa-rural-salem-atv-crash-airlifted/526-05137623-4ca8-4736-b614-2e54a3e18ead",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/dd9f675b-dd12-4126-b66a-dc4c0274a1bc/20250130T172050/dd9f675b-dd12-4126-b66a-dc4c0274a1bc_750x422.jpg",
-      "category": "local"
     }
   ]
 }
