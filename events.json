@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T18:39:40.689870+00:00",
+  "generated": "2026-08-11T00:47:28.803602+00:00",
   "total": 25,
   "events": [
     {
@@ -62,6 +62,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12964&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_25360d00cc0a",
+      "name": "Meet and Greet with the NEW BBBS CEO",
+      "start": "2026-08-12",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13013&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -174,22 +190,6 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11906&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
-      "id": "vqc_7cbdac18b1c0",
-      "name": "Sunset Sessions at UP Skybar",
-      "start": "2026-08-12",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=12437&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
