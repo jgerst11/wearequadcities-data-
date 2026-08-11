@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-11T13:08:37.466309+00:00",
+  "updated": "2026-08-11T14:12:12.655403+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Seeing severe weather, send in your photos and video",
+      "summary": "With strong storms moving into the Quad Cities viewing area, it's important to remain weather aware. If you capture any photos or video of the weather in your a…",
+      "url": "https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c428840b-8881-481e-9179-d4aa8f59938f/20251228T130937/c428840b-8881-481e-9179-d4aa8f59938f_750x422.jpg",
+      "category": "weather-impact"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +19,7 @@
       "headline": "'Be respectful': Iowa State Fair CEO says increased pre-fair crowds leading to safety issues",
       "summary": "As the Iowa State Fair approaches, officials are urging Iowans to wait for opening day before visiting.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-early-visitors/524-587e82d9-a57f-4b10-aebd-1aa7642624b7",
-      "time": "20 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9/20250808T011130/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9_750x422.jpg",
       "category": "regional"
     },
@@ -19,7 +30,7 @@
       "headline": "Iowa State Fair: Expert shares tips to enjoy festivities on a budget amid rising prices",
       "summary": "As food prices rise, attendees at the Iowa State Fair are advised by financial experts to plan ahead to enjoy the event on a budget.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-expert-shares-tips-enjoy-festivities-budget-rising-prices/524-dfb9367a-4450-4424-acd7-ca7f1fa8fc67",
-      "time": "21 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/f9f4ae7c-8e65-4287-b9d2-752491a1a824/f9f4ae7c-8e65-4287-b9d2-752491a1a824_750x422.jpg",
       "category": "regional"
     },
@@ -30,7 +41,7 @@
       "headline": "Fair food delivery: EatFuti bringing service to the Iowa State Fair for the first time",
       "summary": "Attendees will be able to place an order on EatFuti's website and a food runner will deliver it to one of five pickup hubs across the state fairgrounds.",
       "url": "https://www.wqad.com/article/news/regional/eatfuti-iowa-state-fair-food-delivery-service-pickup-hub/524-b7da15a6-283a-4960-88b4-40b6f617d45f",
-      "time": "22 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/aa578e6d-7d4d-4206-a868-ac2650a288c0/20260811T090119/aa578e6d-7d4d-4206-a868-ac2650a288c0_750x422.jpg",
       "category": "regional"
     },
@@ -41,7 +52,7 @@
       "headline": "Could Iowa soon get its first Buc-ee's? What we know",
       "summary": "Plans for a potential Buc-ee's travel center off of I-80 in Urbandale took their first step forward on Monday.",
       "url": "https://www.wqad.com/article/news/regional/could-iowa-first-buc-ees-what-we-know/524-59511e34-6f6a-465b-ac0b-3c8cf0871b46",
-      "time": "22 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WKYC/images/ab19ff48-2e34-4ca2-a7c5-9d9ffe8e1ade/20260603T143015/ab19ff48-2e34-4ca2-a7c5-9d9ffe8e1ade_750x422.jpg",
       "category": "regional"
     },
@@ -52,9 +63,20 @@
       "headline": "Iowa Barn Foundation tour includes historic QCA barns: See a slideshow here",
       "summary": "The Iowa Barn Foundation will hold its 26th Annual All-State Barn Tour on Saturday and Sunday,Sept. 19-20, featuring more than 100 barns across the state - incl…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-barn-foundation-tour-includes-historic-qca-barns-see-a-slideshow-here/",
-      "time": "2 h ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Herbs-Crib.jpg?w=739",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "After federal cuts, WQPT PBS partners with content creator to boost Quad-Cities history",
+      "summary": "Since December, Seattle technical writer Jared Howe has released videos about obscure Quad-Cities history under the moniker “Forgotten Quad-Cities.” He’ll now p…",
+      "url": "https://qctimes.com/life-entertainment/local/article_ff22dcdc-4f5f-4a76-8308-55ea5a8e85e7.html",
+      "time": "3 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/cb/8cb76dd3-341b-421a-90c3-4e530a215d33/4c22b08d7256c.image.jpg?resize=300%2C187",
+      "category": ""
     },
     {
       "source": "WQAD",
@@ -63,9 +85,20 @@
       "headline": "Rock Island approves ordinance regulating small off-road vehicles driving on city streets",
       "summary": "Since March 1, Rock Island Police have received about 75 complaints involving dirt bikes, mini-bikes and ATVs driving recklessly.",
       "url": "https://www.wqad.com/article/news/local/rock-island-ordinance-small-offroad-vehicles-driving-city-streets/526-c4f7630b-20ba-46bf-be28-c14b574c7455",
-      "time": "9 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639/20260730T030456/a1b4db3f-cf28-4edf-9ef3-8dbe592c9639_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Quad City Arts names Ben Gougeon as executive director",
+      "summary": "He brings more than 30 years of experience working in the arts, both as a theater and film artist and in leadership and administrative roles with nonprofit orga…",
+      "url": "https://qctimes.com/news/local/business/article_a3725e7d-0ba7-46c9-a3a0-666e75fcb2cb.html",
+      "time": "11 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/64/d64c551c-8632-49f8-87cb-102d4076d5c1/6a7a7d59e5d0a.image.jpg?resize=300%2C300",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -74,7 +107,7 @@
       "headline": "Former Bettendorf resident, Pleasant Valley graduate killed in firefighting mission crash",
       "summary": "A Pleasant Valley graduate who was an aerial firefighting pilot was killed Friday during a firefighting mission in a crash in central Utah. U. S. Army veteran C…",
       "url": "https://www.ourquadcities.com/news/local-news/former-bettendorf-resident-pleasant-valley-graduate-killed-in-firefighting-mission-crash/",
-      "time": "11 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Christopher-Andersen-002.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +118,7 @@
       "headline": "Muscatine firefighters test precision in 'cone challenge'",
       "summary": "On Friday at Muscatine Fire Station One, members of the Muscatine Fire Department turned aerial ladder training into a full‑blown game of skill. The goal: Pract…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-firefighters-test-precision-in-cone-challenge/",
-      "time": "12 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Muscatine-Fire-Department.jpg?w=718",
       "category": "Local News"
     },
@@ -96,42 +129,9 @@
       "headline": "Red Cross issues blood crisis; blood drives scheduled for Illinois QCA",
       "summary": "The American Red Cross continues to experience a national blood crisis and donors of all blood types are needed. While many have rolled up a sleeve to give, dem…",
       "url": "https://www.ourquadcities.com/news/local-news/red-cross-issues-blood-crisis-blood-drives-scheduled-for-illinois-qca/",
-      "time": "13 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/07/American-Red-Cross.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport dueling-piano spot closes, according to social media post",
-      "summary": "A new Davenport night spot that featured dueling pianos is closed for good, according to a Facebook post. \"After such a short but exciting beginning, we are hea…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-dueling-piano-spot-closes-according-to-social-media-post/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Piano2.jpg?w=667",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois school funding stretched thin as costs rise, corporate revenue source shrinks",
-      "summary": "Despite $350M funding increases, the overall ‘adequacy gap’ grows for a 3rd straight year.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-school-funding-stretched-thin-costs-rise-corporate-revenue-shrinks-capitol-news/526-33793f67-a9fe-472f-ac56-4336b2e6b83b",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e075fb22-fdb9-41a5-b382-8c2275db58f0/20260807T223637/e075fb22-fdb9-41a5-b382-8c2275db58f0_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "3 brief tornadoes confirmed during Sunday night storms in Henry County, Illinois",
-      "summary": "None of the tornadoes caused any damage, resulting in an EF-Unknown rating for all of them.",
-      "url": "https://www.wqad.com/article/weather/severe-weather/tornadoes-confirmed-henry-county-illinois-sunday-night-storms-national-weather-service/526-30dec451-6df2-4878-851b-88836dc07682",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d80c24c2-a361-4a85-84a6-1b0473962932/20260810T195920/d80c24c2-a361-4a85-84a6-1b0473962932_750x422.jpg",
-      "category": "severe-weather"
     }
   ]
 }
