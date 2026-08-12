@@ -1,6 +1,72 @@
 {
-  "updated": "2026-08-12T16:57:36.847140+00:00",
+  "updated": "2026-08-12T20:46:32.873105+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Power outages close downtown Rock Island library, 3 RIMSD schools",
+      "summary": "Three Rock Island-Milan schools are closed Wednesday due to power outages. The downtown library branch is also closed.",
+      "url": "https://www.wqad.com/article/weather/severe-weather/3-rock-island-milan-schools-closed-wednesday-power-outages/526-8f7ebd9e-eede-41af-aacd-f43f15c28427",
+      "time": "2 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e7552b4d-4012-4e47-bb32-ceac9e610b01/20250630T174830/e7552b4d-4012-4e47-bb32-ceac9e610b01_750x422.jpg",
+      "category": "severe-weather"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "MidAmerican Energy crews work to restore power to QC residents",
+      "summary": "Severe weather in the Quad Cities this week has left thousands of residents and businesses without power. Utility crews began work this morning to clear debris,…",
+      "url": "https://www.ourquadcities.com/news/local-news/midamerican-energy-crews-work-to-restore-power-to-qc-residents/",
+      "time": "3 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Airport-shelf-cloud.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "See damage in the QCs from morning thunderstorms",
+      "summary": "Damage has been reported across the Quad Cities after this morning's storms. Cleanup is currently underway. Photos from Bettendorf, Rock Island and Moline show …",
+      "url": "https://www.ourquadcities.com/news/local-news/see-damage-in-the-qcs-from-morning-thunderstorms/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Moline-house-2.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton to hold public meetings on proposed data center",
+      "summary": "Clinton Mayor Scott Maddasion and members of the City Council reviewed the timeline for the proposed 1,100 acre hyperscale data center project ordinance for the…",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-to-hold-public-meetings-on-proposed-data-center/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Silvis boil order lifted after water main break on Monday",
+      "summary": "The City of Silvis had issued a boil order for 7th Street from 1st Avenue to 4th Avenue due to a water main break. The order has been lifted.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/water-main-break-silvis-illinois-boil-order/526-c36d3c6d-5d9c-4377-a6f2-230d41afee27",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d6b97f59-10d7-468f-98ad-b194a2639903/20260530T201636/d6b97f59-10d7-468f-98ad-b194a2639903_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +74,7 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-220/",
-      "time": "33 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Shane-Montgomery-Lester-Tabor-Mug-shot.jpg?w=900",
       "category": "Crime"
     },
@@ -19,20 +85,9 @@
       "headline": "Storm leads to business closures, limited services",
       "summary": "Widespread power outages are impacting businesses in the Quad Cities. The Rock Island Public Library's Southwest Branch, 9010 Ridgewood Road, and Watts-Midtown …",
       "url": "https://www.ourquadcities.com/news/local-news/mercyone-genesis-davenport-on-emergency-power-due-to-outage/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/MercyOne-Genesis.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island High School among 3 RIMSD schools closed due to power outages",
-      "summary": "Three Rock Island-Milan schools are closed Wednesday due to power outages, and the district says school buses are running behind schedule.",
-      "url": "https://www.wqad.com/article/weather/severe-weather/3-rock-island-milan-schools-closed-wednesday-power-outages/526-8f7ebd9e-eede-41af-aacd-f43f15c28427",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e7552b4d-4012-4e47-bb32-ceac9e610b01/20250630T174830/e7552b4d-4012-4e47-bb32-ceac9e610b01_750x422.jpg",
-      "category": "severe-weather"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,7 +96,7 @@
       "headline": "Power out at 3 Rock Island schools; no classes",
       "summary": "There are no classes today for students at three schools in the Rock Island-Milan School District. A notification from the district says there is no power at Ro…",
       "url": "https://www.ourquadcities.com/news/local-news/power-out-at-3-rimsd-schools/",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Rock-Island-High-School.jpg?w=900",
       "category": "Local News"
     },
@@ -52,19 +107,8 @@
       "headline": "The latest on Tuesday's derecho",
       "summary": "The Storm Prediction Center confirmed that the damaging winds that started early in the morning over northern Iowa was a derecho. More severe weather is possibl…",
       "url": "https://www.ourquadcities.com/news/local-news/the-latest-on-tuesdays-derecho/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Storm-Reports-Derecho.jpg?w=839",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "More severe weather today into Friday",
-      "summary": "Very warm and muggy weather will stick around the Quad Cities through the weekend. Strong to severe weather is possible over the next three days. Here's your fu…",
-      "url": "https://www.ourquadcities.com/news/local-news/more-severe-weather-today-into-friday/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -74,7 +118,7 @@
       "headline": "Rod Stewart's Iowa State Fair Grandstand performance canceled due to medical issues",
       "summary": "The Iowa State Fair said it is looking for a replacement act.",
       "url": "https://www.wqad.com/article/news/regional/rod-stewart-iowa-state-fair-grandstand-performance-canceled/524-e427e321-92a2-4fce-9da5-6454a9745b40",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/KUSA/images/c225c510-4d37-4b28-8df7-7c9e48597fde/20260615T232736/c225c510-4d37-4b28-8df7-7c9e48597fde_750x422.jpg",
       "category": "regional"
     },
@@ -85,53 +129,9 @@
       "headline": "Iowa State Fair Parade ready to kick off 2026 festivities: Get the details",
       "summary": "The parade, which starts at the State Capitol Complex, is set to begin at 6:15 p.m. on Wednesday, Aug. 12.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-parade-2026-details-road-closures/524-4e54717f-5044-416d-9591-c4934859844a",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9/20250808T011130/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9_750x422.jpg",
       "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Win Jump Passes and a $200 VISA Gift Card at Elevate Trampoline Park in Milan, IL",
-      "summary": "Elevate Trampoline Park in Milan, IL, is hosting a summer contest with weekly jump pass prizes and a $200 VISA gift card grand prize. Enter by September 6, 2026…",
-      "url": "https://www.wqad.com/article/news/local/contests/win-jump-passes-and-a-200-visa-gift-card-at-elevate-trampoline-park-in-milan-il/526-aaf334d7-8b8f-42fc-ae5b-54bbdd7e2082",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c102a39f-15bb-4226-990a-efe54b331ea5/20260514T050010/c102a39f-15bb-4226-990a-efe54b331ea5_750x422.jpg",
-      "category": "contests"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Proposed battery storage facility in rural Rock Island County raises concerns",
-      "summary": "Fire officials are worried about challenges responding to potential thermal runaway incidents. Some residents aren't happy, either.",
-      "url": "https://www.wqad.com/article/news/local/proposed-battery-storage-facility-fire-safety-concerns/526-b67e814f-23c8-45a5-9ac5-0d15ee691602",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/acdac4fc-eeaa-4cbf-bf8d-900890880984/20260811T230458/acdac4fc-eeaa-4cbf-bf8d-900890880984_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Tuesday's derecho damaged public safety radio in Cambridge, Illinois",
-      "summary": "A temporary tower is being used while officials work to secure a permanent replacement.",
-      "url": "https://www.wqad.com/article/news/local/derecho-damage-public-safety-radio-tomorrow-cambridge-illinois/526-9df85c70-bf48-4791-8742-d6beac10a9c5",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c304b5d2-322e-4ade-bf26-f7f3853983f7/20260812T024821/c304b5d2-322e-4ade-bf26-f7f3853983f7_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Public, fire chief, share concerns about RICO proposed battery-storage site",
-      "summary": "People gathered in Milan on Tuesday night to voice their opposition to a proposed lithium-ion battery storage site. Concerns lie in a potential major fire hazar…",
-      "url": "https://www.ourquadcities.com/news/local-news/public-fire-chief-share-concerns-about-rico-proposed-battery-storage-site/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/rico.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
