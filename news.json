@@ -1,6 +1,50 @@
 {
-  "updated": "2026-08-12T02:02:10.483983+00:00",
+  "updated": "2026-08-12T05:38:22.075938+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Win Jump Passes and a $200 VISA Gift Card at Elevate Trampoline Park in Milan, IL",
+      "summary": "Elevate Trampoline Park in Milan, IL, is hosting a summer contest with weekly jump pass prizes and a $200 VISA gift card grand prize. Enter by September 6, 2026…",
+      "url": "https://www.wqad.com/article/news/local/contests/win-jump-passes-and-a-200-visa-gift-card-at-elevate-trampoline-park-in-milan-il/526-aaf334d7-8b8f-42fc-ae5b-54bbdd7e2082",
+      "time": "38 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c102a39f-15bb-4226-990a-efe54b331ea5/20260514T050010/c102a39f-15bb-4226-990a-efe54b331ea5_750x422.jpg",
+      "category": "contests"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Proposed battery storage facility in rural Rock Island County raises concerns",
+      "summary": "Fire officials are worried about challenges responding to potential thermal runaway incidents. Some residents aren't happy, either.",
+      "url": "https://www.wqad.com/article/news/local/proposed-battery-storage-facility-fire-safety-concerns/526-b67e814f-23c8-45a5-9ac5-0d15ee691602",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/acdac4fc-eeaa-4cbf-bf8d-900890880984/20260811T230458/acdac4fc-eeaa-4cbf-bf8d-900890880984_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Tuesday's derecho damaged public safety radio in Cambridge, Illinois",
+      "summary": "A temporary tower is being used while officials work to secure a permanent replacement.",
+      "url": "https://www.wqad.com/article/news/local/derecho-damage-public-safety-radio-tomorrow-cambridge-illinois/526-9df85c70-bf48-4791-8742-d6beac10a9c5",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c304b5d2-322e-4ade-bf26-f7f3853983f7/20260812T024821/c304b5d2-322e-4ade-bf26-f7f3853983f7_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Public, fire chief, share concerns about RICO proposed battery-storage site",
+      "summary": "People gathered in Milan on Tuesday night to voice their opposition to a proposed lithium-ion battery storage site. Concerns lie in a potential major fire hazar…",
+      "url": "https://www.ourquadcities.com/news/local-news/public-fire-chief-share-concerns-about-rico-proposed-battery-storage-site/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/rico.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Power restored after outages impacted nearly 5,000 people in Quad Cities areas",
       "summary": "MidAmerican Energy identified widespread outages in the metro and surrounding communities as severe weather rolled through on Tuesday.",
       "url": "https://www.wqad.com/article/weather/severe-weather/nearly-5000-without-power-in-quad-cities-areas/526-62755448-aaec-4775-9764-0e7e7bdd6a03",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/dc03cb57-3a21-4f45-b204-8b306c72ab31/dc03cb57-3a21-4f45-b204-8b306c72ab31_750x422.jpg",
       "category": "severe-weather"
     },
@@ -19,20 +63,9 @@
       "headline": "Two Rivers YMCA breaks ground on next phase of expansion project",
       "summary": "People who go to the YMCA in Moline are one step closer to enjoying some new improvements at the facility. Leaders at Two Rivers YMCA broke ground on phase two …",
       "url": "https://www.ourquadcities.com/news/local-news/two-rivers-ymca-breaks-ground-on-next-phase-of-expansion-project/",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_29dece.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Proposed battery storage facility in rural Rock Island County raises fire safety concerns",
-      "summary": "Fire officials are concerned about challenges responding to potential thermal runaway incidents.",
-      "url": "https://www.wqad.com/article/news/local/proposed-battery-storage-facility-fire-safety-concerns/526-b67e814f-23c8-45a5-9ac5-0d15ee691602",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/acdac4fc-eeaa-4cbf-bf8d-900890880984/20260811T230458/acdac4fc-eeaa-4cbf-bf8d-900890880984_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,7 +74,7 @@
       "headline": "Team Iowa looks to upset at Tug Fest 2026; What's new this year?",
       "summary": "Saturday morning, when this year's tuggers step into the sand tug pits across the Mississippi River from each other, it will be a matchup similar to David vs Go…",
       "url": "https://www.ourquadcities.com/news/local-news/team-iowa-looks-to-upset-at-tug-fest-2026-whats-new-this-year/",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Tug-Fest-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "Illinois bill keeps rural ambulance services staffed and on-call",
       "summary": "Policies to keep rural ambulance services staffed and on-call to help save lives have been signed into law in Illinois. House Bill 5446 provides flexibility to …",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-bill-keeps-rural-ambulance-services-staffed-and-on-call/",
-      "time": "3 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_04a7c4.png?w=900",
       "category": "Local News"
     },
@@ -63,7 +96,7 @@
       "headline": "Quad City Arts names new executive director",
       "summary": "Ben Gougeon stepped into the role on Monday, Aug. 10.",
       "url": "https://www.wqad.com/article/news/local/quad-city-arts-ben-gougeon-new-executive-director/526-1bf184c2-251d-4f87-902a-dc7c27260bca",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f/20250319T222605/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f_750x422.jpg",
       "category": "local"
     },
@@ -74,7 +107,7 @@
       "headline": "Geneseo Police Department's K9 Kauzi dies",
       "summary": "K9 Kauzi, who served with the Geneseo Police Department, has died. According to a post on the Geneseo Police Department's Facebook page, K9 Kauzi served the Gen…",
       "url": "https://www.ourquadcities.com/news/local-news/geneseo-police-departments-k9-kauzi-dies/",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Geneseo-PD-K9-Kauzi.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +118,7 @@
       "headline": "VenuWorks announces new executive director of RiverCenter and Adler Theatre",
       "summary": "Jim Wynkoop has been appointed as the RiverCenter and Adler Theatre's executive director.",
       "url": "https://www.wqad.com/article/news/local/venuworks-announces-new-executive-director-of-rivercenter-and-adler-theatre/526-23a820a4-b0af-479c-92e6-9984e771c43d",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e498fced-29fc-4593-b6f1-fc1fc3aef4c2/20260811T154135/e498fced-29fc-4593-b6f1-fc1fc3aef4c2_750x422.jpg",
       "category": "local"
     },
@@ -96,42 +129,9 @@
       "headline": "Maquoketa declares local community disaster period after Tuesday morning storms",
       "summary": "While the disaster period is in effect, brush and tree limbs may be placed along curbs for Maquoketa Public Works to pick up.",
       "url": "https://www.wqad.com/article/news/local/maquoketa-local-community-disaster-tuesday-morning-storm/526-129f38f1-e83e-4303-acc6-f8e84a6d3965",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bb8c051a-5ce6-463c-b222-c4ef911e4e74/20260811T185749/bb8c051a-5ce6-463c-b222-c4ef911e4e74_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Experience The FAQ!? at Alternating Currents",
-      "summary": "What happens when you combine game show elements, comedy and community competition at Alternating Currents? Andrew King joined Our Quad Cities News with details…",
-      "url": "https://www.ourquadcities.com/news/local-news/experience-the-faq-at-alternating-currents/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/07/Alternating-Currents.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Judge orders Illinois DCFS director to answer for repeated failures to release public documents in child death case",
-      "summary": "Capitol News Illinois sued the state child protection agency after it denied release of caseworker personnel records.",
-      "url": "https://www.wqad.com/article/news/state/judge-orders-illinois-dcfs-director-answer-failures-release-public-documents-child-death-capitol-news/526-d465b3d5-d7ed-404f-a675-aadb7e6f5db0",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b06353e2-59a9-4c06-95b0-5fa0b3c57885/20250729T201439/b06353e2-59a9-4c06-95b0-5fa0b3c57885_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pritzker, Bailey seek to convince farmers at forum they’re the best for agriculture",
-      "summary": "Illinois farmers heard pitches from both candidates on Monday as each argued they’re best positioned to address agricultural issues.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-bailey-convince-farmers-forum-best-agriculture-capitol-news-illinois/526-ce8119f6-f7fa-4be3-bc2c-c32f8cf797ea",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cf358374-cb1d-47e5-9041-86d338ac3006/20260811T200805/cf358374-cb1d-47e5-9041-86d338ac3006_750x422.jpg",
-      "category": "illinois-politics"
     }
   ]
 }
