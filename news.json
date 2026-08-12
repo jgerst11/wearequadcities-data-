@@ -1,6 +1,50 @@
 {
-  "updated": "2026-08-12T13:11:21.932257+00:00",
+  "updated": "2026-08-12T16:57:36.847140+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-220/",
+      "time": "33 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Shane-Montgomery-Lester-Tabor-Mug-shot.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Storm leads to business closures, limited services",
+      "summary": "Widespread power outages are impacting businesses in the Quad Cities. The Rock Island Public Library's Southwest Branch, 9010 Ridgewood Road, and Watts-Midtown …",
+      "url": "https://www.ourquadcities.com/news/local-news/mercyone-genesis-davenport-on-emergency-power-due-to-outage/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/MercyOne-Genesis.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island High School among 3 RIMSD schools closed due to power outages",
+      "summary": "Three Rock Island-Milan schools are closed Wednesday due to power outages, and the district says school buses are running behind schedule.",
+      "url": "https://www.wqad.com/article/weather/severe-weather/3-rock-island-milan-schools-closed-wednesday-power-outages/526-8f7ebd9e-eede-41af-aacd-f43f15c28427",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e7552b4d-4012-4e47-bb32-ceac9e610b01/20250630T174830/e7552b4d-4012-4e47-bb32-ceac9e610b01_750x422.jpg",
+      "category": "severe-weather"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Power out at 3 Rock Island schools; no classes",
+      "summary": "There are no classes today for students at three schools in the Rock Island-Milan School District. A notification from the district says there is no power at Ro…",
+      "url": "https://www.ourquadcities.com/news/local-news/power-out-at-3-rimsd-schools/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Rock-Island-High-School.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +52,7 @@
       "headline": "The latest on Tuesday's derecho",
       "summary": "The Storm Prediction Center confirmed that the damaging winds that started early in the morning over northern Iowa was a derecho. More severe weather is possibl…",
       "url": "https://www.ourquadcities.com/news/local-news/the-latest-on-tuesdays-derecho/",
-      "time": "23 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Storm-Reports-Derecho.jpg?w=839",
       "category": "Local News"
     },
@@ -19,7 +63,7 @@
       "headline": "More severe weather today into Friday",
       "summary": "Very warm and muggy weather will stick around the Quad Cities through the weekend. Strong to severe weather is possible over the next three days. Here's your fu…",
       "url": "https://www.ourquadcities.com/news/local-news/more-severe-weather-today-into-friday/",
-      "time": "36 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/severe-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +74,7 @@
       "headline": "Rod Stewart's Iowa State Fair Grandstand performance canceled due to medical issues",
       "summary": "The Iowa State Fair said it is looking for a replacement act.",
       "url": "https://www.wqad.com/article/news/regional/rod-stewart-iowa-state-fair-grandstand-performance-canceled/524-e427e321-92a2-4fce-9da5-6454a9745b40",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/KUSA/images/c225c510-4d37-4b28-8df7-7c9e48597fde/20260615T232736/c225c510-4d37-4b28-8df7-7c9e48597fde_750x422.jpg",
       "category": "regional"
     },
@@ -41,31 +85,9 @@
       "headline": "Iowa State Fair Parade ready to kick off 2026 festivities: Get the details",
       "summary": "The parade, which starts at the State Capitol Complex, is set to begin at 6:15 p.m. on Wednesday, Aug. 12.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-parade-2026-details-road-closures/524-4e54717f-5044-416d-9591-c4934859844a",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9/20250808T011130/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9_750x422.jpg",
       "category": "regional"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Track champions will be crowned Friday at Davenport Speedway",
-      "summary": "Season Championship night at Davenport Speedway will be this Friday, Aug. 14. Track champions will be crowned in six weekly classes, a news release says. Many o…",
-      "url": "https://www.ourquadcities.com/news/local-news/track-champions-will-be-crowned-friday-at-davenport-speedway/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UnityPoint launches first QC rehab program for blood-vessel condition",
-      "summary": "For many people living with peripheral artery disease (PAD), a common condition affecting the blood vessels, even a short walk can be painful, according to a ne…",
-      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-launches-first-qc-rehab-program-for-blood-vessel-condition/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/UnityPoint-Health.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,7 +96,7 @@
       "headline": "Win Jump Passes and a $200 VISA Gift Card at Elevate Trampoline Park in Milan, IL",
       "summary": "Elevate Trampoline Park in Milan, IL, is hosting a summer contest with weekly jump pass prizes and a $200 VISA gift card grand prize. Enter by September 6, 2026…",
       "url": "https://www.wqad.com/article/news/local/contests/win-jump-passes-and-a-200-visa-gift-card-at-elevate-trampoline-park-in-milan-il/526-aaf334d7-8b8f-42fc-ae5b-54bbdd7e2082",
-      "time": "8 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c102a39f-15bb-4226-990a-efe54b331ea5/20260514T050010/c102a39f-15bb-4226-990a-efe54b331ea5_750x422.jpg",
       "category": "contests"
     },
@@ -85,7 +107,7 @@
       "headline": "Proposed battery storage facility in rural Rock Island County raises concerns",
       "summary": "Fire officials are worried about challenges responding to potential thermal runaway incidents. Some residents aren't happy, either.",
       "url": "https://www.wqad.com/article/news/local/proposed-battery-storage-facility-fire-safety-concerns/526-b67e814f-23c8-45a5-9ac5-0d15ee691602",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/acdac4fc-eeaa-4cbf-bf8d-900890880984/20260811T230458/acdac4fc-eeaa-4cbf-bf8d-900890880984_750x422.jpg",
       "category": "local"
     },
@@ -96,7 +118,7 @@
       "headline": "Tuesday's derecho damaged public safety radio in Cambridge, Illinois",
       "summary": "A temporary tower is being used while officials work to secure a permanent replacement.",
       "url": "https://www.wqad.com/article/news/local/derecho-damage-public-safety-radio-tomorrow-cambridge-illinois/526-9df85c70-bf48-4791-8742-d6beac10a9c5",
-      "time": "10 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c304b5d2-322e-4ade-bf26-f7f3853983f7/20260812T024821/c304b5d2-322e-4ade-bf26-f7f3853983f7_750x422.jpg",
       "category": "local"
     },
@@ -107,30 +129,8 @@
       "headline": "Public, fire chief, share concerns about RICO proposed battery-storage site",
       "summary": "People gathered in Milan on Tuesday night to voice their opposition to a proposed lithium-ion battery storage site. Concerns lie in a potential major fire hazar…",
       "url": "https://www.ourquadcities.com/news/local-news/public-fire-chief-share-concerns-about-rico-proposed-battery-storage-site/",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/rico.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Power restored after outages impacted nearly 5,000 people in Quad Cities areas",
-      "summary": "MidAmerican Energy identified widespread outages in the metro and surrounding communities as severe weather rolled through on Tuesday.",
-      "url": "https://www.wqad.com/article/weather/severe-weather/nearly-5000-without-power-in-quad-cities-areas/526-62755448-aaec-4775-9764-0e7e7bdd6a03",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/dc03cb57-3a21-4f45-b204-8b306c72ab31/dc03cb57-3a21-4f45-b204-8b306c72ab31_750x422.jpg",
-      "category": "severe-weather"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Team Iowa looks to upset at Tug Fest 2026; What's new this year?",
-      "summary": "Saturday morning, when this year's tuggers step into the sand tug pits across the Mississippi River from each other, it will be a matchup similar to David vs Go…",
-      "url": "https://www.ourquadcities.com/news/local-news/team-iowa-looks-to-upset-at-tug-fest-2026-whats-new-this-year/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Tug-Fest-GENERIC.jpg?w=900",
       "category": "Local News"
     }
   ]
