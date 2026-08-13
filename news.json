@@ -1,6 +1,50 @@
 {
-  "updated": "2026-08-12T20:46:32.873105+00:00",
+  "updated": "2026-08-13T02:04:15.194388+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Alternating Currents events taking place throughout the Quad Cities Aug. 13-16",
+      "summary": "The four-day celebration of creativity features over 230 events and more than 600 artists, with events taking place in Davenport, Bettendorf and Rock Island.",
+      "url": "https://www.wqad.com/article/news/local/the-current/alternating-currents-davenport-bettendorf-iowa-rock-island-illinois-music-art-comedy-film-festival/526-095df667-a189-4cf1-be44-a8117c8f93eb",
+      "time": "31 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dac4c36a-3995-4c85-b779-2d6524024378/20240723T212141/dac4c36a-3995-4c85-b779-2d6524024378_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad City Arts names new executive director",
+      "summary": "Ben Gougeon stepped into the role on Monday, Aug. 10.",
+      "url": "https://www.wqad.com/article/news/local/quad-city-arts-ben-gougeon-new-executive-director/526-1bf184c2-251d-4f87-902a-dc7c27260bca",
+      "time": "31 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f/20250319T222605/c6dc7d64-494f-495f-81bc-2c0ff62e8d3f_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline police: Missing 9-year-old found",
+      "summary": "UPDATE: According to a Facebook post from the Moline Police Department, after officers asked for help from the public to find a missing 9-year-old, the boy has …",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-police-missing-9-year-old-found/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Liam-.jpg?w=870",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Helping kids work through back-to-school anxiety",
+      "summary": "Back-to-school season can be an exciting time, but it can also create anxiety for many children. A Quad Cities pediatrician shares how parents can help their ki…",
+      "url": "https://www.wqad.com/article/news/education/back-to-school-anxiety-tips-children-quad-cities-pediatrician/526-1eb08ad3-a42e-400b-93dc-732dcc508672",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ef054bcc-7880-4af9-bb50-2db1ad37689b/20260812T233446/ef054bcc-7880-4af9-bb50-2db1ad37689b_750x422.jpg",
+      "category": "education"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,18 +52,62 @@
       "headline": "Power outages close downtown Rock Island library, 3 RIMSD schools",
       "summary": "Three Rock Island-Milan schools are closed Wednesday due to power outages. The downtown library branch is also closed.",
       "url": "https://www.wqad.com/article/weather/severe-weather/3-rock-island-milan-schools-closed-wednesday-power-outages/526-8f7ebd9e-eede-41af-aacd-f43f15c28427",
-      "time": "2 min ago",
+      "time": "2 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e7552b4d-4012-4e47-bb32-ceac9e610b01/20250630T174830/e7552b4d-4012-4e47-bb32-ceac9e610b01_750x422.jpg",
       "category": "severe-weather"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities International Airport tests emergency response with mass casualty drill",
+      "summary": "First responders in the Quad Cities conducted an FAA-mandated mass casualty exercise at the airport on Wednesday.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/mass-casualty-exercise-quad-cities-international-airport/526-3bcbe903-ef58-49bb-8824-b669503d1ab6",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a480c70b-9384-476c-a02b-638d2ec543e3/20260812T225120/a480c70b-9384-476c-a02b-638d2ec543e3_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "MidAmerican Energy crews work to restore power to QC residents",
-      "summary": "Severe weather in the Quad Cities this week has left thousands of residents and businesses without power. Utility crews began work this morning to clear debris,…",
+      "headline": "QC airport successfully practices emergency response drill for plane crash",
+      "summary": "The Quad Cities International Airport had a busy morning on runway 13, where emergency responders from across the Quad Cities area flooded the runway for a dril…",
+      "url": "https://www.ourquadcities.com/news/local-news/qci-successfully-practices-emergency-response-drill-for-plane-crash/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/QCI-successfully-practices-emergency-response-drill-for-plane-crash.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2026 butter cow: ‘Miles of Smiles’ is the Illinois State Fair’s theme in celebration of Route 66",
+      "summary": "The Illinois State Fair will run from Aug. 13-23 in Springfield.",
+      "url": "https://www.wqad.com/article/news/state/2026-butter-cow-miles-smiles-illinois-state-fair-theme-capitol-news/526-c882dc0c-69ff-450d-be8d-ffa9d5925cba",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ee88d59d-d668-47d5-9159-7a8c08c5d100/20260812T222735/ee88d59d-d668-47d5-9159-7a8c08c5d100_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2 charged after shots fired at Kwik Star in Clinton",
+      "summary": "Andy Glen Simmons told officers he shot into the windshield and driver's side door of a white Ford Excursion. Clinton police said there are no known injuries.",
+      "url": "https://www.wqad.com/article/news/local/2-charged-shots-fired-clinton-kwik-star/526-6a38ddf3-241e-47bf-9857-eb138e9cdc30",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b05d4880-2e86-4af1-a82a-2a76b495ace9/20260810T145310/b05d4880-2e86-4af1-a82a-2a76b495ace9_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UPDATE: MidAmerican Energy calls in more crews to restore power to QC residents",
+      "summary": "UPDATE: 3 p.m. Wednesday: MidAmerican Energy has called in additional line and tree crews from areas including Waterloo, Des Moines and Sioux City to assist wit…",
       "url": "https://www.ourquadcities.com/news/local-news/midamerican-energy-crews-work-to-restore-power-to-qc-residents/",
-      "time": "3 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Airport-shelf-cloud.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +118,7 @@
       "headline": "See damage in the QCs from morning thunderstorms",
       "summary": "Damage has been reported across the Quad Cities after this morning's storms. Cleanup is currently underway. Photos from Bettendorf, Rock Island and Moline show …",
       "url": "https://www.ourquadcities.com/news/local-news/see-damage-in-the-qcs-from-morning-thunderstorms/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Moline-house-2.jpg?w=900",
       "category": "Local News"
     },
@@ -41,97 +129,9 @@
       "headline": "Clinton to hold public meetings on proposed data center",
       "summary": "Clinton Mayor Scott Maddasion and members of the City Council reviewed the timeline for the proposed 1,100 acre hyperscale data center project ordinance for the…",
       "url": "https://www.ourquadcities.com/news/local-news/clinton-to-hold-public-meetings-on-proposed-data-center/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Silvis boil order lifted after water main break on Monday",
-      "summary": "The City of Silvis had issued a boil order for 7th Street from 1st Avenue to 4th Avenue due to a water main break. The order has been lifted.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/water-main-break-silvis-illinois-boil-order/526-c36d3c6d-5d9c-4377-a6f2-230d41afee27",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d6b97f59-10d7-468f-98ad-b194a2639903/20260530T201636/d6b97f59-10d7-468f-98ad-b194a2639903_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Boil orders in the Quad Cities region",
-      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
-      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-220/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Shane-Montgomery-Lester-Tabor-Mug-shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Storm leads to business closures, limited services",
-      "summary": "Widespread power outages are impacting businesses in the Quad Cities. The Rock Island Public Library's Southwest Branch, 9010 Ridgewood Road, and Watts-Midtown …",
-      "url": "https://www.ourquadcities.com/news/local-news/mercyone-genesis-davenport-on-emergency-power-due-to-outage/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/MercyOne-Genesis.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Power out at 3 Rock Island schools; no classes",
-      "summary": "There are no classes today for students at three schools in the Rock Island-Milan School District. A notification from the district says there is no power at Ro…",
-      "url": "https://www.ourquadcities.com/news/local-news/power-out-at-3-rimsd-schools/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Rock-Island-High-School.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The latest on Tuesday's derecho",
-      "summary": "The Storm Prediction Center confirmed that the damaging winds that started early in the morning over northern Iowa was a derecho. More severe weather is possibl…",
-      "url": "https://www.ourquadcities.com/news/local-news/the-latest-on-tuesdays-derecho/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Storm-Reports-Derecho.jpg?w=839",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rod Stewart's Iowa State Fair Grandstand performance canceled due to medical issues",
-      "summary": "The Iowa State Fair said it is looking for a replacement act.",
-      "url": "https://www.wqad.com/article/news/regional/rod-stewart-iowa-state-fair-grandstand-performance-canceled/524-e427e321-92a2-4fce-9da5-6454a9745b40",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/KUSA/images/c225c510-4d37-4b28-8df7-7c9e48597fde/20260615T232736/c225c510-4d37-4b28-8df7-7c9e48597fde_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair Parade ready to kick off 2026 festivities: Get the details",
-      "summary": "The parade, which starts at the State Capitol Complex, is set to begin at 6:15 p.m. on Wednesday, Aug. 12.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-parade-2026-details-road-closures/524-4e54717f-5044-416d-9591-c4934859844a",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9/20250808T011130/a82b10d1-b9d5-4fbc-bf9c-ebe827e9ddf9_750x422.jpg",
-      "category": "regional"
     }
   ]
 }
