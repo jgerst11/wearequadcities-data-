@@ -122,6 +122,16 @@ def fetch_eventbrite():
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def load_existing_eb():
+    """Return Eventbrite events from the last written events.json, filtered to future dates."""
+    try:
+        data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+        kept = [e for e in data.get("events", []) if e.get("source") == "eventbrite.com" and is_future(e.get("start", ""))]
+        print(f"  Keeping {len(kept)} existing Eventbrite events from last run.")
+        return kept
+    except Exception:
+        return []
+
 def main():
     all_events, seen = [], set()
 
@@ -132,6 +142,8 @@ def main():
 
     print("Scraping Eventbrite events...")
     eb = fetch_eventbrite()
+    if not eb:
+        eb = load_existing_eb()
     added = 0
     for e in eb:
         if e["id"] not in seen: all_events.append(e); seen.add(e["id"]); added += 1
