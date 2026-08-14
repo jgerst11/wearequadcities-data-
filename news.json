@@ -1,26 +1,48 @@
 {
-  "updated": "2026-08-14T09:08:06.485157+00:00",
+  "updated": "2026-08-14T13:08:10.909803+00:00",
   "items": [
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Police Department earns 8th national law enforcement accreditation",
-      "summary": "The Davenport Police Department has maintained its law enforcement accreditation. According to a release, the department earned its eighth award for Advanced La…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-police-department-earns-8th-national-law-enforcement-accreditation/",
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair's weather extremes through history, from blistering heat to record rain",
+      "summary": "Weather records reveal the Iowa State Fair's diverse history, from blistering heat to soggy rains.",
+      "url": "https://www.wqad.com/article/weather/iowa-state-fairs-weather-extremes-blistering-heat-record-rain/524-763f0063-a1ec-4cef-b378-0682b3414a77",
       "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Davenport-Police-Department.jpg?w=900",
-      "category": "Local News"
+      "image": "https://media.tegna-media.com/assets/WOI/images/dd4697ad-285f-4a50-9f60-664d55899c26/20250819T004221/dd4697ad-285f-4a50-9f60-664d55899c26_750x422.jpg",
+      "category": "weather"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "John Waite to perform at Iowa State Fair Friday night, replacing Rod Stewart",
+      "summary": "The concert is free and no Grandstand tickets are required.",
+      "url": "https://www.wqad.com/article/news/entertainment-news/john-waite-iowa-state-fair-rod-stewart-replacement-grandtand-concert/524-45c41cd5-6554-43ba-867c-d5e69171b300",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/edcf2dea-4e62-40d8-8d06-8083129ee625/20260813T203332/edcf2dea-4e62-40d8-8d06-8083129ee625_750x422.jpg",
+      "category": "entertainment-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Day 2 guide to the Iowa State Fair: Farmfluencers Day, Big Pumpkin and Ugliest Cake contests",
+      "summary": "The first weekend of the Iowa State Fair is about to begin! Local 5 has the details to guide your fair festivities.",
+      "url": "https://www.wqad.com/article/news/regional/day-2-iowa-state-fair-farm-influencers-east-side-night-big-pumpkin-ugliest-cake-judging/524-f29fe578-1431-41c0-8940-b8f216529684",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/a1d177a8-9e7f-43be-8e3d-be0f547e0f26/20260814T012055/a1d177a8-9e7f-43be-8e3d-be0f547e0f26_750x422.jpg",
+      "category": "regional"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Jibaro de Puerto Rico to reopen in downtown Muscatine",
-      "summary": "After nearly two months of closure, Jibaro de Puerto Rico will reopen Friday, Aug. 14. The family-owned restaurant at 211 W. 2nd St. in downtown Muscatine, had …",
-      "url": "https://www.ourquadcities.com/news/local-news/jibaro-de-puerto-rico-to-reopen-in-downtown-muscatine/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Jibaro-de-Puerto-Rico.jpg?w=900",
+      "headline": "Flash flooding likely across parts of the Quad Cities",
+      "summary": "Several inches of rain fell overnight into Friday morning. Several more inches are likely this morning. Here's your full 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/flash-flooding-likely-across-parts-of-the-quad-cities/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/03/flooded-car-2-e1743175758656.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -30,7 +52,7 @@
       "headline": "Tyson Foods closing its plant in Joslin, Illinois",
       "summary": "The company cited cattle shortages as the reason for the closure.",
       "url": "https://www.wqad.com/article/news/local/tyson-foods-joslin-plant-closing/526-b2c70036-b76c-476e-9435-1a2dca5b31a9",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f6dac6c3-692c-4b32-8b0f-86cb7ec0cb75/20260813T212035/f6dac6c3-692c-4b32-8b0f-86cb7ec0cb75_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +63,7 @@
       "headline": "Rain forces postponement of Davenport Speedway season championship races",
       "summary": "A week’s worth of rain has forced SR Promotions to postpone the Davenport Speedway 2026 Season Championship races scheduled for Friday, a news release says. SR …",
       "url": "https://www.ourquadcities.com/news/local-news/rain-forces-postponement-of-davenport-speedway-season-championship-races/",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +74,7 @@
       "headline": "Getting to Know Josh Sallows and Barry Long",
       "summary": "Chief Meteorologist Andy McCray talks with familiar faces around the Quad Cities in the Getting to Know Podcast. Learn more about important people around our ar…",
       "url": "https://www.ourquadcities.com/news/local-news/getting-to-know-josh-sallows-and-barry-long/",
-      "time": "8 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Screenshot-2026-08-13-135845.png?w=900",
       "category": "Local News"
     },
@@ -63,7 +85,7 @@
       "headline": "ACLU of Iowa, the Satanic Temple sue state of Iowa for right to free speech, religious exercise",
       "summary": "The lawsuit comes after state officials denied the group permission to host events at the Iowa State Capitol.",
       "url": "https://www.wqad.com/article/news/state/aclu-iowa-the-satanic-temple-lawsuit-freedom-of-speech-religious-expression-state-capitol-event/524-45099a97-0255-41df-85ab-2ef5ac2fc365",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/d17b4127-057a-42ab-8f1e-6c1d0e8eef2f/20250610T180611/d17b4127-057a-42ab-8f1e-6c1d0e8eef2f_750x422.jpg",
       "category": "state"
     },
@@ -74,7 +96,7 @@
       "headline": "The Heart of the Story: Birds of a feather",
       "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
       "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-birds-of-a-feather/",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/The-Heart-of-the-Story-Birds-of-a-feather.jpg?w=900",
       "category": "The Heart of the Story"
     },
@@ -85,7 +107,7 @@
       "headline": "2026 butter cow: ‘Miles of Smiles’ is the Illinois State Fair’s theme in celebration of Route 66",
       "summary": "The Illinois State Fair will run from Aug. 13-23 in Springfield.",
       "url": "https://www.wqad.com/article/news/state/2026-butter-cow-miles-smiles-illinois-state-fair-theme-capitol-news/526-c882dc0c-69ff-450d-be8d-ffa9d5925cba",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ee88d59d-d668-47d5-9159-7a8c08c5d100/20260812T222735/ee88d59d-d668-47d5-9159-7a8c08c5d100_750x422.jpg",
       "category": "state"
     },
@@ -96,20 +118,9 @@
       "headline": "Alternating Currents events taking place throughout the Quad Cities Aug. 13-16",
       "summary": "The four-day celebration of creativity features over 230 events and more than 600 artists, with events taking place in Davenport, Bettendorf and Rock Island.",
       "url": "https://www.wqad.com/article/news/local/the-current/alternating-currents-davenport-bettendorf-iowa-rock-island-illinois-music-art-comedy-film-festival/526-095df667-a189-4cf1-be44-a8117c8f93eb",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dac4c36a-3995-4c85-b779-2d6524024378/20240723T212141/dac4c36a-3995-4c85-b779-2d6524024378_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Local leaders respond to closure of Tyson plant in Joslin",
-      "summary": "Politicians and local business leaders are reacting after Tyson announced it is closing its beef plant in Joslin, Illinois.",
-      "url": "https://qctimes.com/news/local/business/article_0a654d2d-bc1a-424d-9749-c354ecdc7209.html",
-      "time": "11 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/50/e50cdd7c-b70f-5605-b7f5-fdb5f1fe5535/5ea0ac1e60891.image.jpg?resize=300%2C183",
-      "category": ""
     },
     {
       "source": "WQAD",
@@ -118,20 +129,9 @@
       "headline": "Illinois DCFS: ‘Significant miscommunication’ within the agency led to missed court dates",
       "summary": "The Governor says he’s been assured agency leaders will attend next court date as Capitol News Illinois seeks public records.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-dcfs-significant-miscommunication-missed-court-dates-capitol-news/526-5d0280b9-5036-40c2-8dd4-41e9fb122d7b",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cea2509e-d366-4f2a-8810-7737684f3233/20260813T211849/cea2509e-d366-4f2a-8810-7737684f3233_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Tyson ends operations at its Joslin plant",
-      "summary": "Tyson Foods is making strategic changes - including closure of the Joslin, Ill., plant - to its beef operations to \"position the company for long-term success,\"…",
-      "url": "https://www.ourquadcities.com/news/local-news/tyson-ends-operations-at-its-joslin-plant/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2020/04/joslin-plant.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
