@@ -21,7 +21,7 @@ MONTH_MAP = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"se
 QC_CITIES = {"davenport","bettendorf","rock island","moline","east moline","milan","silvis","carbon cliff","hampton","coal valley","port byron","muscatine"}
 
 def parse_title(title):
-    m = re.match(r'^([A-Za-z]{3})\s+(\d{1,2})\s+(\d{4})\s+(\d{1,2}:\d{2})\s+(AM|PM)\s+(.+?)(?:\s*Read More)?$', title.strip(), re.IGNORECASE)
+    m = re.match(r'^([A-Za-z]{3})\s+(\d{1,2})\s+(\d{4})\s+(\d{1,2}:\d{2})\s+(AM|PM)\s+(.+?)(?:\s*Read\s*More)?$', title.strip(), re.IGNORECASE)
     if not m: return title.strip().replace("Read More","").strip(), ""
     mon_str,day,year,time_str,ampm,name = m.groups()
     mon = MONTH_MAP.get(mon_str.lower(), 0)
