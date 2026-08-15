@@ -1,25 +1,47 @@
 {
-  "updated": "2026-08-15T01:17:21.138845+00:00",
+  "updated": "2026-08-15T04:32:42.029936+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Crews responding to scene in Muscatine involving a firearm",
-      "summary": "The public is asked to avoid the area around the Rose Bowl bowling alley while first responders address the situation.",
+      "headline": "Juvenile facing second-degree murder for shooting death of 7-year-old in Iowa",
+      "summary": "A female juvenile, who was 14 at the time of the shooting, is facing a second-degree murder charge after a seven-year-old was shot in May.",
+      "url": "https://www.wqad.com/article/news/crime/second-degree-murder-charge-juvenile-shooting-death-7-year-old/526-13208443-0077-4aaf-b4c0-8e42e360301d",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Closure of Tyson Foods plant in Joslin leaves local immigrants and refugees reeling",
+      "summary": "Officials with World Relief Quad Cities said 50 families they work with are out of a job almost overnight.",
+      "url": "https://www.wqad.com/article/news/local/tyson-food-plant-closure-impact-immigrants-refugees-world-relief-quad-cities/526-00369305-01f2-4932-babf-6d316c6f1545",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/198c7400-d63c-4397-aa7d-1d0458a0647e/20260815T030933/198c7400-d63c-4397-aa7d-1d0458a0647e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Suspect at large after officer shot in Muscatine",
+      "summary": "Residents in the south end of Muscatine are asked to shelter in place while police look for Mark Lee Jackson.",
       "url": "https://www.wqad.com/article/news/local/public-safety/muscatine-firearm-incident-rose-bowl-police-presence/526-e838ed45-0497-46a7-8fd1-d777456137c8",
-      "time": "18 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2010c87-2562-4896-b539-07f3e6718706/20260815T000447/c2010c87-2562-4896-b539-07f3e6718706_750x422.jpg",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c6087db4-36a8-4d85-9523-9537f59d2217/20260815T012529/c6087db4-36a8-4d85-9523-9537f59d2217_750x422.jpg",
       "category": "public-safety"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Officers on scene of gun-related incident in Muscatine",
-      "summary": "Officers are on the scene of a gun-related incident in Muscatine, according to a Facebook post from Muscatine County Emergency Management/911. \"There is an acti…",
+      "headline": "UPDATE: Officer injured in gun-related Muscatine incident",
+      "summary": "UPDATE: In a Facebook post, Quad Cities officers send their best wishes to a Muscatine police officer who was injured Friday in the line of duty. \"Our thoughts …",
       "url": "https://www.ourquadcities.com/news/local-news/officers-on-scene-of-gun-related-incident-in-muscatine/",
-      "time": "28 min ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mucatine-incident-.jpg?w=769",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "Bob Vitas resigns as Moline's city administrator",
       "summary": "The city announced the news after publishing Tuesday's city council agenda, which includes a resolution to appoint Barry Dykhuizen as interim city administrator…",
       "url": "https://www.wqad.com/article/news/local/moline-city-administrator-bob-vitas-resigns/526-5afa55db-ca59-493d-bd73-9b0a96902479",
-      "time": "35 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a75638f6-c102-43a3-a7dc-7ec382b7509e/a75638f6-c102-43a3-a7dc-7ec382b7509e_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +63,7 @@
       "headline": "Moline City Administrator Vitas resigns;  Dykhuizen will serve as interim",
       "summary": "Moline City Administrator Bob Vitas submitted his resignation effective Friday, Aug. 14, according to a statement from the City of Moline. Vitas had been on pai…",
       "url": "https://www.ourquadcities.com/news/local-news/moline-city-administrator-vitas-resigns-dykhuizen-will-serve-as-interim/",
-      "time": "58 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/Bob-Vitas.jpg?w=859",
       "category": "Local News"
     },
@@ -52,7 +74,7 @@
       "headline": "'I'm so hurt.' Employee's ties to Tyson's, Joslin, span generations",
       "summary": "Some of the more than 2,500 employees losing their jobs at the Tyson beef processing plant in Joslin, Ill., are speaking out. They're out of work after Tyson Fo…",
       "url": "https://www.ourquadcities.com/news/local-news/im-so-hurt-employees-ties-to-tysons-joslin-span-generations/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/645919d4283720.58052759-e1758192698721.jpeg?w=800",
       "category": "Local News"
     },
@@ -63,7 +85,7 @@
       "headline": "Experts break down local economic impact of Tyson plant closure",
       "summary": "Two Quad Cities professors discuss how Tyson Foods closing its Joslin facility will impact over 2,500 employees and the local economy.",
       "url": "https://www.wqad.com/article/money/economy/tyson-foods-plant-closure-joslin-illinois-impact-quad-cities-economy-laid-off-workers/526-9406a1e7-8203-44bd-a063-bfba155f3d1f",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ab1f54f2-dad7-401a-8342-4f267d6c42f0/20260814T231705/ab1f54f2-dad7-401a-8342-4f267d6c42f0_750x422.jpg",
       "category": "economy"
     },
@@ -74,7 +96,7 @@
       "headline": "Empowering Abilities holding second annual mum sale fundraiser",
       "summary": "Proceeds from the fundraiser will be used to help Empowering Abilities put on social events for adults with disabilities around the Quad Cities.",
       "url": "https://www.wqad.com/article/news/local/the-current/empowering-abilities-mum-sale-fundraiser-second-annual/526-60ff778e-9720-4434-a0e5-cdd495a9b24e",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fea86a76-84ad-4cee-8379-fca5b749683c/20260814T203716/fea86a76-84ad-4cee-8379-fca5b749683c_750x422.jpg",
       "category": "the-current"
     },
@@ -85,7 +107,7 @@
       "headline": "Alternating Currents events taking place throughout the Quad Cities Aug. 13-16",
       "summary": "The four-day celebration of creativity features over 230 events and more than 600 artists, with events taking place in Davenport, Bettendorf and Rock Island.",
       "url": "https://www.wqad.com/article/news/local/the-current/alternating-currents-davenport-bettendorf-iowa-rock-island-illinois-music-art-comedy-film-festival/526-095df667-a189-4cf1-be44-a8117c8f93eb",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dac4c36a-3995-4c85-b779-2d6524024378/20240723T212141/dac4c36a-3995-4c85-b779-2d6524024378_750x422.jpg",
       "category": "the-current"
     },
@@ -96,7 +118,7 @@
       "headline": "Police investigate possible weapons threat at Rock Island High School",
       "summary": "The Rock Island Police Department was called to investigate a possible weapons threat at Rock Island High School. According to a release from the Rock Island-Mi…",
       "url": "https://www.ourquadcities.com/news/local-news/police-investigate-possible-weapons-threat-at-rock-island-high-school/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/school-threat.jpg?w=900",
       "category": "Local News"
     },
@@ -107,31 +129,9 @@
       "headline": "Tyson Foods closing its plant in Joslin, Illinois",
       "summary": "The company cited cattle shortages as the reason for the closure.",
       "url": "https://www.wqad.com/article/news/local/tyson-foods-joslin-plant-closing/526-b2c70036-b76c-476e-9435-1a2dca5b31a9",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f6dac6c3-692c-4b32-8b0f-86cb7ec0cb75/20260813T212035/f6dac6c3-692c-4b32-8b0f-86cb7ec0cb75_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf Lions Club bike ride raises program awareness",
-      "summary": "The Bettendorf Lions Club is raising awareness about its vision initiatives at a charity bike ride later this month. The Bike for Sight Ride will be on August 2…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-lions-club-bike-ride-raises-program-awareness/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_fd7687.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Local and state leaders respond to closure of Tyson plant in Joslin",
-      "summary": "Politicians and local business leaders are reacting after Tyson announced it is closing its beef plant in Joslin, Illinois.",
-      "url": "https://qctimes.com/news/local/business/article_0a654d2d-bc1a-424d-9749-c354ecdc7209.html",
-      "time": "5 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/50/e50cdd7c-b70f-5605-b7f5-fdb5f1fe5535/5ea0ac1e60891.image.jpg?resize=300%2C183",
-      "category": ""
     }
   ]
 }
