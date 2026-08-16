@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-16T01:22:11.157257+00:00",
+  "updated": "2026-08-16T04:36:37.727247+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Crowds pack Greyhound Lounge for Loose Meat Comedy Show in Davenport",
+      "summary": "Alternating Currents hosted its Loose Meat Comedy Show bringing eight comedians to downtown Davenport.",
+      "url": "https://www.wqad.com/article/news/local/crowds-pack-greyhound-lounge-for-loose-meat-comedy-show-in-davenport/526-f6e048b4-25dd-46a1-bac1-2629711ce334",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/8e40ec3e-51f5-4b7e-a27d-d70749d24e2e/20260816T030830/8e40ec3e-51f5-4b7e-a27d-d70749d24e2e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ruling: Iowa contractors can’t negotiate insurance claims on homes they repair",
+      "summary": "DES MOINES, Iowa — When storm damage hits a home, the person making money from the repairs cannot also serve as the person negotiating how much the insurance co…",
+      "url": "https://www.ourquadcities.com/news/local-news/ruling-iowa-contractors-cant-negotiate-insurance-claims-on-homes-they-repair/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/GettyImages-2287376241.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,8 +30,8 @@
       "headline": "Another QCA structural collapse: Occupants evacuate Comfort Suites, Burlington",
       "summary": "Another Quad Cities-area structure has partially collapsed, according to a news release from the Burlington Fire Department. Shortly after 5 a.m. Saturday, the …",
       "url": "https://www.ourquadcities.com/news/local-news/another-qca-structural-collapse-occupants-evacuate-comfort-suites-burlington/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Burlington-Fire-Department.jpg?w=900",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/collapse-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,7 +41,7 @@
       "headline": "Suspect at large after officer shot in Muscatine",
       "summary": "Residents are urged not to approach Mark Lee Jackson. If he is seen, community members should call 911 immediately.",
       "url": "https://www.wqad.com/article/news/local/public-safety/muscatine-firearm-incident-rose-bowl-police-presence/526-e838ed45-0497-46a7-8fd1-d777456137c8",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,7 +52,7 @@
       "headline": "Colt Ford cancels Iowa State Fair performance after bus crash",
       "summary": "The country singer was supposed to perform at the fair's free MidAmerican Energy Stage on Wednesday, Aug. 19.",
       "url": "https://www.wqad.com/article/news/local/colt-ford-cancels-grandstand-performance-bus-crash-iowa-state-fair-updates/524-4cb27778-79bc-44d6-aba5-4da98243f336",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/KPNX/images/61802b93-9520-408a-bc21-2f3e15479ca7/61802b93-9520-408a-bc21-2f3e15479ca7_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +63,7 @@
       "headline": "Rock Island Judge Walter Braud dies at age 86",
       "summary": "Judge Walter D. Braud, a longtime Rock Island attorney, judge, author and community leader, died on Aug. 13 at the age of 86, according to his obituary from the…",
       "url": "https://www.ourquadcities.com/news/local-news/ri-judge-walter-braud-dies-at-age-86/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Walter-Braud.jpg?w=900",
       "category": "Local News"
     },
@@ -52,8 +74,30 @@
       "headline": "Nearly 30 new cases of cyclosporiasis confirmed in Iowa",
       "summary": "DES MOINES, Iowa -- Nearly 30 new cases of cyclosporiasis have been confirmed in Iowa since last week. As part of its weekly update released Friday, the Iowa De…",
       "url": "https://www.ourquadcities.com/news/local-news/nearly-30-new-cases-of-cyclosporiasis-confirmed-in-iowa/",
-      "time": "8 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/parasite.jpg?w=600",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois DOT District 2 plans open house for seasonal employee applicants",
+      "summary": "The Illinois Department of Transportation District 2 will hold an open house for people interested in applying for seasonal positions to help with snow and ice …",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-dot-district-2-plans-open-house-for-seasonal-employee-applicants/",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/snowplow-GENERIC-snow.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC Animal Welfare Center plans open house to celebrate spay/neuter, wellness clinic",
+      "summary": "The Quad City Animal Welfare Center (QCAWC) is invites the community to celebrate the 10th anniversary of the QCAWC Spay/Neuter and Wellness Clinic during an op…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-animal-welfare-center-plans-open-house-to-celebrate-spay-neuter-wellness-clinic/",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/03/Quad-City-Animal-Welfare-Center.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,7 +107,7 @@
       "headline": "Juvenile facing second-degree murder for shooting death of 7-year-old in Iowa",
       "summary": "A female juvenile, who was 14 at the time of the shooting, is facing a second-degree murder charge after a seven-year-old was shot in May.",
       "url": "https://www.wqad.com/article/news/crime/second-degree-murder-charge-juvenile-shooting-death-7-year-old/526-13208443-0077-4aaf-b4c0-8e42e360301d",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_750x422.jpg",
       "category": "crime"
     },
@@ -74,7 +118,7 @@
       "headline": "Closure of Tyson Foods plant in Joslin leaves local immigrants and refugees reeling",
       "summary": "Officials with World Relief Quad Cities said 50 families they work with are out of a job almost overnight.",
       "url": "https://www.wqad.com/article/news/local/tyson-food-plant-closure-impact-immigrants-refugees-world-relief-quad-cities/526-00369305-01f2-4932-babf-6d316c6f1545",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/198c7400-d63c-4397-aa7d-1d0458a0647e/20260815T030933/198c7400-d63c-4397-aa7d-1d0458a0647e_750x422.jpg",
       "category": "local"
     },
@@ -88,50 +132,6 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_0b6d99.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bob Vitas resigns as Moline's city administrator",
-      "summary": "The city announced the news after publishing Tuesday's city council agenda, which includes a resolution to appoint Barry Dykhuizen as interim city administrator…",
-      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-bob-vitas-resigns/526-5afa55db-ca59-493d-bd73-9b0a96902479",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a75638f6-c102-43a3-a7dc-7ec382b7509e/a75638f6-c102-43a3-a7dc-7ec382b7509e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'I'm so hurt.' Employee's ties to Tyson's, Joslin, span generations; state rep reacts",
-      "summary": "UPDATE: State Rep. Gregg Johnson, D-Rock Island, on Saturday released a statement in response to the Tyson Foods beef plant closing in Joslin, Illinois: “Tyson …",
-      "url": "https://www.ourquadcities.com/news/local-news/im-so-hurt-employees-ties-to-tysons-joslin-span-generations/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/645919d4283720.58052759-e1758192698721.jpeg?w=800",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Experts break down local economic impact of Tyson plant closure",
-      "summary": "Two Quad Cities professors discuss how Tyson Foods closing its Joslin facility will impact over 2,500 employees and the local economy.",
-      "url": "https://www.wqad.com/article/money/economy/tyson-foods-plant-closure-joslin-illinois-impact-quad-cities-economy-laid-off-workers/526-9406a1e7-8203-44bd-a063-bfba155f3d1f",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ab1f54f2-dad7-401a-8342-4f267d6c42f0/20260814T231705/ab1f54f2-dad7-401a-8342-4f267d6c42f0_750x422.jpg",
-      "category": "economy"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Empowering Abilities holding second annual mum sale fundraiser",
-      "summary": "Proceeds from the fundraiser will be used to help Empowering Abilities put on social events for adults with disabilities around the Quad Cities.",
-      "url": "https://www.wqad.com/article/news/local/the-current/empowering-abilities-mum-sale-fundraiser-second-annual/526-60ff778e-9720-4434-a0e5-cdd495a9b24e",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fea86a76-84ad-4cee-8379-fca5b749683c/20260814T203716/fea86a76-84ad-4cee-8379-fca5b749683c_750x422.jpg",
-      "category": "the-current"
     }
   ]
 }
