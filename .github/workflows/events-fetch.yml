@@ -1,7 +1,9 @@
 name: Fetch Events
 
 on:
-  workflow_dispatch:        # manual trigger only — Eventbrite blocked in Actions, run update.bat locally
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours — Visit QC events only (Eventbrite blocked in Actions)
+  workflow_dispatch:
 
 jobs:
   fetch:

@@ -132,13 +132,26 @@ def load_existing_eb():
     except Exception:
         return []
 
+def load_existing_vqc():
+    """Return Visit QC events from the last written events.json, filtered to future dates."""
+    try:
+        data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+        kept = [e for e in data.get("events", []) if e.get("source") == "visitquadcities.com" and is_future(e.get("start", ""))]
+        print(f"  Keeping {len(kept)} existing Visit QC events from last run.")
+        return kept
+    except Exception:
+        return []
+
 def main():
     all_events, seen = [], set()
 
     print("Fetching Visit QC events RSS...")
-    for e in fetch_visitqc():
+    vqc = fetch_visitqc()
+    if not vqc:
+        vqc = load_existing_vqc()
+    for e in vqc:
         if e["id"] not in seen: all_events.append(e); seen.add(e["id"])
-    print(f"  {len(all_events)} events from visitquadcities.com")
+    print(f"  {len(vqc)} events from visitquadcities.com")
 
     print("Scraping Eventbrite events...")
     eb = fetch_eventbrite()
