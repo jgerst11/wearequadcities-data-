@@ -1,6 +1,72 @@
 {
-  "updated": "2026-08-18T12:48:24.263705+00:00",
+  "updated": "2026-08-18T16:33:26.340123+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man accused of shooting Muscatine County Sheriff's deputy facing 2 attempted murder charges",
+      "summary": "Mark Lee Jackson was on the run for over two days after police say he fired at police and deputies during a pursuit.",
+      "url": "https://www.wqad.com/article/news/crime/man-accused-of-shooting-muscatine-county-sheriffs-deputy-facing-2-attempted-murder-charges/526-c7c98e34-254a-4882-956e-3821aebc3965",
+      "time": "11 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Police: Search for man accused of shooting Muscatine officer continues",
+      "summary": "Muscatine police provided new information Sunday evening on the search for a man accused of shooting an officer following a pursuit Friday.",
+      "url": "https://www.wqad.com/article/news/crime/muscatine-police-shooting-suspect-at-large-update-mark-lee-jackson/526-34854c75-e9b7-416a-a4cb-9750eb6d4012",
+      "time": "29 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Suspect at large after officer shot in Muscatine",
+      "summary": "Residents are urged not to approach Mark Lee Jackson. If he is seen, community members should call 911 immediately.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/muscatine-firearm-incident-rose-bowl-police-presence/526-e838ed45-0497-46a7-8fd1-d777456137c8",
+      "time": "30 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf High School recognized as FAFSA Focused School of Achievement",
+      "summary": "Bettendorf High School (BHS) has been recognized as a FAFSA Focused School of Achievement by the Iowa Department of Education Bureau of Iowa College Aid for its…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-high-school-recognized-as-fafsa-focused-school-of-achievement/",
+      "time": "33 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Bettendorf-High-School.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Muscatine police arrest suspect in officer's shooting",
+      "summary": "Mark Lee Jackson is accused of shooting a Muscatine police officer in the elbow during a pursuit on Friday night.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/mark-lee-jackson-arrested-muscatine-officer-shooting/526-252adc1e-db74-43d8-bc3e-b28490fa9dcd",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UPDATE: South Bluff Boulevard, Clinton, will reopen to traffic as other work progresses",
+      "summary": "Beginning Wednesday morning, Aug. 19, 2026, South Bluff Boulevard - between 2nd Avenue South and 5th Avenue South - will be reopened to traffic in Clinton, a ne…",
+      "url": "https://www.ourquadcities.com/news/local-news/update-south-bluff-boulevard-clinton-will-reopen-to-traffic-as-other-work-progresses/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Day 6 guide to the Iowa State Fair: 'It's ICONIC' tour, Beard contest, Farm Bureau Cook-Off",
       "summary": "Don't let the weather rain on your parade! Local 5 has your guide to Day 6 of the Iowa State Fair.",
       "url": "https://www.wqad.com/article/news/entertainment-news/day-6-iowa-state-fair-tlc-salt-n-pepa-en-vogue-john-deere-farm-bureau-cook-off-beard-growing/524-843e47d3-af93-4820-ae37-beea6ee1bc50",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/ac2fda6a-7b6d-4b88-9e68-f99851efb04d/20260817T104005/ac2fda6a-7b6d-4b88-9e68-f99851efb04d_750x422.jpg",
       "category": "entertainment-news"
     },
@@ -17,9 +83,9 @@
       "badge": "8",
       "color": "slate",
       "headline": "Iowa Governor's Charity Steer Show breaks record, surpasses $6.5 million in donations since 1983",
-      "summary": "The 44th annual Iowa Governor's Charity Steer Show raises money to benefit the three independent Ronald McDonald House Charities of Iowa.",
+      "summary": "The 44th annual Iowa Governor's Charity Steer Show raised money to benefit the three independent Ronald McDonald House Charities of Iowa.",
       "url": "https://www.wqad.com/article/news/regional/iowa-governors-charity-steer-show-breaks-record-2026-state-fair/524-00753891-ed14-45dd-abd5-3cbc885f7d2c",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/b489a120-e72c-4745-9e07-dd808caffd8b/20260817T185615/b489a120-e72c-4745-9e07-dd808caffd8b_750x422.jpg",
       "category": "regional"
     },
@@ -30,7 +96,7 @@
       "headline": "Record turnout for Iowa State Fair Veterans Day parade honors US military's past and present heroes",
       "summary": "The annual Veterans Day event at the Iowa State Fair featured around 2,000 participants, organizers say.",
       "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-veterans-day-parade/524-2e1060d4-2ae3-4bf9-aa92-8e25f328e53a",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/03c58d75-56fe-4433-a012-7f9dea37c00c/20260817T215048/03c58d75-56fe-4433-a012-7f9dea37c00c_750x422.jpg",
       "category": "regional"
     },
@@ -41,20 +107,9 @@
       "headline": "Pete Hegseth pays a visit to Iowa State Fair to support Rep. Zach Nunn ahead of midterms",
       "summary": "The event, called Operation Top Nunn, was supposed to take place in March, but was postponed.",
       "url": "https://www.wqad.com/article/news/regional/pete-hegseth-iowa-state-fair-representative-zach-nunn-midterm-elections/524-4f1233d8-749a-4edc-baa4-6ede4983dcdb",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/c4a55523-3a71-46a7-8c4e-511c16962ddf/20260818T023201/c4a55523-3a71-46a7-8c4e-511c16962ddf_750x422.jpg",
       "category": "regional"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Couple chances of rain this week",
-      "summary": "Comfortable temperatures are in the forecast this week for the Quad Cities. Showers and a few storms are likely today, but widespread severe weather is not expe…",
-      "url": "https://www.ourquadcities.com/news/local-news/couple-chances-of-rain-this-week/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -63,19 +118,8 @@
       "headline": "Eldridge postpones final vote on fire department future",
       "summary": "The City Council decided to postpone the third reading of an ordinance that would have created a City fire department and allowed the City to hire a new fire ch…",
       "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-final-vote-fire-department-future-postponed/526-a89e05da-19fd-47d6-bd6d-4999d0fa1a83",
-      "time": "8 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/07a467c5-8019-4528-845b-6e5c9cb18a2a/20260818T041358/07a467c5-8019-4528-845b-6e5c9cb18a2a_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine police arrest suspect in officer's shooting",
-      "summary": "Mark Lee Jackson is accused of shooting a Muscatine police officer in the elbow during a pursuit on Friday night.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/mark-lee-jackson-arrested-muscatine-officer-shooting/526-252adc1e-db74-43d8-bc3e-b28490fa9dcd",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
       "category": "public-safety"
     },
     {
@@ -85,53 +129,9 @@
       "headline": "After Tyson Foods closure, job fair scheduled in Geneseo",
       "summary": "In response to the sudden closure of the Tyson Foods beef processing facility in Joslin and the thousands of workers affected throughout the region, Hammond-Hen…",
       "url": "https://www.ourquadcities.com/news/local-news/after-tyson-foods-closure-job-fair-scheduled-in-geneseo/",
-      "time": "12 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_c5546b.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bob Vitas resigns as Moline's city administrator",
-      "summary": "The city announced the news after publishing Tuesday's city council agenda, which includes a resolution to appoint Barry Dykhuizen as interim city administrator…",
-      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-bob-vitas-resigns/526-5afa55db-ca59-493d-bd73-9b0a96902479",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a75638f6-c102-43a3-a7dc-7ec382b7509e/a75638f6-c102-43a3-a7dc-7ec382b7509e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'Blind luck' helps Rock Island family find stolen car",
-      "summary": "Car thefts become more popular during the warm weather months. With more people outside, there can be more of a risk. One family in Rock Island fell victim to a…",
-      "url": "https://www.ourquadcities.com/news/local-news/blind-luck-helps-rock-island-family-find-stolen-car/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Blind-luck-helps-RI-family-find-stolen-car.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Shriners across the Midwest coming to the Quad Cities this week",
-      "summary": "The 2026 Central States Shrine Association Ceremonial Session runs from Wednesday, Aug. 19, to Saturday, Aug. 22.",
-      "url": "https://www.wqad.com/article/news/local/the-current/central-state-shrine-association-ceremonial-session-quad-cities/526-905afc1c-0366-424f-acd8-ca1efced8e0d",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a4be3273-bdb4-49af-84ba-732dd71cf70d/20260817T202040/a4be3273-bdb4-49af-84ba-732dd71cf70d_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Multiple cases of measles confirmed in southern Iowa, state HHS says",
-      "summary": "A measles outbreak in southern Iowa has led to 12 confirmed cases, with potential exposure in the Des Moines metro, Iowa HHS says.",
-      "url": "https://www.wqad.com/article/news/health/measles-iowa-outbreak-cases-new/524-7166fd18-8bdd-493b-bfc1-2d149c5687ab",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/c4a0b596-a156-461b-bdcd-f4ce79cb5216/20260722T180631/c4a0b596-a156-461b-bdcd-f4ce79cb5216_750x422.jpg",
-      "category": "health"
     }
   ]
 }
