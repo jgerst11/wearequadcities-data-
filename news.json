@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-18T16:33:26.340123+00:00",
+  "updated": "2026-08-18T20:25:15.189904+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'Disney On Ice' returning to Vibrant Arena in Moline",
+      "summary": "Shows run from Thursday, Dec. 3, through Sunday, Dec. 6.",
+      "url": "https://www.wqad.com/article/entertainment/events/disney-on-ice-vibrant-arena-moline-illinois-show-dates-tickets/526-f4f11436-4336-45a7-9fc3-4fd0bdbfbd2d",
+      "time": "5 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d699f84c-9792-4ec6-8d20-df918f4326ae/20260818T190826/d699f84c-9792-4ec6-8d20-df918f4326ae_750x422.jpg",
+      "category": "events"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Enjoy a day of trap shooting, golf in Kewanee",
+      "summary": "The Illinois Land Improvement Contractors Association (ILICA) is hosting their Area 3 Trap Shoot &#38; Golf Outing on September 18 in Kewanee for a full day of …",
+      "url": "https://www.ourquadcities.com/news/local-news/enjoy-a-day-of-trap-shooting-golf-in-kewanee/",
+      "time": "55 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Illinois-LICA-featured-image.png?w=460",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities International Airport has busiest month in nearly 13 years",
+      "summary": "The airport said the last time passenger traffic exceeded July's total was in October 2013.",
+      "url": "https://www.wqad.com/article/travel/quad-cities-international-airport-busiest-month-july-nearly-13-years/526-dba1b505-e17e-49e9-8693-973f838da394",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/07aec24c-f80d-4830-811c-b551d0072e9e/20260818T182105/07aec24c-f80d-4830-811c-b551d0072e9e_750x422.jpg",
+      "category": "travel"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Red Cross honors two Bettendorf YMCA employees",
+      "summary": "Two Bettendorf Family YMCA employees have been recognized by the American Red Cross for using their CPR and AED training earlier this year to help save the life…",
+      "url": "https://www.ourquadcities.com/news/local-news/red-cross-honors-two-bettendorf-ymca-employees/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/YMCA-of-the-Iowa-Mississippi-Valley.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quad Cities International Airport sees busiest month since 2013",
+      "summary": "It was busy at the Quad Cities International Airport in July! The airport recorded its busiest month in almost 13 years in July. Additional airline capacity and…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-international-airport-sees-busiest-month-since-2013/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/QC-airport.png?w=500",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Catch Disney on Ice Magic in the Stars at Vibrant Arena",
+      "summary": "Disney On Ice returns to the Vibrant Arena in Moline with this year’s show, Magic in the Stars from December 3-6. Showtimes on December 3 and 4 are at 7 p.m. Sh…",
+      "url": "https://www.ourquadcities.com/news/local-news/catch-disney-on-ice-magic-in-the-stars-at-vibrant-arena/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Disney-on-Ice-featured-image.png?w=454",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Semi crashes into overpass on I-80 near Sheffield",
+      "summary": "The Illinois State Police said IL 40 is shut down in both directions as of 9 a.m. Tuesday morning.",
+      "url": "https://www.wqad.com/article/news/local/semi-crash-il-40-overpass-sheffield-illinois/526-2e12fc37-1d78-4bc2-a6f4-52121f80c9bf",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "Man accused of shooting Muscatine County Sheriff's deputy facing 2 attempted murder charges",
       "summary": "Mark Lee Jackson was on the run for over two days after police say he fired at police and deputies during a pursuit.",
       "url": "https://www.wqad.com/article/news/crime/man-accused-of-shooting-muscatine-county-sheriffs-deputy-facing-2-attempted-murder-charges/526-c7c98e34-254a-4882-956e-3821aebc3965",
-      "time": "11 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
       "category": "crime"
     },
@@ -19,7 +96,7 @@
       "headline": "Police: Search for man accused of shooting Muscatine officer continues",
       "summary": "Muscatine police provided new information Sunday evening on the search for a man accused of shooting an officer following a pursuit Friday.",
       "url": "https://www.wqad.com/article/news/crime/muscatine-police-shooting-suspect-at-large-update-mark-lee-jackson/526-34854c75-e9b7-416a-a4cb-9750eb6d4012",
-      "time": "29 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
       "category": "crime"
     },
@@ -30,7 +107,7 @@
       "headline": "Suspect at large after officer shot in Muscatine",
       "summary": "Residents are urged not to approach Mark Lee Jackson. If he is seen, community members should call 911 immediately.",
       "url": "https://www.wqad.com/article/news/local/public-safety/muscatine-firearm-incident-rose-bowl-police-presence/526-e838ed45-0497-46a7-8fd1-d777456137c8",
-      "time": "30 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
       "category": "public-safety"
     },
@@ -41,7 +118,7 @@
       "headline": "Bettendorf High School recognized as FAFSA Focused School of Achievement",
       "summary": "Bettendorf High School (BHS) has been recognized as a FAFSA Focused School of Achievement by the Iowa Department of Education Bureau of Iowa College Aid for its…",
       "url": "https://www.ourquadcities.com/news/local-news/bettendorf-high-school-recognized-as-fafsa-focused-school-of-achievement/",
-      "time": "33 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Bettendorf-High-School.jpg?w=900",
       "category": "Local News"
     },
@@ -52,86 +129,9 @@
       "headline": "Muscatine police arrest suspect in officer's shooting",
       "summary": "Mark Lee Jackson is accused of shooting a Muscatine police officer in the elbow during a pursuit on Friday night.",
       "url": "https://www.wqad.com/article/news/local/public-safety/mark-lee-jackson-arrested-muscatine-officer-shooting/526-252adc1e-db74-43d8-bc3e-b28490fa9dcd",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: South Bluff Boulevard, Clinton, will reopen to traffic as other work progresses",
-      "summary": "Beginning Wednesday morning, Aug. 19, 2026, South Bluff Boulevard - between 2nd Avenue South and 5th Avenue South - will be reopened to traffic in Clinton, a ne…",
-      "url": "https://www.ourquadcities.com/news/local-news/update-south-bluff-boulevard-clinton-will-reopen-to-traffic-as-other-work-progresses/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Day 6 guide to the Iowa State Fair: 'It's ICONIC' tour, Beard contest, Farm Bureau Cook-Off",
-      "summary": "Don't let the weather rain on your parade! Local 5 has your guide to Day 6 of the Iowa State Fair.",
-      "url": "https://www.wqad.com/article/news/entertainment-news/day-6-iowa-state-fair-tlc-salt-n-pepa-en-vogue-john-deere-farm-bureau-cook-off-beard-growing/524-843e47d3-af93-4820-ae37-beea6ee1bc50",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ac2fda6a-7b6d-4b88-9e68-f99851efb04d/20260817T104005/ac2fda6a-7b6d-4b88-9e68-f99851efb04d_750x422.jpg",
-      "category": "entertainment-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa Governor's Charity Steer Show breaks record, surpasses $6.5 million in donations since 1983",
-      "summary": "The 44th annual Iowa Governor's Charity Steer Show raised money to benefit the three independent Ronald McDonald House Charities of Iowa.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-governors-charity-steer-show-breaks-record-2026-state-fair/524-00753891-ed14-45dd-abd5-3cbc885f7d2c",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b489a120-e72c-4745-9e07-dd808caffd8b/20260817T185615/b489a120-e72c-4745-9e07-dd808caffd8b_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Record turnout for Iowa State Fair Veterans Day parade honors US military's past and present heroes",
-      "summary": "The annual Veterans Day event at the Iowa State Fair featured around 2,000 participants, organizers say.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-veterans-day-parade/524-2e1060d4-2ae3-4bf9-aa92-8e25f328e53a",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/03c58d75-56fe-4433-a012-7f9dea37c00c/20260817T215048/03c58d75-56fe-4433-a012-7f9dea37c00c_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pete Hegseth pays a visit to Iowa State Fair to support Rep. Zach Nunn ahead of midterms",
-      "summary": "The event, called Operation Top Nunn, was supposed to take place in March, but was postponed.",
-      "url": "https://www.wqad.com/article/news/regional/pete-hegseth-iowa-state-fair-representative-zach-nunn-midterm-elections/524-4f1233d8-749a-4edc-baa4-6ede4983dcdb",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c4a55523-3a71-46a7-8c4e-511c16962ddf/20260818T023201/c4a55523-3a71-46a7-8c4e-511c16962ddf_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Eldridge postpones final vote on fire department future",
-      "summary": "The City Council decided to postpone the third reading of an ordinance that would have created a City fire department and allowed the City to hire a new fire ch…",
-      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-final-vote-fire-department-future-postponed/526-a89e05da-19fd-47d6-bd6d-4999d0fa1a83",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/07a467c5-8019-4528-845b-6e5c9cb18a2a/20260818T041358/07a467c5-8019-4528-845b-6e5c9cb18a2a_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "After Tyson Foods closure, job fair scheduled in Geneseo",
-      "summary": "In response to the sudden closure of the Tyson Foods beef processing facility in Joslin and the thousands of workers affected throughout the region, Hammond-Hen…",
-      "url": "https://www.ourquadcities.com/news/local-news/after-tyson-foods-closure-job-fair-scheduled-in-geneseo/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_c5546b.png?w=900",
-      "category": "Local News"
     }
   ]
 }
