@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T00:35:42.455056+00:00",
-  "total": 27,
+  "generated": "2026-08-18T06:23:51.688857+00:00",
+  "total": 30,
   "events": [
     {
       "id": "vqc_6415e7648ab6",
@@ -131,22 +131,6 @@
       "source": "eventbrite.com"
     },
     {
-      "id": "vqc_1e639e1c4f3a",
-      "name": "SHRINERS CONVENTION",
-      "start": "2026-08-19",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11595&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
       "id": "vqc_afd497a9b7cd",
       "name": "Marlee Matlin Live at the Putnam",
       "start": "2026-08-19",
@@ -209,6 +193,70 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F883923233%2F400465664237%2F1%2Foriginal.20241026-124511?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6d9bd199685ecb869d9c6a38c87fddac",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_299d91bda169",
+      "name": "Rooted In Hope A Community Sound Bath for Renewal and Connection with The Gray Matters Collective",
+      "start": "2026-08-20",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12968&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_8f07aa1773e1",
+      "name": "Yoga Night at Danndee Flowers UPick Farm",
+      "start": "2026-08-20",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12985&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_c8d3e9d18d1b",
+      "name": "Thursday Night Trivia at Jennies Boxcar",
+      "start": "2026-08-20",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13017&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_1e639e1c4f3a",
+      "name": "SHRINERS CONVENTION",
+      "start": "2026-08-20",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11595&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "vqc_93756bbb7945",
