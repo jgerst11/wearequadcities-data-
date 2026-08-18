@@ -1,6 +1,94 @@
 {
-  "updated": "2026-08-17T20:28:15.756066+00:00",
+  "updated": "2026-08-18T01:16:45.225352+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "After Tyson Foods closure, job fair scheduled in Geneseo",
+      "summary": "In response to the sudden closure of the Tyson Foods beef processing facility in Joslin and the thousands of workers affected throughout the region, Hammond-Hen…",
+      "url": "https://www.ourquadcities.com/news/local-news/after-tyson-foods-closure-job-fair-scheduled-in-geneseo/",
+      "time": "45 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Community-Job-Fair-.jpg?w=851",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bob Vitas resigns as Moline's city administrator",
+      "summary": "The city announced the news after publishing Tuesday's city council agenda, which includes a resolution to appoint Barry Dykhuizen as interim city administrator…",
+      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-bob-vitas-resigns/526-5afa55db-ca59-493d-bd73-9b0a96902479",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a75638f6-c102-43a3-a7dc-7ec382b7509e/a75638f6-c102-43a3-a7dc-7ec382b7509e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Blind luck' helps Rock Island family find stolen car",
+      "summary": "Car thefts become more popular during the warm weather months. With more people outside, there can be more of a risk. One family in Rock Island fell victim to a…",
+      "url": "https://www.ourquadcities.com/news/local-news/blind-luck-helps-rock-island-family-find-stolen-car/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Blind-luck-helps-RI-family-find-stolen-car.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Shriners across the Midwest coming to the Quad Cities this week",
+      "summary": "The 2026 Central States Shrine Association Ceremonial Session runs from Wednesday, Aug. 19, to Saturday, Aug. 22.",
+      "url": "https://www.wqad.com/article/news/local/the-current/central-state-shrine-association-ceremonial-session-quad-cities/526-905afc1c-0366-424f-acd8-ca1efced8e0d",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a4be3273-bdb4-49af-84ba-732dd71cf70d/20260817T202040/a4be3273-bdb4-49af-84ba-732dd71cf70d_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island teen wins Illinois' best bagger competition",
+      "summary": "An Illinois teen has won the title of best bagger in Illinois. According to a release from the Illinois Retail Merchants Association, Carlos Sabino, 17, won the…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-teen-wins-illinois-best-bagger-competition/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_363d59.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Multiple cases of measles confirmed in southern Iowa, state HHS says",
+      "summary": "A measles outbreak in southern Iowa has led to 12 confirmed cases, with potential exposure in the Des Moines metro, Iowa HHS says.",
+      "url": "https://www.wqad.com/article/news/health/measles-iowa-outbreak-cases-new/524-7166fd18-8bdd-493b-bfc1-2d149c5687ab",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/c4a0b596-a156-461b-bdcd-f4ce79cb5216/20260722T180631/c4a0b596-a156-461b-bdcd-f4ce79cb5216_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "United Township High School wins $5K in Friday Night 5G Lights contest",
+      "summary": "United Township High School in East Moline has been named one of T-Mobile’s first $5,000 Friday winners in the Friday Night 5G Lights contest this year. . The c…",
+      "url": "https://www.ourquadcities.com/news/local-news/united-township-high-school-wins-5k-in-friday-night-5g-lights-contest/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_681606.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Trailblazing Rock Island judge dies at 86 years old",
+      "summary": "Walter Braud died at the age of 86 last week. He worked in law for nearly five decades.",
+      "url": "https://www.wqad.com/article/news/local/walter-braud-trailblazing-rock-island-judge-dies-86-years-old/526-586610d2-5867-4d25-9017-10171947aacf",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d9485d2f-f2b0-4015-8b6a-14f9c64d9e4c/20241203T225813/d9485d2f-f2b0-4015-8b6a-14f9c64d9e4c_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +96,7 @@
       "headline": "Mark Schwiebert remembers late Judge Walter Braud",
       "summary": "Tributes continue to pour in after the death of longtime Rock Island attorney, judge, author and community leader Walter Braud on August 13 at the age of 86. At…",
       "url": "https://www.ourquadcities.com/news/local-news/mark-schwiebert-remembers-late-judge-walter-braud/",
-      "time": "24 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Walter-Braud.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +107,7 @@
       "headline": "Granola marketed to breastfeeding mothers under recall as it may be contaminated with salmonella",
       "summary": "The granola, marketed for breastfeeding mothers, was distributed nationwide through mail orders on the Hampton Grocer's website and on Amazon.",
       "url": "https://www.wqad.com/article/news/nation-world/granola-recall-salmonella-lacnola-lactation-granola-hampton-grocers/507-cd53bbd5-d9b4-4522-ba80-78f4ca46a401",
-      "time": "47 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/c40093cd-84a8-4f8c-aa97-b861092522ae/20260817T190003/c40093cd-84a8-4f8c-aa97-b861092522ae_750x422.jpg",
       "category": "nation-world"
     },
@@ -30,7 +118,7 @@
       "headline": "Abandoned building partially collapses in East Moline",
       "summary": "An abandoned building in East Moline has experienced a partial collapse, the second one in the area since the beginning of summer. The building is located at th…",
       "url": "https://www.ourquadcities.com/news/local-news/abandoned-building-partially-collapses-in-east-moline/",
-      "time": "53 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Media-3.jpg?w=900",
       "category": "Local News"
     },
@@ -41,97 +129,9 @@
       "headline": "Data centers emerging as key issue in Illinois governor’s race",
       "summary": "State lawmakers could tackle new regulations in this fall's veto session after the election.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/data-center-opposition-support-illinois-governors-race-key-issues-jb-pritzker-darren-bailey/526-41078957-4143-4ea2-8edc-3b2692032bd4",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c8b3c28f-21b6-4a84-a654-6a8b471272c2/20260817T192512/c8b3c28f-21b6-4a84-a654-6a8b471272c2_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Renew Moline acquires Washington Square Apartments",
-      "summary": "New income-restricted housing is coming to Moline. Renew Moline’s Board of Directors of Renew Moline said it has acquired Washington Square Apartments, a 10-uni…",
-      "url": "https://www.ourquadcities.com/news/local-news/renew-moline-acquires-washington-square-apartments/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_15c6f3.png?w=274",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Learn about data centers at Rock Island meeting",
-      "summary": "Data centers are making headlines across the country and communities are gathering together to discuss their impact. Prairie Rivers Network is hosting a present…",
-      "url": "https://www.ourquadcities.com/news/local-news/learn-about-data-centers-at-rock-island-meeting/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Prairie-River-Network-featured-image.png?w=624",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois town named finalist in Hallmark's Merriest Christmas Town contest",
-      "summary": "Carlinville, Illinois, has a chance to be the filming location for a Hallmark holiday movie. Here's how you can vote.",
-      "url": "https://www.wqad.com/article/news/regional/illinois-town-finalist-hallmarks-merriest-christmas-town-contest-how-to-vote-for-carlinville/63-ef5b60ff-da59-400c-9093-3350435135a2",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/48c1346d-53e7-4127-816b-e2123631aa45/20260817T134206/48c1346d-53e7-4127-816b-e2123631aa45_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Arrest made in Fulton County after 3D-printed handgun found during traffic stop",
-      "summary": "The Fulton County Sheriff's Office arrested an Illinois man after deputies found a 3D-printed handgun during a traffic stop",
-      "url": "https://www.wqad.com/article/news/crime/3d-printed-handgun-arrest-fulton-county-illinois/526-d981f8e8-f031-4e5c-bfc0-6614d205f93b",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Tickets available for Fall Senior Golf Cart Tour in Bettendorf",
-      "summary": "The Friends of Bettendorf Parks &#38; Recreation – partners of the Bettendorf Parks &#38; Recreation Department and endorsed by the City of Bettendorf – invite …",
-      "url": "https://www.ourquadcities.com/news/local-news/tickets-available-for-fall-senior-golf-cart-tour-in-bettendorf/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/04/Spring-Senior-Golf-Cart-Tour.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jay Leno will perform at Rhythm City Casino, Davenport",
-      "summary": "Jay Leno will perform at the Rhythm City Casino, 7077 Elmore Ave., Davenport, on Saturday, Feb. 20, 2027, according to a news release. Tickets are available her…",
-      "url": "https://www.ourquadcities.com/news/local-news/jay-leno-will-perform-at-rhythm-city-casino-davenport/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Jay-Leno.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Why is the Iowa State Fair a political hub? Local professor explains",
-      "summary": "Iowa's state fair has become a political hotspot, drawing candidates eager to connect with voters before the November elections.",
-      "url": "https://www.wqad.com/article/news/politics/why-iowa-state-fair-political-hub/524-f5886463-4bda-49f7-a568-edcd30777dfb",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c876d216-b609-42f2-be49-9180d9ec1c7d/20260815T015743/c876d216-b609-42f2-be49-9180d9ec1c7d_750x422.jpg",
-      "category": "politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair announces replacement act after Colt Ford injured in bus crash",
-      "summary": "Sterling Elza will replace Colt Ford at the fair's free MidAmerican Energy Stage on Wednesday, Aug. 19.",
-      "url": "https://www.wqad.com/article/news/entertainment-news/iowa-state-fair-sterling-elza-colt-ford-cancelled-bus-crash/524-dac372bf-d9ec-4814-a80c-2b6e92f16d2e",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b80b45d0-9ba6-4fda-aeab-1e0d1a7f1f99/20260816T211706/b80b45d0-9ba6-4fda-aeab-1e0d1a7f1f99_750x422.jpg",
-      "category": "entertainment-news"
     }
   ]
 }
