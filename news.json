@@ -1,6 +1,94 @@
 {
-  "updated": "2026-08-18T20:25:15.189904+00:00",
+  "updated": "2026-08-19T01:18:16.222418+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Training sessions scheduled for Taming of the Slough",
+      "summary": "Four Tune Up for Taming sessions to help participants prepare for the Taming of the Slough sessions will take place at the Bass Street Landing at the foot of 17…",
+      "url": "https://www.ourquadcities.com/news/local-news/training-sessions-scheduled-for-taming-of-the-slough/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2018/09/720x405_Taming20of20the20Slough_1536594705086.png_54864860_ver1.0.png?w=720",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New robotic procedure to test for lung cancer comes to Galesburg",
+      "summary": "The rate of new lung cancer cases in both Iowa and Illinois is higher than the national average. In numbers from 2025, the American Lung Association reports tha…",
+      "url": "https://www.ourquadcities.com/news/local-news/new-robotic-procedure-to-test-for-lung-cancer-comes-to-galesburg/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Robotic-procedure-for-lung-cancer-testing-comes-to-Galesburg.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Akwaaba QC opens food pantry in SouthPark Mall",
+      "summary": "The food pantry is open Tuesdays, Thursdays and Fridays from 9 a.m. to 5 p.m.",
+      "url": "https://www.wqad.com/article/news/community/akwaaba-qc-food-pantry-southpark-mall/526-1dfccbb0-eebc-46c6-b8be-933181589fb6",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2c8170f7-b0b3-4861-8f25-26ef6a153e81/20260818T231953/2c8170f7-b0b3-4861-8f25-26ef6a153e81_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Maquoketa, consultant, cease talks about data center development",
+      "summary": "The City of Maquoketa and its development consultant have stopped consideration of a data center development in Maquoketa’s South Highway 61 Industrial Park, ac…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-maquoketa-consultant-cease-talks-about-data-center-development/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/76f6d2249c30419883ecf57b3fa595c9.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Milan Hy-Vee employee honored on semi for 40+ years of service",
+      "summary": "A longtime Milan Hy-Vee employee is being honored in a big way for more than 40 years of service. Brenda Daniels, who serves as retail product and pricing speci…",
+      "url": "https://www.ourquadcities.com/news/local-news/milan-hy-vee-employee-honored-on-semi-for-40-years/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_5c27de.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man accused of shooting Muscatine County sheriff's deputy facing 2 attempted murder charges",
+      "summary": "Mark Lee Jackson was on the run for over two days after police said he fired at police and deputies during a pursuit.",
+      "url": "https://www.wqad.com/article/news/crime/man-accused-of-shooting-muscatine-county-sheriffs-deputy-facing-2-attempted-murder-charges/526-c7c98e34-254a-4882-956e-3821aebc3965",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities International Airport has busiest month in nearly 13 years",
+      "summary": "The airport said the last time passenger traffic exceeded July's total was in October 2013.",
+      "url": "https://www.wqad.com/article/travel/quad-cities-international-airport-busiest-month-july-nearly-13-years/526-dba1b505-e17e-49e9-8693-973f838da394",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/07aec24c-f80d-4830-811c-b551d0072e9e/20260818T182105/07aec24c-f80d-4830-811c-b551d0072e9e_750x422.jpg",
+      "category": "travel"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock out to \"The Best of The Who\" with Riverfront Pops!",
+      "summary": "You can rock out in LeClaire Park to the music of The Who! Hisham Bravo Groover joined Our Quad Cities News with details on \"The Best of The Who\" with Riverfron…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-out-to-the-best-of-the-who-with-riverfront-pops/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_dd98f4.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +96,7 @@
       "headline": "'Disney On Ice' returning to Vibrant Arena in Moline",
       "summary": "Shows run from Thursday, Dec. 3, through Sunday, Dec. 6.",
       "url": "https://www.wqad.com/article/entertainment/events/disney-on-ice-vibrant-arena-moline-illinois-show-dates-tickets/526-f4f11436-4336-45a7-9fc3-4fd0bdbfbd2d",
-      "time": "5 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d699f84c-9792-4ec6-8d20-df918f4326ae/20260818T190826/d699f84c-9792-4ec6-8d20-df918f4326ae_750x422.jpg",
       "category": "events"
     },
@@ -19,20 +107,9 @@
       "headline": "Enjoy a day of trap shooting, golf in Kewanee",
       "summary": "The Illinois Land Improvement Contractors Association (ILICA) is hosting their Area 3 Trap Shoot &#38; Golf Outing on September 18 in Kewanee for a full day of …",
       "url": "https://www.ourquadcities.com/news/local-news/enjoy-a-day-of-trap-shooting-golf-in-kewanee/",
-      "time": "55 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Illinois-LICA-featured-image.png?w=460",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/08/Illinois-Land-Improvement-Contractors-Association.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities International Airport has busiest month in nearly 13 years",
-      "summary": "The airport said the last time passenger traffic exceeded July's total was in October 2013.",
-      "url": "https://www.wqad.com/article/travel/quad-cities-international-airport-busiest-month-july-nearly-13-years/526-dba1b505-e17e-49e9-8693-973f838da394",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/07aec24c-f80d-4830-811c-b551d0072e9e/20260818T182105/07aec24c-f80d-4830-811c-b551d0072e9e_750x422.jpg",
-      "category": "travel"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,30 +118,8 @@
       "headline": "Red Cross honors two Bettendorf YMCA employees",
       "summary": "Two Bettendorf Family YMCA employees have been recognized by the American Red Cross for using their CPR and AED training earlier this year to help save the life…",
       "url": "https://www.ourquadcities.com/news/local-news/red-cross-honors-two-bettendorf-ymca-employees/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/YMCA-of-the-Iowa-Mississippi-Valley.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad Cities International Airport sees busiest month since 2013",
-      "summary": "It was busy at the Quad Cities International Airport in July! The airport recorded its busiest month in almost 13 years in July. Additional airline capacity and…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-international-airport-sees-busiest-month-since-2013/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/QC-airport.png?w=500",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Catch Disney on Ice Magic in the Stars at Vibrant Arena",
-      "summary": "Disney On Ice returns to the Vibrant Arena in Moline with this year’s show, Magic in the Stars from December 3-6. Showtimes on December 3 and 4 are at 7 p.m. Sh…",
-      "url": "https://www.ourquadcities.com/news/local-news/catch-disney-on-ice-magic-in-the-stars-at-vibrant-arena/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Disney-on-Ice-featured-image.png?w=454",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_41313d.png?w=900",
       "category": "Local News"
     },
     {
@@ -74,64 +129,9 @@
       "headline": "Semi crashes into overpass on I-80 near Sheffield",
       "summary": "The Illinois State Police said IL 40 is shut down in both directions as of 9 a.m. Tuesday morning.",
       "url": "https://www.wqad.com/article/news/local/semi-crash-il-40-overpass-sheffield-illinois/526-2e12fc37-1d78-4bc2-a6f4-52121f80c9bf",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man accused of shooting Muscatine County Sheriff's deputy facing 2 attempted murder charges",
-      "summary": "Mark Lee Jackson was on the run for over two days after police say he fired at police and deputies during a pursuit.",
-      "url": "https://www.wqad.com/article/news/crime/man-accused-of-shooting-muscatine-county-sheriffs-deputy-facing-2-attempted-murder-charges/526-c7c98e34-254a-4882-956e-3821aebc3965",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Police: Search for man accused of shooting Muscatine officer continues",
-      "summary": "Muscatine police provided new information Sunday evening on the search for a man accused of shooting an officer following a pursuit Friday.",
-      "url": "https://www.wqad.com/article/news/crime/muscatine-police-shooting-suspect-at-large-update-mark-lee-jackson/526-34854c75-e9b7-416a-a4cb-9750eb6d4012",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Suspect at large after officer shot in Muscatine",
-      "summary": "Residents are urged not to approach Mark Lee Jackson. If he is seen, community members should call 911 immediately.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/muscatine-firearm-incident-rose-bowl-police-presence/526-e838ed45-0497-46a7-8fd1-d777456137c8",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a/20260815T184631/a7a2d39e-22ad-4312-84a7-1d3e7d231b9a_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf High School recognized as FAFSA Focused School of Achievement",
-      "summary": "Bettendorf High School (BHS) has been recognized as a FAFSA Focused School of Achievement by the Iowa Department of Education Bureau of Iowa College Aid for its…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-high-school-recognized-as-fafsa-focused-school-of-achievement/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Bettendorf-High-School.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine police arrest suspect in officer's shooting",
-      "summary": "Mark Lee Jackson is accused of shooting a Muscatine police officer in the elbow during a pursuit on Friday night.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/mark-lee-jackson-arrested-muscatine-officer-shooting/526-252adc1e-db74-43d8-bc3e-b28490fa9dcd",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
