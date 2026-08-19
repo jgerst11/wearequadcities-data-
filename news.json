@@ -1,6 +1,116 @@
 {
-  "updated": "2026-08-19T16:32:36.733464+00:00",
+  "updated": "2026-08-19T20:29:13.947109+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities legislators discussing next steps after Tyson plant closure in Joslin",
+      "summary": "Lawmakers said they hope to \"spur plant repurposing\" after the closure, but further details on this possibility weren't provided.",
+      "url": "https://www.wqad.com/article/news/local/tyson-plant-closure-joslin-illinois-quad-cities-legislators-next-steps/526-de78046b-542b-4763-91c7-a3ee00965e4e",
+      "time": "7 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/198c7400-d63c-4397-aa7d-1d0458a0647e/20260815T030933/198c7400-d63c-4397-aa7d-1d0458a0647e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Henry County Sheriff's Office ends Flock partnership",
+      "summary": "The Henry County Sheriff's Office is ending its partnership with Flock Safety. A post on the department’s Facebook page said it is ending its partnership with F…",
+      "url": "https://www.ourquadcities.com/news/local-news/henry-county-sheriffs-office-ends-flock-partnership/",
+      "time": "18 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/Henry-County-Sheriffs-Office.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock out at Rockin’ the River at Harold’s Landing",
+      "summary": "Enjoy lively music along the riverfront at Rockin’ the River! According to a release from Moline Parks and Recreation, Rockin’ the River returns to Harold’s Lan…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-out-at-rockin-the-river-at-harolds-landing/",
+      "time": "59 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_3fae03.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker signs disaster proclamation to aid Illinois communities in storm cleanup efforts",
+      "summary": "The relief will be available to 15 counties after recent severe and record-breaking storms.",
+      "url": "https://www.wqad.com/article/weather/severe-weather/illinois-severe-weather-disaster-proclamation-governor-jb-pritzker-storm-cleanup/526-e68bcea1-964b-42c3-ac78-bab4074531a0",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cde5fc76-e5fa-4a37-8131-1e663bb50a9f/20260819T190436/cde5fc76-e5fa-4a37-8131-1e663bb50a9f_750x422.jpg",
+      "category": "severe-weather"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Discussions cease over proposed data center in Maquoketa",
+      "summary": "In a Facebook post, the City said it and its development consultant, Gronen, mutually agreed to cease preliminary discussions on the proposed data center.",
+      "url": "https://www.wqad.com/article/news/local/maquoketa-iowa-data-center-discussions-cease/526-fac39f71-c57c-4db8-a528-413cc88cff4e",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b9362cb7-474d-46b8-8f7d-931c9d2e13e6/20260819T184525/b9362cb7-474d-46b8-8f7d-931c9d2e13e6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "32-year-old airlifted after crashing e-bike near Wayland, Iowa",
+      "summary": "The crash happened around 7 p.m. on Monday in the 1100 block of Franklin Avenue.",
+      "url": "https://www.wqad.com/article/news/local/ebike-crash-wayland-iowa-henry-county-sheriffs-office/526-f0e7b5fc-7ec2-4229-b110-397504683024",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/b04b962b-faeb-429c-9016-973220d7c69b/20260217T210124/b04b962b-faeb-429c-9016-973220d7c69b_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-221/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Jason-Adrian-Dujuan-Watts-Mug-shot.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "19 local authors to gather at Moline library showcase",
+      "summary": "The second annual Local Author Showcase will be Saturday, Aug. 22. You can meet local writers and learn about their processes, inspirations and work.",
+      "url": "https://www.wqad.com/article/news/local/the-current/moline-library-local-author-showcase-19-qca-writers-published-meet-greet-event/526-2577e02c-5f56-4a9f-bc1e-9902b6f616b5",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ac578f20-4d6a-4218-8ed6-0e6db5067f52/20240918T145841/ac578f20-4d6a-4218-8ed6-0e6db5067f52_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline appoints Barry Dykhuizen interim city administrator",
+      "summary": "During Tuesday's meeting, Moline's City Council also formally accepted the resignation of former city administrator, Bob Vitas.",
+      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-interim-barry-dykhuizen-bob-vitas-resign/526-67f77d86-b56c-45fd-80d6-9e744a7839e5",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/aef1354d-5488-4d46-832c-2f4f0819eb12/aef1354d-5488-4d46-832c-2f4f0819eb12_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man accused of shooting Muscatine County sheriff's deputy facing 2 attempted murder charges",
+      "summary": "Mark Lee Jackson was on the run for over two days after police said he fired at police and deputies during a pursuit.",
+      "url": "https://www.wqad.com/article/news/crime/man-accused-of-shooting-muscatine-county-sheriffs-deputy-facing-2-attempted-murder-charges/526-c7c98e34-254a-4882-956e-3821aebc3965",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c31ff9b8-5aee-4464-a71d-0ab6680f479c/20260818T145308/c31ff9b8-5aee-4464-a71d-0ab6680f479c_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +118,7 @@
       "headline": "Quad Cities community learns, shares concerns about data centers",
       "summary": "Data centers are quickly becoming part of life in the Quad Cities. With all the activity, some nonprofits wanted residents to know more about them.",
       "url": "https://www.wqad.com/article/news/local/quad-cities-data-center-education-debate-concerns/526-9028c058-5d04-4528-9987-b41b8c6d0c2e",
-      "time": "8 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/35c59577-d847-465b-a5f2-122074246ac6/20260819T030512/35c59577-d847-465b-a5f2-122074246ac6_750x422.jpg",
       "category": "local"
     },
@@ -19,118 +129,8 @@
       "headline": "Community Health Care, Whiteside County Health Department awarded state construction grants",
       "summary": "The Illinois Capital Development Board (CDB) and the Illinois Department of Public Health (IDPH) announced $50 million in grant funding has been awarded to 21 g…",
       "url": "https://www.ourquadcities.com/news/local-news/community-health-care-whiteside-county-health-department-awarded-state-construction-grants/",
-      "time": "40 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Illinois-Department-of-Public-Health.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Day 7 guide to the Iowa State Fair: AJR, Sensory-friendly morning, Bingo, Cow Chip Throwing Contest and chess tournaments",
-      "summary": "We may be more than halfway through the fair, but we're nowhere near being halfway through the fun!",
-      "url": "https://www.wqad.com/article/news/regional/day-7-iowa-state-fair-sensory-friendly-morning-ajr-bingo-cow-chip-throwing-contest-chess/524-1647716c-8bb2-4934-b4db-ad744b57d4b3",
-      "time": "46 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ac2d0fb9-e81d-4f44-ab28-c9baf9861eaf/20260814T011835/ac2d0fb9-e81d-4f44-ab28-c9baf9861eaf_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa first in US to launch new peer support drug prevention programs",
-      "summary": "Iowa will pilot two new federally funded drug prevention programs under the Great American Recovery Plan, aimed at keeping families together and reducing foster…",
-      "url": "https://www.wqad.com/article/news/regional/iowa-first-to-launch-new-peer-support-drug-prevention-programs/524-5a25f633-fc65-4be5-9e5b-0e105adb7c8e",
-      "time": "47 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ca41ae9d-f78c-410b-a3ad-0f131bd9aaa8/20260818T222556/ca41ae9d-f78c-410b-a3ad-0f131bd9aaa8_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Snakes at the fair: Owners of Snakes Alive exhibit want fairgoers to learn about reptiles in Iowa",
-      "summary": "Snakes Alive, a reptile exhibit exclusive to the Iowa State Fair, was founded by snake lover Thomas Weidner 51 years ago.",
-      "url": "https://www.wqad.com/article/news/regional/snakes-alive-reptile-education-iowa-state-fair-exhibit/524-9365a84c-c8e8-49fe-b8ec-21a0f8cec546",
-      "time": "48 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/e46e655c-5036-4c0a-9353-7f65e028e1d6/20260819T125045/e46e655c-5036-4c0a-9353-7f65e028e1d6_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man charged with murder, attempted murder of a peace officer in connection to Stuart shooting",
-      "summary": "Austin Reed, 46, allegedly shot and killed a women before shooting an Iowa State Patrol trooper.",
-      "url": "https://www.wqad.com/article/news/crime/stuart-shooting-iowa-suspect-charged-death-injuries-state-patrol-trooper/524-d5e0a7d8-3707-4db2-969c-eb91c90d213f",
-      "time": "49 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/94b776ab-7fe7-4207-b59e-39f0b24fa050/20260819T031125/94b776ab-7fe7-4207-b59e-39f0b24fa050_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Group O, Lantech, will present Lantech Packaging Tour to QC businesses",
-      "summary": "Group O and Lantech will bring packaging automation directly to businesses across the Quad Cities region during the upcoming Lantech Packaging Tour, a week-long…",
-      "url": "https://www.ourquadcities.com/news/local-news/group-o-lantech-will-present-lantech-packaging-tour-to-qc-businesses/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Lantech-2.jpg?w=862",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "13th annual Hampton Days will bring food, fun for all ages",
-      "summary": "The 13th Annual Hampton Days will be held Friday and Saturday, Aug. 21-22, a news release says. Admission is free. Friday Saturday Food vendors will include Oct…",
-      "url": "https://www.ourquadcities.com/news/local-news/13th-annual-hampton-days-will-bring-food-fun-for-all-ages/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/08/Hampton-Days.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Training sessions scheduled for Taming of the Slough",
-      "summary": "Four Tune Up for Taming sessions to help participants prepare for the Taming of the Slough sessions will take place at the Bass Street Landing at the foot of 17…",
-      "url": "https://www.ourquadcities.com/news/local-news/training-sessions-scheduled-for-taming-of-the-slough/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2018/09/720x405_Taming20of20the20Slough_1536594705086.png_54864860_ver1.0.png?w=720",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "New robotic procedure to test for lung cancer comes to Galesburg",
-      "summary": "The rate of new lung cancer cases in both Iowa and Illinois is higher than the national average. In numbers from 2025, the American Lung Association reports tha…",
-      "url": "https://www.ourquadcities.com/news/local-news/new-robotic-procedure-to-test-for-lung-cancer-comes-to-galesburg/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Robotic-procedure-for-lung-cancer-testing-comes-to-Galesburg.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Akwaaba QC opens food pantry in SouthPark Mall",
-      "summary": "The food pantry is open Tuesdays, Thursdays and Fridays from 9 a.m. to 5 p.m.",
-      "url": "https://www.wqad.com/article/news/community/akwaaba-qc-food-pantry-southpark-mall/526-1dfccbb0-eebc-46c6-b8be-933181589fb6",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2c8170f7-b0b3-4861-8f25-26ef6a153e81/20260818T231953/2c8170f7-b0b3-4861-8f25-26ef6a153e81_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "City of Maquoketa, consultant, cease talks about data center development",
-      "summary": "The City of Maquoketa and its development consultant have stopped consideration of a data center development in Maquoketa’s South Highway 61 Industrial Park, ac…",
-      "url": "https://www.ourquadcities.com/news/local-news/city-of-maquoketa-consultant-cease-talks-about-data-center-development/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/76f6d2249c30419883ecf57b3fa595c9.jpg?w=900",
       "category": "Local News"
     }
   ]
