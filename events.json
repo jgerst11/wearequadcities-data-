@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T12:25:51.225493+00:00",
-  "total": 28,
+  "generated": "2026-08-20T18:22:38.734420+00:00",
+  "total": 29,
   "events": [
     {
       "id": "vqc_299d91bda169",
@@ -94,6 +94,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12676&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_0d5a9e4cb7a8",
+      "name": "Picasso at the Lapin Agile by Steve Martin",
+      "start": "2026-08-21",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13127&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -275,22 +291,6 @@
       "source": "visitquadcities.com"
     },
     {
-      "id": "vqc_1e639e1c4f3a",
-      "name": "SHRINERS CONVENTION",
-      "start": "2026-08-21",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11595&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
       "id": "vqc_93756bbb7945",
       "name": "Riverboat Twilight 2 Day Cruise",
       "start": "2026-08-21",
@@ -321,6 +321,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190079756%2F2715140741111%2F1%2Foriginal.20260801-025612?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e3edfd248dd7634088535c34f1383146",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_1e639e1c4f3a",
+      "name": "SHRINERS CONVENTION",
+      "start": "2026-08-22",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11595&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "eb_d837e8f2fb97",
