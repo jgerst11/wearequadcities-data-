@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T12:23:38.432154+00:00",
+  "generated": "2026-08-21T18:21:21.053796+00:00",
   "total": 31,
   "events": [
     {
@@ -211,6 +211,22 @@
       "source": "eventbrite.com"
     },
     {
+      "id": "vqc_d4d947b1ef22",
+      "name": "Blooming Cactus Paint and Sip at ArtFlow Studios",
+      "start": "2026-08-22",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13130&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
       "id": "vqc_98e36d952d93",
       "name": "Over the Edge 2026",
       "start": "2026-08-22",
@@ -350,22 +366,6 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=12313&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
-      "id": "vqc_1e639e1c4f3a",
-      "name": "SHRINERS CONVENTION",
-      "start": "2026-08-22",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11595&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
