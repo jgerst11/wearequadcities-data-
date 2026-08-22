@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-22T12:40:27.505235+00:00",
+  "updated": "2026-08-22T16:25:40.396128+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Pleasant Valley School District resignations, hirings from August school board agenda",
+      "summary": "The following personnel items are from the Aug. 10 of the Pleasant Valley School District. The School Board met at Belmont Administration Center at 525 Belmont …",
+      "url": "https://qctimes.com/news/local/education/article_8510f93d-1f72-4a41-93a2-e6dcce1397b6.html",
+      "time": "3 h ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Retirements, hirings and other Davenport schools personnel news from August 10",
+      "summary": "See the personnel items from the Aug. 10 agenda of the Davenport Community School District.",
+      "url": "https://qctimes.com/news/local/education/article_7cbf2aef-88e0-4c60-ae57-6f1f079c47bb.html",
+      "time": "4 h ago",
+      "image": "",
+      "category": ""
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,9 +30,31 @@
       "headline": "NSRA QC Street Rod Nationals will roar into Davenport",
       "summary": "The NSRA Quad Cities Street Rod Nationals is back Aug. 28-29 at the Mississippi Valley Fairgrounds, Davenport, a news release says. Car enthusiasts and spectato…",
       "url": "https://www.ourquadcities.com/news/local-news/nsra-qc-street-rod-nationals-will-roar-into-davenport/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/09/street-hot-rod-showcase-GENERIC.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Flock license plate readers vandalized in the Quad-Cities",
+      "summary": "At least 10 Flock Safety automatic license plate readers in the Quad-Cities have been vandalized, according to area police departments.",
+      "url": "https://qctimes.com/news/local/crime-courts/article_693e5ebb-ad48-43ff-b1f7-fb8c1a0b1e75.html",
+      "time": "5 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/a/56/a565aae4-dc83-43d1-8ec9-e47d9344f90d/6a888d3d66d3c.image.jpg?resize=300%2C226",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Illinois Quad-Cites-area high school football scores for Week 1",
+      "summary": "Check out the area final scores.",
+      "url": "https://qctimes.com/sports/high-school/football/article_c77b5ecb-a2a8-407e-a408-40f2b6aef9d6.html",
+      "time": "12 h ago",
+      "image": "",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +63,7 @@
       "headline": "OQC Crime Watch: County ends contract with Flock cameras: Episode 77",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-county-ends-contract-with-flock-cameras-episode-77/",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mark-Lee-Jackson-mug-shot.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +74,7 @@
       "headline": "Quad Cities community remembers Trudy Appleby 30 years after disappearance",
       "summary": "About 50 people gathered at Bass Street Landing Friday evening to honor Trudy Appleby on the 30th anniversary of her disappearance.",
       "url": "https://www.wqad.com/article/news/crime/trudy-appleby/trudy-appleby-vigil-30-years-anniversary-disappearance/526-534f8d45-e0bd-423f-8c4c-5f11e7c37a21",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/05044905-c944-49bf-bce9-2879f287cd17/20260822T030418/05044905-c944-49bf-bce9-2879f287cd17_750x422.jpg",
       "category": "trudy-appleby"
     },
@@ -41,7 +85,7 @@
       "headline": "Records show former Moline city administrator was warned about inappropriate behavior before resigning",
       "summary": "Documents show that city council unanimously agreed to terminate Bob Vitas' contract. However, he was given the option to resign before that action took place.",
       "url": "https://www.wqad.com/article/news/local/moline-city-administrator-resigns-bob-vitas-employment-separation-terms-cause/526-f1c692ed-408d-454f-9f44-17801852c44c",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c1de77be-a358-4a31-b6fa-ed161873d1a4/20260821T223627/c1de77be-a358-4a31-b6fa-ed161873d1a4_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +96,7 @@
       "headline": "'Certain people ... know certain things.' Trudy Appleby has been gone for 30 years",
       "summary": "Friday marked 30 years since 11-year-old Trudy Appleby was last seen leaving her home in Moline. Her family moves toward some closure after the man police say k…",
       "url": "https://www.ourquadcities.com/news/local-news/certain-people-know-certain-things-trudy-appleby-has-been-gone-for-30-years/",
-      "time": "9 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Trudy-Appleby.jpg?w=900",
       "category": "Local News"
     },
@@ -63,7 +107,7 @@
       "headline": "Nurses, first responders train at MercyOne Genesis to prepare for pediatric trauma",
       "summary": "A first-of-its-kind training happened in Davenport on Friday, when nurses and first responders focused on preparing for pediatric trauma. The MercyOne Genesis p…",
       "url": "https://www.ourquadcities.com/news/local-news/nurses-first-responders-train-at-mercyone-genesis-to-prepare-for-pediatric-trauma/",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/pediatric-emergency-training.jpg?w=561",
       "category": "Local News"
     },
@@ -74,7 +118,7 @@
       "headline": "Body found in Hennepin Canal near Milan, state police confirm",
       "summary": "Few details have been provided at this time. ISP said this is to protect the integrity of the investigation.",
       "url": "https://www.wqad.com/article/news/local/milan-police-presence-us-67-bridge-rock-river-illinois/526-69a2d548-3d09-486b-87aa-fbdd2c3a19e6",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
       "category": "local"
     },
@@ -85,52 +129,8 @@
       "headline": "Gavin Waidelich, Our Quad Cities News, goes Over the Edge for Big Brothers/Big Sisters",
       "summary": "Gavin Waidelich, of Our Quad Cities News, went Over the Edge on Friday afternoon to raise money for Big Brothers Big Sisters of the Mississippi Valley. A crowd …",
       "url": "https://www.ourquadcities.com/news/local-news/gavin-waidelich-our-quad-cities-news-goes-over-the-edge-for-big-brothers-big-sisters/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Gavin-Waidelich-.png?w=566",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "State HHS reports additional cases of measles amid southern Iowa outbreak",
-      "summary": "The Iowa Department of Health and Human Services confirmed more measles cases amid an outbreak, rising to 16.",
-      "url": "https://www.wqad.com/article/news/health/state-hhs-additional-cases-measles-southern-iowa-outbreak-des-moines-metro-exposure/524-2a84bda0-4535-43b1-a2b1-4beb9d62eaee",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WGRZ/images/cb6f033a-f89f-4736-9262-5c0f964eb395/20250319T170643/cb6f033a-f89f-4736-9262-5c0f964eb395_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against City of Davenport over heavily redacted city administrator resume",
-      "summary": "In response to a public records request, the City produced a resume with almost everything blacked out.",
-      "url": "https://www.wqad.com/article/news/local/lawsuit-filed-against-city-davenport-heavily-redacted-city-administrator-resume-tim-gleason/526-38d02781-7f8b-4c11-9543-36cecd020035",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/adf05675-ce7d-43af-ac80-7cccac4ace26/20260821T222700/adf05675-ce7d-43af-ac80-7cccac4ace26_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "SR Promotions schedules season championships at Davenport Speedway",
-      "summary": "SR Promotions will hold its season championships at Davenport Speedway on Monday, Aug. 24, a news release says. The event was originally scheduled for Aug. 14, …",
-      "url": "https://www.ourquadcities.com/news/local-news/sr-promotions-schedules-season-championships-at-davenport-speedway/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Body found near Big Island",
-      "summary": "Our Quad Cities News was on the scene at Big Island, where a body was found earlier today. Rock Island County Coroner Brian Gustafson confirmed to Our Quad Citi…",
-      "url": "https://www.ourquadcities.com/news/local-news/body-found-near-big-island/",
       "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Big-Island.png?w=624",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Our-Quad-Cities-News-Gavin-Waidelich-goes-Over-the-Edge-for-Big-Brothers-Big-Sisters-of-the-Mississippi-Valley.jpg?w=900",
       "category": "Local News"
     }
   ]
