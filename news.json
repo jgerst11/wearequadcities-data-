@@ -1,6 +1,94 @@
 {
-  "updated": "2026-08-21T20:26:46.082010+00:00",
+  "updated": "2026-08-22T01:16:15.853272+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Records show former Moline city administrator was warned about inappropriate behavior before resigning",
+      "summary": "Documents show that city council unanimously agreed to terminate Bob Vitas' contract. However, he was given the option to resign before that action took place.",
+      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-resigns-bob-vitas-employment-separation-terms-cause/526-f1c692ed-408d-454f-9f44-17801852c44c",
+      "time": "0 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c1de77be-a358-4a31-b6fa-ed161873d1a4/20260821T223627/c1de77be-a358-4a31-b6fa-ed161873d1a4_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Body found in Hennepin Canal near Milan, state police confirm",
+      "summary": "Few details have been provided at this time. ISP said this is to protect the integrity of the investigation.",
+      "url": "https://www.wqad.com/article/news/local/milan-police-presence-us-67-bridge-rock-river-illinois/526-69a2d548-3d09-486b-87aa-fbdd2c3a19e6",
+      "time": "24 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Fish kill discovered at West Lake Park in Scott County",
+      "summary": "Scott County Conservation employees say they started finding dead fish last week in West Lake Park. Iowa's Department of Natural Resources estimates 3,500 to 4,…",
+      "url": "https://www.ourquadcities.com/news/local-news/fish-kill-discovered-at-west-lake-park-in-scott-county/",
+      "time": "50 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Brad-Taylor-park-manager-West-Lake-Park.png?w=563",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gavin Waidelich, Our Quad Cities News, goes Over the Edge for Big Brothers/Big Sisters",
+      "summary": "Gavin Waidelich, of Our Quad Cities News, went Over the Edge on Friday afternoon to raise money for Big Brothers Big Sisters of the Mississippi Valley. A crowd …",
+      "url": "https://www.ourquadcities.com/news/local-news/gavin-waidelich-our-quad-cities-news-goes-over-the-edge-for-big-brothers-big-sisters/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Gavin-Waidelich-.png?w=566",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "State HHS reports additional cases of measles amid southern Iowa outbreak",
+      "summary": "The Iowa Department of Health and Human Services confirmed more measles cases amid an outbreak, rising to 16.",
+      "url": "https://www.wqad.com/article/news/health/state-hhs-additional-cases-measles-southern-iowa-outbreak-des-moines-metro-exposure/524-2a84bda0-4535-43b1-a2b1-4beb9d62eaee",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WGRZ/images/cb6f033a-f89f-4736-9262-5c0f964eb395/20250319T170643/cb6f033a-f89f-4736-9262-5c0f964eb395_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Lawsuit filed against City of Davenport over heavily redacted city administrator resume",
+      "summary": "In response to a public records request, the City produced a resume with almost everything blacked out.",
+      "url": "https://www.wqad.com/article/news/local/lawsuit-filed-against-city-davenport-heavily-redacted-city-administrator-resume-tim-gleason/526-38d02781-7f8b-4c11-9543-36cecd020035",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/adf05675-ce7d-43af-ac80-7cccac4ace26/20260821T222700/adf05675-ce7d-43af-ac80-7cccac4ace26_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "SR Promotions schedules season championships at Davenport Speedway",
+      "summary": "SR Promotions will hold its season championships at Davenport Speedway on Monday, Aug. 24, a news release says. The event was originally scheduled for Aug. 14, …",
+      "url": "https://www.ourquadcities.com/news/local-news/sr-promotions-schedules-season-championships-at-davenport-speedway/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Work on I-74, John Deere Road starts Aug. 24",
+      "summary": "Summer may be winding down but it’s still Road Construction Season in Illinois. The Illinois Department of Transportation announced today that work on the Inter…",
+      "url": "https://www.ourquadcities.com/news/local-news/work-on-i-74-john-deere-road-starts-aug-24/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Illinois-Department-of-Transportation-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,42 +96,9 @@
       "headline": "Body found near Big Island",
       "summary": "Our Quad Cities News was on the scene at Big Island, where a body was found earlier today. Rock Island County Coroner Brian Gustafson confirmed to Our Quad Citi…",
       "url": "https://www.ourquadcities.com/news/local-news/body-found-near-big-island/",
-      "time": "5 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Big-Island.png?w=624",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "National Senior Citizens Day recognizes older adults' impact",
-      "summary": "August 21 is National Senior Citizens Day, a day that recognizes older adults and the impact they have had on society. The day was created in 1988 after Preside…",
-      "url": "https://www.ourquadcities.com/news/local-news/national-senior-citizens-day-recognizes-older-adults-impact/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Elderly-person.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Fire Department receives reaccreditation",
-      "summary": "The Davenport Fire Department has received reaccreditation from the Commission on Fire Accreditation International (CFAI), after a hearing on August 20 in Rosem…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-fire-department-receives-reaccreditation/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Davenport-Fire-Department.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Heavy police presence near US 67 bridge in Milan",
-      "summary": "This is a developing story. News 8 is at the scene, working to gather more information.",
-      "url": "https://www.wqad.com/article/news/local/milan-police-presence-us-67-bridge-rock-river-illinois/526-69a2d548-3d09-486b-87aa-fbdd2c3a19e6",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -52,86 +107,31 @@
       "headline": "QCSportsNet Week 1 football preview: Rock Island, Moline & United Township",
       "summary": "QCSportsNet’s play-by-play voices Ken Jacoby, Joe Winkel and Grant Dahlstrom provide your preseason breakdown of Rock Island, Moline and United Township before …",
       "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-1-football-preview-rock-island-moline-united-township/",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/qcsportsnet.jpg?w=900",
       "category": "High School Sports"
     },
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Resignations, hirings, athletic assignments, and other Moline School District personnel news from Aug. 10",
-      "summary": "See the personnel items from the Aug. 10 agenda of the Moline-Coal Valley School District. The board met at the Moline Education Center.",
-      "url": "https://qctimes.com/news/local/education/article_970478c7-5dad-4a23-960b-c191747b5595.html",
-      "time": "8 h ago",
-      "image": "",
-      "category": ""
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ascentra, Grow Clinton work to offer services to former Tyson employees",
+      "summary": "While 2,500 former employees at the Tyson Foods Plant in Joslin, Illinois try to figure out what's next, local organizations in the Quad Cities Area are steppin…",
+      "url": "https://www.ourquadcities.com/news/local-news/ascentra-grow-clinton-work-to-offer-services-to-former-tyson-employees/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Ascentra-Grow-Clinton-working-to-offer-services-to-form-Tyson-employees.jpg?w=900",
+      "category": "Local News"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Day 9 guide to the Iowa State Fair: Alabama, Husband Calling, largest rabbit and more",
-      "summary": "We're heading into the final weekend of the Iowa State Fair! Local 5 has you covered for some of the best events to kick-start the weekend.",
-      "url": "https://www.wqad.com/article/news/entertainment-news/day-9-iowa-state-fair-alabama-grandstand-husband-calling/524-f3318680-1a78-4b71-90d8-be6d8156fbff",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a7ef31d9-d839-47ac-97b8-e31fc2170499/20260820T170306/a7ef31d9-d839-47ac-97b8-e31fc2170499_750x422.jpg",
-      "category": "entertainment-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Flock cameras getting flack in Iowa, some police departments suspending use",
-      "summary": "Flock camera controversies have led to some communities temporarily halting the service, but some cities stand by the usage.",
-      "url": "https://www.wqad.com/article/news/crime/flock-cameras-getting-flack-iowa-police-departments-suspending-use/524-073bf3e6-9df5-45ca-8149-1ec214e7424f",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b0435db6-a353-4e65-9d65-0d449ea0c13a/20260821T013515/b0435db6-a353-4e65-9d65-0d449ea0c13a_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Off Book: What does Jack Kerouac say about Davenport in 'On the Road'?",
-      "summary": "Quad-City Times/Dispatch-Argus Culture Reporter Nina Bakes writes on the three paragraphs Jack Kerouac wrote about Rock Island and Davenport in his famous 1957 …",
-      "url": "https://qctimes.com/life-entertainment/local/article_7d3ec258-902d-4483-b3b7-a30aa3e6645a.html",
-      "time": "9 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/4/dc/4dccc692-c65b-40bc-8a95-5c48728e199d/67631aaaef11b.image.jpg?resize=300%2C450",
-      "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Speed limit lowered on portions of Avenue of the Cities in Moline",
-      "summary": "The speed limit has been lowered to 30 mph along the Avenue in Moline from 41st Street to the East Moline border.",
-      "url": "https://www.wqad.com/article/traffic/local-traffic-change-moline-avenue-cities-reduces-speed/526-9ef1cf26-f489-4103-a2ab-c6d6fd66f0f5",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/af65c8af-e716-471d-8c54-3c164e5634ac/20260820T163227/af65c8af-e716-471d-8c54-3c164e5634ac_750x422.jpg",
-      "category": "traffic"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Sheriff's office removing Flock cameras in Henry County, Illinois: The privacy concerns from the community",
-      "summary": "Experts say automated license plate readers collect data that can be misused by bad actors.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/flock-cameras-privacy-concerns-henry-county-illinois-sheriffs-office-cancels-contract/526-81f1846d-3bbf-4e7e-9910-6f4dece089f3",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d9050f65-2fdd-4f57-b95c-dbb7244da20b/20260820T232258/d9050f65-2fdd-4f57-b95c-dbb7244da20b_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Squirrel hunting season opens in Illinois with about 30,000 hunters",
-      "summary": "The season runs through Feb. 15, with hunters expected to bag around 300,000 squirrels. Still, the number of squirrel hunters in the state has fallen dramatical…",
-      "url": "https://www.wqad.com/article/news/local/the-current/illinois-squirrel-hunting-season-open-tips-numbers-hunters-small-game-dnr/526-ec782d3c-f76a-413a-b00c-83c4c3f40c4b",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a95f8550-e09c-4c40-b5b8-07f1ef13f0c6/20260820T212800/a95f8550-e09c-4c40-b5b8-07f1ef13f0c6_750x422.jpg",
-      "category": "the-current"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport sued over redacted city administrator resume",
+      "summary": "A local doctor is suing the City of Davenport over city administrator Tim Gleason’s resume. Michael Meloy, attorney for Dr. Allan Diercks, said the resume was h…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-sued-over-redacted-city-administrator-resume/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/redacted.png?w=900",
+      "category": "Local News"
     }
   ]
 }
