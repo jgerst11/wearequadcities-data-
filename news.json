@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:27:16.382120+00:00",
+  "updated": "2026-08-23T20:24:05.742016+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -8,7 +8,7 @@
       "headline": "QC nonprofit Soles for Children plans to provide winter essentials for 1,000 children",
       "summary": "Quad Cities nonprofit Soles For Children is preparing to provide free winter essentials to nearly 1,100 children during two community events in September, a new…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-nonprofit-soles-for-children-plans-to-provide-winter-essentials-for-1000-children/",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/shoe-drive.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +19,7 @@
       "headline": "Rock Island celebrates Citizens of the Year",
       "summary": "The City of Rock Island has chosen the winners for the 39th annual Citizen of the Year awards. Each year, people in the community have an opportunity to submit …",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-celebrates-citizens-of-the-year/",
-      "time": "15 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Rebuild-Rock-Island.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +30,7 @@
       "headline": "Participants go 'Over the Edge' for Big Brothers Big Sisters in Davenport",
       "summary": "Courage reached new heights as participants rappelled down an 11-story hotel in the Big Brothers Big Sisters fundraiser, raising over $125,000 for youth mentori…",
       "url": "https://www.wqad.com/article/news/local/participants-go-over-the-edge-for-big-brothers-big-sisters-in-davenport/526-865e3cb8-55d4-41bd-9c41-8a1456b25699",
-      "time": "17 h ago",
+      "time": "21 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f58db09d-832d-439a-b718-e7f9da6bb01d/20260822T224636/f58db09d-832d-439a-b718-e7f9da6bb01d_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +41,7 @@
       "headline": "Rock Island names 2026 Citizen of the Year award winners",
       "summary": "The winners will be recognized at the Rock Island City Council meeting on Aug. 24.",
       "url": "https://www.wqad.com/article/news/local/rock-island-names-2026-citizen-of-the-year-award-winners/526-91a4f12c-74de-40e0-80d2-1083b553e997",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f2c5382f-8300-41e5-9ab8-cf54df6916f7/20260822T191914/f2c5382f-8300-41e5-9ab8-cf54df6916f7_750x422.jpg",
       "category": "local"
     },
@@ -109,28 +109,6 @@
       "url": "https://www.wqad.com/article/news/local/milan-police-presence-us-67-bridge-rock-river-illinois/526-69a2d548-3d09-486b-87aa-fbdd2c3a19e6",
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "State HHS reports additional cases of measles amid southern Iowa outbreak",
-      "summary": "The Iowa Department of Health and Human Services confirmed more measles cases amid an outbreak, rising to 16.",
-      "url": "https://www.wqad.com/article/news/health/state-hhs-additional-cases-measles-southern-iowa-outbreak-des-moines-metro-exposure/524-2a84bda0-4535-43b1-a2b1-4beb9d62eaee",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WGRZ/images/cb6f033a-f89f-4736-9262-5c0f964eb395/20250319T170643/cb6f033a-f89f-4736-9262-5c0f964eb395_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against City of Davenport over heavily redacted city administrator resume",
-      "summary": "In response to a public records request, the City produced a resume with almost everything blacked out.",
-      "url": "https://www.wqad.com/article/news/local/lawsuit-filed-against-city-davenport-heavily-redacted-city-administrator-resume-tim-gleason/526-38d02781-7f8b-4c11-9543-36cecd020035",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/adf05675-ce7d-43af-ac80-7cccac4ace26/20260821T222700/adf05675-ce7d-43af-ac80-7cccac4ace26_750x422.jpg",
       "category": "local"
     }
   ]
