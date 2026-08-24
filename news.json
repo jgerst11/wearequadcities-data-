@@ -1,6 +1,61 @@
 {
-  "updated": "2026-08-24T08:49:31.972558+00:00",
+  "updated": "2026-08-24T12:52:06.485373+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Portion of West Lake Park Gate 1 road will close temporarily",
+      "summary": "Scott County Conservation will temporarily close a portion of Gate 1 Road at West Lake Park for Phase 1 of the road improvement project, a news release says. Be…",
+      "url": "https://www.ourquadcities.com/news/local-news/portion-of-west-lake-park-gate-road-will-close-temporarily/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2019/07/featured-image-2.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair names 2026 Best New Fair Food",
+      "summary": "The results are in... and the Porky Parm Gnocchi from Destination Grille earned the title for Best New Fair Food!",
+      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-best-new-food-winner-2026/524-e3694371-2229-432b-b827-7d4d68658cd9",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/59091799-0cf9-42ec-9edc-00c6f6c59e48/20260714T234309/59091799-0cf9-42ec-9edc-00c6f6c59e48_750x422.jpg",
+      "category": "regional"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa Corn Day at the State Fair highlights the crop's vital role in food, fuel and everyday products",
+      "summary": "At the Iowa State Fair's Corn Day, the spotlight was on corn's vast impact, from feeding livestock to producing ethanol and everyday products.",
+      "url": "https://www.wqad.com/article/news/agriculture/iowa-corn-day-state-fair-highlights-crops-vital-role-food-fuel-everyday-products/524-21adaf5b-0039-4108-8df0-2e5739ff6250",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/56ee8bdf-edb8-4940-8943-8e73d31d877a/56ee8bdf-edb8-4940-8943-8e73d31d877a_750x422.jpg",
+      "category": "agriculture"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowans represent at Smithsonian's exhibit on state fairs",
+      "summary": "The Iowa State Fair isn't the only place you can find a butter cow or a miniature depiction of Iowa life.",
+      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-smithsonian-exhibit-butter-cow-miniature/524-b087f176-b677-4bda-8d9d-22e168b4c88c",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/c4bd2905-56ff-49e3-8e9d-96696be9ac51/20260819T215532/c4bd2905-56ff-49e3-8e9d-96696be9ac51_750x422.jpg",
+      "category": "regional"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "How to prepare college students for financial independence",
+      "summary": "The Iowa Department of Insurance and Financial Services is sharing advice on how to avoid poor budgeting in the transition to college.",
+      "url": "https://www.wqad.com/article/money/personal-finance/how-to-prep-college-students-for-financial-independence/524-ead15a98-5ea3-4438-9940-07e449fc56c5",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WCNC/images/af1c3809-d60b-47aa-8725-837a7ec56a38/20260209T140704/af1c3809-d60b-47aa-8725-837a7ec56a38_750x422.jpg",
+      "category": "personal-finance"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,8 +63,8 @@
       "headline": "QC drivers will compete in Season Championship Night at Davenport Speedway",
       "summary": "Season Championship Night at Davenport Speedway will be Monday, Aug. 24. Track champions will be determined in six weekly classes, a news release says. As usual…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-drivers-will-compete-in-season-championship-night-at-davenport-speedway/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/05/davenportspeedway.jpg?w=843",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Davenport-Speedway.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,7 +74,7 @@
       "headline": "After vote, Deere statement says company, UAW, will return to negotiations in 2027",
       "summary": "According to a statement from John Deere, negotiations between Deere and the UAW will begin again next year. \"We are disappointed by the outcome of (Sunday's) v…",
       "url": "https://www.ourquadcities.com/news/local-news/after-vote-deere-statement-says-company-uaw-will-return-to-negotiations-in-2027/",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/GettyImages-2002918904.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +85,7 @@
       "headline": "UAW John Deere members reject contract extension offer",
       "summary": "Members of the United Auto Workers at John Deere rejected the company's proposal to extend the current contract.",
       "url": "https://www.wqad.com/article/money/business/john-deere/uaw-john-deere-members-reject-contract-extension-offer/526-b4264e08-b5c7-4783-b754-fc8e7066942f",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d9e79308-1039-433c-85ff-1fa6d12db3b4/20260707T161224/d9e79308-1039-433c-85ff-1fa6d12db3b4_750x422.jpg",
       "category": "john-deere"
     },
@@ -41,7 +96,7 @@
       "headline": "Body found in Hennepin Canal near Milan identified as Rock Island man",
       "summary": "Rock Island County Coroner Brian Gustafson has identified the man as a 44-year-old Rock Island resident.",
       "url": "https://www.wqad.com/article/news/local/body-found-in-hennepin-canal-near-milan-identified-as-rock-island-man/526-dec06f23-4ba7-41ba-aaea-51dba6c5704e",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +107,7 @@
       "headline": "Davenport police investigating after one person shot",
       "summary": "Davenport police responded to the 1200 block of East 29th Street where one person was shot. The investigation remains ongoing.",
       "url": "https://www.wqad.com/article/news/local/davenport-police-investigating-after-one-person-shot/526-e2459c7b-e2bb-4d13-bb93-561351f4790c",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c6744fce-6c44-4796-9bf9-b86a4955caa6/c6744fce-6c44-4796-9bf9-b86a4955caa6_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +118,7 @@
       "headline": "Illinois State Police: New lead in Tammy Zywicki cold case from 1992",
       "summary": "The Illinois State Police and the Federal Bureau of Investigation report that they have a new person of interest in the kidnapping and murder of Tammy Zywicki.",
       "url": "https://www.wqad.com/article/news/crime/illinois-state-police-new-lead-in-tammy-zywicki-cold-case-from-1992/526-cf4e47a6-cafc-42d5-9768-f9f840301ee8",
-      "time": "7 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fe6a7b0c-7eba-4a95-842a-774310a841a5/20260824T005701/fe6a7b0c-7eba-4a95-842a-774310a841a5_750x422.jpg",
       "category": "crime"
     },
@@ -74,64 +129,9 @@
       "headline": "Local community rallies for Ukrainian Independence Day",
       "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
       "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
-      "time": "8 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260823T223701/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Police investigate shots fired in Davenport",
-      "summary": "UPDATE: According to a release from the Davenport Police Department, at approximately 5:09 p.m., officers responded to the 1200 block of E. 29th St. in referenc…",
-      "url": "https://www.ourquadcities.com/news/local-news/heavy-police-presence-at-garfield-park-davenport/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_bef49f.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Northwest defeats New Jersey at Little League World Series",
-      "summary": "Davenport Northwest does it again! Behind an impressive performance from Anthony Johnson Jr., Northwest takes down New Jersey, 6-0, on Sunday afternoon. For the…",
-      "url": "https://www.ourquadcities.com/top-news/davenport-northwest-defeats-new-jersey-at-little-league-world-series/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/davenport-northwest.jpg?w=592",
-      "category": "Top News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Participants go 'Over the Edge' for Big Brothers Big Sisters in Davenport",
-      "summary": "Courage reached new heights as participants rappelled down an 11-story hotel in the Big Brothers Big Sisters fundraiser, raising over $125,000 for youth mentori…",
-      "url": "https://www.wqad.com/article/news/local/participants-go-over-the-edge-for-big-brothers-big-sisters-in-davenport/526-865e3cb8-55d4-41bd-9c41-8a1456b25699",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f58db09d-832d-439a-b718-e7f9da6bb01d/20260822T224636/f58db09d-832d-439a-b718-e7f9da6bb01d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island names 2026 Citizen of the Year award winners",
-      "summary": "The winners will be recognized at the Rock Island City Council meeting on Aug. 24.",
-      "url": "https://www.wqad.com/article/news/local/rock-island-names-2026-citizen-of-the-year-award-winners/526-91a4f12c-74de-40e0-80d2-1083b553e997",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f2c5382f-8300-41e5-9ab8-cf54df6916f7/20260822T191914/f2c5382f-8300-41e5-9ab8-cf54df6916f7_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "OQC Crime Watch: County ends contract with Flock cameras: Episode 77",
-      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
-      "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-county-ends-contract-with-flock-cameras-episode-77/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mark-Lee-Jackson-mug-shot.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
