@@ -1,16 +1,27 @@
 {
-  "updated": "2026-08-24T01:20:59.104686+00:00",
+  "updated": "2026-08-24T04:46:07.262754+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Illinois State Police: New lead in Tammy Zywicki cold case from 1992",
-      "summary": "The Illinois State Police and the Federal Bureau of Investigation report that they have a new person of interest in the kidnapping and murder of Tammy Zywicki.",
-      "url": "https://www.wqad.com/article/news/crime/illinois-state-police-new-lead-in-tammy-zywicki-cold-case-from-1992/526-cf4e47a6-cafc-42d5-9768-f9f840301ee8",
-      "time": "11 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fe6a7b0c-7eba-4a95-842a-774310a841a5/20260824T005701/fe6a7b0c-7eba-4a95-842a-774310a841a5_750x422.jpg",
-      "category": "crime"
+      "headline": "UAW John Deere members reject contract extension offer",
+      "summary": "Members of the United Auto Workers at John Deere rejected the company's proposal to extend the current contract.",
+      "url": "https://www.wqad.com/article/money/business/john-deere/uaw-john-deere-members-reject-contract-extension-offer/526-b4264e08-b5c7-4783-b754-fc8e7066942f",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d9e79308-1039-433c-85ff-1fa6d12db3b4/20260707T161224/d9e79308-1039-433c-85ff-1fa6d12db3b4_750x422.jpg",
+      "category": "john-deere"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Body found in Hennepin Canal near Milan identified as Rock Island man",
+      "summary": "Rock Island County Coroner Brian Gustafson has identified the man as a 44-year-old Rock Island resident.",
+      "url": "https://www.wqad.com/article/news/local/body-found-in-hennepin-canal-near-milan-identified-as-rock-island-man/526-dec06f23-4ba7-41ba-aaea-51dba6c5704e",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WQAD",
@@ -19,9 +30,20 @@
       "headline": "Davenport police investigating after one person shot",
       "summary": "Davenport police responded to the 1200 block of East 29th Street where one person was shot. The investigation remains ongoing.",
       "url": "https://www.wqad.com/article/news/local/davenport-police-investigating-after-one-person-shot/526-e2459c7b-e2bb-4d13-bb93-561351f4790c",
-      "time": "21 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c6744fce-6c44-4796-9bf9-b86a4955caa6/c6744fce-6c44-4796-9bf9-b86a4955caa6_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois State Police: New lead in Tammy Zywicki cold case from 1992",
+      "summary": "The Illinois State Police and the Federal Bureau of Investigation report that they have a new person of interest in the kidnapping and murder of Tammy Zywicki.",
+      "url": "https://www.wqad.com/article/news/crime/illinois-state-police-new-lead-in-tammy-zywicki-cold-case-from-1992/526-cf4e47a6-cafc-42d5-9768-f9f840301ee8",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe6a7b0c-7eba-4a95-842a-774310a841a5/20260824T005701/fe6a7b0c-7eba-4a95-842a-774310a841a5_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WQAD",
@@ -30,7 +52,7 @@
       "headline": "Local community rallies for Ukrainian Independence Day",
       "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
       "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
-      "time": "31 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260823T223701/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +63,7 @@
       "headline": "Police investigate shots fired in Davenport",
       "summary": "UPDATE: According to a release from the Davenport Police Department, at approximately 5:09 p.m., officers responded to the 1200 block of E. 29th St. in referenc…",
       "url": "https://www.ourquadcities.com/news/local-news/heavy-police-presence-at-garfield-park-davenport/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_bef49f.png?w=900",
       "category": "Local News"
     },
@@ -52,9 +74,42 @@
       "headline": "Davenport Northwest defeats New Jersey at Little League World Series",
       "summary": "Davenport Northwest does it again! Behind an impressive performance from Anthony Johnson Jr., Northwest takes down New Jersey, 6-0, on Sunday afternoon. For the…",
       "url": "https://www.ourquadcities.com/top-news/davenport-northwest-defeats-new-jersey-at-little-league-world-series/",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/davenport-northwest.jpg?w=592",
       "category": "Top News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Local government recap: Eldridge postpones fire decision; Davenport talks finances, $1M request",
+      "summary": "Eldridge postponed a decision on the fire department, music organizations asked Davenport for $1 million for a new building, Moline approved a new interim admin…",
+      "url": "https://qctimes.com/news/local/government-politics/article_b5c43b07-2c71-49ba-8411-8940258dd2df.html",
+      "time": "17 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/58/e58fdf59-02b4-469c-8552-4f3870ee0917/6a874c45b743d.image.jpg?resize=300%2C214",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "The Short List: Aug. 24",
+      "summary": "I hope everyone was able to enjoy the wonderful weather over the weekend. I especially hope Iowa students were able to enjoy it and get in some last-minute summ…",
+      "url": "https://qctimes.com/newsletter-templates/paid/short-list/article_340dc30e-3f52-482b-bf4a-e1d6c3ba42fb.html",
+      "time": "21 h ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "July was Quad Cities International Airport's busiest month in 13 years",
+      "summary": "A total of 69,578 passengers traveled through the Quad Cities International Airport in July.",
+      "url": "https://qctimes.com/news/local/business/article_c2218c4d-068d-4ad2-92f6-6c489b5029dc.html",
+      "time": "1d ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/84/784ad447-61e1-47ff-ab65-0c8670859cf3/697b8cc283bef.image.jpg?resize=300%2C225",
+      "category": ""
     },
     {
       "source": "WQAD",
@@ -76,39 +131,6 @@
       "url": "https://www.wqad.com/article/news/local/rock-island-names-2026-citizen-of-the-year-award-winners/526-91a4f12c-74de-40e0-80d2-1083b553e997",
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f2c5382f-8300-41e5-9ab8-cf54df6916f7/20260822T191914/f2c5382f-8300-41e5-9ab8-cf54df6916f7_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "OQC Crime Watch: County ends contract with Flock cameras: Episode 77",
-      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
-      "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-county-ends-contract-with-flock-cameras-episode-77/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mark-Lee-Jackson-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities community remembers Trudy Appleby 30 years after disappearance",
-      "summary": "About 50 people gathered at Bass Street Landing Friday evening to honor Trudy Appleby on the 30th anniversary of her disappearance.",
-      "url": "https://www.wqad.com/article/news/crime/trudy-appleby/trudy-appleby-vigil-30-years-anniversary-disappearance/526-534f8d45-e0bd-423f-8c4c-5f11e7c37a21",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/05044905-c944-49bf-bce9-2879f287cd17/20260822T030418/05044905-c944-49bf-bce9-2879f287cd17_750x422.jpg",
-      "category": "trudy-appleby"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Records show former Moline city administrator was warned about inappropriate behavior before resigning",
-      "summary": "Documents show that city council unanimously agreed to terminate Bob Vitas' contract. However, he was given the option to resign before that action took place.",
-      "url": "https://www.wqad.com/article/news/local/moline-city-administrator-resigns-bob-vitas-employment-separation-terms-cause/526-f1c692ed-408d-454f-9f44-17801852c44c",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c1de77be-a358-4a31-b6fa-ed161873d1a4/20260821T223627/c1de77be-a358-4a31-b6fa-ed161873d1a4_750x422.jpg",
       "category": "local"
     }
   ]
