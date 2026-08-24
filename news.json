@@ -1,27 +1,60 @@
 {
-  "updated": "2026-08-23T20:24:05.742016+00:00",
+  "updated": "2026-08-24T01:20:59.104686+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois State Police: New lead in Tammy Zywicki cold case from 1992",
+      "summary": "The Illinois State Police and the Federal Bureau of Investigation report that they have a new person of interest in the kidnapping and murder of Tammy Zywicki.",
+      "url": "https://www.wqad.com/article/news/crime/illinois-state-police-new-lead-in-tammy-zywicki-cold-case-from-1992/526-cf4e47a6-cafc-42d5-9768-f9f840301ee8",
+      "time": "11 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe6a7b0c-7eba-4a95-842a-774310a841a5/20260824T005701/fe6a7b0c-7eba-4a95-842a-774310a841a5_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport police investigating after one person shot",
+      "summary": "Davenport police responded to the 1200 block of East 29th Street where one person was shot. The investigation remains ongoing.",
+      "url": "https://www.wqad.com/article/news/local/davenport-police-investigating-after-one-person-shot/526-e2459c7b-e2bb-4d13-bb93-561351f4790c",
+      "time": "21 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c6744fce-6c44-4796-9bf9-b86a4955caa6/c6744fce-6c44-4796-9bf9-b86a4955caa6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Local community rallies for Ukrainian Independence Day",
+      "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
+      "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
+      "time": "31 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260823T223701/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "QC nonprofit Soles for Children plans to provide winter essentials for 1,000 children",
-      "summary": "Quad Cities nonprofit Soles For Children is preparing to provide free winter essentials to nearly 1,100 children during two community events in September, a new…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-nonprofit-soles-for-children-plans-to-provide-winter-essentials-for-1000-children/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/shoe-drive.jpg?w=900",
+      "headline": "Police investigate shots fired in Davenport",
+      "summary": "UPDATE: According to a release from the Davenport Police Department, at approximately 5:09 p.m., officers responded to the 1200 block of E. 29th St. in referenc…",
+      "url": "https://www.ourquadcities.com/news/local-news/heavy-police-presence-at-garfield-park-davenport/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_bef49f.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Rock Island celebrates Citizens of the Year",
-      "summary": "The City of Rock Island has chosen the winners for the 39th annual Citizen of the Year awards. Each year, people in the community have an opportunity to submit …",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-celebrates-citizens-of-the-year/",
-      "time": "19 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Rebuild-Rock-Island.jpg?w=900",
-      "category": "Local News"
+      "headline": "Davenport Northwest defeats New Jersey at Little League World Series",
+      "summary": "Davenport Northwest does it again! Behind an impressive performance from Anthony Johnson Jr., Northwest takes down New Jersey, 6-0, on Sunday afternoon. For the…",
+      "url": "https://www.ourquadcities.com/top-news/davenport-northwest-defeats-new-jersey-at-little-league-world-series/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/davenport-northwest.jpg?w=592",
+      "category": "Top News"
     },
     {
       "source": "WQAD",
@@ -30,7 +63,7 @@
       "headline": "Participants go 'Over the Edge' for Big Brothers Big Sisters in Davenport",
       "summary": "Courage reached new heights as participants rappelled down an 11-story hotel in the Big Brothers Big Sisters fundraiser, raising over $125,000 for youth mentori…",
       "url": "https://www.wqad.com/article/news/local/participants-go-over-the-edge-for-big-brothers-big-sisters-in-davenport/526-865e3cb8-55d4-41bd-9c41-8a1456b25699",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f58db09d-832d-439a-b718-e7f9da6bb01d/20260822T224636/f58db09d-832d-439a-b718-e7f9da6bb01d_750x422.jpg",
       "category": "local"
     },
@@ -44,28 +77,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f2c5382f-8300-41e5-9ab8-cf54df6916f7/20260822T191914/f2c5382f-8300-41e5-9ab8-cf54df6916f7_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "NSRA QC Street Rod Nationals will roar into Davenport",
-      "summary": "The NSRA Quad Cities Street Rod Nationals is back Aug. 28-29 at the Mississippi Valley Fairgrounds, Davenport, a news release says. Car enthusiasts and spectato…",
-      "url": "https://www.ourquadcities.com/news/local-news/nsra-qc-street-rod-nationals-will-roar-into-davenport/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/09/street-hot-rod-showcase-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rotary, Kiwanis co-host State of the Schools address for Rock Island-Milan School District",
-      "summary": "The Rotary Club of Rock Island, in partnership with the Rock Island Kiwanis Club, will host the annual State of the Schools Address featuring Sharon Williams, s…",
-      "url": "https://www.ourquadcities.com/news/local-news/rotary-kiwanis-co-host-state-of-the-schools-address-for-rock-island-milan-school-district/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/Rock-Island-Milan-superintendent-addresses-plans-for-school-year.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -98,17 +109,6 @@
       "url": "https://www.wqad.com/article/news/local/moline-city-administrator-resigns-bob-vitas-employment-separation-terms-cause/526-f1c692ed-408d-454f-9f44-17801852c44c",
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c1de77be-a358-4a31-b6fa-ed161873d1a4/20260821T223627/c1de77be-a358-4a31-b6fa-ed161873d1a4_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Body found in Hennepin Canal near Milan, state police confirm",
-      "summary": "Few details have been provided at this time. ISP said this is to protect the integrity of the investigation.",
-      "url": "https://www.wqad.com/article/news/local/milan-police-presence-us-67-bridge-rock-river-illinois/526-69a2d548-3d09-486b-87aa-fbdd2c3a19e6",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f3c6b989-d611-4f7d-b8b1-39b0765e1d04/20260821T164248/f3c6b989-d611-4f7d-b8b1-39b0765e1d04_750x422.jpg",
       "category": "local"
     }
   ]
