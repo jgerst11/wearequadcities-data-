@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T12:26:07.437902+00:00",
-  "total": 26,
+  "generated": "2026-08-24T18:23:38.538197+00:00",
+  "total": 28,
   "events": [
     {
       "id": "vqc_7b67a2367a48",
@@ -99,6 +99,22 @@
       "source": "visitquadcities.com"
     },
     {
+      "id": "vqc_c738ac601fbc",
+      "name": "Ember Forest Glow Paint and Sip BYOB at ArtFlow Studios",
+      "start": "2026-08-26",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13140&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
       "id": "vqc_3a203d92d5ab",
       "name": "Duck Creek Bike Ride",
       "start": "2026-08-26",
@@ -158,6 +174,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11752&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_fdf68bbad4a9",
+      "name": "Starry Night Northern Lights Paint Party at ArtFlow Studios",
+      "start": "2026-08-27",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13141&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
