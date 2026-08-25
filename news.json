@@ -1,27 +1,82 @@
 {
-  "updated": "2026-08-24T20:31:11.624686+00:00",
+  "updated": "2026-08-25T01:18:34.594396+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Additional measles case, exposure location announced in southern Iowa outbreak",
+      "summary": "The Iowa Department of Health and Human Services confirmed an additional measles case and exposure location Monday.",
+      "url": "https://www.wqad.com/article/news/health/iowa-hhs-additional-measles-case-exposure-location-southern-state-outbreak/524-983f5551-f12f-42aa-8c19-8af7a2f5509a",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/ba3b22bf-5cc6-4df2-b0d6-941db432fdf7/20260709T124904/ba3b22bf-5cc6-4df2-b0d6-941db432fdf7_750x422.jpg",
+      "category": "health"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Galesburg hosting ribbon cutting for Cooke Park",
-      "summary": "Galesburg is ready to open the newly expanded Cooke Park. The city invites the public to a ribbon-cutting ceremony on Wednesday, August 26 at 11:30 to celebrate…",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-hosting-ribbon-cutting-for-cooke-park/",
-      "time": "24 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/City-of-Galesburg.jpg?w=900",
+      "headline": "City of Muscatine celebrates Water & Wastewater Workers of Iowa Week",
+      "summary": "The City of Muscatine is joining communities across the state to celebrate Water and Wastewater Workers of Iowa Week now-29, a news release says. This special w…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-muscatine-celebrates-water-wastewater-workers-of-iowa-week/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Community Health Care receives $3 million to expand services in Rock Island",
+      "summary": "Community Health Care Inc. opened its Rock Island building back in 2012. Now, the facility is starting to show its age, not just through general maintenance, bu…",
+      "url": "https://www.ourquadcities.com/news/local-news/community-health-care-receives-3-million-to-expand-services-in-rock-island/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Community-Health-Care-receives-3-million-to-expand-services-in-Rock-Island.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Local community rallies for Ukrainian Independence Day",
-      "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
-      "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260824T165215/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
+      "headline": "I-74 interchange at John Deere Road set for major transformation",
+      "summary": "A major redesign is coming to the I-74 and John Deere Road interchange in Moline, with construction beginning and completion expected by 2028.",
+      "url": "https://www.wqad.com/article/traffic/i-74-john-deere-road-interchange-construction-moline-illinois/526-98dfee40-16d1-403e-b666-9e36c87b1114",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6/20260824T232050/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6_750x422.jpg",
+      "category": "traffic"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "9th annual Clinton overdose vigil aims to break addiction stigma",
+      "summary": "The Overdose and Addiction Awareness Vigil will return on Monday, Aug. 31 from 4-7:30 p.m. at the Riverview Bandshell. This year more than 30 vendors are expect…",
+      "url": "https://www.wqad.com/article/news/local/the-current/clinton-overdose-addiction-awareness-vigil-9th-annual-lineup-attend-event/526-c3f687ac-daab-41c7-bd52-996447b23862",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d43a06b2-7277-451d-b736-b82f62c0386a/20260824T211519/d43a06b2-7277-451d-b736-b82f62c0386a_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport man arrested after allegedly hitting a person in the skull with an axe",
+      "summary": "47-year-old Matthew Cheatheam was charged with willful injury causing bodily injury and going armed with intent.",
+      "url": "https://www.wqad.com/article/news/local/davenport-man-arrested-hitting-person-axe-skull/526-65297318-339b-4cd3-8a70-83b7bb7af4fe",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KXTV/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport police urge drivers to slow down as students return to school",
+      "summary": "Davenport officials urge drivers to slow down and stay alert as students return to school, highlighting new safety measures.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/school-zone-speed-limits-back-to-class-davenport-police-slow-down-warning/526-bb69e3cd-9ef9-4206-8bbc-7c85151696af",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bdd77a25-a713-4d5e-884d-11becf648a3b/20260824T221428/bdd77a25-a713-4d5e-884d-11becf648a3b_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -35,46 +90,13 @@
       "category": "crime"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Police: Iowa man arrested after report of Muscatine armed bank robbery",
-      "summary": "Police in Muscatine arrested an Iowa man after a report of an armed robbery at a bank, according to a news release from the Muscatine Police Department. MUSCOM …",
-      "url": "https://www.ourquadcities.com/news/local-news/police-iowa-man-arrested-after-report-of-muscatine-armed-bank-robbery/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mathew-Rawson-featured-image.png?w=456",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "3 arrested in connection to Davenport shooting",
-      "summary": "Davenport police responded to the 1200 block of East 29th Street where one person was shot. The investigation remains ongoing.",
-      "url": "https://www.wqad.com/article/news/local/davenport-police-investigating-after-one-person-shot/526-e2459c7b-e2bb-4d13-bb93-561351f4790c",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c6744fce-6c44-4796-9bf9-b86a4955caa6/c6744fce-6c44-4796-9bf9-b86a4955caa6_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois State Police: New lead in Tammy Zywicki cold case from 1992",
-      "summary": "The Illinois State Police and the Federal Bureau of Investigation report that they have a new person of interest in the kidnapping and murder of Tammy Zywicki.",
-      "url": "https://www.wqad.com/article/news/crime/illinois-state-police-new-lead-in-tammy-zywicki-cold-case-from-1992/526-cf4e47a6-cafc-42d5-9768-f9f840301ee8",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fe6a7b0c-7eba-4a95-842a-774310a841a5/20260824T005701/fe6a7b0c-7eba-4a95-842a-774310a841a5_750x422.jpg",
-      "category": "crime"
-    },
-    {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
       "headline": "Man stabbed in chest in Rock Island",
       "summary": "The Rock Island Police Department responded to the 4300 block of 11th Street Sunday evening where one person suffered a stab wound to the chest.",
       "url": "https://www.wqad.com/article/news/local/community-crime-rock-island-investigates-stabbing/526-f1197fa3-ba68-4bd2-809d-6e5af1a55daf",
-      "time": "4 h ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/b762883b-1059-49a1-acac-511c7f9c2337/20241208T171058/b762883b-1059-49a1-acac-511c7f9c2337_750x422.jpg",
       "category": "local"
     },
@@ -82,56 +104,34 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Post-war German films come to big screen at The Last Picture House, Davenport",
-      "summary": "The German American Heritage Center and The Last Picture House, Davenport, will bring \"The Lost Years of German Cinema,\" a series of post-war German films to th…",
-      "url": "https://www.ourquadcities.com/news/local-news/post-war-german-films-come-to-big-screen-at-the-last-picture-house-davenport/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_224635.png?w=900",
+      "headline": "Arconic Foundation gifts $30,000 to Girl Scouts",
+      "summary": "Girl Scouts of Eastern Iowa and Western Illinois was recently gifted $30,000 from the Arconic Foundation. The grant will help Girl Scouts develop vital skills i…",
+      "url": "https://www.ourquadcities.com/news/local-news/arconic-foundation-gifts-30000-to-girl-scouts/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Arconic-Foundation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Galesburg hosting ribbon cutting for Cooke Park",
+      "summary": "Galesburg is ready to open the newly expanded Cooke Park. The city invites the public to a ribbon-cutting ceremony on Wednesday, August 26 at 11:30 to celebrate…",
+      "url": "https://www.ourquadcities.com/news/local-news/galesburg-hosting-ribbon-cutting-for-cooke-park/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/City-of-Galesburg.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Iowa State Fair names 2026 Best New Fair Food",
-      "summary": "The results are in... and the Porky Parm Gnocchi from Destination Grille earned the title for Best New Fair Food!",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-best-new-food-winner-2026/524-e3694371-2229-432b-b827-7d4d68658cd9",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/59091799-0cf9-42ec-9edc-00c6f6c59e48/20260714T234309/59091799-0cf9-42ec-9edc-00c6f6c59e48_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa Corn Day at the State Fair highlights the crop's vital role in food, fuel and everyday products",
-      "summary": "At the Iowa State Fair's Corn Day, the spotlight was on corn's vast impact, from feeding livestock to producing ethanol and everyday products.",
-      "url": "https://www.wqad.com/article/news/agriculture/iowa-corn-day-state-fair-highlights-crops-vital-role-food-fuel-everyday-products/524-21adaf5b-0039-4108-8df0-2e5739ff6250",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/56ee8bdf-edb8-4940-8943-8e73d31d877a/56ee8bdf-edb8-4940-8943-8e73d31d877a_750x422.jpg",
-      "category": "agriculture"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowans represent at Smithsonian's exhibit on state fairs",
-      "summary": "The Iowa State Fair isn't the only place you can find a butter cow or a miniature depiction of Iowa life.",
-      "url": "https://www.wqad.com/article/news/regional/iowa-state-fair-smithsonian-exhibit-butter-cow-miniature/524-b087f176-b677-4bda-8d9d-22e168b4c88c",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c4bd2905-56ff-49e3-8e9d-96696be9ac51/20260819T215532/c4bd2905-56ff-49e3-8e9d-96696be9ac51_750x422.jpg",
-      "category": "regional"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "How to prepare college students for financial independence",
-      "summary": "The Iowa Department of Insurance and Financial Services is sharing advice on how to avoid poor budgeting in the transition to college.",
-      "url": "https://www.wqad.com/article/money/personal-finance/how-to-prep-college-students-for-financial-independence/524-ead15a98-5ea3-4438-9940-07e449fc56c5",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/af1c3809-d60b-47aa-8725-837a7ec56a38/20260209T140704/af1c3809-d60b-47aa-8725-837a7ec56a38_750x422.jpg",
-      "category": "personal-finance"
+      "headline": "Local community rallies for Ukrainian Independence Day",
+      "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
+      "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260824T165215/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
+      "category": "local"
     }
   ]
 }
