@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-25T01:18:34.594396+00:00",
+  "updated": "2026-08-25T04:39:45.349162+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island City Council considers time limits for downtown liquor sales",
+      "summary": "The Rock Island City Council moved forward Monday to expand restrictions on alcohol sales in more parts of the city. Council members approved the ordinance's fi…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-city-council-considers-time-limits-for-downtown-liquor-sales/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Dylan-Parker.jpg?w=561",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -13,13 +24,35 @@
       "category": "health"
     },
     {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport man arrested after allegedly hitting a person in the skull with an axe",
+      "summary": "47-year-old Matthew Cheatheam was charged with willful injury causing bodily injury and going armed with intent.",
+      "url": "https://www.wqad.com/article/news/local/davenport-man-arrested-hitting-person-axe-skull/526-65297318-339b-4cd3-8a70-83b7bb7af4fe",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/KXTV/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "School board member surprised when Sudlow's cafeteria is named after him",
+      "summary": "A Davenport School Board member got a surprise during Monday night's meeting. The school board announced Sudlow Middle School's cafeteria will be named after Br…",
+      "url": "https://www.ourquadcities.com/news/local-news/school-board-member-surprised-when-sudlows-cafeteria-is-named-after-him/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_385b0a.png?w=900",
+      "category": "Local News"
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
       "headline": "City of Muscatine celebrates Water & Wastewater Workers of Iowa Week",
-      "summary": "The City of Muscatine is joining communities across the state to celebrate Water and Wastewater Workers of Iowa Week now-29, a news release says. This special w…",
+      "summary": "The City of Muscatine is joining communities across the state to celebrate Water and Wastewater Workers of Iowa Week now-29, a news release says. This special w…",
       "url": "https://www.ourquadcities.com/news/local-news/city-of-muscatine-celebrates-water-wastewater-workers-of-iowa-week/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +63,7 @@
       "headline": "Community Health Care receives $3 million to expand services in Rock Island",
       "summary": "Community Health Care Inc. opened its Rock Island building back in 2012. Now, the facility is starting to show its age, not just through general maintenance, bu…",
       "url": "https://www.ourquadcities.com/news/local-news/community-health-care-receives-3-million-to-expand-services-in-rock-island/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Community-Health-Care-receives-3-million-to-expand-services-in-Rock-Island.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +74,7 @@
       "headline": "I-74 interchange at John Deere Road set for major transformation",
       "summary": "A major redesign is coming to the I-74 and John Deere Road interchange in Moline, with construction beginning and completion expected by 2028.",
       "url": "https://www.wqad.com/article/traffic/i-74-john-deere-road-interchange-construction-moline-illinois/526-98dfee40-16d1-403e-b666-9e36c87b1114",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6/20260824T232050/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6_750x422.jpg",
       "category": "traffic"
     },
@@ -52,20 +85,9 @@
       "headline": "9th annual Clinton overdose vigil aims to break addiction stigma",
       "summary": "The Overdose and Addiction Awareness Vigil will return on Monday, Aug. 31 from 4-7:30 p.m. at the Riverview Bandshell. This year more than 30 vendors are expect…",
       "url": "https://www.wqad.com/article/news/local/the-current/clinton-overdose-addiction-awareness-vigil-9th-annual-lineup-attend-event/526-c3f687ac-daab-41c7-bd52-996447b23862",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d43a06b2-7277-451d-b736-b82f62c0386a/20260824T211519/d43a06b2-7277-451d-b736-b82f62c0386a_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport man arrested after allegedly hitting a person in the skull with an axe",
-      "summary": "47-year-old Matthew Cheatheam was charged with willful injury causing bodily injury and going armed with intent.",
-      "url": "https://www.wqad.com/article/news/local/davenport-man-arrested-hitting-person-axe-skull/526-65297318-339b-4cd3-8a70-83b7bb7af4fe",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/KXTV/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WQAD",
@@ -74,7 +96,7 @@
       "headline": "Davenport police urge drivers to slow down as students return to school",
       "summary": "Davenport officials urge drivers to slow down and stay alert as students return to school, highlighting new safety measures.",
       "url": "https://www.wqad.com/article/news/local/public-safety/school-zone-speed-limits-back-to-class-davenport-police-slow-down-warning/526-bb69e3cd-9ef9-4206-8bbc-7c85151696af",
-      "time": "2 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bdd77a25-a713-4d5e-884d-11becf648a3b/20260824T221428/bdd77a25-a713-4d5e-884d-11becf648a3b_750x422.jpg",
       "category": "public-safety"
     },
@@ -85,7 +107,7 @@
       "headline": "Man arrested after armed robbery at Muscatine bank",
       "summary": "The Muscatine Police Department responded to the U.S. Bank at 1800 Park Ave. Monday morning for a report of an armed robbery.",
       "url": "https://www.wqad.com/article/news/crime/armed-robbery-muscatine-us-bank-monday-morning-arrest-made/526-6fdebfeb-cdb4-4ee9-a872-6941e40d7e3f",
-      "time": "3 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/ee912908-be13-4234-ae19-64b30ba58d14/20240705T184139/ee912908-be13-4234-ae19-64b30ba58d14_750x422.jpg",
       "category": "crime"
     },
@@ -96,7 +118,7 @@
       "headline": "Man stabbed in chest in Rock Island",
       "summary": "The Rock Island Police Department responded to the 4300 block of 11th Street Sunday evening where one person suffered a stab wound to the chest.",
       "url": "https://www.wqad.com/article/news/local/community-crime-rock-island-investigates-stabbing/526-f1197fa3-ba68-4bd2-809d-6e5af1a55daf",
-      "time": "3 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/b762883b-1059-49a1-acac-511c7f9c2337/20241208T171058/b762883b-1059-49a1-acac-511c7f9c2337_750x422.jpg",
       "category": "local"
     },
@@ -107,31 +129,9 @@
       "headline": "Arconic Foundation gifts $30,000 to Girl Scouts",
       "summary": "Girl Scouts of Eastern Iowa and Western Illinois was recently gifted $30,000 from the Arconic Foundation. The grant will help Girl Scouts develop vital skills i…",
       "url": "https://www.ourquadcities.com/news/local-news/arconic-foundation-gifts-30000-to-girl-scouts/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Arconic-Foundation.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Galesburg hosting ribbon cutting for Cooke Park",
-      "summary": "Galesburg is ready to open the newly expanded Cooke Park. The city invites the public to a ribbon-cutting ceremony on Wednesday, August 26 at 11:30 to celebrate…",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-hosting-ribbon-cutting-for-cooke-park/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/City-of-Galesburg.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Local community rallies for Ukrainian Independence Day",
-      "summary": "Community members gathered to rally in Davenport as Aug. 24 marks Ukrainian Independence Day.",
-      "url": "https://www.wqad.com/article/news/local/local-community-rallies-for-ukrainian-independence-day/526-6a5f5a3f-8222-4695-a464-4bde5b316480",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/15e9dcd2-6b94-44a6-91b6-8b90af104f19/20260824T165215/15e9dcd2-6b94-44a6-91b6-8b90af104f19_750x422.jpg",
-      "category": "local"
     }
   ]
 }
