@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-25T16:39:46.267670+00:00",
+  "updated": "2026-08-25T20:31:26.236415+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Tree fall on car in Bettendorf",
+      "summary": "Our Quad Cities News was in the 1000 block of Grant Street, where a large tree fell on a car. Traffic has been rerouted and there have been no reports of injuri…",
+      "url": "https://www.ourquadcities.com/news/local-news/tree-fall-on-car-in-bettendorf/",
+      "time": "10 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Bettendorf-tree-3.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker, Bailey offer different visions for Illinois education",
+      "summary": "The gubernatorial candidates responded to questions on school funding and education policy in their lllinois State Fair appearances.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-bailey-different-visions-illinois-education-capitol-news/526-1ee6f478-173c-49ca-8209-9431a45a7caa",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b26bb578-5c29-402e-824e-7fcfdca1f1aa/20260825T191928/b26bb578-5c29-402e-824e-7fcfdca1f1aa_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Parts of Milan under boil order",
+      "summary": "An email from the Village of Milan said a boil order is in effect for: All water used for drinking and cooking should be boiled before use. Click here to learn …",
+      "url": "https://www.ourquadcities.com/news/local-news/parts-of-milan-under-boil-order-4/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/boil-order.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Requests open for Scott County absentee ballots",
+      "summary": "Scott County voters can now submit requests for absentee ballots.  Tuesday, August 25 is the first day for voters to submit requests for absentee ballots by mai…",
+      "url": "https://www.ourquadcities.com/news/local-news/requests-open-for-scott-county-absentee-ballots/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/02/Kerri-Tompkins.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "13-year-old reporting missing from Moline has been found",
+      "summary": "Police were asking for the public's help locating a missing teenager. He has since been found and is reunited with his family.",
+      "url": "https://www.wqad.com/article/news/local/missing-teen-moline-illinois-report/526-964e56a6-e0bc-42a1-aa85-8aae448715a8",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/KWES/images/c4a2af5f-d13a-40c0-bff3-2951f48fae06/20260624T215351/c4a2af5f-d13a-40c0-bff3-2951f48fae06_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UPDATE: Missing Moline boy found",
+      "summary": "UPDATE: The Moline Police Department posted on its Facebook page that Manzan Kouadio has been found and is being reunited with his family. EARLIER: Police in Mo…",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-police-seek-information-on-missing-boy/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/FOUND-Manzan-Kouadio.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "Davenport Community School District surprises board director with cafeteria named after him",
       "summary": "The Davenport Community School District announced the naming of its Sudlow Middle School cafeteria in honor of school board director.",
       "url": "https://www.wqad.com/article/news/local/community-outreach-davenport-schools-dedicate-cafeteria-school-board-director/526-60c37645-53a7-4911-bc35-f11b2deb9b6f",
-      "time": "54 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c95b9017-5244-453a-981b-5dbfe2f357a4/20260825T153335/c95b9017-5244-453a-981b-5dbfe2f357a4_750x422.jpg",
       "category": "local"
     },
@@ -19,31 +96,9 @@
       "headline": "Davenport man sentenced to 18 years after the 2022 death of 2-month-old daughter",
       "summary": "Bryson A. Hall of Davenport has been sentenced to 18 years for the 2022 death of his 2-month-old daughter.",
       "url": "https://www.wqad.com/article/news/crime/davenport-man-sentenced-to-18-years-after-the-2022-death-of-2-month-old-daughter/526-e6d5e137-8359-40b3-b6f9-8a1830478d52",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b3a2a00e-b7d4-4357-b99e-935b8db0a36a/b3a2a00e-b7d4-4357-b99e-935b8db0a36a_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island hosting Immigrant Entrepreneurs Summit",
-      "summary": "The Immigrant Entrepreneurs Summit (IES) has announced that the 2026 IES Quad Cities Regional Summit will be on Tuesday, September 1 from 8:30 a.m. – 3:30 p.m. …",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-hosting-immigrant-entrepreneurs-summit/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Immigrant-Entrepreneurs-Summit-featured-image.png?w=459",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Reconstruction of 35th St. in Moline begins August 28",
-      "summary": "It's an Our Quad Cities News traffic alert. According to a release from the City of Moline, reconstruction of 35th St. between 37th and 38th avenues begins Frid…",
-      "url": "https://www.ourquadcities.com/news/local-news/reconstruction-of-35th-st-in-moline-begins-august-28/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -52,85 +107,19 @@
       "headline": "Rock Island City Council considers time limits for downtown liquor sales",
       "summary": "The Rock Island City Council moved forward Monday to expand restrictions on alcohol sales in more parts of the city. Council members approved the ordinance's fi…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-city-council-considers-time-limits-for-downtown-liquor-sales/",
-      "time": "13 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Dylan-Parker.jpg?w=561",
       "category": "Local News"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Additional measles case, exposure location announced in southern Iowa outbreak",
-      "summary": "The Iowa Department of Health and Human Services confirmed an additional measles case and exposure location Monday.",
-      "url": "https://www.wqad.com/article/news/health/iowa-hhs-additional-measles-case-exposure-location-southern-state-outbreak/524-983f5551-f12f-42aa-8c19-8af7a2f5509a",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ba3b22bf-5cc6-4df2-b0d6-941db432fdf7/20260709T124904/ba3b22bf-5cc6-4df2-b0d6-941db432fdf7_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport man arrested after allegedly hitting a person in the skull with an axe",
-      "summary": "47-year-old Matthew Cheatheam was charged with willful injury causing bodily injury and going armed with intent.",
-      "url": "https://www.wqad.com/article/news/local/davenport-man-arrested-hitting-person-axe-skull/526-65297318-339b-4cd3-8a70-83b7bb7af4fe",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/KXTV/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_750x422.jpg",
-      "category": "local"
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "School board member surprised when Sudlow's cafeteria is named after him",
-      "summary": "A Davenport School Board member got a surprise during Monday night's meeting. The school board announced Sudlow Middle School's cafeteria will be named after Br…",
-      "url": "https://www.ourquadcities.com/news/local-news/school-board-member-surprised-when-sudlows-cafeteria-is-named-after-him/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_385b0a.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Community Health Care receives $3 million to expand services in Rock Island",
-      "summary": "Community Health Care Inc. opened its Rock Island building back in 2012. Now, the facility is starting to show its age, not just through general maintenance, bu…",
-      "url": "https://www.ourquadcities.com/news/local-news/community-health-care-receives-3-million-to-expand-services-in-rock-island/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Community-Health-Care-receives-3-million-to-expand-services-in-Rock-Island.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "I-74 interchange at John Deere Road set for major transformation",
-      "summary": "A major redesign is coming to the I-74 and John Deere Road interchange in Moline, with construction beginning and completion expected by 2028.",
-      "url": "https://www.wqad.com/article/traffic/i-74-john-deere-road-interchange-construction-moline-illinois/526-98dfee40-16d1-403e-b666-9e36c87b1114",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6/20260824T232050/67ee3711-3da5-487d-b73e-4fc2ec6bcdd6_750x422.jpg",
-      "category": "traffic"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "9th annual Clinton overdose vigil aims to break addiction stigma",
-      "summary": "The Overdose and Addiction Awareness Vigil will return on Monday, Aug. 31 from 4-7:30 p.m. at the Riverview Bandshell. This year more than 30 vendors are expect…",
-      "url": "https://www.wqad.com/article/news/local/the-current/clinton-overdose-addiction-awareness-vigil-9th-annual-lineup-attend-event/526-c3f687ac-daab-41c7-bd52-996447b23862",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d43a06b2-7277-451d-b736-b82f62c0386a/20260824T211519/d43a06b2-7277-451d-b736-b82f62c0386a_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Police: Iowa man arrested after report of Muscatine armed bank robbery",
-      "summary": "Police in Muscatine arrested an Iowa man after a report of an armed robbery at a bank, according to a news release from the Muscatine Police Department. MUSCOM …",
-      "url": "https://www.ourquadcities.com/news/local-news/police-iowa-man-arrested-after-report-of-muscatine-armed-bank-robbery/",
+      "headline": "UPDATE: UAW releases statement after Deere, UAW to return to negotiations in 2027",
+      "summary": "UPDATE: The UAW released a statement on its website after union members rejected Deere's proposal for a contract extension. \"Members of the United Auto Workers …",
+      "url": "https://www.ourquadcities.com/news/local-news/after-vote-deere-statement-says-company-uaw-will-return-to-negotiations-in-2027/",
       "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mathew-Rawson-mug-shot.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/GettyImages-2002918904.jpg?w=900",
       "category": "Local News"
     }
   ]
