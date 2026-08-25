@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T00:37:05.277849+00:00",
-  "total": 28,
+  "generated": "2026-08-25T06:26:58.785309+00:00",
+  "total": 29,
   "events": [
     {
       "id": "vqc_7b67a2367a48",
@@ -174,6 +174,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11752&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_2a82c1b1a662",
+      "name": "Arthur Millers Death of A Salesman",
+      "start": "2026-08-27",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13163&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
