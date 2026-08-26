@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-26T16:58:35.389919+00:00",
+  "updated": "2026-08-26T22:49:20.621249+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Cyclists fundraising for Tunnel to Towers as they ride 2,500 miles along Mississippi River",
+      "summary": "Jim Lipuma and J.D. McCourt passed through the Quad Cities area Tuesday and Wednesday as they continue their 2,500-mile journey down the Mississippi.",
+      "url": "https://www.wqad.com/article/life/people/bicyclists-mississippi-river-ride-tunnel-to-towers-foundations-we-ride-for-heros/526-ac0b7d34-54a9-4380-8ecb-3ce19a17166f",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f63d9876-07be-47e3-9f56-419beaa58501/20260826T204904/f63d9876-07be-47e3-9f56-419beaa58501_750x422.jpg",
+      "category": "people"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Meta settlement could send nearly $903 million to Iowa and Illinois for child safety",
+      "summary": "The lawsuit accused Meta of contributing to the youth mental health crisis by deliberately designing features that addict children to its platforms.",
+      "url": "https://www.wqad.com/article/tech/meta-settlement-903-million-iowa-illinois-child-safety/526-f92ba340-19a8-4679-b39e-90a9bb87d752",
+      "time": "11 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/417af823-eb27-4c31-a5c6-72742299d676/20260826T220617/417af823-eb27-4c31-a5c6-72742299d676_750x422.jpg",
+      "category": "tech"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA seniors learn tips to avoid scams",
+      "summary": "Quad-City seniors and their families learned tips for to spotting and avoiding scams. Rep. Mariannette Miller-Meeks and Iowa Attorney General Brenna Bird hosted…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-seniors-learn-tips-to-avoid-scams/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_7be55a.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois confirms first case of West Nile virus in 2026",
+      "summary": "The confirmed case was identified in a Piatt County resident. State health officials said there are three other probable but unconfirmed cases in northern Illin…",
+      "url": "https://www.wqad.com/article/news/health/illinois-west-nile-virus-first-case-2026/526-fa12ef50-b80b-46c2-ab2e-8694384e0494",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e8882ac7-cb37-4309-a9ed-20ed470e2ae5/20260826T205057/e8882ac7-cb37-4309-a9ed-20ed470e2ae5_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Illinois law establishes rules for electronic bikes, scooters",
+      "summary": "Lawmakers expressed safety concerns over a lack of regulations.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-law-rules-electronic-bike-scooters-capitol-news/526-51b354a3-fd03-48cd-ae5d-e0df4cd3e134",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dd152b67-ec99-434a-a21f-95706ca7b34d/20260826T203041/dd152b67-ec99-434a-a21f-95706ca7b34d_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Government Bridge intermittently closing due to inspections",
+      "summary": "Rock Island Arsenal Directorate of Public and bridge inspectors from the Army Corps of Engineers will conduct an inspection of the Government Bridge that will c…",
+      "url": "https://www.ourquadcities.com/news/local-news/government-bridge-intermittently-closing-due-to-inspections/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/government-arsenal-bridge-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Suzy Bogguss remembers Dolly Parton",
+      "summary": "Music fans across the world are remembering the life of Dolly Parton, who died on August 25 at the age of 80. Many performers who worked with her are sharing th…",
+      "url": "https://www.ourquadcities.com/news/local-news/suzy-bogguss-remembers-dolly-parton/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_8262a3.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +85,7 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-222/",
-      "time": "4 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Kelly-Lick-Raymond-Reeves-Mug-shot.jpg?w=900",
       "category": "Crime"
     },
@@ -19,7 +96,7 @@
       "headline": "Iowa flags at half-staff to honor Dolly Parton, governor orders",
       "summary": "Gov. Kim Reynolds has ordered flags in Iowa to be flown at half staff until Sept. 1 in honor of Dolly Parton.",
       "url": "https://www.wqad.com/article/news/state/iowa-flags-half-staff-dolly-parton/524-4520d494-ceb9-44f7-ae0b-858975fced3b",
-      "time": "24 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WBIR/images/b6f2ad87-5521-43f5-a39a-b0a3f242f625/20260826T131814/b6f2ad87-5521-43f5-a39a-b0a3f242f625_750x422.jpg",
       "category": "state"
     },
@@ -30,7 +107,7 @@
       "headline": "Rock Island Arsenal bridges, viaducts to close intermittently Aug. 29-Sept. 1",
       "summary": "Several bridges and viaducts to the Rock Island Arsenal will have intermittent closures Aug. 29 through Sept. 1.",
       "url": "https://www.wqad.com/article/traffic/bridges/rock-island-arsenal-bridges-viaducts-to-close-intermittently-aug-29-sept-1/526-d29ca22f-5099-4d61-9b8b-b101357eb181",
-      "time": "58 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/57824759-08bb-48b1-9841-6f724e6f6e58/57824759-08bb-48b1-9841-6f724e6f6e58_750x422.jpg",
       "category": "bridges"
     },
@@ -41,7 +118,7 @@
       "headline": "Why are flags at half-staff in the Quad Cities?",
       "summary": "Flags will remain lowered for a full week to honor country music legend Dolly Parton.",
       "url": "https://www.wqad.com/article/news/nation-world/national-flags-half-staff-dolly-parton/526-31361a0c-09d7-4d3a-a17e-e2d4ae715a92",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e3de56f8-0483-4485-8213-7c311bff39c2/20260826T133910/e3de56f8-0483-4485-8213-7c311bff39c2_750x422.jpg",
       "category": "nation-world"
     },
@@ -52,86 +129,9 @@
       "headline": "Iowa to receive more than $126M settlement in Meta trial over teen social media addiction",
       "summary": "Under the proposed settlement with multiple states, Meta agreed to adopt a series of safety features to its Facebook and Instagram platforms.",
       "url": "https://www.wqad.com/article/news/nation-world/iowa-settlement-meta-trial-teen-social-media-addiction/524-aa2f80ef-54e8-4c30-ac85-10ec0aa215db",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/abbace6b-a181-4fdc-ba53-7b4ed9d6c71e/20260826T142741/abbace6b-a181-4fdc-ba53-7b4ed9d6c71e_750x422.jpg",
       "category": "nation-world"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Work on new Bettendorf recreational trail starts Sept. 1",
-      "summary": "Work begins on Middle Road from Hopewell Avenue to Forest Grove Drive on Tuesday, Sept. 1 as crews construct a new 10 foot recreational trail on the east side o…",
-      "url": "https://www.ourquadcities.com/news/local-news/work-on-new-bettendorf-recreational-trail-starts-sept-1/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Bettendorf.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine will honor 9/11 victims with Moment of Silence, stair climb",
-      "summary": "Muscatine first responders and community members will once again gather to honor the victims and heroes of the Sept. 11, 2001, terrorist attacks during Patriot …",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-will-honor-9-11-victims-with-ceremony-stair-climb/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/stair-climb.png?w=746",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Gary Rowe named grand marshal for Rock Island Labor Day Parade",
-      "summary": "The grand marshal has been named for the Rock Island Labor Day Parade. According to a release from the City of Rock Island, Gary Rowe has been chosen as grand m…",
-      "url": "https://www.ourquadcities.com/news/local-news/gary-rowe-named-grand-marshal-for-rock-island-labor-day-parade/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Gary-Rowe-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Dolly Parton in the Quad Cities: The music, fans and impact",
-      "summary": "Fans in the Quad Cities remember Dolly for her talent, kindness and generosity.",
-      "url": "https://www.wqad.com/article/life/people/dolly-parton-quad-cities-music-fans-impact/526-503098d4-0e1e-47af-8d5b-c70bd72f7de9",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f6f5dc9f-febc-4ea1-93ce-eca4f32d37b7/20260826T020819/f6f5dc9f-febc-4ea1-93ce-eca4f32d37b7_750x422.jpg",
-      "category": "people"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Presumed cause of death identified for man found dead in Hennepin Canal",
-      "summary": "Rock Island County Coroner Brian Gustafson said that 44-year-old Kyi Pyu is believed to have drowned.",
-      "url": "https://www.wqad.com/article/news/local/cause-death-identified-man-dead-hennepin-canal/526-0839462d-e800-4a2f-a75c-02c686dace07",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/81e3e156-7bba-4308-8128-ef8106253e0d/20260824T030355/81e3e156-7bba-4308-8128-ef8106253e0d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Motion to dismiss charges filed in case of Davenport parents accused of child abuse",
-      "summary": "On Monday, the attorney for an adoptive mother accused of child abuse asked a judge to dismiss two of the charges against the Davenport woman, while the state r…",
-      "url": "https://www.ourquadcities.com/news/local-news/motion-to-dismiss-charges-filed-in-case-of-davenport-parents-accused-of-child-abuse/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Andrew-Warrington-Kellie-Warrington-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Proposed project in Bettendorf could bring more housing near downtown",
-      "summary": "After years of focus on the development of the area surrounding the TBK Bank Sports Complex, a proposed project would target residential development downtown. T…",
-      "url": "https://www.ourquadcities.com/news/local-news/proposed-project-in-bettendorf-could-bring-more-housing-near-downtown/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_c76f53.png?w=900",
-      "category": "Local News"
     }
   ]
 }
