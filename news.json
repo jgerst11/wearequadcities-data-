@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-26T22:49:20.621249+00:00",
+  "updated": "2026-08-27T08:01:20.028043+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bring festive cheer with Heartfelt & Handmade competition",
+      "summary": "Area creators are invited to bring holiday magic! According to a release from the City of Muscatine, local and regional artists, makers and crafters can share t…",
+      "url": "https://www.ourquadcities.com/news/local-news/bring-festive-cheer-with-heartfelt-handmade-competition/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_a37a33.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Illinois law establishes rules for electronic bikes, scooters",
+      "summary": "Lawmakers expressed safety concerns over a lack of regulations.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-law-rules-electronic-bike-scooters-capitol-news/526-51b354a3-fd03-48cd-ae5d-e0df4cd3e134",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dd152b67-ec99-434a-a21f-95706ca7b34d/20260826T203041/dd152b67-ec99-434a-a21f-95706ca7b34d_750x422.jpg",
+      "category": "illinois-politics"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,9 +30,64 @@
       "headline": "Cyclists fundraising for Tunnel to Towers as they ride 2,500 miles along Mississippi River",
       "summary": "Jim Lipuma and J.D. McCourt passed through the Quad Cities area Tuesday and Wednesday as they continue their 2,500-mile journey down the Mississippi.",
       "url": "https://www.wqad.com/article/life/people/bicyclists-mississippi-river-ride-tunnel-to-towers-foundations-we-ride-for-heros/526-ac0b7d34-54a9-4380-8ecb-3ce19a17166f",
-      "time": "6 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f63d9876-07be-47e3-9f56-419beaa58501/20260826T204904/f63d9876-07be-47e3-9f56-419beaa58501_750x422.jpg",
       "category": "people"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Free Film at the Figge presents award-winning films",
+      "summary": "Free Film at the Figge will present a selection of distinguished, award-winning films that depict the essential roles that persistence and perseverance play in …",
+      "url": "https://www.ourquadcities.com/news/local-news/free-film-at-the-figge-presents-award-winning-films/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_329ebc.png?w=132",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois confirms first human West Nile virus case of 2026",
+      "summary": "The Illinois Department of Health has confirmed the first human case of West Nile virus in the state for 2026, involving a resident of Piatt County.",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-confirms-first-human-west-nile-virus-case-of-2026/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/mosquito1-e1780308226435.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa AG, Miller-Meeks host Bettendorf event to help seniors spot scams",
+      "summary": "In Bettendorf's public library, Rep. Mariannette Miller-Meeks and Iowa Attorney General Brenna Bird gave seniors information on how to recognize and stop scams.",
+      "url": "https://www.wqad.com/article/money/consumer/scam-awareness-event-seniors-iowa-attorney-general-rep-miller-meeks-bettendorf/526-53529ab1-254c-4d9a-ae1c-6cdf2cfd566b",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d7e76592-ec69-4180-908b-277527825efe/20260826T232913/d7e76592-ec69-4180-908b-277527825efe_750x422.jpg",
+      "category": "consumer"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘The Driftless’ puts a horror spin on Iowa’s scenic Driftless Area",
+      "summary": "A Dubuque filmmaker started the script as a way to cope with the pandemic. The film has earned awards at festivals across the country and will now show in Daven…",
+      "url": "https://www.wqad.com/article/news/local/the-current/the-driftless-indie-horror-film-dubuque-filmmaker-movie-the-last-picture-house-tim-connery/526-82cad4b5-e6b5-4f9d-a53a-d692bd96ba88",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/eb09db3b-fa47-4274-a860-0b5ac0b4e2ac/20260826T225041/eb09db3b-fa47-4274-a860-0b5ac0b4e2ac_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pleasant Valley students host free car wash fundraiser for St. Jude",
+      "summary": "On Saturday, Aug. 29, you're invited to Green Buick GMC in Davenport for a free car wash. In return, the students are asking for a donation to their fundraiser.",
+      "url": "https://www.wqad.com/article/news/local/the-current/pleasant-valley-students-free-car-wash-st-jude-fundraiser-luxury-shine-car-detailing/526-f3b73032-7de0-4494-b83e-c7a63bdf8809",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d177e8bd-ca17-4d39-aff2-71ef5ea723dc/20260826T224809/d177e8bd-ca17-4d39-aff2-71ef5ea723dc_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
@@ -19,7 +96,7 @@
       "headline": "Meta settlement could send nearly $903 million to Iowa and Illinois for child safety",
       "summary": "The lawsuit accused Meta of contributing to the youth mental health crisis by deliberately designing features that addict children to its platforms.",
       "url": "https://www.wqad.com/article/tech/meta-settlement-903-million-iowa-illinois-child-safety/526-f92ba340-19a8-4679-b39e-90a9bb87d752",
-      "time": "11 min ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/417af823-eb27-4c31-a5c6-72742299d676/20260826T220617/417af823-eb27-4c31-a5c6-72742299d676_750x422.jpg",
       "category": "tech"
     },
@@ -30,7 +107,7 @@
       "headline": "QCA seniors learn tips to avoid scams",
       "summary": "Quad-City seniors and their families learned tips for to spotting and avoiding scams. Rep. Mariannette Miller-Meeks and Iowa Attorney General Brenna Bird hosted…",
       "url": "https://www.ourquadcities.com/news/local-news/qca-seniors-learn-tips-to-avoid-scams/",
-      "time": "1 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_7be55a.png?w=900",
       "category": "Local News"
     },
@@ -41,31 +118,9 @@
       "headline": "Illinois confirms first case of West Nile virus in 2026",
       "summary": "The confirmed case was identified in a Piatt County resident. State health officials said there are three other probable but unconfirmed cases in northern Illin…",
       "url": "https://www.wqad.com/article/news/health/illinois-west-nile-virus-first-case-2026/526-fa12ef50-b80b-46c2-ab2e-8694384e0494",
-      "time": "1 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e8882ac7-cb37-4309-a9ed-20ed470e2ae5/20260826T205057/e8882ac7-cb37-4309-a9ed-20ed470e2ae5_750x422.jpg",
       "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Illinois law establishes rules for electronic bikes, scooters",
-      "summary": "Lawmakers expressed safety concerns over a lack of regulations.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-law-rules-electronic-bike-scooters-capitol-news/526-51b354a3-fd03-48cd-ae5d-e0df4cd3e134",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dd152b67-ec99-434a-a21f-95706ca7b34d/20260826T203041/dd152b67-ec99-434a-a21f-95706ca7b34d_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Government Bridge intermittently closing due to inspections",
-      "summary": "Rock Island Arsenal Directorate of Public and bridge inspectors from the Army Corps of Engineers will conduct an inspection of the Government Bridge that will c…",
-      "url": "https://www.ourquadcities.com/news/local-news/government-bridge-intermittently-closing-due-to-inspections/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/government-arsenal-bridge-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -74,64 +129,9 @@
       "headline": "Suzy Bogguss remembers Dolly Parton",
       "summary": "Music fans across the world are remembering the life of Dolly Parton, who died on August 25 at the age of 80. Many performers who worked with her are sharing th…",
       "url": "https://www.ourquadcities.com/news/local-news/suzy-bogguss-remembers-dolly-parton/",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_8262a3.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-222/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Crime-Stoppers-Kelly-Lick-Raymond-Reeves-Mug-shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa flags at half-staff to honor Dolly Parton, governor orders",
-      "summary": "Gov. Kim Reynolds has ordered flags in Iowa to be flown at half staff until Sept. 1 in honor of Dolly Parton.",
-      "url": "https://www.wqad.com/article/news/state/iowa-flags-half-staff-dolly-parton/524-4520d494-ceb9-44f7-ae0b-858975fced3b",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WBIR/images/b6f2ad87-5521-43f5-a39a-b0a3f242f625/20260826T131814/b6f2ad87-5521-43f5-a39a-b0a3f242f625_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island Arsenal bridges, viaducts to close intermittently Aug. 29-Sept. 1",
-      "summary": "Several bridges and viaducts to the Rock Island Arsenal will have intermittent closures Aug. 29 through Sept. 1.",
-      "url": "https://www.wqad.com/article/traffic/bridges/rock-island-arsenal-bridges-viaducts-to-close-intermittently-aug-29-sept-1/526-d29ca22f-5099-4d61-9b8b-b101357eb181",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/57824759-08bb-48b1-9841-6f724e6f6e58/57824759-08bb-48b1-9841-6f724e6f6e58_750x422.jpg",
-      "category": "bridges"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Why are flags at half-staff in the Quad Cities?",
-      "summary": "Flags will remain lowered for a full week to honor country music legend Dolly Parton.",
-      "url": "https://www.wqad.com/article/news/nation-world/national-flags-half-staff-dolly-parton/526-31361a0c-09d7-4d3a-a17e-e2d4ae715a92",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e3de56f8-0483-4485-8213-7c311bff39c2/20260826T133910/e3de56f8-0483-4485-8213-7c311bff39c2_750x422.jpg",
-      "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa to receive more than $126M settlement in Meta trial over teen social media addiction",
-      "summary": "Under the proposed settlement with multiple states, Meta agreed to adopt a series of safety features to its Facebook and Instagram platforms.",
-      "url": "https://www.wqad.com/article/news/nation-world/iowa-settlement-meta-trial-teen-social-media-addiction/524-aa2f80ef-54e8-4c30-ac85-10ec0aa215db",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/abbace6b-a181-4fdc-ba53-7b4ed9d6c71e/20260826T142741/abbace6b-a181-4fdc-ba53-7b4ed9d6c71e_750x422.jpg",
-      "category": "nation-world"
     }
   ]
 }
