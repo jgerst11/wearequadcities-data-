@@ -1,16 +1,38 @@
 {
-  "updated": "2026-08-28T21:47:18.542520+00:00",
+  "updated": "2026-08-29T06:02:44.747208+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "16-year-old reported missing out of East Moline",
-      "summary": "Police say 16-year-old Amivi Takpah was last seen Aug. 23 at her East Moline home.",
-      "url": "https://www.wqad.com/article/news/local/missing-teenager-east-moline-police-department/526-400e8a8f-376e-455f-b587-b4435ef04325",
-      "time": "45 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b998c654-0277-4bb1-848e-8c81b883ed1c/20260828T205223/b998c654-0277-4bb1-848e-8c81b883ed1c_750x422.jpg",
-      "category": "local"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ground breaking held for Charger Center at Sandburg, Galesburg",
+      "summary": "While Theo Salim’s time as a student and men’s soccer player at Sandburg will be over when the Charger Center is complete, it didn’t stop the college’s student …",
+      "url": "https://www.ourquadcities.com/news/local-news/ground-breaking-held-for-charge-center-at-sandburg-galesburg/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Charger-Center-.jpg?w=724",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Grand Marshal Willis will lead East Moline Labor Day parade",
+      "summary": "The Quad City Labor Day Parade will begin at 11 a.m. Monday, Sept. 7, in East Moline. A news release says it's the official, labor-organized, Labor Day Parade r…",
+      "url": "https://www.ourquadcities.com/news/local-news/grand-marshal-willis-will-lead-labor-day-east-moline-parade/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/301549163_761348388479586_454289467833886178_n.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton Committee of the Whole will consider data-center ordinance",
+      "summary": "A special Clinton Committee of the Whole will be held at 5 p.m. Tuesday, Sept. 1, at Eagle Point Park Lodge, 4101 N. 3rd St., Clinton. The meeting will be a wor…",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-committee-of-the-whole-will-consider-data-center-ordinance/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/AP26204679108052.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -19,9 +41,75 @@
       "headline": "MercyOne Genesis unveils advanced spine surgery technology in Davenport",
       "summary": "Officials said the technology will give patients advanced surgical capabilities from experienced spine specialists without having to travel outside of the regio…",
       "url": "https://www.wqad.com/article/news/health/mercyone-genesis-advanced-spine-surgery-technology-davenport/526-cd34134a-9d2d-40e2-90ab-0bac7f0fccf3",
-      "time": "58 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c8375731-dda5-4698-baee-f3eeb62d4a9d/20260828T204216/c8375731-dda5-4698-baee-f3eeb62d4a9d_750x422.jpg",
       "category": "health"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Vehicle catches fire after crash in Wapello, Iowa",
+      "summary": "A passenger car left the road, rolled, hit a tree and caught on fire, according to Wapello Fire and Rescue.",
+      "url": "https://www.wqad.com/article/traffic/incidents/vehicle-crash-fire-wapello-highway-99/524-7b8bd939-fb57-4554-af36-a67940ae4ea0",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/b585b71f-65a1-4b5e-91b0-25f90683df52/20260828T163827/b585b71f-65a1-4b5e-91b0-25f90683df52_750x422.jpg",
+      "category": "incidents"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "16-year-old reported missing out of East Moline",
+      "summary": "Police say 16-year-old Amivi Takpah was last seen Aug. 23 at her East Moline home.",
+      "url": "https://www.wqad.com/article/news/local/missing-teenager-east-moline-police-department/526-400e8a8f-376e-455f-b587-b4435ef04325",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b998c654-0277-4bb1-848e-8c81b883ed1c/20260828T205223/b998c654-0277-4bb1-848e-8c81b883ed1c_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport Northwest gets warm welcome home after Little League World Series",
+      "summary": "Friends and family greeted the team as they made it back home from Williamsport, Pennsylvania.",
+      "url": "https://www.wqad.com/article/sports/baseball/davenport-northwest-homecoming-little-league-world-series/526-fd8f4515-5ea4-41fe-9947-3946b6e928a2",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/581c37fe-10b2-4474-908d-84d94d23e9c8/20260828T222310/581c37fe-10b2-4474-908d-84d94d23e9c8_750x422.jpg",
+      "category": "baseball"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "East Moline Police seek help finding missing teen",
+      "summary": "The East Moline Police Department is seeking help finding a missing teen. According to a Facebook post, Amivi Takpah, 16, was last seen on August 23 at her home…",
+      "url": "https://www.ourquadcities.com/news/local-news/east-moline-police-seek-help-finding-missing-teen/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/MISSING-Amivi-Takpah.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport's stars of the summer return home from Little League World Series",
+      "summary": "When the kids-turned-stars on the Davenport Northwest team returned home from the Little League World Series (LLWS) on Friday, they were met with cheers and hug…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenports-stars-of-the-summer-return-home-from-little-league-world-series/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Davenports-stars-of-the-summer-return-home-from-LLWS.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Arrest made in 2025 stabbing death in Davenport",
+      "summary": "39-year-old Ryan McNeiece has been arrested in connection with the stabbing death of Joseph Padilla.",
+      "url": "https://www.wqad.com/article/news/local/arrest-made-2025-stabbing-death-davenport/526-d342e0c9-a9dc-4b61-969d-deeae737ab83",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d8f84444-7d0f-47de-a6d0-8098189eae25/20260828T151556/d8f84444-7d0f-47de-a6d0-8098189eae25_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,19 +118,8 @@
       "headline": "Enjoy Oktoberfest in Clinton",
       "summary": "Get a taste of German culture as Grow Clinton hosts the inaugural Grow Clinton Oktoberfest on Friday, September 18, beginning at 5:30 p.m. at The Copper Mill, 2…",
       "url": "https://www.ourquadcities.com/news/local-news/enjoy-oktoberfest-in-clinton/",
-      "time": "2 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Oktoberfest-featured-image.png?w=438",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "MercyOne Genesis adding spinal surgery technology",
-      "summary": "QCA residents who need spine surgery can now get their procedures performed locally at MercyOne Genesis. The hospital is bringing the latest robotic spine surge…",
-      "url": "https://www.ourquadcities.com/news/local-news/mercyone-genesis-adding-spinal-surgery-technology/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/MercyOne-Genesis.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,86 +129,9 @@
       "headline": "Man wanted in deadly 2025 Davenport motorcycle crash arrested by US Marshals in Mexico",
       "summary": "Samantha Burke died after the motorcycle she was riding on, driven by Alex Uthoff, crashed in May 2025. A warrant has been out for his arrest.",
       "url": "https://www.wqad.com/article/news/crime/davenport-motorcycle-crash-may-2025-samantha-burke-killed-suspect-arrest-mexico/526-2d2275b4-08bb-4f90-ba9a-289a52b01473",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c1ba6ed6-e8fa-46e6-8778-0af5e593dfa7/c1ba6ed6-e8fa-46e6-8778-0af5e593dfa7_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island High offers resource for student families affected by Tyson closure",
-      "summary": "Rock Island High School is reaching out to those impacted by the closure of Tyson on August 13 in a message sent to students and families. “The Tyson closure ha…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-high-offers-resource-for-student-families-affected-by-tyson-closure/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Ascentra-Grow-Clinton-working-to-offer-services-to-form-Tyson-employees.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Vehicle catches fire after crash in Wapello, Iowa",
-      "summary": "A passenger car left the road, rolled, hit a tree and caught on fire, according to Wapello Fire and Rescue.",
-      "url": "https://www.wqad.com/article/traffic/incidents/vehicle-crash-fire-wapello-highway-99/524-7b8bd939-fb57-4554-af36-a67940ae4ea0",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b585b71f-65a1-4b5e-91b0-25f90683df52/20260828T163827/b585b71f-65a1-4b5e-91b0-25f90683df52_750x422.jpg",
-      "category": "incidents"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport Noon Optimists present Respect for Law Award to Aric Robinson",
-      "summary": "The Davenport Noon Optimist Club presented its 2026 Sergeant Kevin Marxen Respect for Law Award to Detective Aric Robinson on August 21 at the Davenport River C…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-noon-optimists-presents-respect-for-law-award-to-aric-robinson/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Optimist-International-Repect-for-Law-featured-image.png?w=438",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Arrest made in 2025 stabbing death in Davenport",
-      "summary": "39-year-old, Ryan McNeiece has been arrested in connection with the stabbing death of Joseph Padilla.",
-      "url": "https://www.wqad.com/article/news/local/arrest-made-2025-stabbing-death-davenport/526-d342e0c9-a9dc-4b61-969d-deeae737ab83",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d8f84444-7d0f-47de-a6d0-8098189eae25/20260828T151556/d8f84444-7d0f-47de-a6d0-8098189eae25_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa man arrested in Mexico; accused in 2025 fatal motorcycle crash",
-      "summary": "The U.S. Marshals Service Southern Iowa Fugitive Task Force and Mexican authorities worked together to return an Iowa man wanted on multiple charges from a fata…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-man-arrested-in-mexico-accused-in-2025-fatal-motorcycle-crash/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/jail-cell-bars-generic-big_35856378_ver1.0.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport man arrested in connection with 2025 stabbing",
-      "summary": "A man from Davenport has been arrested in connection with a 2025 stabbing in the city. On August 27, 2026, Ryan McNeiece, 39, was arrested and charged with firs…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-arrested-in-connection-with-2025-stabbing/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Ryan-McNeiece-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Canadian tariffs affecting Iowa housing and automotive markets",
-      "summary": "Des Moines businesses react to the 50% tariffs the US is putting on some Canadian goods. Homebuilders said effects could be felt in about a year's time.",
-      "url": "https://www.wqad.com/article/money/economy/canadian-tariffs-affecting-local-housing-automotive-markets-des-moines/524-845d477f-f3d2-4c3d-9bf2-91c798566dd1",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/f4b4e6db-b250-48e5-a7f3-508657382798/20260827T222657/f4b4e6db-b250-48e5-a7f3-508657382798_750x422.jpg",
-      "category": "economy"
     }
   ]
 }
