@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-30T19:05:58.036291+00:00",
+  "updated": "2026-08-30T22:27:47.794581+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Heat & Humidity Set to Build Back In",
+      "summary": "Storm track set to move northward along the heat dome, which will allow temperatures to reach the low 90s here in the Quad Cities.",
+      "url": "https://www.wqad.com/article/weather/moline-davenport-rock-island-bettendorf-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
+      "time": "58 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/9ee8c244-b7f6-4717-911d-be3bb2f4c8d2/20260829T225202/9ee8c244-b7f6-4717-911d-be3bb2f4c8d2_750x422.jpg",
+      "category": "weather"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "Gov. Pritzker: Reopen Tyson plant",
       "summary": "Governor JB Pritzker made a campaign stop in the QCA and said he wants the recently-closed Tyson Food plant in Joslin to be reopened. Pritzker stopped at Local …",
       "url": "https://www.ourquadcities.com/news/local-news/gov-pritzker-reopen-tyson-plant/",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_e54c20.png?w=900",
       "category": "Local News"
     },
@@ -19,7 +30,7 @@
       "headline": "Illinois governor signs law setting new age and licensing rules for e-bike riders",
       "summary": "Gov. J.B. Pritzker has signed a bill into law that classifies electric bicycles into categories based on speed and imposes age and licensing rules on riders.",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-governor-signs-law-setting-new-age-and-licensing-rules-for-e-bike-riders/",
-      "time": "17 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/e-bike-GENERIC-e-bikes.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +41,7 @@
       "headline": "'I really fear for my life': Neighbors worry after dogs maul man to death in Illinois",
       "summary": "Police in Illinois are investigating after loose dogs mauled a man to death Thursday night. Neighbors say they worry since the dogs are still on the loose.",
       "url": "https://www.wqad.com/article/news/nation-world/dogs-maul-man-to-death-in-illinois/507-8f8d65a8-8f68-4261-8a0e-11729c987253",
-      "time": "17 h ago",
+      "time": "21 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/7f98b666-8391-48d3-89ea-849bb7c6df7c/20260828T172115/7f98b666-8391-48d3-89ea-849bb7c6df7c_750x422.jpg",
       "category": "nation-world"
     },
@@ -41,7 +52,7 @@
       "headline": "Our QC Crime Watch: The threat of AI - what it means to people and business: Episode 78",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-the-threat-of-ai-what-it-means-to-people-and-business-episode-78/",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Polygraf-founder.jpg?w=620",
       "category": "Local News"
     },
