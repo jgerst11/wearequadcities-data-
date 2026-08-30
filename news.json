@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:37:50.222829+00:00",
+  "updated": "2026-08-30T19:05:58.036291+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -8,7 +8,7 @@
       "headline": "Gov. Pritzker: Reopen Tyson plant",
       "summary": "Governor JB Pritzker made a campaign stop in the QCA and said he wants the recently-closed Tyson Food plant in Joslin to be reopened. Pritzker stopped at Local …",
       "url": "https://www.ourquadcities.com/news/local-news/gov-pritzker-reopen-tyson-plant/",
-      "time": "11 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_e54c20.png?w=900",
       "category": "Local News"
     },
@@ -19,7 +19,7 @@
       "headline": "Illinois governor signs law setting new age and licensing rules for e-bike riders",
       "summary": "Gov. J.B. Pritzker has signed a bill into law that classifies electric bicycles into categories based on speed and imposes age and licensing rules on riders.",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-governor-signs-law-setting-new-age-and-licensing-rules-for-e-bike-riders/",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/e-bike-GENERIC-e-bikes.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +30,7 @@
       "headline": "'I really fear for my life': Neighbors worry after dogs maul man to death in Illinois",
       "summary": "Police in Illinois are investigating after loose dogs mauled a man to death Thursday night. Neighbors say they worry since the dogs are still on the loose.",
       "url": "https://www.wqad.com/article/news/nation-world/dogs-maul-man-to-death-in-illinois/507-8f8d65a8-8f68-4261-8a0e-11729c987253",
-      "time": "12 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/7f98b666-8391-48d3-89ea-849bb7c6df7c/20260828T172115/7f98b666-8391-48d3-89ea-849bb7c6df7c_750x422.jpg",
       "category": "nation-world"
     },
@@ -41,86 +41,9 @@
       "headline": "Our QC Crime Watch: The threat of AI - what it means to people and business: Episode 78",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-the-threat-of-ai-what-it-means-to-people-and-business-episode-78/",
-      "time": "15 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Polygraf-founder.jpg?w=620",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "LivWell Seniors, CASI help older adults learn what it means to stay active",
-      "summary": "LivWell Seniors and CASI will help older adults understand what it means to stay active and how to get enough physical activity to experience proven health bene…",
-      "url": "https://www.ourquadcities.com/news/local-news/livwell-seniors-casi-help-older-adults-learn-what-it-means-to-stay-active/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/LivWell-Seniors.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Riverside Horseshoe Club will host Illinois horseshoe tournament in Moline",
-      "summary": "The Riverside Horseshoe Club will host the 2026 Illinois State Horseshoe Tournament for the third time at Riverside Park in Moline over Labor Day Weekend, Sept.…",
-      "url": "https://www.ourquadcities.com/news/local-news/riverside-horseshoe-club-will-host-illinois-horseshoe-tournament-in-moline/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/03/000_best-horseshoe-set-19dbf8.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "MercyOne Genesis unveils advanced spine surgery technology in Davenport",
-      "summary": "Officials said the technology will give patients advanced surgical capabilities from experienced spine specialists without having to travel outside of the regio…",
-      "url": "https://www.wqad.com/article/news/health/mercyone-genesis-advanced-spine-surgery-technology-davenport/526-cd34134a-9d2d-40e2-90ab-0bac7f0fccf3",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c8375731-dda5-4698-baee-f3eeb62d4a9d/20260828T204216/c8375731-dda5-4698-baee-f3eeb62d4a9d_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Vehicle catches fire after crash in Wapello, Iowa",
-      "summary": "A passenger car left the road, rolled, hit a tree and caught on fire, according to Wapello Fire and Rescue.",
-      "url": "https://www.wqad.com/article/traffic/incidents/vehicle-crash-fire-wapello-highway-99/524-7b8bd939-fb57-4554-af36-a67940ae4ea0",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b585b71f-65a1-4b5e-91b0-25f90683df52/20260828T163827/b585b71f-65a1-4b5e-91b0-25f90683df52_750x422.jpg",
-      "category": "incidents"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "16-year-old reported missing out of East Moline",
-      "summary": "Police say 16-year-old Amivi Takpah was last seen Aug. 23 at her East Moline home.",
-      "url": "https://www.wqad.com/article/news/local/missing-teenager-east-moline-police-department/526-400e8a8f-376e-455f-b587-b4435ef04325",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b998c654-0277-4bb1-848e-8c81b883ed1c/20260828T205223/b998c654-0277-4bb1-848e-8c81b883ed1c_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport Northwest gets warm welcome home after Little League World Series",
-      "summary": "Friends and family greeted the team as they made it back home from Williamsport, Pennsylvania.",
-      "url": "https://www.wqad.com/article/sports/baseball/davenport-northwest-homecoming-little-league-world-series/526-fd8f4515-5ea4-41fe-9947-3946b6e928a2",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/581c37fe-10b2-4474-908d-84d94d23e9c8/20260828T222310/581c37fe-10b2-4474-908d-84d94d23e9c8_750x422.jpg",
-      "category": "baseball"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Standard: Hawkeye defense staying elite year after year despite NFL talent departure",
-      "summary": "Year in and year out the product remains the same for Phil Parker's defense at Iowa. It's become the standard for the Hawkeyes to be among the best in the natio…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/the-standard-hawkeye-defense-staying-elite-year-after-year-despite-nfl-talent-departure/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/GettyImages-2242988932.jpg?w=900",
-      "category": "Hawkeye Headquarters"
     },
     {
       "source": "WHBF / OurQuadCities",
