@@ -1,6 +1,39 @@
 {
-  "updated": "2026-08-29T22:27:25.978304+00:00",
+  "updated": "2026-08-30T04:09:38.235072+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gov. Pritzker: Reopen Tyson plant",
+      "summary": "Governor JB Pritzker made a campaign stop in the QCA and said he wants the recently-closed Tyson Food plant in Joslin to be reopened. Pritzker stopped at Local …",
+      "url": "https://www.ourquadcities.com/news/local-news/gov-pritzker-reopen-tyson-plant/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_e54c20.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois governor signs law setting new age and licensing rules for e-bike riders",
+      "summary": "Gov. J.B. Pritzker has signed a bill into law that classifies electric bicycles into categories based on speed and imposes age and licensing rules on riders.",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-governor-signs-law-setting-new-age-and-licensing-rules-for-e-bike-riders/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/e-bike-GENERIC-e-bikes.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'I really fear for my life': Neighbors worry after dogs maul man to death in Illinois",
+      "summary": "Police in Illinois are investigating after loose dogs mauled a man to death Thursday night. Neighbors say they worry since the dogs are still on the loose.",
+      "url": "https://www.wqad.com/article/news/nation-world/dogs-maul-man-to-death-in-illinois/507-8f8d65a8-8f68-4261-8a0e-11729c987253",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/7f98b666-8391-48d3-89ea-849bb7c6df7c/20260828T172115/7f98b666-8391-48d3-89ea-849bb7c6df7c_750x422.jpg",
+      "category": "nation-world"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,20 +41,9 @@
       "headline": "Our QC Crime Watch: The threat of AI - what it means to people and business: Episode 78",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-the-threat-of-ai-what-it-means-to-people-and-business-episode-78/",
-      "time": "44 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Polygraf-founder.jpg?w=620",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Quad-Cities area football and volleyball standings, scores and schedules for the week of Aug. 24.",
-      "url": "https://qctimes.com/sports/high-school/article_055f29bb-e7a0-47bf-8159-bf917da2c21e.html",
-      "time": "2 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/de/7defd394-d7c8-462a-bd26-7008729276b4/6a89408863abe.image.jpg?resize=300%2C270",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,7 +52,7 @@
       "headline": "LivWell Seniors, CASI help older adults learn what it means to stay active",
       "summary": "LivWell Seniors and CASI will help older adults understand what it means to stay active and how to get enough physical activity to experience proven health bene…",
       "url": "https://www.ourquadcities.com/news/local-news/livwell-seniors-casi-help-older-adults-learn-what-it-means-to-stay-active/",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/LivWell-Seniors.jpg?w=900",
       "category": "Local News"
     },
@@ -41,19 +63,8 @@
       "headline": "Riverside Horseshoe Club will host Illinois horseshoe tournament in Moline",
       "summary": "The Riverside Horseshoe Club will host the 2026 Illinois State Horseshoe Tournament for the third time at Riverside Park in Moline over Labor Day Weekend, Sept.…",
       "url": "https://www.ourquadcities.com/news/local-news/riverside-horseshoe-club-will-host-illinois-horseshoe-tournament-in-moline/",
-      "time": "8 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/03/000_best-horseshoe-set-19dbf8.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "YWCA Clinton Street Fest will bring family fun to downtown area",
-      "summary": "The YWCA Clinton Street Fest will bring live music, local food, and family fun to downtown Clinton from 5-8 p.m. Saturday, Sept. 12, a news release says. The ev…",
-      "url": "https://www.ourquadcities.com/news/local-news/ywca-clinton-street-fest-will-bring-family-fun-to-downtown-area/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/12/YWCA-Clinton.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,7 +74,7 @@
       "headline": "Commemorative service in Clinton will honor those who lost their lives in 9/11 attacks",
       "summary": "The public is invited to the 25th anniversary of Sept. 11, 2001, with a commemorative service on Friday, Sept. 11, at 9 a.m. at the Freedom Trees Site at Millcr…",
       "url": "https://www.ourquadcities.com/news/local-news/commemorative-service-in-clinton-will-honor-those-who-lost-their-lives-in-9-11-attacks/",
-      "time": "9 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Clinton-9-11-ceremony.jpg?w=900",
       "category": "Local News"
     },
@@ -71,34 +82,12 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Bettendorf wins opener 27-10 over Pleasant Valley",
-      "summary": "The Bettendorf Bulldogs defeated the PV Spartans 27-10 in the opening game of the season on August 28.",
-      "url": "https://www.ourquadcities.com/sports/high-school-sports/bettendorf-wins-opener-27-10-over-pleasant-valley/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/bettpv.jpg?w=900",
-      "category": "High School Sports"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Quad-Cities-area high school football scores for Aug. 28",
-      "summary": "Check out the area final scores.",
-      "url": "https://qctimes.com/sports/high-school/football/article_fd4ccb5e-498e-4099-8f1b-2c76a368b365.html",
-      "time": "18 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Geneseo wins 26-21 over Rochelle",
-      "summary": "The Geneseo Football is now 2-0 after defeating Rochelle 26-21 on August 28.",
-      "url": "https://www.ourquadcities.com/sports/high-school-sports/geneseo-wins-26-21-over-rochelle/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/genrochell_e97824.jpg?w=512",
-      "category": "High School Sports"
+      "headline": "YWCA Clinton Street Fest will bring family fun to downtown area",
+      "summary": "The YWCA Clinton Street Fest will bring live music, local food, and family fun to downtown Clinton from 5-8 p.m. Saturday, Sept. 12, a news release says. The ev…",
+      "url": "https://www.ourquadcities.com/news/local-news/ywca-clinton-street-fest-will-bring-family-fun-to-downtown-area/",
+      "time": "15 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/12/YWCA-Clinton.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -107,7 +96,7 @@
       "headline": "MercyOne Genesis unveils advanced spine surgery technology in Davenport",
       "summary": "Officials said the technology will give patients advanced surgical capabilities from experienced spine specialists without having to travel outside of the regio…",
       "url": "https://www.wqad.com/article/news/health/mercyone-genesis-advanced-spine-surgery-technology-davenport/526-cd34134a-9d2d-40e2-90ab-0bac7f0fccf3",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c8375731-dda5-4698-baee-f3eeb62d4a9d/20260828T204216/c8375731-dda5-4698-baee-f3eeb62d4a9d_750x422.jpg",
       "category": "health"
     },
@@ -118,7 +107,7 @@
       "headline": "Vehicle catches fire after crash in Wapello, Iowa",
       "summary": "A passenger car left the road, rolled, hit a tree and caught on fire, according to Wapello Fire and Rescue.",
       "url": "https://www.wqad.com/article/traffic/incidents/vehicle-crash-fire-wapello-highway-99/524-7b8bd939-fb57-4554-af36-a67940ae4ea0",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/b585b71f-65a1-4b5e-91b0-25f90683df52/20260828T163827/b585b71f-65a1-4b5e-91b0-25f90683df52_750x422.jpg",
       "category": "incidents"
     },
@@ -129,9 +118,20 @@
       "headline": "16-year-old reported missing out of East Moline",
       "summary": "Police say 16-year-old Amivi Takpah was last seen Aug. 23 at her East Moline home.",
       "url": "https://www.wqad.com/article/news/local/missing-teenager-east-moline-police-department/526-400e8a8f-376e-455f-b587-b4435ef04325",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b998c654-0277-4bb1-848e-8c81b883ed1c/20260828T205223/b998c654-0277-4bb1-848e-8c81b883ed1c_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport Northwest gets warm welcome home after Little League World Series",
+      "summary": "Friends and family greeted the team as they made it back home from Williamsport, Pennsylvania.",
+      "url": "https://www.wqad.com/article/sports/baseball/davenport-northwest-homecoming-little-league-world-series/526-fd8f4515-5ea4-41fe-9947-3946b6e928a2",
+      "time": "1d ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/581c37fe-10b2-4474-908d-84d94d23e9c8/20260828T222310/581c37fe-10b2-4474-908d-84d94d23e9c8_750x422.jpg",
+      "category": "baseball"
     }
   ]
 }
