@@ -1,6 +1,105 @@
 {
-  "updated": "2026-08-31T15:55:00.046098+00:00",
+  "updated": "2026-08-31T21:20:45.523356+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline woman receives new lease on life after pancreas transplant",
+      "summary": "In December 2025, Rachael Lund received the milestone 2,000th pancreas transplant at UW Health in Madison, WI, curing an extreme case of type 1 diabetes.",
+      "url": "https://www.wqad.com/article/news/local/moline-woman-receives-new-lease-on-life-after-pancreas-transplant/526-e66d5028-110b-4f68-a870-3a4dda16d2b7",
+      "time": "11 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b00901bd-ea4d-476e-aa08-9b45aff4324a/20260831T210823/b00901bd-ea4d-476e-aa08-9b45aff4324a_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New DMV facility opens in Aledo",
+      "summary": "Aledo once again has a DMV facility. Illinois Secretary of State Alexi Giannoulias announced the opening of a brand new, state-of-the-art DMV facility in Aledo,…",
+      "url": "https://www.ourquadcities.com/news/local-news/new-dmv-facility-opens-in-aledo/",
+      "time": "19 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/IL-secretary-of-state-featured-image.png?w=624",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Police investigation underway on Davenport's Rockingham Road",
+      "summary": "A large police presence and crime scene tape were seen on Rockingham Road in Davenport on Monday afternoon.",
+      "url": "https://www.wqad.com/article/news/local/police-presence-rockingham-road-davenport-iowa/526-010d1c56-818e-4ce0-8810-f5c116bd7a85",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e7f6873a-09e3-4a06-b186-d46a0208d324/20260831T195418/e7f6873a-09e3-4a06-b186-d46a0208d324_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Leishner named to aviation industry council board of directors",
+      "summary": "Benjamin Leischner, A.A.E., executive director of Quad Cities International Airport has been elected to the Board of Directors of Airports Council International…",
+      "url": "https://www.ourquadcities.com/news/local-news/leishner-named-to-aviation-industry-council-board-of-directors/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Benjamin-Leischner-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Monmouth man arrested after Knox County crash kills 2 people",
+      "summary": "The Illinois State Police have arrested 19-year-old Brian Boyer of Monmouth after a crash in Knox County killed two people.",
+      "url": "https://www.wqad.com/article/traffic/incidents/traffic-accident-monmouth-driver-arrested-fatal-crash/526-9d15b23d-effe-4972-8c62-44d6ce1f8347",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
+      "category": "incidents"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Police on scene at Davenport incident",
+      "summary": "Our Quad Cities News is at the scene of an incident in Davenport on S. Fairmount, between Rockingham and Johnson. Davenport Police and the Scott County Sheriff'…",
+      "url": "https://www.ourquadcities.com/news/local-news/police-on-scene-at-davenport-incident/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Media.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Musco Sports Center reaches semifinals for All Star Community Award",
+      "summary": "The Musco Sports Center has reached the semifinals for the Iowa League of Cities People’s All-Star Community Award. Two rounds of public voting have narrowed th…",
+      "url": "https://www.ourquadcities.com/news/local-news/musco-sports-center-reaches-semifinals-for-all-star-community-award/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Musco-Sports-Center.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Girls in Aviation Day encourages STEM, aviation industries",
+      "summary": "Quad Cities International Airport, Elliott Aviation and Jet Air Inc are hosting the sixth annual Girls in Aviation Day – A Women in Aviation International (WAI)…",
+      "url": "https://www.ourquadcities.com/news/local-news/girls-in-aviation-day-encourages-stem-aviation-industries/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Girls-in-Aviation-Day.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Arrest made in fatal Knox County wrong way crash",
+      "summary": "A 19 year old has been arrested in connection with a deadly crash in Knox County, according to a news release from the Illinois State Police (ISP). ISP Troopers…",
+      "url": "https://www.ourquadcities.com/news/arrest-made-in-fatal-knox-county-wrong-way-crash/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Brian-Boyer-Mug-shot-1.jpg?w=900",
+      "category": "News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +107,7 @@
       "headline": "Get free heart screenings at Heart to Heart Screening Day",
       "summary": "UnityPoint Health – Trinity Heart Center invites residents to its free Heart to Heart Screening Day on Saturday, Oct. 3, from 8 a.m. to noon in the Jardine Audi…",
       "url": "https://www.ourquadcities.com/news/local-news/get-free-heart-screenings-at-heart-to-heart-screening-day/",
-      "time": "9 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/UnityPoint-Health-Trinity-Heart-to-Heart-series.jpg?w=900",
       "category": "Local News"
     },
@@ -19,53 +118,9 @@
       "headline": "Boil orders in the Quad Cities region",
       "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
       "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "43 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline woman receives new lease on life after pancreas transplant",
-      "summary": "In December 2025, Rachael Lund received the milestone 2,000th pancreas transplant at UW Health in Madison, WI, curing an extreme case of type 1 diabetes.",
-      "url": "https://www.wqad.com/article/news/local/moline-woman-receives-new-lease-on-life-after-pancreas-transplant/526-e66d5028-110b-4f68-a870-3a4dda16d2b7",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b00901bd-ea4d-476e-aa08-9b45aff4324a/20260830T225821/b00901bd-ea4d-476e-aa08-9b45aff4324a_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hot week ahead for the Quad Cities",
-      "summary": "Humidity levels will be on the rise this week along with the temperatures. A few showers and storms are possible. Here's your full 7-day forecast.",
-      "url": "https://www.ourquadcities.com/news/local-news/hot-week-ahead-for-the-quad-cities/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/GettyImages-1011128754.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Orpheum Theatre, Galesburg, opens season with tribute band Don Jovi",
-      "summary": "The Historic Orpheum Theatre will launch its 2026-2027 Orpheum Theatre Presents season at 7:30 p.m. Thursday, Sept. 10, with Don Jovi: The Definitive Bon Jovi T…",
-      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-opens-season-with-tribute-band-don-jovi/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/City-of-Galesburg.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Quad-Cities runners gearing up for TBK Bank Marathon, 4sta Hike",
-      "summary": "The Quad-Cities Marathon returns Sept. 26-27, and the volunteer-run 4sta Hike on Sept. 12. raises money for Loud Thunder Forest Preserve.",
-      "url": "https://qctimes.com/life-entertainment/local/wellness/article_24c19aeb-6f60-4ac4-84fe-3865615863e4.html",
-      "time": "4 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/06/8062f250-1c1b-5167-9027-229ecf7479ce/5f432fc65aa8e.image.jpg?resize=300%2C188",
-      "category": ""
     },
     {
       "source": "WQAD",
@@ -74,64 +129,9 @@
       "headline": "Missouri researchers find rare eel in southern Illinois",
       "summary": "“Eels are one of the few species that make me jump up and down in the back of the boat,” larger river scientist Jason DeBoer said.",
       "url": "https://www.wqad.com/article/news/local/researchers-find-rare-eel-in-mississippi-river/63-c8b318fd-a887-483c-a5ba-05a9174817af",
-      "time": "4 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/bf55ea80-1424-4373-a6ed-fea57da90ca1/20260828T180932/bf55ea80-1424-4373-a6ed-fea57da90ca1_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Greyhound announces new route from Twin Cities to Kansas City, including 2 central Iowa stops",
-      "summary": "Greyhound began in 1914 with a seven-passenger car that transported miners from Hibbing to Alice.",
-      "url": "https://www.wqad.com/article/news/community/transportation/greyhound-announces-new-route-twin-cities-to-kansas-city/89-29a1d1fa-3ee4-4770-9acc-4410b1e2e417",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/KARE/images/fbe0faa5-e461-408f-9fe1-a869ac27abba/20260827T155248/fbe0faa5-e461-408f-9fe1-a869ac27abba_750x422.jpg",
-      "category": "transportation"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Meet the newsroom: 30 years in, Thomas Geyer still learns something new everyday on the job",
-      "summary": "Tom Geyer began with the Quad-City Times in 1996. In that time, he’s seen much change in a job where he always keeps learning something new each day.",
-      "url": "https://qctimes.com/news/local/article_92d2a248-2874-4ee1-be49-fdd836a55213.html",
-      "time": "5 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/b/80/b80cf140-bb48-478b-a251-6d072661500c/6a8f68c776d77.image.jpg?resize=300%2C200",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Arizona man sentenced to 12 years in federal prison for trafficking meth in Quad-Cities",
-      "summary": "An Arizona man has been sentenced to 12 years in federal prison for trafficking meth in the Quad-Cities.",
-      "url": "https://qctimes.com/news/local/crime-courts/article_2db68a4d-ee33-469e-9081-52f73e16c2cf.html",
-      "time": "1d ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "New R&B entertainment venue, Mexican restaurant ribbon cutting, women's boutique opens, and more Quad-Cities business news",
-      "summary": "Women's boutique shop opens, new entertainment and event venue, Mexican restaurant ribbon cutting, new wellness center, and more Quad-Cities business news.",
-      "url": "https://qctimes.com/exclusive/insight/article_d5d92e0c-46ca-461e-bef5-178c21e19212.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/08/008410dc-0c32-4d7a-bfcf-308b600eea2e/682220b0de501.image.jpg",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Andrea Talentino: Students are returning. The Quad Cities helps shape what comes next",
-      "summary": "When Augustana students arrive, they come to a region that helps shape their education through internships, research, service, clinical experiences, student tea…",
-      "url": "https://qctimes.com/opinion/column/article_5e62a9e8-c0c4-4fa1-850e-0cc96630ba85.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/b1/9b1fc0e2-5250-11ee-b516-2ba3198b39b9/6501e05546978.image.jpg?resize=300%2C450",
-      "category": ""
     }
   ]
 }
