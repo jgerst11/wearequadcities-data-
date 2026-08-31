@@ -1,6 +1,39 @@
 {
-  "updated": "2026-08-31T14:13:38.239650+00:00",
+  "updated": "2026-08-31T15:55:00.046098+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Get free heart screenings at Heart to Heart Screening Day",
+      "summary": "UnityPoint Health – Trinity Heart Center invites residents to its free Heart to Heart Screening Day on Saturday, Oct. 3, from 8 a.m. to noon in the Jardine Audi…",
+      "url": "https://www.ourquadcities.com/news/local-news/get-free-heart-screenings-at-heart-to-heart-screening-day/",
+      "time": "9 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/UnityPoint-Health-Trinity-Heart-to-Heart-series.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "43 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline woman receives new lease on life after pancreas transplant",
+      "summary": "In December 2025, Rachael Lund received the milestone 2,000th pancreas transplant at UW Health in Madison, WI, curing an extreme case of type 1 diabetes.",
+      "url": "https://www.wqad.com/article/news/local/moline-woman-receives-new-lease-on-life-after-pancreas-transplant/526-e66d5028-110b-4f68-a870-3a4dda16d2b7",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b00901bd-ea4d-476e-aa08-9b45aff4324a/20260830T225821/b00901bd-ea4d-476e-aa08-9b45aff4324a_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +41,7 @@
       "headline": "Hot week ahead for the Quad Cities",
       "summary": "Humidity levels will be on the rise this week along with the temperatures. A few showers and storms are possible. Here's your full 7-day forecast.",
       "url": "https://www.ourquadcities.com/news/local-news/hot-week-ahead-for-the-quad-cities/",
-      "time": "13 min ago",
+      "time": "1 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/06/GettyImages-1011128754.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +52,7 @@
       "headline": "Orpheum Theatre, Galesburg, opens season with tribute band Don Jovi",
       "summary": "The Historic Orpheum Theatre will launch its 2026-2027 Orpheum Theatre Presents season at 7:30 p.m. Thursday, Sept. 10, with Don Jovi: The Definitive Bon Jovi T…",
       "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-opens-season-with-tribute-band-don-jovi/",
-      "time": "43 min ago",
+      "time": "2 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/City-of-Galesburg.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +63,7 @@
       "headline": "Quad-Cities runners gearing up for TBK Bank Marathon, 4sta Hike",
       "summary": "The Quad-Cities Marathon returns Sept. 26-27, and the volunteer-run 4sta Hike on Sept. 12. raises money for Loud Thunder Forest Preserve.",
       "url": "https://qctimes.com/life-entertainment/local/wellness/article_24c19aeb-6f60-4ac4-84fe-3865615863e4.html",
-      "time": "2 h ago",
+      "time": "4 h ago",
       "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/06/8062f250-1c1b-5167-9027-229ecf7479ce/5f432fc65aa8e.image.jpg?resize=300%2C188",
       "category": ""
     },
@@ -41,7 +74,7 @@
       "headline": "Missouri researchers find rare eel in southern Illinois",
       "summary": "“Eels are one of the few species that make me jump up and down in the back of the boat,” larger river scientist Jason DeBoer said.",
       "url": "https://www.wqad.com/article/news/local/researchers-find-rare-eel-in-mississippi-river/63-c8b318fd-a887-483c-a5ba-05a9174817af",
-      "time": "3 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/bf55ea80-1424-4373-a6ed-fea57da90ca1/20260828T180932/bf55ea80-1424-4373-a6ed-fea57da90ca1_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +85,7 @@
       "headline": "Greyhound announces new route from Twin Cities to Kansas City, including 2 central Iowa stops",
       "summary": "Greyhound began in 1914 with a seven-passenger car that transported miners from Hibbing to Alice.",
       "url": "https://www.wqad.com/article/news/community/transportation/greyhound-announces-new-route-twin-cities-to-kansas-city/89-29a1d1fa-3ee4-4770-9acc-4410b1e2e417",
-      "time": "3 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/KARE/images/fbe0faa5-e461-408f-9fe1-a869ac27abba/20260827T155248/fbe0faa5-e461-408f-9fe1-a869ac27abba_750x422.jpg",
       "category": "transportation"
     },
@@ -63,31 +96,9 @@
       "headline": "Meet the newsroom: 30 years in, Thomas Geyer still learns something new everyday on the job",
       "summary": "Tom Geyer began with the Quad-City Times in 1996. In that time, he’s seen much change in a job where he always keeps learning something new each day.",
       "url": "https://qctimes.com/news/local/article_92d2a248-2874-4ee1-be49-fdd836a55213.html",
-      "time": "3 h ago",
+      "time": "5 h ago",
       "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/b/80/b80cf140-bb48-478b-a251-6d072661500c/6a8f68c776d77.image.jpg?resize=300%2C200",
       "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline woman receives new lease on life after pancreas transplant",
-      "summary": "In December 2025, Rachel Lund received the milestone 2,000th pancreas transplant at UW Health in Madison, WI, curing an extreme case of type 1 diabetes.",
-      "url": "https://www.wqad.com/article/news/local/moline-woman-receives-new-lease-on-life-after-pancreas-transplant/526-e66d5028-110b-4f68-a870-3a4dda16d2b7",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b00901bd-ea4d-476e-aa08-9b45aff4324a/20260830T225821/b00901bd-ea4d-476e-aa08-9b45aff4324a_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Heat advisory to start the work week",
-      "summary": "After a lot of very pleasant weather in the Quad Cities with sunshine and mid 80s temperatures, hot weather is looking to return. With temperatures hitting the …",
-      "url": "https://www.ourquadcities.com/news/local-news/heat-advisory-to-start-the-work-week/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "QC Times",
@@ -120,17 +131,6 @@
       "url": "https://qctimes.com/opinion/column/article_5e62a9e8-c0c4-4fa1-850e-0cc96630ba85.html",
       "time": "1d ago",
       "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/b1/9b1fc0e2-5250-11ee-b516-2ba3198b39b9/6501e05546978.image.jpg?resize=300%2C450",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "The Short List: Aug. 31",
-      "summary": "The school year is underway, and so is fall football. Illinois high school football kicked off two weeks ago, and Iowa schools started their season last week, i…",
-      "url": "https://qctimes.com/newsletter-templates/paid/short-list/article_b328e392-df1c-49ed-a0a6-9c6b90d2dd8f.html",
-      "time": "1d ago",
-      "image": "",
       "category": ""
     }
   ]
