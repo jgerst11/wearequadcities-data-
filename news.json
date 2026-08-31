@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-30T22:27:47.794581+00:00",
+  "updated": "2026-08-31T04:15:06.529824+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline woman receives new lease on life after pancreas transplant",
+      "summary": "In December 2025, Rachel Lund received the milestone 2,000th pancreas transplant at UW Health in Madison, WI, curing an extreme case of type 1 diabetes.",
+      "url": "https://www.wqad.com/article/news/local/moline-woman-receives-new-lease-on-life-after-pancreas-transplant/526-e66d5028-110b-4f68-a870-3a4dda16d2b7",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b00901bd-ea4d-476e-aa08-9b45aff4324a/20260830T225821/b00901bd-ea4d-476e-aa08-9b45aff4324a_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,9 +19,20 @@
       "headline": "Heat & Humidity Set to Build Back In",
       "summary": "Storm track set to move northward along the heat dome, which will allow temperatures to reach the low 90s here in the Quad Cities.",
       "url": "https://www.wqad.com/article/weather/moline-davenport-rock-island-bettendorf-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
-      "time": "58 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/9ee8c244-b7f6-4717-911d-be3bb2f4c8d2/20260829T225202/9ee8c244-b7f6-4717-911d-be3bb2f4c8d2_750x422.jpg",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f8a6bcb4-44ea-4a83-a2bc-818f351bd67d/20260830T225200/f8a6bcb4-44ea-4a83-a2bc-818f351bd67d_750x422.jpg",
       "category": "weather"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Heat advisory to start the work week",
+      "summary": "After a lot of very pleasant weather in the Quad Cities with sunshine and mid 80s temperatures, hot weather is looking to return. With temperatures hitting the …",
+      "url": "https://www.ourquadcities.com/news/local-news/heat-advisory-to-start-the-work-week/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,19 +41,8 @@
       "headline": "Gov. Pritzker: Reopen Tyson plant",
       "summary": "Governor JB Pritzker made a campaign stop in the QCA and said he wants the recently-closed Tyson Food plant in Joslin to be reopened. Pritzker stopped at Local …",
       "url": "https://www.ourquadcities.com/news/local-news/gov-pritzker-reopen-tyson-plant/",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_e54c20.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois governor signs law setting new age and licensing rules for e-bike riders",
-      "summary": "Gov. J.B. Pritzker has signed a bill into law that classifies electric bicycles into categories based on speed and imposes age and licensing rules on riders.",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-governor-signs-law-setting-new-age-and-licensing-rules-for-e-bike-riders/",
-      "time": "20 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/e-bike-GENERIC-e-bikes.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +52,7 @@
       "headline": "'I really fear for my life': Neighbors worry after dogs maul man to death in Illinois",
       "summary": "Police in Illinois are investigating after loose dogs mauled a man to death Thursday night. Neighbors say they worry since the dogs are still on the loose.",
       "url": "https://www.wqad.com/article/news/nation-world/dogs-maul-man-to-death-in-illinois/507-8f8d65a8-8f68-4261-8a0e-11729c987253",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/7f98b666-8391-48d3-89ea-849bb7c6df7c/20260828T172115/7f98b666-8391-48d3-89ea-849bb7c6df7c_750x422.jpg",
       "category": "nation-world"
     },
@@ -63,7 +74,7 @@
       "headline": "UPDATE: Judge denies motion to dismiss charges for QC couple accused of child abuse",
       "summary": "UPDATE: After the lawyer for an adoptive mother accused of child abuse asked a judge to dismiss two of the charges against the Davenport woman, a Scott County j…",
       "url": "https://www.ourquadcities.com/news/local-news/motion-to-dismiss-charges-filed-in-case-of-davenport-parents-accused-of-child-abuse/",
-      "time": "4d ago",
+      "time": "5d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Andrew-Warrington-Kellie-Warrington-mug-shot.jpg?w=900",
       "category": "Local News"
     }
