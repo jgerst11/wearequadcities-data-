@@ -1,6 +1,61 @@
 {
-  "updated": "2026-09-01T04:01:07.554960+00:00",
+  "updated": "2026-09-01T13:11:24.815269+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "42nd annual Rock Island Labor Day Parade will have 90-plus entries",
+      "summary": "The 42nd annual Rock Island Labor Day Parade is scheduled for 9:30 a.m. Monday, Sept. 7, with more than 90 entries have registered, with many based on this year…",
+      "url": "https://www.ourquadcities.com/news/local-news/42nd-annual-rock-island-labor-day-parade-will-have-90-plus-entries/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Rock-Island-Labor-Day-Parade-route-.jpg?w=798",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hot and humid start to September",
+      "summary": "Fall thoughts may come to mind when you hear \"September\", but the month is starting out hot and humid in the Quad Cities! Here's your full 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/hot-and-humid-start-to-september/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/heat-wave.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘We are one in the end’: First responders from across Illinois, Missouri honor Belleville police chief during procession",
+      "summary": "More than a dozen police departments and fire agencies joined the procession Monday, offering a final salute to the longtime Belleville chief.",
+      "url": "https://www.wqad.com/article/news/community/we-are-one-in-the-end-first-responders-from-across-illinois-missouri-honor-belleville-police-chief-during-procession/63-4226bef3-912e-4812-95da-1e7816e314d3",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/c5250ed9-6030-4428-96e2-93e01219f13d/20260831T230420/c5250ed9-6030-4428-96e2-93e01219f13d_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Nepalis in Iowa bring attention to missing flood victims, collect donations",
+      "summary": "The Non-Resident Nepali Association Iowa chapter and the Iowa Nepalese Association are both using their platforms to make a difference.",
+      "url": "https://www.wqad.com/article/news/nation-world/nepalis-iowa-reaction-missing-flood-victims-fundraiser-natural-disaster-nepal-tibet-border-flooding/524-d83c098e-4bfe-4c0a-8a16-d43a5b125694",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/9b20543f-9cca-4231-a041-2ccae478ef77/20260826T224722/9b20543f-9cca-4231-a041-2ccae478ef77_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "State EPA: Samples showed elevated levels of PFAS compound in Galesburg Community Water System",
+      "summary": "Water systems in Abingdon, East Galesburg, Henderson, Knoxville, Windwood and Little York purchase water from the Galesburg CWS.",
+      "url": "https://www.wqad.com/article/tech/science/environment/illinois-epa-pfas-forever-chemical-detection-galesburg-community-water-system/526-a4852e65-92c3-4b63-9ed8-6a39711b5bec",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d0e55233-5c6a-405d-adfa-6fda64afd3da/20250819T024544/d0e55233-5c6a-405d-adfa-6fda64afd3da_750x422.jpg",
+      "category": "environment"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,20 +63,9 @@
       "headline": "New Iowa Quad Cities campaign urges safe use of e-bikes, e-scooters on sidewalks and trails",
       "summary": "\"Ride Safe 'n Smart\" is a collaboration between Iowa towns, school districts and healthcare professionals, reminding people how to stay safe on trails and sidew…",
       "url": "https://www.wqad.com/article/news/community/e-bike-e-scooter-safety-iowa-quad-cities-campaign-ride-safe-n-smart/526-09cc423e-05b8-4d00-a567-9c5207045463",
-      "time": "55 min ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/623ca9d5-6cd0-46d7-ad50-14d919e97ada/20260901T010902/623ca9d5-6cd0-46d7-ad50-14d919e97ada_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Section of highway in Galesburg to be dedicated to fallen area soldier",
-      "summary": "A section of U.S. Highway 150 through Galesburg will be dedicated in honor of an area soldier who lost his life in Iraq. According to a release from the Illinoi…",
-      "url": "https://www.ourquadcities.com/news/local-news/section-of-highway-in-galesburg-to-be-dedicated-to-fallen-area-soldier/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_a4c5f7.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +74,7 @@
       "headline": "Iowa SNAP hotline at risk with impending budget cuts",
       "summary": "The One Big Beautiful Bill cut the USDA's grant money for the SNAP hotline in half starting Oct.1. Food banks are looking to find ways to make up the funds.",
       "url": "https://www.wqad.com/article/life/food/snap-hotline-at-risk-budget-cuts/524-865abe54-efa9-4528-8162-1350685403e2",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/ae200ba8-90ce-4f54-8ea2-4aaa1db5cd80/20260831T230858/ae200ba8-90ce-4f54-8ea2-4aaa1db5cd80_750x422.jpg",
       "category": "food"
     },
@@ -41,20 +85,9 @@
       "headline": "Iowa AG Brenna Bird joins FTC lawsuit accusing Amazon of overcharging advertisers",
       "summary": "The lawsuit accuses Amazon of overcharging advertisers, including over 500,000 small and medium-sized businesses.",
       "url": "https://www.wqad.com/article/money/consumer/iowa-attorney-general-brenna-bird-ftc-lawsuit-accusing-amazon-overcharging-advertisers/524-316689a4-061f-4715-b2e7-cfaaea4183d2",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/KING/images/e0ae4b5e-9070-4733-ba7e-ba1d89bb3204/e0ae4b5e-9070-4733-ba7e-ba1d89bb3204_750x422.jpg",
       "category": "consumer"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine Power & Water will begin water-main replacement project",
-      "summary": "Muscatine Power and Water will close Roscoe Avenue between Van Horne Street and West 11th Street beginning Tuesday, Sept. 1 for a water-main replacement project…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-power-water-will-begin-water-main-replacement-project/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/road-work-ahead-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -63,7 +96,7 @@
       "headline": "Seeing fall colors already? Arborist says check your trees",
       "summary": "A QC expert tells us that if your leaves are already changing colors, it might be a sign of a bigger problem, including disease, drought and root system issues.",
       "url": "https://www.wqad.com/article/news/local/the-current/fall-tree-colors-autumn-foliage-changing-not-yet-problems-arborist-tips-health/526-0460886b-0ee9-40b3-a7ea-c74a3731d7f3",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c2d1d067-5df8-48df-a670-f22f3b78d9b1/20260901T003435/c2d1d067-5df8-48df-a670-f22f3b78d9b1_750x422.jpg",
       "category": "the-current"
     },
@@ -74,7 +107,7 @@
       "headline": "Muscatine City Council will review financing for sanitary/storm sewer project",
       "summary": "The Muscatine City Council will hold a public hearing on Tuesday, Sept. 1, to gather input on a long‑term financing plan for Phase 6E of the West Hill Sanitary …",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-will-review-financing-for-sanitary-storm-sewer-project/",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +118,7 @@
       "headline": "Geneseo couple proposes 26-acre sports complex in memory of late son",
       "summary": "A Geneseo couple is proposing a 26-acre sports complex in memory of their son, with soccer fields, pickleball courts, a splash pad and parking.",
       "url": "https://www.wqad.com/article/news/community/geneseo-sports-complex-proposal-local-couple-farm-in-memoriam-late-son/526-beb4f427-e86b-4a72-8d50-f947a7c5e68e",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/723a1492-0c38-4cf8-bcb9-9d1b9470d484/20260831T234852/723a1492-0c38-4cf8-bcb9-9d1b9470d484_750x422.jpg",
       "category": "community"
     },
@@ -96,42 +129,9 @@
       "headline": "Person shot by Davenport officer on Monday was armed, police say",
       "summary": "According to police, officers were called Monday morning to the 3700 block of Rockingham Road for a person who was armed and suicidal.",
       "url": "https://www.wqad.com/article/news/local/police-presence-rockingham-road-davenport-iowa/526-010d1c56-818e-4ce0-8810-f5c116bd7a85",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e7f6873a-09e3-4a06-b186-d46a0208d324/20260831T195418/e7f6873a-09e3-4a06-b186-d46a0208d324_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA campaign focused on safety for e-bikes and e-scooters",
-      "summary": "Area cities, schools and healthcare professionals across the Iowa Quad Cities have launched a program focused on the safe use of e-bikes and e-scooters. The Rid…",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-campaign-focused-on-safety-for-e-bikes-and-e-scooters/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/e-bike.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "1st Midwest Showdown tournament brings competitive Scrabble players to Galesburg",
-      "summary": "Around 60 Scrabble players from around the country will be at Knox College for the tournament, which runs Sept. 5-7. Here's how the tournament's format is uniqu…",
-      "url": "https://www.wqad.com/article/news/local/the-current/midwest-showdown-scrabble-tournament-galesburg-labor-day-weekend-sign-up-play/526-932bcf3d-4f16-4588-9ef4-1188b5e125db",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a81c8f51-8a84-43d6-bfbf-37711e2aac1c/20260831T224322/a81c8f51-8a84-43d6-bfbf-37711e2aac1c_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Resignations, hirings, athletic assignments, and other Moline School District personnel news from Aug. 24",
-      "summary": "See the personnel items from the Aug. 24 agenda of the Moline-Coal Valley School District. The board met at the Moline Education Center.",
-      "url": "https://qctimes.com/news/local/education/article_64e51996-a989-4749-9fa8-aab68f11904d.html",
-      "time": "5 h ago",
-      "image": "",
-      "category": ""
     }
   ]
 }
