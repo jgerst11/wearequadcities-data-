@@ -1,6 +1,61 @@
 {
-  "updated": "2026-09-01T19:14:56.280301+00:00",
+  "updated": "2026-09-01T22:26:21.069568+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island fire chief to retire",
+      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
+      "time": "28 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "First-time mom nominates Trinity BirthPlace nurse for national award after reuniting her with newborn in NICU",
+      "summary": "A first-time mom nominated a UnityPoint Health Trinity BirthPlace nurse for a DAISY Award after the nurse helped her reunite with her newborn baby in Iowa City.",
+      "url": "https://www.wqad.com/article/life/heartwarming/unitypoint-health-trinity-birthplace-nurse-daisy-award-nomination/526-14623c7b-9439-4e6d-af6d-e92e3df20023",
+      "time": "34 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d0579df0-9ce9-4116-a960-182772532acd/20260901T190103/d0579df0-9ce9-4116-a960-182772532acd_750x422.jpg",
+      "category": "heartwarming"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport man sentenced to federal prison for possession of a firearm to further drug trafficking, possess with intent to distribute cocaine base",
+      "summary": "On September 1, a Davenport man was sentenced to 78 months (6.5 years) in federal prison for possession with intent to distribute cocaine base and possession of…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-sentenced-to-federal-prison-for-possession-of-a-firearm-to-further-drug-trafficking-possess-with-intent-to-distribute-cocaine-base/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/12/GettyImages-1310411007.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "MLK Center hosts Soul of the City 2026",
+      "summary": "The Martin Luther King Jr. Community Center presents Soul of the City 2026, a free, family-friendly celebration of community, culture and connection on Saturday…",
+      "url": "https://www.ourquadcities.com/news/local-news/mlk-center-hosts-soul-of-the-city-2026/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Martin-Luther-King-Center.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline accepting applications for its Public Art Maintenance Program",
+      "summary": "The program provides matching funds to help individuals or organizations repair, restore and maintain existing public artwork in Moline.",
+      "url": "https://www.wqad.com/article/news/community/moline-public-art-maintenance-program-applications-open/526-8dfbb6df-c7e8-4172-9475-4e649e4f742a",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cd0e8028-cce8-4d8a-ab35-0825fece522b/20260901T183848/cd0e8028-cce8-4d8a-ab35-0825fece522b_750x422.jpg",
+      "category": "community"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +63,7 @@
       "headline": "Pritzker pledges to stay on ‘Team Fight’ as he asks Illinois voters for 3rd term",
       "summary": "Pritzker declined to say if a third term would be his last and said he has no timeline on when he will decide whether to run for president in 2028.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-governor-jb-pritzker-tour-seeking-reelection/526-2319135a-556a-488c-be05-ad9c58c7b48a",
-      "time": "3 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c88cb7ad-e183-4990-a059-a000e42c8017/20260901T190914/c88cb7ad-e183-4990-a059-a000e42c8017_750x422.jpg",
       "category": "illinois-politics"
     },
@@ -19,7 +74,7 @@
       "headline": "Bob Guy named Grand Marshal of Galesburg Labor Day Parade",
       "summary": "Bob Guy, SMART Transportation Division Illinois State Director, has been named the Grand Marshal of the 2026 Galesburg Labor Day Parade. The parade starts on Mo…",
       "url": "https://www.ourquadcities.com/news/local-news/bob-guy-named-grand-marshal-of-galesburg-labor-day-parade/",
-      "time": "4 min ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Bob-Guy-featured-image.png?w=440",
       "category": "Local News"
     },
@@ -30,7 +85,7 @@
       "headline": "State EPA: Samples showed elevated levels of PFAS compound in Galesburg Community Water System",
       "summary": "Six local satellite systems purchase water from the Galesburg CWS.",
       "url": "https://www.wqad.com/article/tech/science/environment/illinois-epa-pfas-forever-chemical-detection-galesburg-community-water-system/526-a4852e65-92c3-4b63-9ed8-6a39711b5bec",
-      "time": "39 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d0e55233-5c6a-405d-adfa-6fda64afd3da/20250819T024544/d0e55233-5c6a-405d-adfa-6fda64afd3da_750x422.jpg",
       "category": "environment"
     },
@@ -41,7 +96,7 @@
       "headline": "Applications open for Moline Public Art Maintenance Program",
       "summary": "The City of Moline is now accepting applications for its Public Art Maintenance Program. The program provides matching funds to help people and organizations re…",
       "url": "https://www.ourquadcities.com/news/local-news/applications-open-for-moline-public-art-maintenance-program/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +107,7 @@
       "headline": "QC Storm, Vibrant Arena extend lease through 2031",
       "summary": "The Quad City Storm and Vibrant Arena at the MARK have reached a deal that will keep the team playing in downtown Moline until 2031. The Quad City Storm and Vib…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-storm-vibrant-arena-extend-lease-through-2031/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/Quad-City-Storm-hockey-GENERIC-1.jpg?w=900",
       "category": "Local News"
     },
@@ -63,30 +118,8 @@
       "headline": "Pleasant Valley High entrepreneurs raise funds for St. Jude",
       "summary": "Two Pleasant Valley High School students used their luxury shine car detailing business to raise funds for St. Jude Children’s Research Hospital. Kamran Foad an…",
       "url": "https://www.ourquadcities.com/news/local-news/pleasant-valley-high-entrepreneurs-raise-funds-for-st-jude/",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/St.-Jude-Childrens-Research-Hospital.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Two injured in motorcycle incident near Pleasant Valley High",
-      "summary": "Two people were injured in an incident between a motorcycle and a minivan near Pleasant Valley High School this morning. A news release from the Scott County Sh…",
-      "url": "https://www.ourquadcities.com/news/local-news/two-injured-in-motorcycle-incident-near-pleasant-valley-high/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/12/Scott-County-Sheriffs-Office.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Touch A Truck raises funds for Imagination Library Clinton County",
-      "summary": "Families can check out heavy equipment while raising funds for the Dolly Parton Imagination Library of Clinton County at a Touch-A-Truck fundraiser in DeWitt la…",
-      "url": "https://www.ourquadcities.com/news/local-news/touch-a-truck-raises-funds-for-imagination-library-clinton-county/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Dolly-Partons-Imagination-Library.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -96,42 +129,9 @@
       "headline": "Gardeners work to replant grass, flowers after Iowa State Fair",
       "summary": "Following record-breaking attendance, fair gardeners say they are now picking up trash in gardens, planting grass seed and growing new flowers.",
       "url": "https://www.wqad.com/article/news/local/iowa-state-fair-gardens-gardeners-cleanup/524-046719a1-c61d-479d-92f0-c1254c2bd1c8",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/ec569734-f59a-448c-9883-36cc594ee53e/20260901T131314/ec569734-f59a-448c-9883-36cc594ee53e_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hot and humid start to September",
-      "summary": "Fall thoughts may come to mind when you hear \"September\", but the month is starting out hot and humid in the Quad Cities! Here's your full 7-day forecast.",
-      "url": "https://www.ourquadcities.com/news/local-news/hot-and-humid-start-to-september/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/heat-wave.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "‘We are one in the end’: First responders from across Illinois, Missouri honor Belleville police chief during procession",
-      "summary": "More than a dozen police departments and fire agencies joined the procession Monday, offering a final salute to the longtime Belleville chief.",
-      "url": "https://www.wqad.com/article/news/community/we-are-one-in-the-end-first-responders-from-across-illinois-missouri-honor-belleville-police-chief-during-procession/63-4226bef3-912e-4812-95da-1e7816e314d3",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/c5250ed9-6030-4428-96e2-93e01219f13d/20260831T230420/c5250ed9-6030-4428-96e2-93e01219f13d_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Nepalis in Iowa bring attention to missing flood victims, collect donations",
-      "summary": "The Non-Resident Nepali Association Iowa chapter and the Iowa Nepalese Association are both using their platforms to make a difference.",
-      "url": "https://www.wqad.com/article/news/nation-world/nepalis-iowa-reaction-missing-flood-victims-fundraiser-natural-disaster-nepal-tibet-border-flooding/524-d83c098e-4bfe-4c0a-8a16-d43a5b125694",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/9b20543f-9cca-4231-a041-2ccae478ef77/20260826T224722/9b20543f-9cca-4231-a041-2ccae478ef77_750x422.jpg",
-      "category": "nation-world"
     }
   ]
 }
