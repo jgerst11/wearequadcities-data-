@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T02:30:14.989415+00:00",
-  "total": 23,
+  "generated": "2026-09-01T10:42:48.702470+00:00",
+  "total": 24,
   "events": [
     {
       "id": "vqc_da9bcc683d8a",
@@ -238,6 +238,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13071&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_7b4f9af35a21",
+      "name": "Slow Art and Yin Yoga",
+      "start": "2026-09-04",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13224&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
