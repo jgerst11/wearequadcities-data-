@@ -1,82 +1,104 @@
 {
-  "updated": "2026-09-02T16:07:54.643232+00:00",
+  "updated": "2026-09-02T22:25:36.554799+00:00",
   "items": [
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa libraries facing cuts as cities seek to lower budgets",
-      "summary": "A trend of budget cuts across Iowa communities has led to concerns over protecting Iowa libraries. The Iowa Library Association shared what makes libraries vita…",
-      "url": "https://www.wqad.com/article/news/education/iowa-libraries-facing-cuts-cities-seek-lower-budgets/524-99d99d4e-ccae-4073-8205-e12cf73069eb",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/e3eafdbb-bedf-41b1-b8c5-20dd958775b6/20260901T231111/e3eafdbb-bedf-41b1-b8c5-20dd958775b6_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa officials warn about kratom, synthetic 7-OH products",
-      "summary": "Iowa officials warned of escalating dangers from kratom and synthetic products, linked to 45 deaths since 2024. They urged retailers to remove them from shelves…",
-      "url": "https://www.wqad.com/article/news/health/iowa-officials-warn-about-kratom-synthetic-7-oh-products/524-180a0408-05a0-4de4-b3ae-8ec88cef5277",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WZZM/images/ab26245e-6a83-4b52-afd5-55dce30d2f4a/20260319T185151/ab26245e-6a83-4b52-afd5-55dce30d2f4a_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Semi driver hospitalized with 'serious' injuries after collision with train in central Iowa",
-      "summary": "Iowa State Patrol said the driver of the semi was flown to a Des Moines hospital with \"serious\" injuries.",
-      "url": "https://www.wqad.com/article/traffic/incidents/train-semi-collision-grinnell-driver-hospital-serious-injuries-update/524-42b12e85-8e0f-40af-8b71-955bda06835f",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/fe35aebd-dd0e-4621-a33c-5f56f74db814/20260902T005910/fe35aebd-dd0e-4621-a33c-5f56f74db814_750x422.jpg",
-      "category": "incidents"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island fire chief to retire",
-      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
-      "category": "public-safety"
-    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "UnityPoint Trinity Health nurse earns Daisy Award for work with newborn & mother",
-      "summary": "On August 14, 2025, Olivia Soseman went into labor four weeks early. After delivering the baby via C-section, Soseman had about a minute to hold onto her newbor…",
-      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-trinity-health-nurse-earns-daisy-award-for-work-with-newborn-mother/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mom-baby-and-nurse-.jpg?w=571",
+      "headline": "Extreme Heat Warning in the Quad Cities",
+      "summary": "Things have gotten to a very hot start in the Quad Cities for this week hitting the 90s on Monday and still hitting 90s today. An extreme heat warning has been …",
+      "url": "https://www.ourquadcities.com/news/local-news/extreme-heat-warning-in-the-quad-cities/",
+      "time": "19 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Clinton, Iowa City Council combs through data center ordinance",
-      "summary": "It took over three hours to review half of the 15-page ordinance.",
-      "url": "https://www.wqad.com/article/news/local/clinton-city-council-combs-data-center-ordinance/526-b07413a2-7cfe-4aee-889e-f421c8c7d0b2",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c8b3b8b7-c976-4cd7-9a25-ae3e7cf72d47/20260902T030708/c8b3b8b7-c976-4cd7-9a25-ae3e7cf72d47_750x422.jpg",
-      "category": "local"
+      "headline": "Rebuilding Together Henry County builds its 500th wheelchair ramp for Cleveland resident",
+      "summary": "Rebuilding Together Henry County built its 500th wheelchair ramp Wednesday, helping a resident return home after an amputation left him unable to enter his hous…",
+      "url": "https://www.wqad.com/article/news/community/rebuilding-together-henry-county-builds-its-500th-wheelchair-ramp-for-cleveland-resident/526-0f06a31b-7bdd-4efc-b45f-8b7781b1bf4f",
+      "time": "22 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b9d7c9d4-3334-4477-b68a-c06769683b2c/20260902T215825/b9d7c9d4-3334-4477-b68a-c06769683b2c_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Take charge of heart health with Quad Cities Go Red for Women",
+      "summary": "Cardiovascular disease continues to be the leading cause of death in women, and a national movement is empowering women to take charge of heart health and addre…",
+      "url": "https://www.ourquadcities.com/news/local-news/take-charge-of-heart-health-with-quad-cities-go-red-for-women/",
+      "time": "51 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Quad-Cities-Go-Red-for-Women.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Family fun awaits at the Orion Fall Festival",
+      "summary": "You can help the community while enjoying contests, games, rides, food, parade, music and more family fun! Tim Moen joined Our Quad Cities News with info on the…",
+      "url": "https://www.ourquadcities.com/news/local-news/family-fun-awaits-at-the-orion-fall-festival/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Orion-Fall-Festival.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "8 people, dog displaced after Moline fire",
+      "summary": "Eight people and a dog were displaced after a fire in Moline this morning, according to a news release from the Moline Fire Department. Moline firefighters were…",
+      "url": "https://www.ourquadcities.com/news/local-news/8-people-dog-displaced-after-moline-fire/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Fire-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "AAA 'Tow to Go' helps Iowa impaired drivers get home safely",
+      "summary": "AAA wants to make sure impaired drivers in Iowa get home safely over the upcoming Labor Day weekend. The group is activating its Tow to Go program, which offers…",
+      "url": "https://www.ourquadcities.com/news/local-news/aaa-tow-to-go-helps-impaired-drivers-get-home-safely/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/American-Automobile-Association.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-223/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Crime-Stoppers-Treye-Coleman-Timothy-Smead-Mug-shot.jpg?w=900",
+      "category": "Crime"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "School districts around the Quad Cities dismissing early this week due to high temperatures",
-      "summary": "At least three schools in our area have already announced plans to let students out early.",
-      "url": "https://www.wqad.com/article/news/local/quad-cities-schools-dismissing-early-high-temperatures/526-c2a877c3-82ca-4b81-beae-f2193ceed4cd",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/9a7974e7-00db-4db0-87a5-85c20eccda15/20260826T095318/9a7974e7-00db-4db0-87a5-85c20eccda15_750x422.jpg",
-      "category": "local"
+      "headline": "Immigrant Entrepreneurs Summit connects Quad Cities workers with new opportunities",
+      "summary": "The Quad Cities Regional Immigrant Entrepreneurs Summit included nine workshops covering topics such as managing cash flow, accessing capital and estate plannin…",
+      "url": "https://www.wqad.com/article/money/business/immigrant-entrepreneurs-summit-quad-cities/526-17dbe2fc-0a82-49d9-af80-3ded76f8153d",
+      "time": "22 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/6e030a2a-d44f-4c28-b9c8-c140b1a59c46/20260901T232446/6e030a2a-d44f-4c28-b9c8-c140b1a59c46_750x422.jpg",
+      "category": "business"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Disco-themed YWCA fundraiser to support Quad Cities families",
+      "summary": "\"Bright Lights & Boogie Nights\" supporting local families through the YWCA is coming up on Saturday, Sept. 19 at Bally's in Rock Island. Secure your tickets her…",
+      "url": "https://www.wqad.com/article/news/local/the-current/bright-lights-and-boogie-nights-ywca-quad-cities-tickets/526-d8a6a146-e07f-4c82-804f-d6bc6792139d",
+      "time": "22 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f0693166-b6a2-4646-ae9c-1acec0fcd6b2/20260901T231140/f0693166-b6a2-4646-ae9c-1acec0fcd6b2_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -85,53 +107,31 @@
       "headline": "Car flips in Moline crash",
       "summary": "A car flipped upside-down Tuesday afternoon in a Moline crash when a silver sedan hit a parked red SUV. Our Quad Cities News crew saw emergency responders in th…",
       "url": "https://www.ourquadcities.com/news/local-news/car-flips-in-moline-crash/",
-      "time": "16 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/upside-down-1.jpg?w=841",
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Man injured in reported explosion in rural Calamus",
-      "summary": "A man is undergoing treatment at the University of Iowa Hospitals and Clinics after a report of an explosion in rural Calamus yesterday. A news release from the…",
-      "url": "https://www.ourquadcities.com/news/local-news/man-injured-in-reported-explosion-in-rural-calamus/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Calamus-explosion-.jpg?w=563",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Muscatine Humane Society working to tackle cat overpopulation with new facility",
+      "summary": "The Muscatine Humane Society is housing more than 200 cats as it works to address years of cat overpopulation with a new surgery center for spays and neuters.",
+      "url": "https://www.wqad.com/article/life/pets/muscatine-humane-society-working-to-tackle-cat-overpopulation-with-new-facility/526-2b568630-e52f-4715-95c7-135b0da264ed",
+      "time": "23 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ca9c7403-31da-497e-b267-746bcb104a50/20260901T223913/ca9c7403-31da-497e-b267-746bcb104a50_750x422.jpg",
+      "category": "pets"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hot and humid start to September",
-      "summary": "Fall thoughts may come to mind when you hear \"September\", but the month is starting out hot and humid in the Quad Cities! Here's your full 7-day forecast.",
-      "url": "https://www.ourquadcities.com/news/local-news/hot-and-humid-start-to-september/",
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island fire chief to retire",
+      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
       "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/heat-wave.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: Suspect taken to hospital after Davenport shooting",
-      "summary": "UPDATE: One person was taken to a hospital Monday after being shot by a police officer on the 3700 block of Rockingham Road, Davenport, according to a news rele…",
-      "url": "https://www.ourquadcities.com/news/local-news/police-on-scene-at-davenport-incident/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_a3c722.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: Victims identified in fatal Knox County wrong way crash",
-      "summary": "UPDATE: According to Knox County Coroner Jacque Dare, the victims have been identified as Curtis Vannier, 28, of Moline and Kelsey Barksdale, 27, of Davenport. …",
-      "url": "https://www.ourquadcities.com/news/arrest-made-in-fatal-knox-county-wrong-way-crash/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Brian-Boyer-Mug-shot-1.jpg?w=900",
-      "category": "News"
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
+      "category": "public-safety"
     }
   ]
 }
