@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-02T03:22:19.021996+00:00",
+  "updated": "2026-09-02T08:30:18.593901+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island fire chief to retire",
+      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UnityPoint Trinity Health nurse earns Daisy Award for work with newborn & mother",
+      "summary": "On August 14, 2025, Olivia Soseman went into labor four weeks early. After delivering the baby via C-section, Soseman had about a minute to hold onto her newbor…",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-trinity-health-nurse-earns-daisy-award-for-work-with-newborn-mother/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mom-baby-and-nurse-.jpg?w=571",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +30,7 @@
       "headline": "Clinton, Iowa City Council combs through data center ordinance",
       "summary": "It took over three hours to review half of the 15-page ordinance.",
       "url": "https://www.wqad.com/article/news/local/clinton-city-council-combs-data-center-ordinance/526-b07413a2-7cfe-4aee-889e-f421c8c7d0b2",
-      "time": "11 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c8b3b8b7-c976-4cd7-9a25-ae3e7cf72d47/20260902T030708/c8b3b8b7-c976-4cd7-9a25-ae3e7cf72d47_750x422.jpg",
       "category": "local"
     },
@@ -19,20 +41,9 @@
       "headline": "School districts around the Quad Cities dismissing early this week due to high temperatures",
       "summary": "At least three schools in our area have already announced plans to let students out early.",
       "url": "https://www.wqad.com/article/news/local/quad-cities-schools-dismissing-early-high-temperatures/526-c2a877c3-82ca-4b81-beae-f2193ceed4cd",
-      "time": "12 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WCNC/images/9a7974e7-00db-4db0-87a5-85c20eccda15/20260826T095318/9a7974e7-00db-4db0-87a5-85c20eccda15_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Public House begins 10th year of giving back to the Iowa Stead Family Children's Hospital",
-      "summary": "For the 10th season, Public House is using Hawkeye football watch parties to raise money for the Iowa Stead Family Children's Hospital. During that stretch, the…",
-      "url": "https://www.ourquadcities.com/news/local-news/public-house-begins-10th-year-of-giving-back-to-the-iowa-stead-family-childrens-hospital/",
-      "time": "58 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Public-House-begins-10th-year-of-giving-back-to-the-Iowa-Stead-Family-Childrens-Hospital.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,7 +52,7 @@
       "headline": "Moline Fire Dept. will conduct smoke testing of sewer system",
       "summary": "The Moline Fire Department will conduct smoke testing of the city's sanitary sewer system beginning Sept. 8. Crews will use non-toxic, low-odor smoke to find de…",
       "url": "https://www.ourquadcities.com/news/local-news/moline-fire-dept-will-conduct-smoke-testing-of-sewer-system/",
-      "time": "2 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/testing-with-smoke-.jpg?w=568",
       "category": "Local News"
     },
@@ -52,7 +63,7 @@
       "headline": "Immigrant Entrepreneurs Summit connects Quad Cities workers with new opportunities",
       "summary": "The Quad Cities Regional Immigrant Entrepreneurs Summit included nine workshops covering topics such as managing cash flow, accessing capital and estate plannin…",
       "url": "https://www.wqad.com/article/money/business/immigrant-entrepreneurs-summit-quad-cities/526-17dbe2fc-0a82-49d9-af80-3ded76f8153d",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/6e030a2a-d44f-4c28-b9c8-c140b1a59c46/20260901T232446/6e030a2a-d44f-4c28-b9c8-c140b1a59c46_750x422.jpg",
       "category": "business"
     },
@@ -63,7 +74,7 @@
       "headline": "Disco-themed YWCA fundraiser to support Quad Cities families",
       "summary": "\"Bright Lights & Boogie Nights\" supporting local families through the YWCA is coming up on Saturday, Sept. 19 at Bally's in Rock Island. Secure your tickets her…",
       "url": "https://www.wqad.com/article/news/local/the-current/bright-lights-and-boogie-nights-ywca-quad-cities-tickets/526-d8a6a146-e07f-4c82-804f-d6bc6792139d",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f0693166-b6a2-4646-ae9c-1acec0fcd6b2/20260901T231140/f0693166-b6a2-4646-ae9c-1acec0fcd6b2_750x422.jpg",
       "category": "the-current"
     },
@@ -74,7 +85,7 @@
       "headline": "Car flips in Moline crash",
       "summary": "A car flipped upside-down Tuesday afternoon in a Moline crash when a silver sedan hit a parked red SUV. Our Quad Cities News crew saw emergency responders in th…",
       "url": "https://www.ourquadcities.com/news/local-news/car-flips-in-moline-crash/",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/upside-down-1.jpg?w=841",
       "category": "Local News"
     },
@@ -85,7 +96,7 @@
       "headline": "Rock Island fire chief will retire",
       "summary": "After 29 years of dedicated service to the City of Rock Island, Fire Chief Bob Graff has announced his retirement from the Rock Island Fire Department, effectiv…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-fire-chief-will-retire/",
-      "time": "4 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Robert-Graff.jpg?w=658",
       "category": "Local News"
     },
@@ -96,20 +107,9 @@
       "headline": "Muscatine Humane Society working to tackle cat overpopulation with new facility",
       "summary": "The Muscatine Humane Society is housing more than 200 cats as it works to address years of cat overpopulation with a new surgery center for spays and neuters.",
       "url": "https://www.wqad.com/article/life/pets/muscatine-humane-society-working-to-tackle-cat-overpopulation-with-new-facility/526-2b568630-e52f-4715-95c7-135b0da264ed",
-      "time": "4 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ca9c7403-31da-497e-b267-746bcb104a50/20260901T223913/ca9c7403-31da-497e-b267-746bcb104a50_750x422.jpg",
       "category": "pets"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island fire chief to retire",
-      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
-      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -118,7 +118,7 @@
       "headline": "First-time mom nominates Trinity BirthPlace nurse for national award after reuniting her with newborn in NICU",
       "summary": "A first-time mom nominated a UnityPoint Health Trinity BirthPlace nurse for a DAISY Award after the nurse helped her reunite with her newborn baby in Iowa City.",
       "url": "https://www.wqad.com/article/life/heartwarming/unitypoint-health-trinity-birthplace-nurse-daisy-award-nomination/526-14623c7b-9439-4e6d-af6d-e92e3df20023",
-      "time": "5 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d0579df0-9ce9-4116-a960-182772532acd/20260901T190103/d0579df0-9ce9-4116-a960-182772532acd_750x422.jpg",
       "category": "heartwarming"
     },
@@ -129,7 +129,7 @@
       "headline": "Moline accepting applications for its Public Art Maintenance Program",
       "summary": "The program provides matching funds to help individuals or organizations repair, restore and maintain existing public artwork in Moline.",
       "url": "https://www.wqad.com/article/news/community/moline-public-art-maintenance-program-applications-open/526-8dfbb6df-c7e8-4172-9475-4e649e4f742a",
-      "time": "8 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cd0e8028-cce8-4d8a-ab35-0825fece522b/20260901T183848/cd0e8028-cce8-4d8a-ab35-0825fece522b_750x422.jpg",
       "category": "community"
     }
