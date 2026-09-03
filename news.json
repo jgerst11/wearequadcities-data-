@@ -1,6 +1,83 @@
 {
-  "updated": "2026-09-03T19:13:38.119802+00:00",
+  "updated": "2026-09-03T22:21:43.951624+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "30+ Hangout The Bleu R&B Lounge to Open in Moline",
+      "summary": "A new spot for people over the age of 30 is opening Friday September 4th in Moline. The Bleu R&#38;B Lounge held a ribbon cutting to celebrate their new venue o…",
+      "url": "https://www.ourquadcities.com/news/local-news/30-hangout-the-bleu-rb-lounge-to-open-in-moline/",
+      "time": "2 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Screenshot-2026-09-02-180117.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Milan Harvest Festival returns for Labor Day Weekend",
+      "summary": "From Sept. 4-7, community members can enjoy great food, carnival rides and more at Milan's Camden Park.",
+      "url": "https://www.wqad.com/article/news/local/as-seen-on-tv/milan-harvest-festival-returns-labor-day-weekend-2026/526-7fc1eb19-efa1-452e-adbe-6b95e1b1e4a7",
+      "time": "35 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cc00e0d0-acce-4b3e-92ad-696ddcee519b/20260903T195243/cc00e0d0-acce-4b3e-92ad-696ddcee519b_750x422.jpg",
+      "category": "as-seen-on-tv"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Kids can enjoy 'Recess in the Parks' with Davenport Parks & Recreation",
+      "summary": "Davenport Parks and Recreation invites school -age kids to join “Recess in the Parks,” a free series of seasonal after -school events that run Monday through Th…",
+      "url": "https://www.ourquadcities.com/news/local-news/kids-can-enjoy-recess-in-the-parks-with-davenport-parks-recreation/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man injures himself in accidental East Moline shooting",
+      "summary": "Police officials said they do not believe the man was attempting to harm himself or anyone else when the gun went off.",
+      "url": "https://www.wqad.com/article/news/local/man-injures-himself-accidental-shooting-east-moline/526-1a7f7bab-3f89-4c19-9f01-987db9333e35",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Old East Moline library suffers extensive damage after being struck by vehicle",
+      "summary": "Police officials said the driver of the vehicle was injured in the crash.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/vehicle-building-collision-east-moline/526-f48836b2-91a9-43bb-8566-b0e3abdfade6",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Plane suffers minor damage exiting runway at Quad Cities International Airport",
+      "summary": "QCIA officials said no one was injured in the incident.",
+      "url": "https://www.wqad.com/article/news/local/local-plane-exits-runway-quad-cities-international-airport-minor-damage/526-83499a26-2d33-4867-8981-3b327e240c46",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f3796915-9f5c-4fb2-ba9e-ee8962c4777d/20260903T203608/f3796915-9f5c-4fb2-ba9e-ee8962c4777d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline man dies while in custody at Rock Island County Jail",
+      "summary": "An investigation is underway after a 60-year-old Moline man was found unresponsive and died at the Rock Island County Jail Thursday morning.",
+      "url": "https://www.wqad.com/article/news/crime/60-year-old-moline-man-dies-rock-island-county-jail/526-16cfa2c0-1d07-4a10-85e5-a21809a65904",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cb1ed0db-a46f-4457-a803-14865cf7d1c7/cb1ed0db-a46f-4457-a803-14865cf7d1c7_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +85,7 @@
       "headline": "Watch dragon boats, help Cancer Support Community Iowa and NW Illinois at Gilda’s Club",
       "summary": "Enjoy a day of dragon boat racing while supporting QCA residents impacted by cancer. Cancer Support Community Iowa and NW Illinois at Gilda’s Club is hosting th…",
       "url": "https://www.ourquadcities.com/news/local-news/watch-dragon-boats-help-cancer-support-community-iowa-and-nw-illinois-at-gildas-club/",
-      "time": "11 min ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +96,7 @@
       "headline": "Scott County man charged with attempted murder in Clinton",
       "summary": "A Princeton, Iowa, man has been charged with attempted murder after officials said he shot at an occupied vehicle in a Clinton Burger King parking lot.",
       "url": "https://www.wqad.com/article/news/crime/scott-county-man-charged-attempted-murder-clinton/526-6e40c860-fb44-49d4-9e6c-ada1745b2af1",
-      "time": "16 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
       "category": "crime"
     },
@@ -28,22 +105,11 @@
       "badge": "QC",
       "color": "brick",
       "headline": "Moline man found dead in Rock Island County Jail",
-      "summary": "A man in custody at the Rock Island County Jail was found dead in a housing unit this morning. A news release from the Rock Island County Sheriff’s Office said …",
+      "summary": "UPDATE: A news release from the Rock Island County Integrity Task Force has more information about the man who died at the jail. \"The individual was initially h…",
       "url": "https://www.ourquadcities.com/news/local-news/moline-man-found-dead-in-rock-island-county-jail/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Rock-Island-County-Sheriffs-Office.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline man dies while in custody at Rock Island County Jail",
-      "summary": "A Moline man is dead after being found unresponsive at the Rock Island County Jail on Thursday.",
-      "url": "https://www.wqad.com/article/news/crime/60-year-old-moline-man-dies-rock-island-county-jail/526-16cfa2c0-1d07-4a10-85e5-a21809a65904",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cb1ed0db-a46f-4457-a803-14865cf7d1c7/cb1ed0db-a46f-4457-a803-14865cf7d1c7_750x422.jpg",
-      "category": "crime"
     },
     {
       "source": "WQAD",
@@ -52,20 +118,9 @@
       "headline": "Midwest Technical Institute ends cosmetology program at Moline campus",
       "summary": "Midwest Technical Institute will end its cosmetology program in Moline, but current students will be able to finish their programs.",
       "url": "https://www.wqad.com/article/news/education/midwest-technical-institute-ends-cosmetology-program-at-moline-campus/526-f3dba5ef-ff21-46c1-9daf-a8e57d1e40dd",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/KARE/images/4f5c4a18-4df1-4a53-8646-665b78d06357/4f5c4a18-4df1-4a53-8646-665b78d06357_750x422.jpg",
       "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Fishers of Men tournament brings anglers to QCA",
-      "summary": "The Fishers of Men's 2026 Berkley Team Series District 11 Championship is bringing anglers to Rapids City on September 11-12. The championship features teams fr…",
-      "url": "https://www.ourquadcities.com/news/local-news/fishers-of-men-tournament-brings-anglers-to-qca/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Fishers-of-Men-featured-image.png?w=436",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,64 +129,9 @@
       "headline": "Central Iowa council rejects Buc-ee's proposal over traffic concerns",
       "summary": "The council voted against a proposal to redesignate the land from mixed use to corridor commercial.",
       "url": "https://www.wqad.com/article/money/business/urbandale-iowas-first-bucees-city-council-city-redesignation-gas-station-convenience-store-zoning/524-38cc161b-62ba-48a2-96e9-9cf829678335",
-      "time": "3 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/ce6dccd7-e161-4dbd-b56b-b9fb2caddd36/20260903T025058/ce6dccd7-e161-4dbd-b56b-b9fb2caddd36_750x422.jpg",
       "category": "business"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois American Job Center hosts job fair to help displaced Tyson workers",
-      "summary": "Multiple employers set up inside the Vibrant Arena at The Mark to help former Tyson employees get a \"second chance\" in the workforce.",
-      "url": "https://www.wqad.com/article/news/community/tyson-foods-layoffs-joslin-illinois-plant-job-fair-grow-quad-cities/526-758b39f5-b719-47aa-bc41-25765d5b46b2",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f33cf720-c334-47d7-9772-0f431772af05/20260902T223721/f33cf720-c334-47d7-9772-0f431772af05_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "No break from the heat and humidity",
-      "summary": "Several more days of hot and humid weather is in the forecast the Quad Cities. Rain chances will mostly be limited to the overnight and early morning hours. Her…",
-      "url": "https://www.ourquadcities.com/news/local-news/no-break-from-the-heat-and-humidity/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/heat-wave.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "CyTown groundbreaking has Iowa State looking to the future",
-      "summary": "Iowa State University has broken ground on CyTown, a multimillion-dollar entertainment district aimed at bolstering campus life and diversifying revenue.",
-      "url": "https://www.wqad.com/article/sports/local-sports/cytown-groundbreaking-iowa-state-future/524-392de82e-8995-4ba0-be6b-746d5ffecf6b",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/bc875eea-1523-4630-8de8-3485923f2714/20260903T022018/bc875eea-1523-4630-8de8-3485923f2714_750x422.jpg",
-      "category": "local-sports"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa DNR releases results from annual roadside survey, pheasants maintaining high population",
-      "summary": "The DNR said the pheasant count ahead of this season was the second highest in more than a decade, trailing only 2025. Iowa's pheasant season begins Oct. 31.",
-      "url": "https://www.wqad.com/article/tech/science/environment/iowa-dnr-results-roadside-survey-pheasants-high-population/524-401cd654-f393-4a07-abc0-7bbcb962d5a1",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cda3f18d-c8c9-40e9-92bc-69b79eca828c/20260714T231520/cda3f18d-c8c9-40e9-92bc-69b79eca828c_750x422.jpg",
-      "category": "environment"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC Botanical Center, Rock Island, features Pay What You Want days",
-      "summary": "The Quad City Botanical Center is allowing guests to pay what they want for admission to the gardens Friday, Sept. 4-6, according to a news release. \"By giving …",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-botanical-center-rock-island-features-pay-what-you-want-days/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/Quad-City-Botanical-Center-Pay-What-You-Want.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
