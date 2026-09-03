@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-03T03:23:53.878196+00:00",
+  "updated": "2026-09-03T08:38:30.978129+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC Botanical Center, Rock Island, features Pay What You Want days",
+      "summary": "The Quad City Botanical Center is allowing guests to pay what they want for admission to the gardens Friday, Sept. 4-6, according to a news release. \"By giving …",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-botanical-center-rock-island-features-pay-what-you-want-days/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/Quad-City-Botanical-Center-Pay-What-You-Want.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "School districts around the Quad Cities dismissing early this week due to high temperatures",
+      "summary": "Several schools in our area have already announced plans to let students out early.",
+      "url": "https://www.wqad.com/article/news/local/quad-cities-schools-dismissing-early-high-temperatures/526-c2a877c3-82ca-4b81-beae-f2193ceed4cd",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WCNC/images/9a7974e7-00db-4db0-87a5-85c20eccda15/20260826T095318/9a7974e7-00db-4db0-87a5-85c20eccda15_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +30,7 @@
       "headline": "'Pay What You Want' at the Quad City Botanical Center this weekend",
       "summary": "The promotion is available from Friday, Sept. 4, through Sunday, Sept. 6.",
       "url": "https://www.wqad.com/article/news/local/pay-what-you-want-quad-city-botanical-center-weekend/526-66940947-9122-4534-b4f8-7b4e52fb1e90",
-      "time": "6 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e790c070-70b3-44a4-8e18-c2c001002acf/e790c070-70b3-44a4-8e18-c2c001002acf_750x422.jpg",
       "category": "local"
     },
@@ -19,19 +41,8 @@
       "headline": "Davenport considering $397,500 settlement with former assistant city attorney",
       "summary": "The city is looking to settle a lawsuit filed by Mallory Bagby, who worked for the city from October 2017 through July 2024.",
       "url": "https://www.wqad.com/article/news/local/city-of-davenport-settlement-agreement-consideration-former-assistant-city-attorney/526-4873e691-4a58-4f88-b29e-ef075e8770d7",
-      "time": "6 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a1f451ce-b49e-4c8a-a4e9-b3a943024e66/20251002T031247/a1f451ce-b49e-4c8a-a4e9-b3a943024e66_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "School districts around the Quad Cities dismissing early this week due to high temperatures",
-      "summary": "Several schools in our area have already announced plans to let students out early.",
-      "url": "https://www.wqad.com/article/news/local/quad-cities-schools-dismissing-early-high-temperatures/526-c2a877c3-82ca-4b81-beae-f2193ceed4cd",
-      "time": "6 min ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/9a7974e7-00db-4db0-87a5-85c20eccda15/20260826T095318/9a7974e7-00db-4db0-87a5-85c20eccda15_750x422.jpg",
       "category": "local"
     },
     {
@@ -41,7 +52,7 @@
       "headline": "Mr. Wings relocates to its own building in downtown Rock Island",
       "summary": "A Quad-City restaurant known for its southern style wings and catfish is opening a new location in downtown Rock Island. Mr. Wings is opening the doors to its n…",
       "url": "https://www.ourquadcities.com/news/local-news/mr-wings-relocates-to-its-own-building-in-downtown-rock-island/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mr.-Wings.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +63,7 @@
       "headline": "Multiple people displaced after morning fire at Pine Ridge in Moline",
       "summary": "Crews responded to the 3700 block of Pine Ridge Court around 7:46 a.m. on Wednesday.",
       "url": "https://www.wqad.com/article/news/local/pine-ridge-apartments-fire-wednesday-morning-moline-illinois/526-0464c9ac-ed5c-4d0c-bf64-ee3970ed6ffc",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c0edda2e-822f-44f0-b6d9-80aacc20fe1f/20260902T173518/c0edda2e-822f-44f0-b6d9-80aacc20fe1f_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +74,7 @@
       "headline": "Illinois law to lower prescription drug prices struck down",
       "summary": "A federal judge has struck down an Illinois state law meant to bring prescription drug prices down. The Illinois Prescription Drug Affordability Act (House Bill…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-law-to-lower-prescription-drug-prices-struck-down/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/CapsulesGettyImages-1363498265-e1761923380660.jpg?w=800",
       "category": "Local News"
     },
@@ -74,7 +85,7 @@
       "headline": "Davenport Police Department swears in 3 officers",
       "summary": "Three police officers were sworn in at a Davenport City Council meeting. According to a release from the Davenport Police Department, Officer Cheryl Glider, Off…",
       "url": "https://www.ourquadcities.com/news/local-news/davenport-police-department-swears-in-3-officers/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_00cb52.png?w=900",
       "category": "Local News"
     },
@@ -85,7 +96,7 @@
       "headline": "Galesburg releases statement after Illinois EPA says it found elevated PFAS levels in water samples",
       "summary": "The Illinois EPA said heightened levels of a PFAS compound were found in water samples. The city said those readings were taken from \"raw, unfinished water.\"",
       "url": "https://www.wqad.com/article/news/local/public-safety/elevated-pfas-compound-galesburg-water-supply-city-statement-illinois-epa/526-34f93cfc-c5a0-446f-8181-fcc8fbd795d0",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d0e55233-5c6a-405d-adfa-6fda64afd3da/20250819T024544/d0e55233-5c6a-405d-adfa-6fda64afd3da_750x422.jpg",
       "category": "public-safety"
     },
@@ -96,7 +107,7 @@
       "headline": "Tyson workers get help at QCA workshop, career fair",
       "summary": "Workers affected by the Tyson Foods plant closure in Joslin got some help. A rapid response workshop took place at Vibrant Arena, hosted by IowaWORKS and the Am…",
       "url": "https://www.ourquadcities.com/news/local-news/tyson-workers-get-help-at-qca-workshop-career-fair/",
-      "time": "4 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_e8ac5b.png?w=900",
       "category": "Local News"
     },
@@ -107,7 +118,7 @@
       "headline": "Grow Quad Cities hosts job fair to help displaced Tyson workers",
       "summary": "Grow Quad Cities had several employers inside Vibrant Arena at The Mark aimed at helping former Tyson employees get a \"second chance\" in the workforce.",
       "url": "https://www.wqad.com/article/news/community/tyson-foods-layoffs-joslin-illinois-plant-job-fair-grow-quad-cities/526-758b39f5-b719-47aa-bc41-25765d5b46b2",
-      "time": "4 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f33cf720-c334-47d7-9772-0f431772af05/20260902T223721/f33cf720-c334-47d7-9772-0f431772af05_750x422.jpg",
       "category": "community"
     },
@@ -118,20 +129,9 @@
       "headline": "Extreme Heat Warning in the Quad Cities",
       "summary": "Things have gotten to a very hot start in the Quad Cities for this week hitting the 90s on Monday and still hitting 90s today. An extreme heat warning has been …",
       "url": "https://www.ourquadcities.com/news/local-news/extreme-heat-warning-in-the-quad-cities/",
-      "time": "5 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rebuilding Together Henry County builds its 500th wheelchair ramp for Cleveland resident",
-      "summary": "Rebuilding Together Henry County built its 500th wheelchair ramp Wednesday, helping a resident return home after an amputation left him unable to enter his hous…",
-      "url": "https://www.wqad.com/article/news/community/rebuilding-together-henry-county-builds-its-500th-wheelchair-ramp-for-cleveland-resident/526-0f06a31b-7bdd-4efc-b45f-8b7781b1bf4f",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b9d7c9d4-3334-4477-b68a-c06769683b2c/20260902T215825/b9d7c9d4-3334-4477-b68a-c06769683b2c_750x422.jpg",
-      "category": "community"
     }
   ]
 }
