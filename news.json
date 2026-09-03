@@ -1,6 +1,116 @@
 {
-  "updated": "2026-09-02T22:25:36.554799+00:00",
+  "updated": "2026-09-03T03:23:53.878196+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'Pay What You Want' at the Quad City Botanical Center this weekend",
+      "summary": "The promotion is available from Friday, Sept. 4, through Sunday, Sept. 6.",
+      "url": "https://www.wqad.com/article/news/local/pay-what-you-want-quad-city-botanical-center-weekend/526-66940947-9122-4534-b4f8-7b4e52fb1e90",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e790c070-70b3-44a4-8e18-c2c001002acf/e790c070-70b3-44a4-8e18-c2c001002acf_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport considering $397,500 settlement with former assistant city attorney",
+      "summary": "The city is looking to settle a lawsuit filed by Mallory Bagby, who worked for the city from October 2017 through July 2024.",
+      "url": "https://www.wqad.com/article/news/local/city-of-davenport-settlement-agreement-consideration-former-assistant-city-attorney/526-4873e691-4a58-4f88-b29e-ef075e8770d7",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a1f451ce-b49e-4c8a-a4e9-b3a943024e66/20251002T031247/a1f451ce-b49e-4c8a-a4e9-b3a943024e66_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "School districts around the Quad Cities dismissing early this week due to high temperatures",
+      "summary": "Several schools in our area have already announced plans to let students out early.",
+      "url": "https://www.wqad.com/article/news/local/quad-cities-schools-dismissing-early-high-temperatures/526-c2a877c3-82ca-4b81-beae-f2193ceed4cd",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WCNC/images/9a7974e7-00db-4db0-87a5-85c20eccda15/20260826T095318/9a7974e7-00db-4db0-87a5-85c20eccda15_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Mr. Wings relocates to its own building in downtown Rock Island",
+      "summary": "A Quad-City restaurant known for its southern style wings and catfish is opening a new location in downtown Rock Island. Mr. Wings is opening the doors to its n…",
+      "url": "https://www.ourquadcities.com/news/local-news/mr-wings-relocates-to-its-own-building-in-downtown-rock-island/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mr.-Wings.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Multiple people displaced after morning fire at Pine Ridge in Moline",
+      "summary": "Crews responded to the 3700 block of Pine Ridge Court around 7:46 a.m. on Wednesday.",
+      "url": "https://www.wqad.com/article/news/local/pine-ridge-apartments-fire-wednesday-morning-moline-illinois/526-0464c9ac-ed5c-4d0c-bf64-ee3970ed6ffc",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c0edda2e-822f-44f0-b6d9-80aacc20fe1f/20260902T173518/c0edda2e-822f-44f0-b6d9-80aacc20fe1f_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois law to lower prescription drug prices struck down",
+      "summary": "A federal judge has struck down an Illinois state law meant to bring prescription drug prices down. The Illinois Prescription Drug Affordability Act (House Bill…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-law-to-lower-prescription-drug-prices-struck-down/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/CapsulesGettyImages-1363498265-e1761923380660.jpg?w=800",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport Police Department swears in 3 officers",
+      "summary": "Three police officers were sworn in at a Davenport City Council meeting. According to a release from the Davenport Police Department, Officer Cheryl Glider, Off…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-police-department-swears-in-3-officers/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_00cb52.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Galesburg releases statement after Illinois EPA says it found elevated PFAS levels in water samples",
+      "summary": "The Illinois EPA said heightened levels of a PFAS compound were found in water samples. The city said those readings were taken from \"raw, unfinished water.\"",
+      "url": "https://www.wqad.com/article/news/local/public-safety/elevated-pfas-compound-galesburg-water-supply-city-statement-illinois-epa/526-34f93cfc-c5a0-446f-8181-fcc8fbd795d0",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d0e55233-5c6a-405d-adfa-6fda64afd3da/20250819T024544/d0e55233-5c6a-405d-adfa-6fda64afd3da_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Tyson workers get help at QCA workshop, career fair",
+      "summary": "Workers affected by the Tyson Foods plant closure in Joslin got some help. A rapid response workshop took place at Vibrant Arena, hosted by IowaWORKS and the Am…",
+      "url": "https://www.ourquadcities.com/news/local-news/tyson-workers-get-help-at-qca-workshop-career-fair/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_e8ac5b.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Grow Quad Cities hosts job fair to help displaced Tyson workers",
+      "summary": "Grow Quad Cities had several employers inside Vibrant Arena at The Mark aimed at helping former Tyson employees get a \"second chance\" in the workforce.",
+      "url": "https://www.wqad.com/article/news/community/tyson-foods-layoffs-joslin-illinois-plant-job-fair-grow-quad-cities/526-758b39f5-b719-47aa-bc41-25765d5b46b2",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f33cf720-c334-47d7-9772-0f431772af05/20260902T223721/f33cf720-c334-47d7-9772-0f431772af05_750x422.jpg",
+      "category": "community"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +118,7 @@
       "headline": "Extreme Heat Warning in the Quad Cities",
       "summary": "Things have gotten to a very hot start in the Quad Cities for this week hitting the 90s on Monday and still hitting 90s today. An extreme heat warning has been …",
       "url": "https://www.ourquadcities.com/news/local-news/extreme-heat-warning-in-the-quad-cities/",
-      "time": "19 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -19,119 +129,9 @@
       "headline": "Rebuilding Together Henry County builds its 500th wheelchair ramp for Cleveland resident",
       "summary": "Rebuilding Together Henry County built its 500th wheelchair ramp Wednesday, helping a resident return home after an amputation left him unable to enter his hous…",
       "url": "https://www.wqad.com/article/news/community/rebuilding-together-henry-county-builds-its-500th-wheelchair-ramp-for-cleveland-resident/526-0f06a31b-7bdd-4efc-b45f-8b7781b1bf4f",
-      "time": "22 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b9d7c9d4-3334-4477-b68a-c06769683b2c/20260902T215825/b9d7c9d4-3334-4477-b68a-c06769683b2c_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Take charge of heart health with Quad Cities Go Red for Women",
-      "summary": "Cardiovascular disease continues to be the leading cause of death in women, and a national movement is empowering women to take charge of heart health and addre…",
-      "url": "https://www.ourquadcities.com/news/local-news/take-charge-of-heart-health-with-quad-cities-go-red-for-women/",
-      "time": "51 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Quad-Cities-Go-Red-for-Women.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Family fun awaits at the Orion Fall Festival",
-      "summary": "You can help the community while enjoying contests, games, rides, food, parade, music and more family fun! Tim Moen joined Our Quad Cities News with info on the…",
-      "url": "https://www.ourquadcities.com/news/local-news/family-fun-awaits-at-the-orion-fall-festival/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Orion-Fall-Festival.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "8 people, dog displaced after Moline fire",
-      "summary": "Eight people and a dog were displaced after a fire in Moline this morning, according to a news release from the Moline Fire Department. Moline firefighters were…",
-      "url": "https://www.ourquadcities.com/news/local-news/8-people-dog-displaced-after-moline-fire/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Fire-Department.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "AAA 'Tow to Go' helps Iowa impaired drivers get home safely",
-      "summary": "AAA wants to make sure impaired drivers in Iowa get home safely over the upcoming Labor Day weekend. The group is activating its Tow to Go program, which offers…",
-      "url": "https://www.ourquadcities.com/news/local-news/aaa-tow-to-go-helps-impaired-drivers-get-home-safely/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/American-Automobile-Association.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-223/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Crime-Stoppers-Treye-Coleman-Timothy-Smead-Mug-shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Immigrant Entrepreneurs Summit connects Quad Cities workers with new opportunities",
-      "summary": "The Quad Cities Regional Immigrant Entrepreneurs Summit included nine workshops covering topics such as managing cash flow, accessing capital and estate plannin…",
-      "url": "https://www.wqad.com/article/money/business/immigrant-entrepreneurs-summit-quad-cities/526-17dbe2fc-0a82-49d9-af80-3ded76f8153d",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/6e030a2a-d44f-4c28-b9c8-c140b1a59c46/20260901T232446/6e030a2a-d44f-4c28-b9c8-c140b1a59c46_750x422.jpg",
-      "category": "business"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Disco-themed YWCA fundraiser to support Quad Cities families",
-      "summary": "\"Bright Lights & Boogie Nights\" supporting local families through the YWCA is coming up on Saturday, Sept. 19 at Bally's in Rock Island. Secure your tickets her…",
-      "url": "https://www.wqad.com/article/news/local/the-current/bright-lights-and-boogie-nights-ywca-quad-cities-tickets/526-d8a6a146-e07f-4c82-804f-d6bc6792139d",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f0693166-b6a2-4646-ae9c-1acec0fcd6b2/20260901T231140/f0693166-b6a2-4646-ae9c-1acec0fcd6b2_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Car flips in Moline crash",
-      "summary": "A car flipped upside-down Tuesday afternoon in a Moline crash when a silver sedan hit a parked red SUV. Our Quad Cities News crew saw emergency responders in th…",
-      "url": "https://www.ourquadcities.com/news/local-news/car-flips-in-moline-crash/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/upside-down-1.jpg?w=841",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine Humane Society working to tackle cat overpopulation with new facility",
-      "summary": "The Muscatine Humane Society is housing more than 200 cats as it works to address years of cat overpopulation with a new surgery center for spays and neuters.",
-      "url": "https://www.wqad.com/article/life/pets/muscatine-humane-society-working-to-tackle-cat-overpopulation-with-new-facility/526-2b568630-e52f-4715-95c7-135b0da264ed",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ca9c7403-31da-497e-b267-746bcb104a50/20260901T223913/ca9c7403-31da-497e-b267-746bcb104a50_750x422.jpg",
-      "category": "pets"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island fire chief to retire",
-      "summary": "Bob Graff is retiring after working with the Rock Island Fire Department for 29 years.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-fire-chief-bob-graff-retirement-announcement/526-752d6596-ea3d-4c60-9aab-d863b5cb6396",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fdde3e9e-d666-4bae-93da-805c95785d5d/20260901T214602/fdde3e9e-d666-4bae-93da-805c95785d5d_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
