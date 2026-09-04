@@ -1,6 +1,72 @@
 {
-  "updated": "2026-09-04T08:33:10.289918+00:00",
+  "updated": "2026-09-04T15:54:30.626636+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Park Terrace Campground at West Lake Park closing for reconstruction",
+      "summary": "Scott County Conservation will be closing Park Terrace Campground at West Lake Park on Sept. 7 for reconstruction.",
+      "url": "https://www.wqad.com/article/news/local/park-terrace-campground-at-west-lake-park-closing-for-reconstruction/526-2980ed5d-2b16-48ad-a193-b4ac268001b1",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/7a66c9fe-1884-4600-8e58-823ff9219b93/7a66c9fe-1884-4600-8e58-823ff9219b93_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "City of Moline accepting applications for block development funding",
+      "summary": "The City of Moline is accepting applications for its Community Development Block Grant funding to support low and moderate income residents.",
+      "url": "https://www.wqad.com/article/news/local/infrastructure/community-infrastructure-city-moline-receives-grant/526-44a71fdb-dd81-45ed-95a7-0d473e4e0e30",
+      "time": "26 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ffdec1e4-d54f-4e03-88f0-a12a3eb22213/20250320T220816/ffdec1e4-d54f-4e03-88f0-a12a3eb22213_750x422.jpg",
+      "category": "infrastructure"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Park Terrace Campground closing for reconstruction",
+      "summary": "Scott County Conservation is closing Park Terrace Campground at West Lake Park starting Monday, September 7, for a major campground reconstruction project. The …",
+      "url": "https://www.ourquadcities.com/news/local-news/park-terrace-campground-closing-for-reconstruction/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Scott-County-Conservation-Board.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Applications open in Moline for Community Development Block Grant funding",
+      "summary": "The City of Moline is now accepting applications for 2027 Community Development Block Grant (CDBG) funding. The city expects to have approximately $100,000 avai…",
+      "url": "https://www.ourquadcities.com/news/local-news/applications-open-in-moline-for-community-development-block-grant-funding/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "A fourth straight day at 95°?",
+      "summary": "It's a scorching start to September with the first three days of the month reaching a high of 95° in the Quad Cities. Today could be the fourth consecutive day!…",
+      "url": "https://www.ourquadcities.com/news/local-news/a-fourth-straight-day-at-95/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton Symphony Orchestra director recognized",
+      "summary": "Clinton Symphony Orchestra music director Silas Huff has been honored by a prestigious national competition. According to a release by the Clinton Symphony Orch…",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-symphony-orchestra-director-recognized/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_b3ed7f.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Federal judge rules on AI-generated CSAM: What it means for a Rock Island County case",
       "summary": "A Moline man is charged with possessing obscene images of a purported child under 13. His attorney is challenging the law's constitutionality.",
       "url": "https://www.wqad.com/article/news/local/federal-judge-rules-ai-generated-csam-meaning-rock-island-county-case/526-ceb48a93-e42f-47f1-8b0b-2fa82b23f1e3",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d06c54b8-d4c5-4724-ad4e-6e0629ccd5ce/20260904T031115/d06c54b8-d4c5-4724-ad4e-6e0629ccd5ce_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +85,7 @@
       "headline": "Old East Moline library suffers extensive damage after being struck by vehicle",
       "summary": "Police officials said the driver of the vehicle was injured in the crash.",
       "url": "https://www.wqad.com/article/news/local/public-safety/vehicle-building-collision-east-moline/526-f48836b2-91a9-43bb-8566-b0e3abdfade6",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,7 +96,7 @@
       "headline": "Man injures himself in accidental East Moline shooting",
       "summary": "Police officials said they do not believe the man was attempting to harm himself or anyone else when the gun went off.",
       "url": "https://www.wqad.com/article/news/local/man-injures-himself-accidental-shooting-east-moline/526-1a7f7bab-3f89-4c19-9f01-987db9333e35",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +107,7 @@
       "headline": "Wild weather stat - 95° for 3 straight days - only happened once before this week!",
       "summary": "For only the second time ever in the Quad Cities, our high has been 95° for 3 straight days! And there's a chance we hit 95° for the high Friday too. If that ha…",
       "url": "https://www.ourquadcities.com/news/local-news/wild-weather-stat-95-for-3-straight-days-only-happened-once-before-this-week/",
-      "time": "6 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/blank-image-3.png?w=900",
       "category": "Local News"
     },
@@ -52,20 +118,9 @@
       "headline": "Meet Harlow Taube, Hawkeye Kid Captain",
       "summary": "For six days a week, Harlow Taube gets to be a normal six-year-old kid from Orion, Illinois. Taube plays tag with her sisters at Central Park in the heart of th…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/meet-harlow-taube-hawkeye-kid-captain/",
-      "time": "6 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Harlow-Taube.jpg?w=900",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hilltop Campus Village will unveil new mural",
-      "summary": "The Hilltop Campus Village will celebrate the completion of its newest public art project with a mural unveiling at 10 a.m. Friday, Sept. 4 at Celebrity’s Beaut…",
-      "url": "https://www.ourquadcities.com/news/local-news/hilltop-campus-village-will-unveil-new-mural/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/HCV10.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,64 +129,9 @@
       "headline": "Police: Threat against Glenview Middle School is not credible",
       "summary": "East Moline police said a post made on TikTok said there would be \"violence\" at the school but did not contain any further details.",
       "url": "https://www.wqad.com/article/news/local/public-safety/threat-glenview-middle-school-not-credible/526-8ddd3f91-b2ac-4ad8-90f8-069732ca2081",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c998e61d-4f07-4cfd-9501-b8c730cd6741/20260903T231221/c998e61d-4f07-4cfd-9501-b8c730cd6741_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Young dreams; old history",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-young-dreams-old-history/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c84398.png?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois Capitol renovations 'a few months behind,' set to wrap up this winter",
-      "summary": "Architect of the Capitol Andrea Aggertt says the project will be within the $350M budget.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-capitol-renovations-few-months-behind-wrap-up-winter/526-b560ae6c-405f-48e9-a480-702a4fca3dca",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a0b4277c-15cd-4bca-b2dd-17a6a1cb2db0/20260903T223212/a0b4277c-15cd-4bca-b2dd-17a6a1cb2db0_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline man dies while in custody at Rock Island County Jail",
-      "summary": "An investigation is underway after a 60-year-old Moline man was found unresponsive and died at the Rock Island County Jail Thursday morning.",
-      "url": "https://www.wqad.com/article/news/crime/60-year-old-moline-man-dies-rock-island-county-jail/526-16cfa2c0-1d07-4a10-85e5-a21809a65904",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cb1ed0db-a46f-4457-a803-14865cf7d1c7/cb1ed0db-a46f-4457-a803-14865cf7d1c7_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Scott County man charged with attempted murder in Clinton",
-      "summary": "A Princeton, Iowa, man has been charged with attempted murder after officials said he shot at an occupied vehicle in a Clinton Burger King parking lot.",
-      "url": "https://www.wqad.com/article/news/crime/scott-county-man-charged-attempted-murder-clinton/526-6e40c860-fb44-49d4-9e6c-ada1745b2af1",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Milan Harvest Festival returns for Labor Day Weekend",
-      "summary": "From Sept. 4-7, community members can enjoy great food, carnival rides and more at Milan's Camden Park.",
-      "url": "https://www.wqad.com/article/news/local/as-seen-on-tv/milan-harvest-festival-returns-labor-day-weekend-2026/526-7fc1eb19-efa1-452e-adbe-6b95e1b1e4a7",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cc00e0d0-acce-4b3e-92ad-696ddcee519b/20260903T195243/cc00e0d0-acce-4b3e-92ad-696ddcee519b_750x422.jpg",
-      "category": "as-seen-on-tv"
     }
   ]
 }
