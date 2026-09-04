@@ -1,38 +1,16 @@
 {
-  "updated": "2026-09-03T22:21:43.951624+00:00",
+  "updated": "2026-09-04T03:22:23.744082+00:00",
   "items": [
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "30+ Hangout The Bleu R&B Lounge to Open in Moline",
-      "summary": "A new spot for people over the age of 30 is opening Friday September 4th in Moline. The Bleu R&#38;B Lounge held a ribbon cutting to celebrate their new venue o…",
-      "url": "https://www.ourquadcities.com/news/local-news/30-hangout-the-bleu-rb-lounge-to-open-in-moline/",
-      "time": "2 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Screenshot-2026-09-02-180117.jpg?w=900",
-      "category": "Local News"
-    },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Milan Harvest Festival returns for Labor Day Weekend",
-      "summary": "From Sept. 4-7, community members can enjoy great food, carnival rides and more at Milan's Camden Park.",
-      "url": "https://www.wqad.com/article/news/local/as-seen-on-tv/milan-harvest-festival-returns-labor-day-weekend-2026/526-7fc1eb19-efa1-452e-adbe-6b95e1b1e4a7",
-      "time": "35 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cc00e0d0-acce-4b3e-92ad-696ddcee519b/20260903T195243/cc00e0d0-acce-4b3e-92ad-696ddcee519b_750x422.jpg",
-      "category": "as-seen-on-tv"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Kids can enjoy 'Recess in the Parks' with Davenport Parks & Recreation",
-      "summary": "Davenport Parks and Recreation invites school -age kids to join “Recess in the Parks,” a free series of seasonal after -school events that run Monday through Th…",
-      "url": "https://www.ourquadcities.com/news/local-news/kids-can-enjoy-recess-in-the-parks-with-davenport-parks-recreation/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
-      "category": "Local News"
+      "headline": "Old East Moline library suffers extensive damage after being struck by vehicle",
+      "summary": "Police officials said the driver of the vehicle was injured in the crash.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/vehicle-building-collision-east-moline/526-f48836b2-91a9-43bb-8566-b0e3abdfade6",
+      "time": "4 min ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -41,31 +19,86 @@
       "headline": "Man injures himself in accidental East Moline shooting",
       "summary": "Police officials said they do not believe the man was attempting to harm himself or anyone else when the gun went off.",
       "url": "https://www.wqad.com/article/news/local/man-injures-himself-accidental-shooting-east-moline/526-1a7f7bab-3f89-4c19-9f01-987db9333e35",
-      "time": "1 h ago",
+      "time": "4 min ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
       "category": "local"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Old East Moline library suffers extensive damage after being struck by vehicle",
-      "summary": "Police officials said the driver of the vehicle was injured in the crash.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/vehicle-building-collision-east-moline/526-f48836b2-91a9-43bb-8566-b0e3abdfade6",
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Wild weather stat - 95° for 3 straight days - only happened once before this week!",
+      "summary": "For only the second time ever in the Quad Cities, our high has been 95° for 3 straight days! And there's a chance we hit 95° for the high Friday too. If that ha…",
+      "url": "https://www.ourquadcities.com/news/local-news/wild-weather-stat-95-for-3-straight-days-only-happened-once-before-this-week/",
+      "time": "58 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/blank-image-3.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Meet Harlow Taube, Hawkeye Kid Captain",
+      "summary": "For six days a week, Harlow Taube gets to be a normal six-year-old kid from Orion, Illinois. Taube plays tag with her sisters at Central Park in the heart of th…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/meet-harlow-taube-hawkeye-kid-captain/",
       "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
-      "category": "public-safety"
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Harlow-Taube.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hilltop Campus Village will unveil new mural",
+      "summary": "The Hilltop Campus Village will celebrate the completion of its newest public art project with a mural unveiling at 10 a.m. Friday, Sept. 4 at Celebrity’s Beaut…",
+      "url": "https://www.ourquadcities.com/news/local-news/hilltop-campus-village-will-unveil-new-mural/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/HCV10.png?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Plane suffers minor damage exiting runway at Quad Cities International Airport",
-      "summary": "QCIA officials said no one was injured in the incident.",
-      "url": "https://www.wqad.com/article/news/local/local-plane-exits-runway-quad-cities-international-airport-minor-damage/526-83499a26-2d33-4867-8981-3b327e240c46",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f3796915-9f5c-4fb2-ba9e-ee8962c4777d/20260903T203608/f3796915-9f5c-4fb2-ba9e-ee8962c4777d_750x422.jpg",
-      "category": "local"
+      "headline": "Police: Threat against Glenview Middle School is not credible",
+      "summary": "East Moline police said a post made on TikTok said there would be \"violence\" at the school but did not contain any further details.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/threat-glenview-middle-school-not-credible/526-8ddd3f91-b2ac-4ad8-90f8-069732ca2081",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c998e61d-4f07-4cfd-9501-b8c730cd6741/20260903T231221/c998e61d-4f07-4cfd-9501-b8c730cd6741_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "The Heart of the Story: Young dreams; old history",
+      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
+      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-young-dreams-old-history/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c84398.png?w=900",
+      "category": "The Heart of the Story"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline crews will re-stripe part of 18th Street to create one-way traffic",
+      "summary": "The City of Moline will re-stripe 18th Street between 6th and 7th avenues on Friday, Sept. 4, to create one-way traffic and additional on-street parking. After …",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-crews-will-re-stripe-part-of-18th-street-to-create-one-way-traffic/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/AP578795653006.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois Capitol renovations 'a few months behind,' set to wrap up this winter",
+      "summary": "Architect of the Capitol Andrea Aggertt says the project will be within the $350M budget.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-capitol-renovations-few-months-behind-wrap-up-winter/526-b560ae6c-405f-48e9-a480-702a4fca3dca",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a0b4277c-15cd-4bca-b2dd-17a6a1cb2db0/20260903T223212/a0b4277c-15cd-4bca-b2dd-17a6a1cb2db0_750x422.jpg",
+      "category": "illinois-politics"
     },
     {
       "source": "WQAD",
@@ -74,20 +107,9 @@
       "headline": "Moline man dies while in custody at Rock Island County Jail",
       "summary": "An investigation is underway after a 60-year-old Moline man was found unresponsive and died at the Rock Island County Jail Thursday morning.",
       "url": "https://www.wqad.com/article/news/crime/60-year-old-moline-man-dies-rock-island-county-jail/526-16cfa2c0-1d07-4a10-85e5-a21809a65904",
-      "time": "2 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cb1ed0db-a46f-4457-a803-14865cf7d1c7/cb1ed0db-a46f-4457-a803-14865cf7d1c7_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Watch dragon boats, help Cancer Support Community Iowa and NW Illinois at Gilda’s Club",
-      "summary": "Enjoy a day of dragon boat racing while supporting QCA residents impacted by cancer. Cancer Support Community Iowa and NW Illinois at Gilda’s Club is hosting th…",
-      "url": "https://www.ourquadcities.com/news/local-news/watch-dragon-boats-help-cancer-support-community-iowa-and-nw-illinois-at-gildas-club/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,42 +118,20 @@
       "headline": "Scott County man charged with attempted murder in Clinton",
       "summary": "A Princeton, Iowa, man has been charged with attempted murder after officials said he shot at an occupied vehicle in a Clinton Burger King parking lot.",
       "url": "https://www.wqad.com/article/news/crime/scott-county-man-charged-attempted-murder-clinton/526-6e40c860-fb44-49d4-9e6c-ada1745b2af1",
-      "time": "3 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
       "category": "crime"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Moline man found dead in Rock Island County Jail",
-      "summary": "UPDATE: A news release from the Rock Island County Integrity Task Force has more information about the man who died at the jail. \"The individual was initially h…",
-      "url": "https://www.ourquadcities.com/news/local-news/moline-man-found-dead-in-rock-island-county-jail/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Rock-Island-County-Sheriffs-Office.jpg?w=900",
-      "category": "Local News"
-    },
-    {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Midwest Technical Institute ends cosmetology program at Moline campus",
-      "summary": "Midwest Technical Institute will end its cosmetology program in Moline, but current students will be able to finish their programs.",
-      "url": "https://www.wqad.com/article/news/education/midwest-technical-institute-ends-cosmetology-program-at-moline-campus/526-f3dba5ef-ff21-46c1-9daf-a8e57d1e40dd",
+      "headline": "Milan Harvest Festival returns for Labor Day Weekend",
+      "summary": "From Sept. 4-7, community members can enjoy great food, carnival rides and more at Milan's Camden Park.",
+      "url": "https://www.wqad.com/article/news/local/as-seen-on-tv/milan-harvest-festival-returns-labor-day-weekend-2026/526-7fc1eb19-efa1-452e-adbe-6b95e1b1e4a7",
       "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/KARE/images/4f5c4a18-4df1-4a53-8646-665b78d06357/4f5c4a18-4df1-4a53-8646-665b78d06357_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Central Iowa council rejects Buc-ee's proposal over traffic concerns",
-      "summary": "The council voted against a proposal to redesignate the land from mixed use to corridor commercial.",
-      "url": "https://www.wqad.com/article/money/business/urbandale-iowas-first-bucees-city-council-city-redesignation-gas-station-convenience-store-zoning/524-38cc161b-62ba-48a2-96e9-9cf829678335",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ce6dccd7-e161-4dbd-b56b-b9fb2caddd36/20260903T025058/ce6dccd7-e161-4dbd-b56b-b9fb2caddd36_750x422.jpg",
-      "category": "business"
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cc00e0d0-acce-4b3e-92ad-696ddcee519b/20260903T195243/cc00e0d0-acce-4b3e-92ad-696ddcee519b_750x422.jpg",
+      "category": "as-seen-on-tv"
     }
   ]
 }
