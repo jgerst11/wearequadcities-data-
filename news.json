@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-04T15:54:30.626636+00:00",
+  "updated": "2026-09-04T18:52:17.872276+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCSportsNet Week 3 football preview: Rock Island, Moline & United Township",
+      "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Grant Dahlstrom provide your preseason breakdown of Rock Island, Moline and United Township before Week 3 of hi…",
+      "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-3-football-preview-rock-island-moline-united-township/",
+      "time": "4 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/A2E444B2C5113BCF6477775053B8034C_5.jpg?w=900",
+      "category": "High School Sports"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Best times to travel Labor Day weekend: AAA",
+      "summary": "The Labor Day weekend is traditionally a big weekend for travel. The TSA is expecting millions of passengers to pass through checkpoints over the long weekend. …",
+      "url": "https://www.ourquadcities.com/news/local-news/best-times-to-travel-labor-day-weekend-aaa/",
+      "time": "22 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/American-Automobile-Association.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "No evidence social media threat is credible: East Moline Police",
+      "summary": "East Moline Police responded to a social media threat against Glenview Middle School this week, according to a post on the department's Facebook page. The East …",
+      "url": "https://www.ourquadcities.com/news/local-news/no-evidence-social-media-threat-is-credible-east-moline-police/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/05/East-Moline-Police-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "27th Street bridge over I-74 will be closed for bike path project in Moline",
+      "summary": "The 27th Street bridge over Interstate 74 will close starting Sept. 9 as construction continues on a new bike path.",
+      "url": "https://www.wqad.com/article/news/local/moline-bike-path-mississippi-to-rock-river-project-update/526-f33d7b1e-66c4-4e65-ba84-593d8a230790",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2f8b1def-08ab-47d0-8019-1788cb94a3dd/20260409T030422/2f8b1def-08ab-47d0-8019-1788cb94a3dd_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Park Terrace Campground at West Lake Park closing for reconstruction",
       "summary": "Scott County Conservation will be closing Park Terrace Campground at West Lake Park on Sept. 7 for reconstruction.",
       "url": "https://www.wqad.com/article/news/local/park-terrace-campground-at-west-lake-park-closing-for-reconstruction/526-2980ed5d-2b16-48ad-a193-b4ac268001b1",
-      "time": "6 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/7a66c9fe-1884-4600-8e58-823ff9219b93/7a66c9fe-1884-4600-8e58-823ff9219b93_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +63,7 @@
       "headline": "City of Moline accepting applications for block development funding",
       "summary": "The City of Moline is accepting applications for its Community Development Block Grant funding to support low and moderate income residents.",
       "url": "https://www.wqad.com/article/news/local/infrastructure/community-infrastructure-city-moline-receives-grant/526-44a71fdb-dd81-45ed-95a7-0d473e4e0e30",
-      "time": "26 min ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ffdec1e4-d54f-4e03-88f0-a12a3eb22213/20250320T220816/ffdec1e4-d54f-4e03-88f0-a12a3eb22213_750x422.jpg",
       "category": "infrastructure"
     },
@@ -30,19 +74,8 @@
       "headline": "Park Terrace Campground closing for reconstruction",
       "summary": "Scott County Conservation is closing Park Terrace Campground at West Lake Park starting Monday, September 7, for a major campground reconstruction project. The …",
       "url": "https://www.ourquadcities.com/news/local-news/park-terrace-campground-closing-for-reconstruction/",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Scott-County-Conservation-Board.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Applications open in Moline for Community Development Block Grant funding",
-      "summary": "The City of Moline is now accepting applications for 2027 Community Development Block Grant (CDBG) funding. The city expects to have approximately $100,000 avai…",
-      "url": "https://www.ourquadcities.com/news/local-news/applications-open-in-moline-for-community-development-block-grant-funding/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,19 +85,8 @@
       "headline": "A fourth straight day at 95°?",
       "summary": "It's a scorching start to September with the first three days of the month reaching a high of 95° in the Quad Cities. Today could be the fourth consecutive day!…",
       "url": "https://www.ourquadcities.com/news/local-news/a-fourth-straight-day-at-95/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Clinton Symphony Orchestra director recognized",
-      "summary": "Clinton Symphony Orchestra music director Silas Huff has been honored by a prestigious national competition. According to a release by the Clinton Symphony Orch…",
-      "url": "https://www.ourquadcities.com/news/local-news/clinton-symphony-orchestra-director-recognized/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_b3ed7f.png?w=900",
       "category": "Local News"
     },
     {
@@ -74,7 +96,7 @@
       "headline": "Federal judge rules on AI-generated CSAM: What it means for a Rock Island County case",
       "summary": "A Moline man is charged with possessing obscene images of a purported child under 13. His attorney is challenging the law's constitutionality.",
       "url": "https://www.wqad.com/article/news/local/federal-judge-rules-ai-generated-csam-meaning-rock-island-county-case/526-ceb48a93-e42f-47f1-8b0b-2fa82b23f1e3",
-      "time": "12 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d06c54b8-d4c5-4724-ad4e-6e0629ccd5ce/20260904T031115/d06c54b8-d4c5-4724-ad4e-6e0629ccd5ce_750x422.jpg",
       "category": "local"
     },
@@ -85,7 +107,7 @@
       "headline": "Old East Moline library suffers extensive damage after being struck by vehicle",
       "summary": "Police officials said the driver of the vehicle was injured in the crash.",
       "url": "https://www.wqad.com/article/news/local/public-safety/vehicle-building-collision-east-moline/526-f48836b2-91a9-43bb-8566-b0e3abdfade6",
-      "time": "12 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
       "category": "public-safety"
     },
@@ -96,20 +118,9 @@
       "headline": "Man injures himself in accidental East Moline shooting",
       "summary": "Police officials said they do not believe the man was attempting to harm himself or anyone else when the gun went off.",
       "url": "https://www.wqad.com/article/news/local/man-injures-himself-accidental-shooting-east-moline/526-1a7f7bab-3f89-4c19-9f01-987db9333e35",
-      "time": "12 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Wild weather stat - 95° for 3 straight days - only happened once before this week!",
-      "summary": "For only the second time ever in the Quad Cities, our high has been 95° for 3 straight days! And there's a chance we hit 95° for the high Friday too. If that ha…",
-      "url": "https://www.ourquadcities.com/news/local-news/wild-weather-stat-95-for-3-straight-days-only-happened-once-before-this-week/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/blank-image-3.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -118,20 +129,9 @@
       "headline": "Meet Harlow Taube, Hawkeye Kid Captain",
       "summary": "For six days a week, Harlow Taube gets to be a normal six-year-old kid from Orion, Illinois. Taube plays tag with her sisters at Central Park in the heart of th…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/meet-harlow-taube-hawkeye-kid-captain/",
-      "time": "13 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Harlow-Taube.jpg?w=900",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Police: Threat against Glenview Middle School is not credible",
-      "summary": "East Moline police said a post made on TikTok said there would be \"violence\" at the school but did not contain any further details.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/threat-glenview-middle-school-not-credible/526-8ddd3f91-b2ac-4ad8-90f8-069732ca2081",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c998e61d-4f07-4cfd-9501-b8c730cd6741/20260903T231221/c998e61d-4f07-4cfd-9501-b8c730cd6741_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
