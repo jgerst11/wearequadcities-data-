@@ -1,6 +1,61 @@
 {
-  "updated": "2026-09-05T08:08:28.093103+00:00",
+  "updated": "2026-09-05T14:45:21.972323+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "DOT plans water main, storm sewer installation in Kewanee",
+      "summary": "The Illinois Department of Transportation has announced that, weather permitting, construction on Illinois 81 in Kewanee will begin Monday, Sept. 14, a news rel…",
+      "url": "https://www.ourquadcities.com/news/local-news/dot-plans-water-main-storm-sewer-installation-in-kewanee/",
+      "time": "45 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Road-work.jpg?w=400",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC Deckmate prep classes scheduled for upcoming tryouts",
+      "summary": "The Quad City Deckmates have announced the inaugural QC Deckmate Prep Classes, giving aspiring dancers an opportunity to prepare for upcoming Deckmate tryouts w…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-deckmate-prep-classes-scheduled-for-upcoming-tryouts/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/Steamwheelers-Deckmate-Dancers.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "5 photo essays show the people, places and moments of the Quad-Cities",
+      "summary": "Every photo has a story. QCT Photojournalist Katelyn Metzger shares what drew her to five of her favorite Quad-Cities assignments this year.",
+      "url": "https://qctimes.com/news/local/article_6b02e106-182b-4f74-94b8-214793523543.html",
+      "time": "3 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/d/50/d50da8d5-7849-4359-bc3a-cb5799e65276/6a2993dfb595f.image.jpg?resize=300%2C200",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Quad-Cities women invited to ‘Her Name Is Susie’ brunch",
+      "summary": "Featured speaker Sue McConnaughay will share her story of overcoming childhood challenges and marital struggles and finding hope.",
+      "url": "https://qctimes.com/life-entertainment/local/events/article_fbe5e58e-f473-435e-9dff-6489945095d0.html",
+      "time": "3 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/7e/07e10329-68cc-4b3b-bd99-f42f50a3995a/6a8f12cad94d3.image.jpg?resize=300%2C303",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Quad-Cities-area high school football scores for Sept. 4",
+      "summary": "Check out the area final scores.",
+      "url": "https://qctimes.com/sports/high-school/football/article_c1ba9af0-aca5-4aa6-9c2f-3061d46ffd4f.html",
+      "time": "10 h ago",
+      "image": "",
+      "category": ""
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +63,7 @@
       "headline": "No one injured in Silvis duplex fire",
       "summary": "No one was injured in an early-morning Silvis structure fire, according to a news release from the Silvis Fire Department. Crews responded shortly before 2:30 a…",
       "url": "https://www.ourquadcities.com/news/local-news/no-one-injured-in-silvis-duplex-fire/",
-      "time": "4 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Silvis-Fire-Department.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +74,7 @@
       "headline": "Rock Island High School band keeping cool during Friday night football",
       "summary": "The band held some practices inside, wore t-shirts instead of uniforms and brought extra water for the game.",
       "url": "https://www.wqad.com/article/news/local/rock-island-high-school-band-keeping-cool-friday-night-football/526-7a2be74d-7890-4f42-9343-d80dc30dd229",
-      "time": "4 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/1f1af642-83fe-4e0c-b86a-c2d95280dee1/20260905T030937/1f1af642-83fe-4e0c-b86a-c2d95280dee1_750x422.jpg",
       "category": "local"
     },
@@ -30,20 +85,9 @@
       "headline": "Travelers flocked to the ‘Middle of Everything’ last year, generating over $88 billion in economic impact",
       "summary": "Illinois welcomed 115 million visitors who spent over $50 billion.",
       "url": "https://www.wqad.com/article/news/state/travelers-flocked-illinois-last-year-88-billion-economic-impact-capitol-news/526-171c6769-e393-4107-ae01-3b7da5308ba6",
-      "time": "4 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ed5d2f20-df48-45e9-976d-110835cabac8/20260904T192556/ed5d2f20-df48-45e9-976d-110835cabac8_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "HOT start to Labor Day weekend in the Quad Cities",
-      "summary": "Friday was the hottest day of the year so far! Well, we tied July 27th's 96° anyway. And this is definitely the hottest stretch of the year so far too...The hig…",
-      "url": "https://www.ourquadcities.com/news/local-news/hot-start-to-labor-day-weekend-in-the-quad-cities/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/793001918_1460923369181453_5820767333028423995_n.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,7 +96,7 @@
       "headline": "Whiteside County sheriff calls for changes to Illinois' pretrial release system",
       "summary": "Amid concerns about repeat violations of Illinois' pretrial release system, Sheriff John Booker is asking lawmakers to refine laws to better handle such cases.",
       "url": "https://www.wqad.com/article/news/local/public-safety/illinois-safe-t-act-pretrial-release-system-whiteside-county-sheriff-calls-for-reform/526-694662a2-6111-4934-afe5-3530216bb6be",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051/20260904T233533/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051_750x422.jpg",
       "category": "public-safety"
     },
@@ -63,7 +107,7 @@
       "headline": "Portion of US 150 in Galesburg dedicated to fallen soldier",
       "summary": "Sgt. 1st Class Kyle Wehrly was a Galesburg native and served in the Illinois Army National Guard. He was killed in Iraq in 2005.",
       "url": "https://www.wqad.com/article/news/community/us-150-galesburg-dedication-fallen-soldier-kyle-wehrly-memorial-highway/526-c885de90-e22d-46b1-acae-527ac7b7f8dc",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/6d690f14-742d-48f6-9b2a-ad7f05858a8e/20260904T221501/6d690f14-742d-48f6-9b2a-ad7f05858a8e_750x422.jpg",
       "category": "community"
     },
@@ -74,7 +118,7 @@
       "headline": "Gift of Giving -  Cancer Support Community Iowa & NW Illinois at Gilda's Club",
       "summary": "In June 2026, Necker's partnered with the Cancer Support Community Iowa & NW Illinois at Gilda's Club for the Gift of Giving.",
       "url": "https://www.wqad.com/article/news/local/outreach/gift-of-giving/gift-of-giving/526-886702f9-b2d9-4233-93b5-d466de65a145",
-      "time": "10 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a2545e97-3860-4ffd-be10-a93b0f381802/20260904T210541/a2545e97-3860-4ffd-be10-a93b0f381802_750x422.jpg",
       "category": "gift-of-giving"
     },
@@ -85,53 +129,9 @@
       "headline": "Officials identify man who died in Rock Island County Jail custody",
       "summary": "60-year-old Daniel R. Stromberg of Moline was found unresponsive and died at the Rock Island County Jail Thursday morning.",
       "url": "https://www.wqad.com/article/news/local/officials-identify-man-died-rock-island-county-jail-custody/526-a8b70176-c09a-4df8-afa0-012d62c260a7",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cb1ed0db-a46f-4457-a803-14865cf7d1c7/cb1ed0db-a46f-4457-a803-14865cf7d1c7_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois audit finds child protection agency made progress, but was still noncompliant with 2020 law",
-      "summary": "An audit found several documentation lapses by DCFS, including failures to provide evidence of routine healthcare for children in state custody.",
-      "url": "https://www.wqad.com/article/news/state/illinois-department-of-children-and-family-services-audit-tanaja-barnes-law/526-c3cc078b-59d9-4a4c-b054-4bcd0d148f3c",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bdeb72a1-c0e2-4676-85b1-9764c401a609/20260904T192556/bdeb72a1-c0e2-4676-85b1-9764c401a609_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "27th Street Bridge, Moline, closing for bike path project",
-      "summary": "The 27th Street bridge over Interstate 74 will close starting Wednesday, September 9 for construction as part of the City of Moline’s ongoing 19th/27th Street b…",
-      "url": "https://www.ourquadcities.com/news/local-news/27th-street-bridge-moline-closing-for-bike-path-project/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois regulators propose expansion to self-exclusion program for compulsive gamblers",
-      "summary": "The changes could open new ways to self-ban through mail, online or through provider referrals.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-regulators-propose-expansion-self-exclusion-program-compulsive-gamblers-capitol-news/526-18ce93f4-74b2-421f-be4c-327155b5ecbd",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c7f8ffef-a24c-49d9-8b1b-28de58d410eb/20260904T191952/c7f8ffef-a24c-49d9-8b1b-28de58d410eb_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCSportsNet Week 3 football preview: Rock Island, Moline & United Township",
-      "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Grant Dahlstrom provide your preseason breakdown of Rock Island, Moline and United Township before Week 3 of hi…",
-      "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-3-football-preview-rock-island-moline-united-township/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/A2E444B2C5113BCF6477775053B8034C_5.jpg?w=900",
-      "category": "High School Sports"
     }
   ]
 }
