@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:04:59.341249+00:00",
+  "updated": "2026-09-06T21:59:08.266698+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
@@ -8,9 +8,31 @@
       "headline": "The Iowa Investigator will present program in Fulton",
       "summary": "The next Miller Program will be held at 6 p.m. Monday, Sept. 14, at Fulton’s Windmill Cultural Center. The facility is at 111 10th Ave. in downtown Fulton, acro…",
       "url": "https://www.ourquadcities.com/news/local-news/the-iowa-investigator-will-present-program-in-fulton/",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Iowa-Investigator.jpg?w=647",
       "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Looking for a cold drink? Check out these popular beers at Quad-Cities craft breweries, according to Untappd",
+      "summary": "Take a look at 16 craft beers that are most popular at Quad-Cities breweries. What's your favorite craft brew?",
+      "url": "https://qctimes.com/news/local/business/article_e687402d-2813-40cd-8d4e-9eff54277217.html",
+      "time": "9 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/9/ff/9ffa201c-55a0-5013-b5d1-c451d48aa573/645ed2c7256de.image.jpg?resize=300%2C203",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Security measures continue to evolve for Quad-Cities courthouses, jails",
+      "summary": "As technology and security protocols more widely have changed over the past 25 years, so have the procedures used at Quad-Cities jails and courthouses.",
+      "url": "https://qctimes.com/news/local/crime-courts/article_994928a1-8a5f-46d4-b147-0a57eb52b50b.html",
+      "time": "10 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/db/fdb0c90f-84b7-4cda-a12b-2d98435d5b6f/69a0e44118f48.image.jpg?resize=300%2C144",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +41,7 @@
       "headline": "Public invited to see renovated Rejuvenate Housing home in Davenport",
       "summary": "Rejuvenate Housing will celebrate the completion of its sixth renovated home with a property showcase 4-6 p.m. Tuesday, Sept. 8, at 613 W. 13th St., Davenport, …",
       "url": "https://www.ourquadcities.com/news/local-news/public-invited-to-see-renovated-rejuvenate-housing-home-in-davenport/",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Rejuvenate-Housing-.jpg?w=746",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "Our QC Crime Watch: Suspect arrested after QCA bank robbery: Episode 79",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in our area with the latest episode of the Our Quad Cities Crime Watch Podcast. In …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-suspect-arrested-after-qca-bank-robbery-episode-79/",
-      "time": "11 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Mathew-Rawson-mug-shot.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +63,7 @@
       "headline": "Rock Island police locate missing child",
       "summary": "The child was reported missing on Saturday, Sept. 5.",
       "url": "https://www.wqad.com/article/news/local/rock-island-police-help-locating-missing-child/526-fffa976c-2b64-4290-ac47-d521dbfc3c3c",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +74,7 @@
       "headline": "Soul of the City festival emphasizes community",
       "summary": "Vendors, organizations and thousands of attendees filled Franklin Field in Rock Island to celebrate the community.",
       "url": "https://www.wqad.com/article/news/local/soul-of-the-city-festival-emphasizes-community/526-5d8e5309-7fe6-462f-a8d0-893bfe9c5603",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cc5fb465-f323-4122-8409-4811dd760ecd/20260905T224721/cc5fb465-f323-4122-8409-4811dd760ecd_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +85,7 @@
       "headline": "Kiwanis Club of East Moline-Silvis to hold fall flea market",
       "summary": "The Kiwanis Club of East Moline-Silvis will hold its fall flea market from 8 a.m.-3 p.m. Sunday, Sept 27, at the Rock Island County Fairgrounds, 4200 Archer Dri…",
       "url": "https://www.ourquadcities.com/news/local-news/kiwanis-club-of-east-moline-silvis-to-hold-fall-flea-market/",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/Fall-Flea-Market.jpg?w=900",
       "category": "Local News"
     },
@@ -74,7 +96,7 @@
       "headline": "Sundance for Our Soldiers will bring horses to RI Arsenal Suicide Stand Down",
       "summary": "September is Suicide Prevention Awareness Month, and Sundance for Our Soldiers (SOS) is preparing to take horses into the community to raise awareness, create c…",
       "url": "https://www.ourquadcities.com/news/local-news/sundance-for-our-soldiers-will-bring-horses-to-ri-arsenal-suicide-stand-down/",
-      "time": "17 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2018/11/640x360_81023B00-GILVP_1541541674939_61335411_ver1.0.jpg?w=640",
       "category": "Local News"
     },
@@ -85,9 +107,20 @@
       "headline": "Kamari Moulton rushes for 183 yards as Hawkeyes shut out Northern Illinois",
       "summary": "UPDATE: Kamari Moulton ran for a career-high 183 yards and two touchdowns and No. 22 Iowa's defense shut down Northern Illinois in a 40-0 victory Saturday in th…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/kamari-moulton-rushes-for-183-yards-as-hawkeyes-shut-out-northern-illinois/",
-      "time": "18 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26248802043587.jpg?w=900",
       "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities standings, scores and schedules",
+      "summary": "Quad-Cities area football and volleyball standings, scores and schedules for the week of Aug. 24.",
+      "url": "https://qctimes.com/sports/high-school/article_f3519fb2-f000-40e7-83f8-55bf55023e89.html",
+      "time": "1d ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/de/7defd394-d7c8-462a-bd26-7008729276b4/6a89408863abe.image.jpg?resize=300%2C270",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -96,42 +129,9 @@
       "headline": "Missing Rock Island boy has been found",
       "summary": "UPDATE: According to a Facebook post by the Rock Island Police Department, Jayceon Coleman has been located. EARLIER: The Rock Island Police Department is seeki…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-seek-help-finding-missing-boy/",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/FOUND-Jayceon-Coleman.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island High School band keeping cool during Friday night football",
-      "summary": "The band held some practices inside, wore t-shirts instead of uniforms and brought extra water for the game.",
-      "url": "https://www.wqad.com/article/news/local/rock-island-high-school-band-keeping-cool-friday-night-football/526-7a2be74d-7890-4f42-9343-d80dc30dd229",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/1f1af642-83fe-4e0c-b86a-c2d95280dee1/20260905T030937/1f1af642-83fe-4e0c-b86a-c2d95280dee1_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Travelers flocked to the ‘Middle of Everything’ last year, generating over $88 billion in economic impact",
-      "summary": "Illinois welcomed 115 million visitors who spent over $50 billion.",
-      "url": "https://www.wqad.com/article/news/state/travelers-flocked-illinois-last-year-88-billion-economic-impact-capitol-news/526-171c6769-e393-4107-ae01-3b7da5308ba6",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ed5d2f20-df48-45e9-976d-110835cabac8/20260904T192556/ed5d2f20-df48-45e9-976d-110835cabac8_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Whiteside County sheriff calls for changes to Illinois' pretrial release system",
-      "summary": "Amid concerns about repeat violations of Illinois' pretrial release system, Sheriff John Booker is asking lawmakers to refine laws to better handle such cases.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/illinois-safe-t-act-pretrial-release-system-whiteside-county-sheriff-calls-for-reform/526-694662a2-6111-4934-afe5-3530216bb6be",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051/20260904T233533/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
