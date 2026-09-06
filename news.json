@@ -1,26 +1,81 @@
 {
-  "updated": "2026-09-05T21:57:25.334326+00:00",
+  "updated": "2026-09-06T03:24:40.077982+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Rock Island police asking for help locating missing child",
-      "summary": "Anyone who has seen 12-year-old Jayceon Coleman is asked to call 911.",
+      "headline": "Rock Island police locate missing child",
+      "summary": "The child was reported missing on Saturday, Sept. 5.",
       "url": "https://www.wqad.com/article/news/local/rock-island-police-help-locating-missing-child/526-fffa976c-2b64-4290-ac47-d521dbfc3c3c",
-      "time": "8 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e895cec0-4387-4950-9c9c-fd3d44118de8/20260905T214140/e895cec0-4387-4950-9c9c-fd3d44118de8_750x422.jpg",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dd98c787-8e04-4815-a200-b3869de4db0a/20240831T021218/dd98c787-8e04-4815-a200-b3869de4db0a_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Soul of the City festival emphasizes community",
+      "summary": "Vendors, organizations and thousands of attendees filled Franklin Field in Rock Island to celebrate the community.",
+      "url": "https://www.wqad.com/article/news/local/soul-of-the-city-festival-emphasizes-community/526-5d8e5309-7fe6-462f-a8d0-893bfe9c5603",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cc5fb465-f323-4122-8409-4811dd760ecd/20260905T224721/cc5fb465-f323-4122-8409-4811dd760ecd_750x422.jpg",
       "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Rock Island Police seek help finding missing boy",
-      "summary": "The Rock Island Police Department is seeking help from the community finding a missing boy. Jayceon Coleman, 12, is missing. If you or anyone you know have info…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-seek-help-finding-missing-boy/",
+      "headline": "Kiwanis Club of East Moline-Silvis to hold fall flea market",
+      "summary": "The Kiwanis Club of East Moline-Silvis will hold its fall flea market from 8 a.m.-3 p.m. Sunday, Sept 27, at the Rock Island County Fairgrounds, 4200 Archer Dri…",
+      "url": "https://www.ourquadcities.com/news/local-news/kiwanis-club-of-east-moline-silvis-to-hold-fall-flea-market/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/Fall-Flea-Market.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Sundance for Our Soldiers will bring horses to RI Arsenal Suicide Stand Down",
+      "summary": "September is Suicide Prevention Awareness Month, and Sundance for Our Soldiers (SOS) is preparing to take horses into the community to raise awareness, create c…",
+      "url": "https://www.ourquadcities.com/news/local-news/sundance-for-our-soldiers-will-bring-horses-to-ri-arsenal-suicide-stand-down/",
       "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/MISSING-Jayceon-Coleman.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2018/11/640x360_81023B00-GILVP_1541541674939_61335411_ver1.0.jpg?w=640",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Kamari Moulton rushes for 183 yards as Hawkeyes shut out Northern Illinois",
+      "summary": "UPDATE: Kamari Moulton ran for a career-high 183 yards and two touchdowns and No. 22 Iowa's defense shut down Northern Illinois in a 40-0 victory Saturday in th…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/kamari-moulton-rushes-for-183-yards-as-hawkeyes-shut-out-northern-illinois/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26248802043587.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Motorcyclist in critical condition following Walcott crash",
+      "summary": "The driver of a motorcycle was airlifted to Iowa City and remains in critical condition following a crash in Walcott. According to a release from the Scott Coun…",
+      "url": "https://www.ourquadcities.com/news/local-news/motorcyclist-in-critical-condition-following-walcott-crash/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/crash-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Missing Rock Island boy has been found",
+      "summary": "UPDATE: According to a Facebook post by the Rock Island Police Department, Jayceon Coleman has been located. EARLIER: The Rock Island Police Department is seeki…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-seek-help-finding-missing-boy/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/FOUND-Jayceon-Coleman.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -30,7 +85,7 @@
       "headline": "Moline Police Department goes pink for October",
       "summary": "The Moline Police Department is going pink for October. According to a Facebook post, beginning October 1, the Moline Police Department is inviting everyone to …",
       "url": "https://www.ourquadcities.com/news/local-news/moline-police-department-goes-pink-for-october/",
-      "time": "3 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_83d153.png?w=900",
       "category": "Local News"
     },
@@ -41,7 +96,7 @@
       "headline": "Knox-Galesburg Symphony will present 'A Little Night Music'",
       "summary": "Conductor Maurice Cohn will lead the Knox-Galesburg Symphony in the opening concert of its 75th season. \"A Little Night Music\" will include Mozart, Rimsky-Korsa…",
       "url": "https://www.ourquadcities.com/news/local-news/knox-galesburg-symphony-will-present-a-little-night-music/",
-      "time": "6 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2020/08/Quad-City-Symphony-Orchestra.jpg?w=900",
       "category": "Local News"
     },
@@ -52,8 +107,8 @@
       "headline": "DOT plans water main, storm sewer installation in Kewanee",
       "summary": "The Illinois Department of Transportation has announced that, weather permitting, construction on Illinois 81 in Kewanee will begin Monday, Sept. 14, a news rel…",
       "url": "https://www.ourquadcities.com/news/local-news/dot-plans-water-main-storm-sewer-installation-in-kewanee/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Road-work.jpg?w=400",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,19 +118,8 @@
       "headline": "QC Deckmate prep classes scheduled for upcoming tryouts",
       "summary": "The Quad City Deckmates have announced the inaugural QC Deckmate Prep Classes, giving aspiring dancers an opportunity to prepare for upcoming Deckmate tryouts w…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-deckmate-prep-classes-scheduled-for-upcoming-tryouts/",
-      "time": "9 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/Steamwheelers-Deckmate-Dancers.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "No one injured in Silvis duplex fire",
-      "summary": "No one was injured in an early-morning Silvis structure fire, according to a news release from the Silvis Fire Department. Crews responded shortly before 2:30 a…",
-      "url": "https://www.ourquadcities.com/news/local-news/no-one-injured-in-silvis-duplex-fire/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Silvis-Fire-Department.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -85,53 +129,9 @@
       "headline": "Rock Island High School band keeping cool during Friday night football",
       "summary": "The band held some practices inside, wore t-shirts instead of uniforms and brought extra water for the game.",
       "url": "https://www.wqad.com/article/news/local/rock-island-high-school-band-keeping-cool-friday-night-football/526-7a2be74d-7890-4f42-9343-d80dc30dd229",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/1f1af642-83fe-4e0c-b86a-c2d95280dee1/20260905T030937/1f1af642-83fe-4e0c-b86a-c2d95280dee1_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Travelers flocked to the ‘Middle of Everything’ last year, generating over $88 billion in economic impact",
-      "summary": "Illinois welcomed 115 million visitors who spent over $50 billion.",
-      "url": "https://www.wqad.com/article/news/state/travelers-flocked-illinois-last-year-88-billion-economic-impact-capitol-news/526-171c6769-e393-4107-ae01-3b7da5308ba6",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ed5d2f20-df48-45e9-976d-110835cabac8/20260904T192556/ed5d2f20-df48-45e9-976d-110835cabac8_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Whiteside County sheriff calls for changes to Illinois' pretrial release system",
-      "summary": "Amid concerns about repeat violations of Illinois' pretrial release system, Sheriff John Booker is asking lawmakers to refine laws to better handle such cases.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/illinois-safe-t-act-pretrial-release-system-whiteside-county-sheriff-calls-for-reform/526-694662a2-6111-4934-afe5-3530216bb6be",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051/20260904T233533/0e6202f3-dbe7-45c6-b66a-ad45ae4b8051_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Portion of US 150 in Galesburg dedicated to fallen soldier",
-      "summary": "Sgt. 1st Class Kyle Wehrly was a Galesburg native and served in the Illinois Army National Guard. He was killed in Iraq in 2005.",
-      "url": "https://www.wqad.com/article/news/community/us-150-galesburg-dedication-fallen-soldier-kyle-wehrly-memorial-highway/526-c885de90-e22d-46b1-acae-527ac7b7f8dc",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/6d690f14-742d-48f6-9b2a-ad7f05858a8e/20260904T221501/6d690f14-742d-48f6-9b2a-ad7f05858a8e_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Gift of Giving -  Cancer Support Community Iowa & NW Illinois at Gilda's Club",
-      "summary": "In June 2026, Necker's partnered with the Cancer Support Community Iowa & NW Illinois at Gilda's Club for the Gift of Giving.",
-      "url": "https://www.wqad.com/article/news/local/outreach/gift-of-giving/gift-of-giving/526-886702f9-b2d9-4233-93b5-d466de65a145",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a2545e97-3860-4ffd-be10-a93b0f381802/20260904T210541/a2545e97-3860-4ffd-be10-a93b0f381802_750x422.jpg",
-      "category": "gift-of-giving"
     }
   ]
 }
