@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-07T22:35:13.031955+00:00",
+  "updated": "2026-09-08T03:30:18.164188+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2-year-old dies after falling into pool in rural Scott County",
+      "summary": "The Scott County Sheriff's Office Criminal Investigations Division is investigating the incident.",
+      "url": "https://www.wqad.com/article/news/local/scott-county-iowa-juvenile-transported-university-iowa-hospitals/526-ff7c58fa-fd07-430d-9a2d-d65bf32eda1b",
+      "time": "16 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c06f57cf-04b6-4742-8754-3a8ab104a91e/20251102T191316/c06f57cf-04b6-4742-8754-3a8ab104a91e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf man sentenced after gunfire at motel in 2025: Court documents",
+      "summary": "A 57-year-old Bettendorf man was placed on two years of supervised probation after gunfire at a motel in 2025, according to a Scott County Court order of dispos…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-man-sentenced-after-gunfire-at-motel-in-2025-court-documents/",
+      "time": "33 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Tommie-Valentine-Jr.-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Crews on scene after car crashes into Moline home",
+      "summary": "Crews are on the scene after a car crashed into the front porch of a house in Moline. Our Quad Cities News was told the accident happened a little after 6:00 p.…",
+      "url": "https://www.ourquadcities.com/news/local-news/crews-on-scene-after-car-crashes-into-moline-home/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_5b9bc7.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois voted best state for pumpkin patches",
+      "summary": "A new report reviewed pumpkin patches nationally and found Illinois has the best! Illinois is the biggest pumpkin-producing state across the U.S., and Goebbert'…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-voted-best-state-for-pumpkin-patches/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/AP23263100913918.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Rock Island County Democrats hold annual Salute to Labor picnic",
       "summary": "Gov. JB Pritzker, Sen. Tammy Duckworth and Rep. Eric Sorensen were among the speakers.",
       "url": "https://www.wqad.com/article/news/local/rock-island-county-democrats-salute-to-labor-picnic-2026/526-dadea8eb-6d6f-494e-8c07-149dd1bf37af",
-      "time": "16 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/58576d5e-4a30-46ea-9f82-1ab91f74e812/20260907T220558/58576d5e-4a30-46ea-9f82-1ab91f74e812_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +63,7 @@
       "headline": "I-80 traffic stop leads to 2 arrests for trafficking over 5,800 pounds of cannabis",
       "summary": "Illinois State Police arrested two people after finding over 5,800 pounds of cannabis during a traffic stop on I-80 eastbound.",
       "url": "https://www.wqad.com/article/news/local/2-arrested-trafficking-5800-pounds-cannabis/526-bc7cdf17-51ed-4ddb-a738-eada4072ae05",
-      "time": "26 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae98ec60-60f3-4e28-8624-11e541de0ab2/20260907T193118/ae98ec60-60f3-4e28-8624-11e541de0ab2_750x422.jpg",
       "category": "local"
     },
@@ -30,7 +74,7 @@
       "headline": "Veterans prepare to take off on 67th QC Honor Flight",
       "summary": "On Sept. 22, the 67th Honor Flight will leave the Quad Cities International Airport with over 80 veterans on their way to Washington D. C. to see the memorials …",
       "url": "https://www.ourquadcities.com/news/local-news/veterans-prepare-to-take-off-on-67th-qc-honor-flight/",
-      "time": "5 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/honorflight.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +85,7 @@
       "headline": "KidneyMobile will be in Galena for free health screenings",
       "summary": "The National Kidney Foundation of Illinois will bring the KidneyMobile to Northern Illinois toprovide free kidney and health screenings, a news release says. Th…",
       "url": "https://www.ourquadcities.com/news/local-news/kidneymobile-will-be-in-galena-for-free-health-screenings/",
-      "time": "6 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Kidney-Mobile.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +96,7 @@
       "headline": "For scuba diving enthusiasts, Mermet Springs is ‘the best place in the Midwest’",
       "summary": "Thirty years ago, an Illinois Secretary of State Police DiveTeam investigator set out to turn an abandoned rock quarry into a first-class dive destination.",
       "url": "https://www.wqad.com/article/news/state/for-scuba-diving-enthusiasts-mermet-springs-is-the-best-place-in-the-midwest/526-8a4db626-d746-4f05-8e6b-245a8d523797",
-      "time": "6 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b07bf2c7-3142-4ddc-85ff-4d54a2cf4edd/20260907T154328/b07bf2c7-3142-4ddc-85ff-4d54a2cf4edd_750x422.jpg",
       "category": "state"
     },
@@ -63,7 +107,7 @@
       "headline": "Sandburg plans car show for Galesburg campus",
       "summary": "Get revved up for the Sandburg Car Show from 10 a.m.-2 p.m. Sunday, Sept. 13 in the building A parking lot on the Galesburg campus, a news release says. This an…",
       "url": "https://www.ourquadcities.com/news/local-news/sandburg-plans-car-show-for-galesburg-campus/",
-      "time": "8 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2019/09/vintage-car-show.jpg?w=900",
       "category": "Local News"
     },
@@ -74,64 +118,20 @@
       "headline": "Paranormal Cirque: Inferno will make its spooky way into Davenport",
       "summary": "Abandon all hope, ye who enter here. Paranormal Cirque: Inferno will take you past the blazing gates of hell and straight into a nightmarish underworld where de…",
       "url": "https://www.ourquadcities.com/news/local-news/paranormal-cirque-inferno-will-make-its-spooky-way-into-davenport/",
-      "time": "8 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/cirque-7.jpg?w=480",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois tourism hits high of $50.2 billion",
-      "summary": "Illinois tourism just hit a new record. Governor JB Pritzker and the Illinois Department of Commerce and Economic Opportunity announced record-breaking growth a…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-tourism-hits-high-of-50-2-billion/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/Illinois-money-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island Art Guild Fine Arts Exhibition will be on view at Figge Art Museum",
-      "summary": "The Rock Island Art Guild and the Figge Art Museum have partnered since 2016 to present the Rock Island Art Guild Fine Arts Exhibition, an annual showcase of co…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-art-guild-fine-arts-exhibition-will-be-on-view-at-figge-art-museum/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Screenshot-2025-09-23-151318.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Scott County juvenile airlifted to University of Iowa Hospitals",
-      "summary": "Scott County Sheriff's Office, along with the Walcott Fire Department, Medic EMS and Medforce responded to a home on Maysville Road Sunday afternoon.",
-      "url": "https://www.wqad.com/article/news/local/scott-county-iowa-juvenile-transported-university-iowa-hospitals/526-ff7c58fa-fd07-430d-9a2d-d65bf32eda1b",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c06f57cf-04b6-4742-8754-3a8ab104a91e/20251102T191316/c06f57cf-04b6-4742-8754-3a8ab104a91e_750x422.jpg",
+      "headline": "Iowa Nuclear Energy Task Force's final report gives recommendations on state's energy future",
+      "summary": "Iowa's Nuclear Energy Task Force, established by Gov. Kim Reynolds, unveiled its report on nuclear power's potential for economic growth and reliability.",
+      "url": "https://www.wqad.com/article/news/local/iowa-nuclear-energy-task-force-final-report-recommendations-energy-future/524-75430790-691b-4a76-b1b8-0b687af6dcb6",
+      "time": "17 h ago",
+      "image": "https://media.tegna-media.com/assets/WTHR/images/b1f6ead3-a04e-4c9d-95e9-92169512a4e7/20250407T184716/b1f6ead3-a04e-4c9d-95e9-92169512a4e7_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Mississippi Valley Blues Society will present two days of music at Blues Festival",
-      "summary": "The Mississippi Valley Blues Society will present a lineup of blues artists at the 41st anniversary Blues Festival on Friday and Saturday, Sept. 18 and 19, at L…",
-      "url": "https://www.ourquadcities.com/news/local-news/mississippi-valley-blues-society-will-present-two-days-of-music-at-blues-festival/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_af0cf9.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Fantastic Labor Day weather",
-      "summary": "The Quad Cities will enjoy a nice Labor Day with warm temperatures. However, more heat and humidity are on the way back. Shower and storm chances will accompany…",
-      "url": "https://www.ourquadcities.com/news/local-news/fantastic-labor-day-weather/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Labor-Day-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
