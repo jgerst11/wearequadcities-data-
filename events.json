@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T01:55:59.617191+00:00",
-  "total": 25,
+  "generated": "2026-09-08T10:14:39.956103+00:00",
+  "total": 26,
   "events": [
     {
       "id": "vqc_0da3eeb08714",
@@ -302,6 +302,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13099&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_7503dafa6021",
+      "name": "Senior and Disability Expo 2026",
+      "start": "2026-09-11",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12990&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
