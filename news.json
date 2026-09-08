@@ -1,6 +1,105 @@
 {
-  "updated": "2026-09-08T16:10:47.953014+00:00",
+  "updated": "2026-09-08T22:25:14.629491+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island to begin fire-hydrant flushing",
+      "summary": "The City of Rock Island’s Water Treatment Plant has temporarily switched to free chlorine whichis an approved water treatment practice widely used to maintain w…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-to-begin-fire-hydrant-flushing/",
+      "time": "32 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2016/10/Water20faucet_1475373587247_11320570_ver1.0.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Soles For Children hosts QCA giveaways",
+      "summary": "Cold weather will be here before you know it, and a Quad-City organization is helping to ensure that kids have the shoes, coats and more they need. Erwin King a…",
+      "url": "https://www.ourquadcities.com/news/local-news/soles-for-children-hosts-qca-giveaways/",
+      "time": "52 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/Soles-for-Children.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport officer who shot armed person on Aug. 31 identified by police chief",
+      "summary": "Police said officers were called to the 3700 block of Rockingham Road for a person who was armed and suicidal.",
+      "url": "https://www.wqad.com/article/news/local/davenport-police-shooting-armed-person-mental-health-crisis-response-august-31/526-b25e5b99-aa26-4c20-ace7-84d3f04ce338",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e7f6873a-09e3-4a06-b186-d46a0208d324/20260831T195418/e7f6873a-09e3-4a06-b186-d46a0208d324_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man charged in deadly 2025 Davenport motorcycle crash booked into Scott County Jail after arrest in Mexico",
+      "summary": "Samantha Burke died after the motorcycle she was riding on, driven by Alex Uthoff, crashed in May 2025.",
+      "url": "https://www.wqad.com/article/news/local/alex-uthoff-scott-county-jail-extradited-2025-fatal-motorcycle-crash/526-5504fe2b-d5b0-4e47-a920-a391a8d944f2",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e4b885b3-48b5-4da1-8381-a23ca0f918f4/20260908T195220/e4b885b3-48b5-4da1-8381-a23ca0f918f4_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois Legislative Inspector General Michael McCuskey resigns amid criticism",
+      "summary": "Recent ethics investigations raised questions about the office’s professionalism.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-legislative-inspector-general-michael-mccuskey-resigns-capitol-news/526-3770b470-2f04-4ce9-b144-1feb146c2650",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d40c72f9-6dda-4e23-871c-1665398d00e7/20260908T200826/d40c72f9-6dda-4e23-871c-1665398d00e7_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Judge weighing arguments to halt Illinois’ ‘medical aid in dying’ law ahead of Sept. 12 start",
+      "summary": "Disability rights advocates worry about potential for coercion and want more state oversight.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/judge-weighing-halt-illinois-medical-aid-dying-law-ahead-start-capitol-news/526-3f0bb83d-8c02-42af-a251-c93f0d0d62eb",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a8d7e9ee-2418-4821-a888-b83240fcfab2/20260908T192913/a8d7e9ee-2418-4821-a888-b83240fcfab2_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Girl Scouts announce 2 new cookies for 2027 cookie season",
+      "summary": "Girl Scouts is introducing two new cookies for the 2027 Cookie Season; one that’s allergy friendly and one that’s created just for dogs. Girl Scouts of Eastern …",
+      "url": "https://www.ourquadcities.com/news/local-news/girl-scouts-announce-2-new-cookies-for-2027-cookie-season/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Patch-Pals-Sparkables.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Kristin Ramsey's defense requests documents on policies, protocol of investigating agencies",
+      "summary": "Kristin Ramsey, accused of killing Ashley Okland, has requested documents on investigation policies from Iowa agencies to bolster her defense as her trial nears…",
+      "url": "https://www.wqad.com/article/news/crime/kristin-ramsey-defense-requests-documents-departmental-policies-protocol-investigating-agencies/524-015d1e3b-a712-44f0-8402-a0ab0f20ed8c",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/8b995c69-c0f6-4004-b205-36e23d7cc0ee/20260822T030448/8b995c69-c0f6-4004-b205-36e23d7cc0ee_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair announces 2027 theme",
+      "summary": "Fair officials made the announcement just weeks after a record-breaking 2026 season.",
+      "url": "https://www.wqad.com/article/news/local/iowa-state-fair-2027-theme/524-dc0ca24c-ff6d-4c24-99e0-3e51bb16e64d",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/efbc4ce0-4aaa-47d3-a771-d9be7fb4fadd/efbc4ce0-4aaa-47d3-a771-d9be7fb4fadd_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +107,7 @@
       "headline": "Much-needed rain follows Tuesday's heat",
       "summary": "After a very nice Labor Day in the Quad Cities, today will be another hot and humid one. However, the heat won't develop into another heat wave. Showers and sto…",
       "url": "https://www.ourquadcities.com/news/local-news/much-needed-rain-follows-tuesdays-heat/",
-      "time": "5 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +118,7 @@
       "headline": "How did Labor Day begin? The history of the 144-year-old holiday",
       "summary": "Union leaders in central Iowa share the labor movement's major wins throughout the years.",
       "url": "https://www.wqad.com/article/news/history/labor-day-history-why-holiday-peter-mcguire-iowa-unions/524-d88e846c-0027-47b5-bff4-77a5162d6ef2",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/02d9b266-1512-4f52-8e58-433504f7e083/20260907T172114/02d9b266-1512-4f52-8e58-433504f7e083_750x422.jpg",
       "category": "history"
     },
@@ -30,108 +129,9 @@
       "headline": "Muscatine City Council plans special session on golf course improvements",
       "summary": "The Muscatine City Council will convene for a special in‑depth session at 5:30 p.m. on Tuesday, September 8, at the Muscatine Municipal Golf Course clubhouse. B…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-plans-special-session-on-golf-course-improvements/",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2-year-old dies after falling into pool in rural Scott County",
-      "summary": "The Scott County Sheriff's Office Criminal Investigations Division is investigating the incident.",
-      "url": "https://www.wqad.com/article/news/local/scott-county-iowa-juvenile-transported-university-iowa-hospitals/526-ff7c58fa-fd07-430d-9a2d-d65bf32eda1b",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c06f57cf-04b6-4742-8754-3a8ab104a91e/20251102T191316/c06f57cf-04b6-4742-8754-3a8ab104a91e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf man sentenced after gunfire at motel in 2025: Court documents",
-      "summary": "A 57-year-old Bettendorf man was placed on two years of supervised probation after gunfire at a motel in 2025, according to a Scott County Court order of dispos…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-man-sentenced-after-gunfire-at-motel-in-2025-court-documents/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/Tommie-Valentine-Jr.-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Crews on scene after car crashes into Moline home",
-      "summary": "Crews are on the scene after a car crashed into the front porch of a house in Moline. Our Quad Cities News was told the accident happened a little after 6:00 p.…",
-      "url": "https://www.ourquadcities.com/news/local-news/crews-on-scene-after-car-crashes-into-moline-home/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_5b9bc7.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois voted best state for pumpkin patches",
-      "summary": "A new report reviewed pumpkin patches nationally and found Illinois has the best! Illinois is the biggest pumpkin-producing state across the U.S., and Goebbert'…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-voted-best-state-for-pumpkin-patches/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/AP23263100913918.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island County Democrats hold annual Salute to Labor picnic",
-      "summary": "Gov. JB Pritzker, Sen. Tammy Duckworth and Rep. Eric Sorensen were among the speakers.",
-      "url": "https://www.wqad.com/article/news/local/rock-island-county-democrats-salute-to-labor-picnic-2026/526-dadea8eb-6d6f-494e-8c07-149dd1bf37af",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/58576d5e-4a30-46ea-9f82-1ab91f74e812/20260907T220558/58576d5e-4a30-46ea-9f82-1ab91f74e812_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "I-80 traffic stop leads to 2 arrests for trafficking over 5,800 pounds of cannabis",
-      "summary": "Illinois State Police arrested two people after finding over 5,800 pounds of cannabis during a traffic stop on I-80 eastbound.",
-      "url": "https://www.wqad.com/article/news/local/2-arrested-trafficking-5800-pounds-cannabis/526-bc7cdf17-51ed-4ddb-a738-eada4072ae05",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ae98ec60-60f3-4e28-8624-11e541de0ab2/20260907T193118/ae98ec60-60f3-4e28-8624-11e541de0ab2_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Veterans prepare to take off on 67th QC Honor Flight",
-      "summary": "On Sept. 22, the 67th Honor Flight will leave the Quad Cities International Airport with over 80 veterans on their way to Washington D. C. to see the memorials …",
-      "url": "https://www.ourquadcities.com/news/local-news/veterans-prepare-to-take-off-on-67th-qc-honor-flight/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/honorflight.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "KidneyMobile will be in Galena for free health screenings",
-      "summary": "The National Kidney Foundation of Illinois will bring the KidneyMobile to Northern Illinois toprovide free kidney and health screenings, a news release says. Th…",
-      "url": "https://www.ourquadcities.com/news/local-news/kidneymobile-will-be-in-galena-for-free-health-screenings/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Kidney-Mobile.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "For scuba diving enthusiasts, Mermet Springs is ‘the best place in the Midwest’",
-      "summary": "Thirty years ago, an Illinois Secretary of State Police DiveTeam investigator set out to turn an abandoned rock quarry into a first-class dive destination.",
-      "url": "https://www.wqad.com/article/news/state/for-scuba-diving-enthusiasts-mermet-springs-is-the-best-place-in-the-midwest/526-8a4db626-d746-4f05-8e6b-245a8d523797",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b07bf2c7-3142-4ddc-85ff-4d54a2cf4edd/20260907T154328/b07bf2c7-3142-4ddc-85ff-4d54a2cf4edd_750x422.jpg",
-      "category": "state"
     }
   ]
 }
