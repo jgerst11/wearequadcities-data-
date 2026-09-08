@@ -1,23 +1,7 @@
 {
-  "generated": "2026-09-07T20:53:56.942897+00:00",
-  "total": 26,
+  "generated": "2026-09-08T01:55:59.617191+00:00",
+  "total": 25,
   "events": [
-    {
-      "id": "vqc_24f27793ad1b",
-      "name": "Bettendorf Parks and Recreation Ladies Academy The New Golfer",
-      "start": "2026-09-07",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=13008&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
     {
       "id": "vqc_0da3eeb08714",
       "name": "Built to Last Strategies for Business Growth Stronger Partnerships",
