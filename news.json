@@ -1,26 +1,103 @@
 {
-  "updated": "2026-09-08T22:25:14.629491+00:00",
+  "updated": "2026-09-09T03:34:27.112730+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "How Davenport Police use training and co-responders to handle mental illness episodes",
+      "summary": "Davenport Police Chief Greg Behning says a scene needs to be safe before a mental health co-responder can intervene.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/davenport-police-training-co-responders-mental-illness-episodes/526-c69c9fe2-276b-4ce1-ae2e-0d7dc716e868",
+      "time": "17 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/1c73b7cc-941c-4c1d-8953-b0a562d940ed/20260909T030735/1c73b7cc-941c-4c1d-8953-b0a562d940ed_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Rock Island to begin fire-hydrant flushing",
-      "summary": "The City of Rock Island’s Water Treatment Plant has temporarily switched to free chlorine whichis an approved water treatment practice widely used to maintain w…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-to-begin-fire-hydrant-flushing/",
-      "time": "32 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2016/10/Water20faucet_1475373587247_11320570_ver1.0.jpg?w=900",
+      "headline": "What's ahead for the race for Illinois governor?",
+      "summary": "Election Day is only 56 days away, and the numbers are clear: Darren Bailey's campaign for Illinois governor hasn't gotten the same push it did in 2022, and the…",
+      "url": "https://www.ourquadcities.com/your-local-election-headquarters/whats-ahead-for-the-race-for-illinois-governor/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Your-Local-Election-Headquarters.jpg?w=900",
+      "category": "Your Local Election Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa Hawkeye Marching Band member dies after sudden cardiac arrest",
+      "summary": "University of Iowa third-year student and member of the Hawkeye Marching Band Derek Phillips died Tuesday morning. Phillips suffered a sudden cardiac arrest dur…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/iowa-hawkeye-marching-band-member-dies-after-sudden-cardiac-arrest/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_b54019.png?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Severe t'Storms rolling through Iowa City Tuesday night",
+      "summary": "Severe storms have erupted and moved across Iowa this evening. As of 9 p.m. those storms are pushing through Iowa city. There's a severe t'storm warning in effe…",
+      "url": "https://www.ourquadcities.com/news/local-news/severe-tstorms-rolling-through-iowa-city-tuesday-night/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/WHBF-2017-Earth-Design.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Soles For Children hosts QCA giveaways",
-      "summary": "Cold weather will be here before you know it, and a Quad-City organization is helping to ensure that kids have the shoes, coats and more they need. Erwin King a…",
-      "url": "https://www.ourquadcities.com/news/local-news/soles-for-children-hosts-qca-giveaways/",
-      "time": "52 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/Soles-for-Children.jpg?w=900",
+      "headline": "Free petting zoo, book bash, will come to Longview Park, Rock Island",
+      "summary": "The Petting Zoo in the Park will bring farm animals from Miller’s Petting Zoo to Rock Island’s Longview Park from 10 a.m. until 2 p.m. .at 1300 17th St., on Sat…",
+      "url": "https://www.ourquadcities.com/news/local-news/free-petting-zoo-book-bash-will-come-to-longview-park-rock-island/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_b642c1.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man charged in deadly 2025 Davenport motorcycle crash booked into Scott County Jail after arrest in Mexico",
+      "summary": "Samantha Burke died after the motorcycle she was riding on, driven by Alex Uthoff, crashed in May 2025.",
+      "url": "https://www.wqad.com/article/news/local/alex-uthoff-scott-county-jail-extradited-2025-fatal-motorcycle-crash/526-5504fe2b-d5b0-4e47-a920-a391a8d944f2",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e4b885b3-48b5-4da1-8381-a23ca0f918f4/20260908T195220/e4b885b3-48b5-4da1-8381-a23ca0f918f4_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf Rotary seeks grant applications",
+      "summary": "The Rotary Club of Bettendorf seeks applications for grants of up to $5,000 from qualified non-profit organizations in the Quad Cities, a news release says. App…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-rotary-seeks-grant-applications/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Rotary-Club-of-Bettendorf.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Bettendorf takes two big steps toward building new police station",
+      "summary": "On Tuesday, Sept. 8, the Bettendorf City Council approved a resolution to begin construction of the new Bettendorf Police Department, moments after a ground-bre…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-bettendorf-takes-two-big-steps-toward-building-new-police-station/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_a5abfe.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport Police Department releases name of officer involved in shooting",
+      "summary": "The name of the Davenport police officer involved in an Aug. 31 shooting has been released by the Davenport Police Department. According to the news release, Of…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-police-department-releases-name-of-officer-involved-in-shooting/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2020/07/DavenportShotsFiredJuly31.jpg?w=851",
       "category": "Local News"
     },
     {
@@ -30,20 +107,20 @@
       "headline": "Davenport officer who shot armed person on Aug. 31 identified by police chief",
       "summary": "Police said officers were called to the 3700 block of Rockingham Road for a person who was armed and suicidal.",
       "url": "https://www.wqad.com/article/news/local/davenport-police-shooting-armed-person-mental-health-crisis-response-august-31/526-b25e5b99-aa26-4c20-ace7-84d3f04ce338",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e7f6873a-09e3-4a06-b186-d46a0208d324/20260831T195418/e7f6873a-09e3-4a06-b186-d46a0208d324_750x422.jpg",
       "category": "local"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man charged in deadly 2025 Davenport motorcycle crash booked into Scott County Jail after arrest in Mexico",
-      "summary": "Samantha Burke died after the motorcycle she was riding on, driven by Alex Uthoff, crashed in May 2025.",
-      "url": "https://www.wqad.com/article/news/local/alex-uthoff-scott-county-jail-extradited-2025-fatal-motorcycle-crash/526-5504fe2b-d5b0-4e47-a920-a391a8d944f2",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e4b885b3-48b5-4da1-8381-a23ca0f918f4/20260908T195220/e4b885b3-48b5-4da1-8381-a23ca0f918f4_750x422.jpg",
-      "category": "local"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Adult, juvenile suspects arrested on QC firearm violations",
+      "summary": "Five adults and two juveniles were arrested on firearm violations in Davenport. According to a release from the Davenport Police Department, officers were dispa…",
+      "url": "https://www.ourquadcities.com/news/local-news/adult-juvenile-suspects-arrested-on-qc-firearm-violations/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Davenport-Police-Department.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,86 +129,9 @@
       "headline": "Illinois Legislative Inspector General Michael McCuskey resigns amid criticism",
       "summary": "Recent ethics investigations raised questions about the office’s professionalism.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-legislative-inspector-general-michael-mccuskey-resigns-capitol-news/526-3770b470-2f04-4ce9-b144-1feb146c2650",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d40c72f9-6dda-4e23-871c-1665398d00e7/20260908T200826/d40c72f9-6dda-4e23-871c-1665398d00e7_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Judge weighing arguments to halt Illinois’ ‘medical aid in dying’ law ahead of Sept. 12 start",
-      "summary": "Disability rights advocates worry about potential for coercion and want more state oversight.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/judge-weighing-halt-illinois-medical-aid-dying-law-ahead-start-capitol-news/526-3f0bb83d-8c02-42af-a251-c93f0d0d62eb",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a8d7e9ee-2418-4821-a888-b83240fcfab2/20260908T192913/a8d7e9ee-2418-4821-a888-b83240fcfab2_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Girl Scouts announce 2 new cookies for 2027 cookie season",
-      "summary": "Girl Scouts is introducing two new cookies for the 2027 Cookie Season; one that’s allergy friendly and one that’s created just for dogs. Girl Scouts of Eastern …",
-      "url": "https://www.ourquadcities.com/news/local-news/girl-scouts-announce-2-new-cookies-for-2027-cookie-season/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Patch-Pals-Sparkables.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Kristin Ramsey's defense requests documents on policies, protocol of investigating agencies",
-      "summary": "Kristin Ramsey, accused of killing Ashley Okland, has requested documents on investigation policies from Iowa agencies to bolster her defense as her trial nears…",
-      "url": "https://www.wqad.com/article/news/crime/kristin-ramsey-defense-requests-documents-departmental-policies-protocol-investigating-agencies/524-015d1e3b-a712-44f0-8402-a0ab0f20ed8c",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/8b995c69-c0f6-4004-b205-36e23d7cc0ee/20260822T030448/8b995c69-c0f6-4004-b205-36e23d7cc0ee_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa State Fair announces 2027 theme",
-      "summary": "Fair officials made the announcement just weeks after a record-breaking 2026 season.",
-      "url": "https://www.wqad.com/article/news/local/iowa-state-fair-2027-theme/524-dc0ca24c-ff6d-4c24-99e0-3e51bb16e64d",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/efbc4ce0-4aaa-47d3-a771-d9be7fb4fadd/efbc4ce0-4aaa-47d3-a771-d9be7fb4fadd_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Much-needed rain follows Tuesday's heat",
-      "summary": "After a very nice Labor Day in the Quad Cities, today will be another hot and humid one. However, the heat won't develop into another heat wave. Showers and sto…",
-      "url": "https://www.ourquadcities.com/news/local-news/much-needed-rain-follows-tuesdays-heat/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "How did Labor Day begin? The history of the 144-year-old holiday",
-      "summary": "Union leaders in central Iowa share the labor movement's major wins throughout the years.",
-      "url": "https://www.wqad.com/article/news/history/labor-day-history-why-holiday-peter-mcguire-iowa-unions/524-d88e846c-0027-47b5-bff4-77a5162d6ef2",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/02d9b266-1512-4f52-8e58-433504f7e083/20260907T172114/02d9b266-1512-4f52-8e58-433504f7e083_750x422.jpg",
-      "category": "history"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine City Council plans special session on golf course improvements",
-      "summary": "The Muscatine City Council will convene for a special in‑depth session at 5:30 p.m. on Tuesday, September 8, at the Muscatine Municipal Golf Course clubhouse. B…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-city-council-plans-special-session-on-golf-course-improvements/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
