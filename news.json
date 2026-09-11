@@ -1,6 +1,94 @@
 {
-  "updated": "2026-09-11T08:41:31.109955+00:00",
+  "updated": "2026-09-11T16:01:56.444190+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Judge lets Illinois’ ‘medical aid in dying’ law stand ahead of Sept. 12 start",
+      "summary": "The judge wrote that the plaintiff failed to prove she would suffer irreparable harm when the law goes into effect. Here are the arguments for and against the l…",
+      "url": "https://www.wqad.com/article/news/politics/judge-lets-illinois-medical-aid-in-dying-law-stand-sept-12-start/63-594376eb-6644-44a4-a680-09380eb6b0b3",
+      "time": "7 min ago",
+      "image": "https://media.tegna-media.com/assets/WGRZ/images/27d44b4c-81e1-4aab-b1c2-72cb6161b2d1/20260805T204506/27d44b4c-81e1-4aab-b1c2-72cb6161b2d1_750x422.jpg",
+      "category": "politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "25 years later: How Iowa teachers continue educating students about 9/11",
+      "summary": "While some say there's a disconnect with all K-12 students born after the attacks, teachers  remain focused on helping them understand the significance of the e…",
+      "url": "https://www.wqad.com/article/news/education/september-11-education-classroom-teachers-history/524-2df6f709-2910-4b75-b0a2-9eb0ee01d4c6",
+      "time": "9 min ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/a1e30a21-0b05-4251-ac14-d9c05c65b4b3/20260911T114319/a1e30a21-0b05-4251-ac14-d9c05c65b4b3_750x422.jpg",
+      "category": "education"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Woman arrested in connection with Galesburg stabbing",
+      "summary": "A woman is in the Knox County Jail after police arrested her in connection with a stabbing in Galesburg, according to a news release from the Galesburg Police D…",
+      "url": "https://www.ourquadcities.com/news/local-news/woman-arrested-in-connection-with-galesburg-stabbing/",
+      "time": "15 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Destiny-Denniston-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Argrow's House fundraiser will celebrate resilience, healing, hope",
+      "summary": "Argrow’s House of Healing and Hope invites the public to its ninth annual Fundraising Gala: Shimmering Hope, at 6 p.m. Thursday, Sept. 17, at the J Bar &#38; Ho…",
+      "url": "https://www.ourquadcities.com/news/local-news/argrows-house-fundraiser-will-celebrate-resilience-healing-hope/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Argrows-House.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Dry Friday ahead of daily rain chances",
+      "summary": "Temperatures this week were still mostly above average, but not as hot as last week. Rain chances will be on the increase across the Quad Cities starting this w…",
+      "url": "https://www.ourquadcities.com/news/local-news/dry-friday-ahead-of-daily-rain-chances/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Hawkeye Marching Band to honor Derek Phillips during Cy-Hawk game, throughout season",
+      "summary": "Derek Phillips died Tuesday after he suffered a sudden cardiac arrest during Saturday's football game against Northern Illinois.",
+      "url": "https://www.wqad.com/article/life/people/hawkeye-marching-band-derek-phillips-death-honor-kinnick-stadium/524-0ffaacc0-bb29-4373-99ef-2be2eacc9003",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/f929ae79-b704-4aac-8a4a-345b0e76141f/20260910T175536/f929ae79-b704-4aac-8a4a-345b0e76141f_750x422.jpg",
+      "category": "people"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Here are the 8 known victims of the Sept. 11, 2001 attacks with connections to Iowa",
+      "summary": "Flags will be flown at half-staff sunrise to sunset in honor of the nearly 3,000 killed in the 2001 terror attacks, which include at least 8 with Iowa connectio…",
+      "url": "https://www.wqad.com/article/news/history/remembering-911/iowa-9-11-connections-victims-flags-half-staff/524-a8f4a025-5a41-4b98-8b28-550d6ddd0d3c",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WZZM/images/242513932/242513932_750x422.jpg",
+      "category": "remembering-911"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa businesses, farmers feel impact of ongoing US-Canada trade war",
+      "summary": "The US-Canada trade war is straining Iowa's economy, affecting farmers' crop sales, truck drivers' fuel costs and small businesses facing steep tariffs on goods…",
+      "url": "https://www.wqad.com/article/news/local/iowa-businesses-farmers-feel-impact-us-canada-trade-war/524-7fe980c7-7444-41dd-8fbc-dda5018ed3f9",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/8dbfe76b-9516-4c9f-bbf7-f1dc377a5ef3/8dbfe76b-9516-4c9f-bbf7-f1dc377a5ef3_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,30 +96,8 @@
       "headline": "Alison Krauss cancels tour, which included QCA, because of health concerns",
       "summary": "A popular singer-songwriter has canceled her appearance that was scheduled for Friday at The Adler Theatre, Davenport, according to a Facebook post from The Adl…",
       "url": "https://www.ourquadcities.com/news/local-news/alison-krauss-cancels-tour-which-included-qca-because-of-health-concerns/",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2017/03/country20divas20-20Alison20Krauss202012_9223126_18107782_ver1.0.jpg?w=594",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois announces new income eligibility for school meals",
-      "summary": "The Illinois State Board of Education has announced new income eligibility for the National School Lunch Program. The new guidelines went into effect at the sta…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-announces-new-income-eligibility-for-school-meals/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/school-lunch-GENERIC-lunches-breakfast-cafeteria.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'Mexican Roots' exhibition opens soon at Figge Art Museum, Davenport",
-      "summary": "Spirits, animals, devils and the dead take many forms in \"Mexican Roots: Masks, Prints, and Traditional Arts of Mexico,\" a new exhibition opening Sept. 12 at th…",
-      "url": "https://www.ourquadcities.com/news/local-news/mexican-roots-exhibition-opens-soon-at-figge-art-museum-davenport/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/artwork-.jpg?w=355",
       "category": "Local News"
     },
     {
@@ -41,31 +107,9 @@
       "headline": "Davenport City Council approves nearly $400K settlement with former assistant city attorney in 6-5 vote",
       "summary": "The move settles a lawsuit filed by Mallory Bagby, who worked for the city from October 2017 through July 2024.",
       "url": "https://www.wqad.com/article/news/local/davenport-city-council-approves-settlement-former-assistant-city-attorney-mallory-bagby/526-e1c06489-6504-4f0b-8610-c26d0362e857",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois to expand access to grocery stores",
-      "summary": "Illinois is making more than $26 million available to expand access to grocery stores. Through the Illinois Grocery Initiative Grant Program, more than $20 mill…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-to-expand-access-to-grocery-stores/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/image_d72d9f.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa governor orders flags be flown at half-staff in remembrance of 9/11",
-      "summary": "Iowa Governor Kim Reynolds has ordered that flags be flown at half-staff on September 11.",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-governor-orders-flags-be-flown-at-half-staff-in-remembrance-of-9-11/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/U.S.-American-flag-half-staff-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,7 +118,7 @@
       "headline": "Free 9/11 concert in Davenport aims to encourage first responders",
       "summary": "You're invited to the free concert on Sunday, Sept. 13 at Berean Baptist Church. Music begins at 5 p.m. and is open to all first responders, veterans and public…",
       "url": "https://www.wqad.com/article/news/local/the-current/free-911-encouragement-concert-davenport-berean-baptist-church-first-responders-military/526-98f9f4b7-259e-4af8-8a9b-a09bc323bf38",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fa399167-b639-4c00-910f-2cc50521d68a/20260910T214419/fa399167-b639-4c00-910f-2cc50521d68a_750x422.jpg",
       "category": "the-current"
     },
@@ -85,53 +129,9 @@
       "headline": "Tour of the Heartland returns, benefiting Gold Star families",
       "summary": "The annual bike ride will take place out of Geneseo on Saturday, Sept. 19. Riders can choose between four 25-mile loops, all benefiting a military nonprofit.",
       "url": "https://www.wqad.com/article/news/local/the-current/tour-of-the-heartland-quad-cities-bicycle-club-ride-geneseo-sept-19-sign-up-military-families-nonprofit-seal/526-11060b82-5177-4a87-80be-765feec30638",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ea7f4a62-2b5f-4c10-ae76-0ae28ff2a0fb/20260910T231240/ea7f4a62-2b5f-4c10-ae76-0ae28ff2a0fb_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Small town, BIG dreams",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-small-town-big-dreams/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c91275.png?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Judge declines to block Illinois’ ‘medical aid in dying’ law ahead of Sept. 12 start",
-      "summary": "Disability rights advocates alleged the law is discriminatory and needs more state oversight.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-medical-aid-in-dying-assisted-suicide-law-effective-sept-12-judge-ruling/526-f74df8a3-b1d2-44fe-b971-5c2035f34754",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a8d7e9ee-2418-4821-a888-b83240fcfab2/20260908T192913/a8d7e9ee-2418-4821-a888-b83240fcfab2_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "'Roasted QC' to become 'The Snack Shack' as it prepares for new Illinois THC beverage regulations",
-      "summary": "New Illinois regulations cap the amount of THC in a beverage at 0.4 milligrams.",
-      "url": "https://www.wqad.com/article/money/business/small-business/illinois-thc-beverage-regulations-impact-east-moline-business/526-b2e3efa6-e4c9-4a14-8ff3-1afb4871e74d",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/49b72e50-2f64-4d3c-b687-17377fe3083b/20260910T222644/49b72e50-2f64-4d3c-b687-17377fe3083b_750x422.jpg",
-      "category": "small-business"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois attorney general reaches settlement to reduce Nicor Gas request by 63%",
-      "summary": "Advocates say it’s a compromise, ‘not a clear win for customers.’",
-      "url": "https://www.wqad.com/article/news/state/illinois-attorney-general-settlement-reduce-nicor-gas-request-63-percent-capitol-news/526-d2b23fa3-5c35-4127-84c1-23adc792d067",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c3860818-a4a3-446d-a617-1a13c6c8a7da/20260910T220313/c3860818-a4a3-446d-a617-1a13c6c8a7da_750x422.jpg",
-      "category": "state"
     }
   ]
 }
