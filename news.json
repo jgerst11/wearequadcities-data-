@@ -1,16 +1,27 @@
 {
-  "updated": "2026-09-12T21:58:23.486195+00:00",
+  "updated": "2026-09-13T03:41:35.792428+00:00",
   "items": [
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Quad-Cities area football and volleyball standings, scores and schedules for the week of Aug. 24.",
-      "url": "https://qctimes.com/sports/high-school/article_2b002de1-168e-421b-b715-084ad4e15ebd.html",
-      "time": "2 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/de/7defd394-d7c8-462a-bd26-7008729276b4/6a89408863abe.image.jpg?resize=300%2C270",
-      "category": ""
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Man severely injured in East Moline firework incident",
+      "summary": "A 41-year-old man was severely injured when a firework exploded. According to a release from the Rock Island County Sheriff's Office, deputies responded to a ho…",
+      "url": "https://www.ourquadcities.com/news/local-news/man-severely-injured-in-east-moline-firework-incident/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/severe-injury-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island Police Department holds career day",
+      "summary": "The Rock Island Police Department held a career day, providing resources and demonstrations for people interested in law enforcement.",
+      "url": "https://www.wqad.com/article/news/community/rock-island-police-department-holds-career-day/526-02c10e53-1d85-4aba-ab50-07cd0f7ea62a",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/79f80db9-64e2-447b-9de4-234c1324118e/20260912T231305/79f80db9-64e2-447b-9de4-234c1324118e_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,30 +30,19 @@
       "headline": "Moline apartment fire remains under investigation",
       "summary": "A Friday night apartment fire in Moline remains under investigation, according to a news release from the Moline Fire Department. Shortly before 8:15 p.m., the …",
       "url": "https://www.ourquadcities.com/news/local-news/moline-apartment-fire-remains-under-investigation/",
-      "time": "3 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Moline-fire-1.jpg?w=796",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Taming of the Slough",
-      "summary": "Photos from River Action’s Taming of the Slough on Saturday, Sept. 12, in Moline. The Adventure Triathlon consisted of paddling the two-mile stretch of the Sylv…",
-      "url": "https://qctimes.com/news/local/article_b68ff9f5-27b1-487c-a7e4-4db68b2b1e3d.html",
-      "time": "4 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/34/f3449727-d167-40ed-9327-61925fdb7e70/6aa57246887c0.image.jpg?resize=300%2C240",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Moline Public Library seeks applicants for student trustee",
-      "summary": "The Moline Public Library seeks applications for position of student trustee to serve an eight-month term on the Library Board of Trustees, a news release says.…",
-      "url": "https://www.ourquadcities.com/news/local-news/moline-public-library-seeks-applicants-for-student-trustee/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Public-Library.jpg?w=900",
+      "headline": "New bill would restrict SNAP benefits in Illinois, other states",
+      "summary": "A new law introduced in the House this month would add more restrictions to what types of food SNAP recipients can buy with their monthly benefits.",
+      "url": "https://www.ourquadcities.com/news/local-news/new-bill-would-restrict-snap-benefits-in-9-states-heres-what-could-be-cut/",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/SNAP.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,8 +52,30 @@
       "headline": "Iowa Machine Shed to present Fall Family Festival",
       "summary": "Fall is coming to the farm at Iowa Machine Shed, and families are invited to the annual Fall Family Festival on Saturday-Sunday, Sept. 26-27 from 10 a.m.-3 p.m.…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-machine-shed-to-present-fall-family-festival/",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Machine-Shed-logo-.png?w=534",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline Public Library seeks applicants for student trustee",
+      "summary": "The Moline Public Library seeks applications for position of student trustee to serve an eight-month term on the Library Board of Trustees, a news release says.…",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-public-library-seeks-applicants-for-student-trustee/",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Moline-Public-Library.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf Library hosts stargazing night",
+      "summary": "From 7:30-8 p.m. Thursday, Sept. 17, the Bettendorf Public Library will host the Popular Astronomy Club of the Quad Cities at Faye’s Field for a unique look at …",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-library-hosts-stargazing-night/",
+      "time": "14 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/GettyImages-619655770-e1713385285802.jpg?w=800",
       "category": "Local News"
     },
     {
@@ -63,20 +85,20 @@
       "headline": "Great Oaks High School, Davenport, plans ribbon-cutting; governor will attend",
       "summary": "Great Oaks High School &#38; Career Center will celebrate the opening of its new Davenport campus with a ribbon-cutting ceremony at 11 a.m. Wednesday, Sept. 30,…",
       "url": "https://www.ourquadcities.com/news/local-news/great-oaks-high-school-davenport-plans-ribbon-cutting-governor-will-attend/",
-      "time": "8 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/Great-Oaks-High-School-Career-Center.jpg?w=900",
       "category": "Local News"
     },
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Connor Wood: 40 things I’ll miss after 40 months living in the Quad-Cities",
-      "summary": "Departing managing editor Connor Wood writes about 40 things he’ll miss after 40 months living in the Quad-Cities, starting with the newsroom.",
-      "url": "https://qctimes.com/news/local/column/article_a38bec17-49b2-4db6-8511-3e62fa14a457.html",
-      "time": "10 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/42/2420d898-a11d-11ee-ae78-fb8f39365810/658613fec8cfb.image.jpg?resize=300%2C200",
-      "category": ""
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Free origami session offered in Davenport to those affected by cancer",
+      "summary": "Cancer Support Community Iowa and NW Illinois will host a free creative art session workshop on Monday, Sept. 21, from 6-8 p.m. at Gilda’s Club Davenport, 1351 …",
+      "url": "https://www.ourquadcities.com/news/local-news/arts-and-culture/free-origami-session-offered-in-davenport-to-those-affected-by-cancer/",
+      "time": "15 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2017/11/6.20Kamigami20bug20robots_1511331351165_29266003_ver1.0-1.jpg?w=900",
+      "category": "Arts and Culture"
     },
     {
       "source": "WQAD",
@@ -85,20 +107,9 @@
       "headline": "Muscatine Fire Department remembers 9/11 with stair climb",
       "summary": "The Muscatine Fire Department held a stair climb to remember and honor those affected by 9/11.",
       "url": "https://www.wqad.com/article/news/community/muscatine-fire-department-remembers-911-with-stair-climb/526-ebf22bf9-c7a6-4401-bab0-2ba81fc39ae3",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae4652dd-2cd2-4a1c-a5cb-fa6e36840b4b/20260911T200739/ae4652dd-2cd2-4a1c-a5cb-fa6e36840b4b_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cy-Hawk preview: Hawkeyes look to stop losing streak versus Cyclones",
-      "summary": "In a college football rivalry historically dominated by the Iowa Hawkeyes, the Iowa State Cyclones will walk into Kinnick Stadium on Saturday boasting a two-gam…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/cyhawk-preview-hawkeyes-look-to-stop-losing-streak-versus-cyclones/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26248802043587.jpg?w=900",
-      "category": "Hawkeye Headquarters"
     },
     {
       "source": "WQAD",
@@ -107,7 +118,7 @@
       "headline": "Quad Cities International Airport police and fire chief remembers working 9/11",
       "summary": "Jeff Swan said that moments after seeing the second tower hit, his chief at the time came in and said they were closing the airport.",
       "url": "https://www.wqad.com/article/news/history/remembering-911/9-11-remembrance-quad-cities-airport-police-chief-remembers-september-11-2001/526-4610b596-9afe-462e-a69e-770880758e22",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/7eb111bf-fb47-4172-bf9a-6a099ce7e61c/20260911T120409/7eb111bf-fb47-4172-bf9a-6a099ce7e61c_750x422.jpg",
       "category": "remembering-911"
     },
@@ -118,20 +129,9 @@
       "headline": "Public defense reform advances as Illinois moves to hire statewide public defender",
       "summary": "The hiring process begins 3 years after cash bail abolition revealed significant shortages.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/public-defense-reform-advances-illinois-moves-hire-statewide-public-defender-capitol-news/526-ae6e9773-d9d1-4c46-9031-8628239ef7a0",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b7a49cb3-67dd-4b6f-b94b-4a97a1e9311f/20260911T221324/b7a49cb3-67dd-4b6f-b94b-4a97a1e9311f_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island Arsenal honors 25th anniversary of 9/11",
-      "summary": "Staff Sgt. Nathan Cox, a native of the Quad Cities, reenlisted in the Army after 9/11. He was killed in action in Afghanistan in 2008.",
-      "url": "https://www.wqad.com/article/news/history/remembering-911/rock-island-arsenal-september-11th-25th-anniversary/526-a5ab7b65-5a58-4f23-ba62-080ec7e390c1",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a6409964-65b0-4b1f-853c-9af757ca2431/20260911T194700/a6409964-65b0-4b1f-853c-9af757ca2431_750x422.jpg",
-      "category": "remembering-911"
     }
   ]
 }
