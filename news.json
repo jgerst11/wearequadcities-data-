@@ -1,6 +1,127 @@
 {
-  "updated": "2026-09-14T17:51:39.311505+00:00",
+  "updated": "2026-09-14T22:59:00.480634+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Help suicide prevention programs at Quad Cities Out of the Darkness Walk",
+      "summary": "In the United States, suicide is the 10th leading cause of death, and you can help support research, advocacy efforts and educational programs across our region…",
+      "url": "https://www.ourquadcities.com/news/local-news/help-suicide-prevention-programs-at-quad-cities-out-of-the-darkness-walk/",
+      "time": "1 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_2d9178.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man charged with attempted murder after pedestrian struck by vehicle in Rock Island",
+      "summary": "Rock Island police allege 26-year-old Edson Gutierrez intentionally struck a pedestrian with his truck after an argument.",
+      "url": "https://www.wqad.com/article/news/local/man-charged-attempted-murder-pedestrian-struck-vehicle-rock-island/526-21dd8cb7-d753-40d3-8fa0-9404736c9148",
+      "time": "10 min ago",
+      "image": "https://media.tegna-media.com/assets/KXTV/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "East Moline Greater Downtown Revitalization Project enters final stretch",
+      "summary": "Work on the project continues through the end of 2026 bringing new streets and improvements while businesses navigate construction.",
+      "url": "https://www.wqad.com/article/news/local/east-moline-greater-downtown-revitalization-project-final-stretch/526-02bc566a-635e-4c8f-9a64-f8d12cdf4c16",
+      "time": "48 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/48f35399-eee9-45ba-988d-af856f4e888d/20260914T220713/48f35399-eee9-45ba-988d-af856f4e888d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pedestrian struck and killed by vehicle in East Moline on Friday night",
+      "summary": "The driver reported that they were traveling eastbound on IL Route 5 when the pedestrian appeared in the dark roadway.",
+      "url": "https://www.wqad.com/article/news/local/pedestrian-struck-killed-vehicle-east-moline-friday-night/526-35c5c65f-619e-4f0a-bce3-f74ad9b492df",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘Huge step forward’: Illinois inches closer on battery storage, solar goals",
+      "summary": "The first procurement generates excitement for the future, despite falling below target.",
+      "url": "https://www.wqad.com/article/news/state/illinois-inches-closer-battery-storage-solar-goals-capitol-news/526-90257815-16af-4760-becc-c73731b86ef6",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d0440bb5-bd42-4d08-b205-421c864ba88d/20260914T210931/d0440bb5-bd42-4d08-b205-421c864ba88d_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "One dead in East Moline vehicle/pedestrian crash",
+      "summary": "One person is dead after a traffic crash involving a pedestrian on Sept. 11. A news release from the East Moline Police Department said officers were dispatched…",
+      "url": "https://www.ourquadcities.com/news/local-news/one-dead-in-east-moline-vehicle-pedestrian-crash/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fatal-crash-GENERIC-2.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Applications open Oct. 1 for LIHEAP utility assistance",
+      "summary": "Residents on the Illinois side of the QCA can apply for assistance with paying utility bills, starting October 1. Project NOW, Inc. has announced that funds are…",
+      "url": "https://www.ourquadcities.com/news/local-news/applications-open-oct-1-for-liheap-utility-assistance/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/LIHEAP.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island man arrested; accused of striking man with truck",
+      "summary": "A Rock Island man is being held in the Rock Island County Jail after police say struck a man with his truck after an argument. A news release from the Rock Isla…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-man-arrested-accused-of-striking-man-with-truck/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Edson-Gutierrez-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Applications for utility assistance program LIHEAP to open in October for some Illinois residents",
+      "summary": "Starting Oct. 1, some eligible households can already begin applying for help through LIHEAP, but others will need to wait to apply until Nov. 1.",
+      "url": "https://www.wqad.com/article/news/local/applications-for-utility-assistance-program-liheap-to-open-in-october-for-some-illinois-residents/526-878c92a6-77ce-4d9d-b98d-fa5b1745886b",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Two Sisters Restaurant in Milan to rebrand as Flips Pancake House",
+      "summary": "The restaurant announced it will be temporarily closed for remodeling before reopening as Flips Pancake House.",
+      "url": "https://www.wqad.com/article/news/local/two-sisters-restaurant-milan-rebrand-flips-pancake-house/526-fcddb08c-821f-44d2-986e-ae6b9c9c7d36",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ef1a1a7d-5b99-4112-9008-424dd2c910eb/20260914T193646/ef1a1a7d-5b99-4112-9008-424dd2c910eb_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Charity Bass Tournament raises funds for Children's Therapy Centers of the Quad Cities",
+      "summary": "Live Uncommon is hosting the revitalized 52nd annual Charity Bass Tournament on Saturday, September 19, starting at 7 a.m. Proceeds benefit Children’s Therapy C…",
+      "url": "https://www.ourquadcities.com/news/local-news/charity-bass-tournament-raises-funds-for-childrens-therapy-centers-of-the-quad-cities/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Childrens-Therapy-Center-Bass-Fishing-featured-image.png?w=624",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,130 +129,9 @@
       "headline": "Knight's Pizza named Best Pizza in the Quad Cities",
       "summary": "The 64 recently hosted the Best Pizza in the Quad Cities competition. Pizza restaurants around the Quad Cities competed against each other in a bracket-style to…",
       "url": "https://www.ourquadcities.com/news/local-news/knights-pizza-named-best-pizza-in-the-quad-cities/",
-      "time": "2 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Knights-Pizza-featured-image.png?w=624",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Knights-Pizza.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "One dead after workplace incident at Smithfield Foods, Monmouth",
-      "summary": "One person is dead after a fatal workplace incident at Smithfield Foods in Monmouth this morning. The company emailed a statement to Our Quad Cities News about …",
-      "url": "https://www.ourquadcities.com/news/local-news/one-dead-after-workplace-incident-at-smithfield-foods-monmouth/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Smithfield-Foods-featured-image.png?w=624",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "US Department of Energy commits $1.9B to help revive Iowa's dormant nuclear program",
-      "summary": "The US Department of Energy has dedicated $1.9 billion in grants to revive Iowa's dormant nuclear energy sector by reactivating the Palo reactor.",
-      "url": "https://www.wqad.com/article/tech/science/us-department-energy-commits-19b-revive-iowa-dormant-nuclear-program/524-d48c310b-295a-461b-9e68-726ca9f32ff8",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ce62aeb9-464a-456e-a3a3-7b609d40193d/20260914T030556/ce62aeb9-464a-456e-a3a3-7b609d40193d_750x422.jpg",
-      "category": "science"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "US Marshals recover child from non-custodial parent that fled from Iowa to Mississippi",
-      "summary": "The U.S. Marshals Service recovered a child taken by their non-custodial mother from Iowa to Mississippi, officials said.",
-      "url": "https://www.wqad.com/article/news/crime/us-marshals-recover-child-from-non-custodial-parent-fled-iowa-mississippi/524-204a6296-499d-4b64-9255-fe6a6a0bca43",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WPMT/images/c13ac45e-c8b3-4a01-abb8-957dfa7ced2f/c13ac45e-c8b3-4a01-abb8-957dfa7ced2f_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Galesburg announces cemetery cleanup week",
-      "summary": "Cleanup at Linwood and East Linwood Cemeteries in Galesburg starts later this month. The City of Galesburg said cleanup week at the cemeteries will be Sept. 28 …",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-announces-cemetery-cleanup-week/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-galesburg.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Deere bringing 375+ employees back to QC facilities",
-      "summary": "Hundreds of employees are being called back to work at John Deere facilities in Moline and East Moline. A news release from the company said Deere plans to brin…",
-      "url": "https://www.ourquadcities.com/news/local-news/deere-bringing-375-employees-back-to-qc-facilities/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/GettyImages-2002918904.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad City Arts' Riverssance Festival of Fine Art will return to Village of East Davenport",
-      "summary": "A two-day art festival will feature more than 75 artists, live music, food, family activities and the presentation of the 2026 Harley Award, according to a news…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-city-arts-riverssance-festival-of-fine-art-will-return-to-village-of-east-davenport/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/RIVERSSANCE.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Wet week ahead for the Quad Cities",
-      "summary": "We'll see a daily chance of showers and storms this week with moderate to heavy rain likely, especially tonight and Tuesday. Temperatures will be close to norma…",
-      "url": "https://www.ourquadcities.com/news/local-news/wet-week-ahead-for-the-quad-cities/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Ted Nugent to take the stage at The Rust Belt, East Moline",
-      "summary": "According the website for The Rust Belt, East Moline, Ted Nugent will play a concert in the Quad Cities on Friday, Sept. 18. Doors open at 6:30 p.m. for the 7:3…",
-      "url": "https://www.ourquadcities.com/news/local-news/ted-nugent-to-take-the-stage-at-the-rust-belt-east-moline/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Ted-Nugent-.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Clinton community raises awareness with No Data Center Concert",
-      "summary": "The goal was to protect the communities needs against a data center proposal in Clinton.",
-      "url": "https://www.wqad.com/article/news/community/clinton-community-raises-awareness-with-data-center-concert/526-7d14d400-f12f-42ef-bdfe-4edac1b1fe0e",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/9d660adb-e73c-4944-ad48-69803db37aed/20260914T032052/9d660adb-e73c-4944-ad48-69803db37aed_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Our QC Crime Watch: Fraud expert tells how to keep your money safe: Episode 80",
-      "summary": "Watch crime reporter Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode Sharon talks with…",
-      "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-fraud-expert-tells-how-to-keep-your-money-safe-episode-80/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Iowa-Insurance-Divisions-Fraud-Bureau.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf's Caden Buhr kicks game-winning field goal as Hawkeyes win Cy-Hawk game",
-      "summary": "Bettendorf native Caden Buhr etched his name into Cy-Hawk folklore by kicking the game-winning field goal against the Cyclones Saturday night. With the kick, Io…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/bettendorfs-caden-buhr-kicks-game-winning-field-goal-as-hawkeyes-win-cy-hawk-game/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/iowa-football-1.png?w=590",
-      "category": "Hawkeye Headquarters"
     }
   ]
 }
