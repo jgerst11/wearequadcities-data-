@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T17:13:51.549789+00:00",
+  "generated": "2026-09-14T21:09:30.909930+00:00",
   "total": 29,
   "events": [
     {
@@ -78,22 +78,6 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11619&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
-      "id": "vqc_6bdbe05c4c8c",
-      "name": "Riverboat Twilight 2 Day Cruise",
-      "start": "2026-09-15",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11756&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -270,6 +254,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13160&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_6bdbe05c4c8c",
+      "name": "Riverboat Twilight 2 Day Cruise",
+      "start": "2026-09-16",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11756&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
