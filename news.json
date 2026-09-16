@@ -1,16 +1,49 @@
 {
-  "updated": "2026-09-16T09:08:27.861127+00:00",
+  "updated": "2026-09-16T16:21:56.463134+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Showers/Storms for most of the area late tonight.",
-      "summary": "Focusing areas near the Quad Cities and points south",
-      "url": "https://www.wqad.com/article/weather/moline-davenport-rock-island-bettendorf-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0eba5c6f-b60b-4166-885a-e61970ea6bd8/20260916T032645/0eba5c6f-b60b-4166-885a-e61970ea6bd8_750x422.jpg",
-      "category": "weather"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "United Way Quad Cities' in-school program part of national case study",
+      "summary": "An initiative by United Way Quad Cities to match neighborhood resources with student needs in local schools has been featured in a new national case study by Co…",
+      "url": "https://www.ourquadcities.com/news/local-news/united-way-quad-cities-in-school-program-part-of-national-case-study/",
+      "time": "7 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/01/United-Way-Quad-Cities.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Our Big Fat Greek Festival' returns to St. George Greek Orthodox Church, Rock Island",
+      "summary": "St. George Greek Orthodox Church, Rock Island, welcomes the community back to \"Our Big Fat Greek Festival\" from 4-10 p.m. Friday, Sept. 18, and 11 a.m.-10 p.m. …",
+      "url": "https://www.ourquadcities.com/news/local-news/our-big-fat-greek-festival-returns-to-st-george-greek-orthodox-church-rock-island/",
+      "time": "51 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Our-Big-Fat-Greek-Festival-.jpg?w=708",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Light the Town Green' to support Big Brothers Big Sisters of the Mississippi Valley",
+      "summary": "Big Brothers Big Sisters of the Mississippi Valley (BBBSMV) invites businesses, homes and community members in the Quads Cities to “Light the Town Green” on Sat…",
+      "url": "https://www.ourquadcities.com/news/local-news/light-the-town-green-to-support-big-brothers-big-sisters-of-the-mississippi-valley/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/Big-Brothers-Big-Sisters-of-the-Mississippi-Valley.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Daily rain chances into the weekend",
+      "summary": "Heavy rain fell in the Quad Cities yesterday morning and across our southern hometowns overnight and this morning. Temperatures will warm up a little more start…",
+      "url": "https://www.ourquadcities.com/news/local-news/daily-rain-chances-into-the-weekend/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2018/09/puddle_1536349584331_54547295_ver1.0.png?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -19,7 +52,7 @@
       "headline": "How you can help birds migrating at night find their way through the Quad Cities",
       "summary": "River Action is turning off the lights on the Centennial Bridge until November so migrating birds don't get lost.",
       "url": "https://www.wqad.com/article/news/local/how-you-can-help-birds-migrating-night-find-way-quad-cities/526-f1945f3d-63b5-458b-a050-6ab63e41e78d",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bfc67cf6-b2fb-49b4-a539-58e2179f87b2/20260916T031816/bfc67cf6-b2fb-49b4-a539-58e2179f87b2_750x422.jpg",
       "category": "local"
     },
@@ -30,20 +63,9 @@
       "headline": "2026 Iowa Climate Statement urges expansion of renewable energy as electricity grid demand grows",
       "summary": "The statement names artificial intelligence (AI) data centers as a primary reason for increased electricity demand.",
       "url": "https://www.wqad.com/article/tech/science/environment/2026-iowa-climate-statement-renewable-energy-increased-electricity-demand-ai-data-centers/526-94c3b69f-3549-473b-8978-bc390ace88a0",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/d343f02a-1dde-4b78-9ade-6a7e578d87de/d343f02a-1dde-4b78-9ade-6a7e578d87de_750x422.jpg",
       "category": "environment"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'Cirque Alice' will bring show to Vibrant Arena, Moline",
-      "summary": "ICON LIVE has announced the North American tour for \"Cirque Alice,\" a new theatrical cirque spectacular that re-imagines \"Alice's Adventures in Wonderland\" thro…",
-      "url": "https://www.ourquadcities.com/news/local-news/cirque-alice-will-bring-show-to-vibrant-arena-moline/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Cirque-Alice-2.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,31 +74,9 @@
       "headline": "The Quad Cities River Bandits are your 2026 Midwest League Champions!",
       "summary": "The Bandits took home the crown with a 2-1 win against the Dayton Dragons.",
       "url": "https://www.wqad.com/article/sports/local-sports/quad-cities-river-bandits-win-2026-midwest-league-championship/526-0e33fe2c-6df9-4a89-a566-39a0730fc25c",
-      "time": "6 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fb8c22cf-6bd8-4bc1-b201-1692f40f137e/20260916T022942/fb8c22cf-6bd8-4bc1-b201-1692f40f137e_750x422.jpg",
       "category": "local-sports"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA nonprofits receive $500,000 through QC Community Foundation grant program",
-      "summary": "Thirty-six local nonprofits will receive more than $500,000 through the Quad Cities Community Foundation’s 2026 Operations and Program Grants, providing support…",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-nonprofits-receive-500000-through-qc-community-foundation-grant-program/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Quad-Cities-Community-Foundation.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Run/walk for mental health awareness scheduled in Muscatine",
-      "summary": "The fifth annual NextGen 5K Run/Walk for Mental Health Awareness will be held Saturday, Sept. 19, at NextGen Motors, 310 Cleveland St., in Muscatine. More than …",
-      "url": "https://www.ourquadcities.com/news/local-news/run-walk-for-mental-health-awareness-scheduled-in-muscatine/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +85,7 @@
       "headline": "Man accused of murdering Trudy Appleby clashes with judge during latest court hearing",
       "summary": "Jamison Fisher returned to a Henry County courtroom Tuesday, where a judge admonished him about discussing his case and filing motions without his attorneys.",
       "url": "https://www.wqad.com/article/news/crime/trudy-appleby/trudy-appleby-murder-suspect-jamison-fisher-court-hearing-september-15-2026/526-c9540807-6444-4269-bf00-365bb85e2cdb",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/972f71dc-bfd2-44cd-8bba-2f4c2a8138a8/20260915T225057/972f71dc-bfd2-44cd-8bba-2f4c2a8138a8_750x422.jpg",
       "category": "trudy-appleby"
     },
@@ -96,7 +96,7 @@
       "headline": "‘Illinois remembers’: State, local leaders reflect on Midway Blitz 1 year later",
       "summary": "Pritzker says it’s ‘near impossible’ to complete investigation into federal ICE shooting without cooperation from feds.",
       "url": "https://www.wqad.com/article/news/state/illinois-state-local-leaders-reflect-midway-blitz-1-year-later-capitol-news/526-d1059604-3d6a-46b6-a44d-ece497de47ab",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/afc3a2ca-5693-4d0c-b5d0-b3992bf529e8/20260915T234441/afc3a2ca-5693-4d0c-b5d0-b3992bf529e8_750x422.jpg",
       "category": "state"
     },
@@ -107,7 +107,7 @@
       "headline": "YWCA Quad Cities diaper drive responds to growing demand",
       "summary": "The center distributed about 68,000 diapers in August alone. Families can receive 50 diapers per child each week.",
       "url": "https://www.wqad.com/article/news/local/ywca-quad-cities-diaper-drive-growing-demand-response/526-42c84f12-0a4b-4352-96e1-f4e76c1ebe23",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/697c63f8-a56d-4e0f-a2e2-05ac12c3afc0/20260915T233000/697c63f8-a56d-4e0f-a2e2-05ac12c3afc0_750x422.jpg",
       "category": "local"
     },
@@ -118,7 +118,7 @@
       "headline": "Blues Fest returns to Davenport with 2 days of live music",
       "summary": "This year, anyone 25 and younger will get in for free for the Sept. 18 and 19 concert. This year's lineup includes Grammy nominees and international stars.",
       "url": "https://www.wqad.com/article/news/local/the-current/blues-fest-mississippi-valley-society-sept-18-19-tickets-jazz-under-25-years-old-free-admission-lineup/526-e6b77847-97c9-409d-9c5c-3ffbd743f457",
-      "time": "10 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/8ed92f59-9a42-4819-8f99-c3d5dabf9808/8ed92f59-9a42-4819-8f99-c3d5dabf9808_750x422.jpg",
       "category": "the-current"
     },
@@ -129,7 +129,7 @@
       "headline": "Winner of $1.04 billion Powerball jackpot claims prize in Illinois",
       "summary": "An anonymous Illinois player has claimed the $1.04 billion Powerball jackpot from the Aug. 12 drawing, ending weeks of speculation.",
       "url": "https://www.wqad.com/article/news/nation-world/winner-of-1-billion-powerball-jackpot-claims-prize-illinois/507-69cc92d3-438d-4d4b-92c2-95b42333b217",
-      "time": "10 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/b19e6ac6-8b81-44f9-8706-a1116ca81a3d/20260915T221933/b19e6ac6-8b81-44f9-8706-a1116ca81a3d_750x422.jpg",
       "category": "nation-world"
     }
