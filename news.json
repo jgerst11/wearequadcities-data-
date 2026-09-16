@@ -1,16 +1,126 @@
 {
-  "updated": "2026-09-15T22:44:43.635495+00:00",
+  "updated": "2026-09-16T03:47:16.634039+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Showers/Storms for parts of the area late tonight.",
+      "headline": "Showers/Storms for most of the area late tonight.",
       "summary": "Focusing areas near the Quad Cities and points south",
       "url": "https://www.wqad.com/article/weather/moline-davenport-rock-island-bettendorf-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204",
-      "time": "2 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ec066286-9e36-459a-8cb4-c238b6c57ac8/20260915T222625/ec066286-9e36-459a-8cb4-c238b6c57ac8_750x422.jpg",
+      "time": "15 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/0eba5c6f-b60b-4166-885a-e61970ea6bd8/20260916T032645/0eba5c6f-b60b-4166-885a-e61970ea6bd8_750x422.jpg",
       "category": "weather"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "How you can help birds migrating at night find their way through the Quad Cities",
+      "summary": "River Action is turning off the lights on the Centennial Bridge until November so migrating birds don't get lost.",
+      "url": "https://www.wqad.com/article/news/local/how-you-can-help-birds-migrating-night-find-way-quad-cities/526-f1945f3d-63b5-458b-a050-6ab63e41e78d",
+      "time": "16 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bfc67cf6-b2fb-49b4-a539-58e2179f87b2/20260916T031816/bfc67cf6-b2fb-49b4-a539-58e2179f87b2_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2026 Iowa Climate Statement urges expansion of renewable energy as electricity grid demand grows",
+      "summary": "The statement names artificial intelligence (AI) data centers as a primary reason for increased electricity demand.",
+      "url": "https://www.wqad.com/article/tech/science/environment/2026-iowa-climate-statement-renewable-energy-increased-electricity-demand-ai-data-centers/526-94c3b69f-3549-473b-8978-bc390ace88a0",
+      "time": "17 min ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/d343f02a-1dde-4b78-9ade-6a7e578d87de/d343f02a-1dde-4b78-9ade-6a7e578d87de_750x422.jpg",
+      "category": "environment"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Cirque Alice' will bring show to Vibrant Arena, Moline",
+      "summary": "ICON LIVE has announced the North American tour for \"Cirque Alice,\" a new theatrical cirque spectacular that re-imagines \"Alice's Adventures in Wonderland\" thro…",
+      "url": "https://www.ourquadcities.com/news/local-news/cirque-alice-will-bring-show-to-vibrant-arena-moline/",
+      "time": "21 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Cirque-Alice-2.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "The Quad Cities River Bandits are your 2026 Midwest League Champions!",
+      "summary": "The Bandits took home the crown with a 2-1 win against the Dayton Dragons.",
+      "url": "https://www.wqad.com/article/sports/local-sports/quad-cities-river-bandits-win-2026-midwest-league-championship/526-0e33fe2c-6df9-4a89-a566-39a0730fc25c",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fb8c22cf-6bd8-4bc1-b201-1692f40f137e/20260916T022942/fb8c22cf-6bd8-4bc1-b201-1692f40f137e_750x422.jpg",
+      "category": "local-sports"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA nonprofits receive $500,000 through QC Community Foundation grant program",
+      "summary": "Thirty-six local nonprofits will receive more than $500,000 through the Quad Cities Community Foundation’s 2026 Operations and Program Grants, providing support…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-nonprofits-receive-500000-through-qc-community-foundation-grant-program/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Quad-Cities-Community-Foundation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Run/walk for mental health awareness scheduled in Muscatine",
+      "summary": "The fifth annual NextGen 5K Run/Walk for Mental Health Awareness will be held Saturday, Sept. 19, at NextGen Motors, 310 Cleveland St., in Muscatine. More than …",
+      "url": "https://www.ourquadcities.com/news/local-news/run-walk-for-mental-health-awareness-scheduled-in-muscatine/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man accused of murdering Trudy Appleby clashes with judge during latest court hearing",
+      "summary": "Jamison Fisher returned to a Henry County courtroom Tuesday, where a judge admonished him about discussing his case and filing motions without his attorneys.",
+      "url": "https://www.wqad.com/article/news/crime/trudy-appleby/trudy-appleby-murder-suspect-jamison-fisher-court-hearing-september-15-2026/526-c9540807-6444-4269-bf00-365bb85e2cdb",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/972f71dc-bfd2-44cd-8bba-2f4c2a8138a8/20260915T225057/972f71dc-bfd2-44cd-8bba-2f4c2a8138a8_750x422.jpg",
+      "category": "trudy-appleby"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘Illinois remembers’: State, local leaders reflect on Midway Blitz 1 year later",
+      "summary": "Pritzker says it’s ‘near impossible’ to complete investigation into federal ICE shooting without cooperation from feds.",
+      "url": "https://www.wqad.com/article/news/state/illinois-state-local-leaders-reflect-midway-blitz-1-year-later-capitol-news/526-d1059604-3d6a-46b6-a44d-ece497de47ab",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/afc3a2ca-5693-4d0c-b5d0-b3992bf529e8/20260915T234441/afc3a2ca-5693-4d0c-b5d0-b3992bf529e8_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "YWCA Quad Cities diaper drive responds to growing demand",
+      "summary": "The center distributed about 68,000 diapers in August alone. Families can receive 50 diapers per child each week.",
+      "url": "https://www.wqad.com/article/news/local/ywca-quad-cities-diaper-drive-growing-demand-response/526-42c84f12-0a4b-4352-96e1-f4e76c1ebe23",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/697c63f8-a56d-4e0f-a2e2-05ac12c3afc0/20260915T233000/697c63f8-a56d-4e0f-a2e2-05ac12c3afc0_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Blues Fest returns to Davenport with 2 days of live music",
+      "summary": "This year, anyone 25 and younger will get in for free for the Sept. 18 and 19 concert. This year's lineup includes Grammy nominees and international stars.",
+      "url": "https://www.wqad.com/article/news/local/the-current/blues-fest-mississippi-valley-society-sept-18-19-tickets-jazz-under-25-years-old-free-admission-lineup/526-e6b77847-97c9-409d-9c5c-3ffbd743f457",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/8ed92f59-9a42-4819-8f99-c3d5dabf9808/8ed92f59-9a42-4819-8f99-c3d5dabf9808_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
@@ -19,119 +129,9 @@
       "headline": "Winner of $1.04 billion Powerball jackpot claims prize in Illinois",
       "summary": "An anonymous Illinois player has claimed the $1.04 billion Powerball jackpot from the Aug. 12 drawing, ending weeks of speculation.",
       "url": "https://www.wqad.com/article/news/nation-world/winner-of-1-billion-powerball-jackpot-claims-prize-illinois/507-69cc92d3-438d-4d4b-92c2-95b42333b217",
-      "time": "18 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/b19e6ac6-8b81-44f9-8706-a1116ca81a3d/20260915T221933/b19e6ac6-8b81-44f9-8706-a1116ca81a3d_750x422.jpg",
       "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline Police Department pausing Flock license plate reader contract",
-      "summary": "MPD said that while the technology has been a valuable resource for the department, its public safety value does not outweigh maintaining public confidence.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/moline-police-department-flock-license-plate-reader-contract-paused/526-1785bc82-6d4b-4245-aba5-a9c1f1b52217",
-      "time": "35 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e363dde1-d2dd-4149-85b8-3160d5320988/20260915T172641/e363dde1-d2dd-4149-85b8-3160d5320988_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Support mental health programs at NAMIWalks Greater Mississippi Valley",
-      "summary": "You can raise awareness, reduce stigma and support mental health programs throughout our region and help ensure no one faces mental health challenges alone. Bro…",
-      "url": "https://www.ourquadcities.com/news/local-news/support-mental-health-programs-at-namiwalks-greater-mississippi-valley/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_dd50a7.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Western Illinois University cuts ribbon on new performing arts center",
-      "summary": "The Goldfarb Center for Performing Arts contains 100,000 square feet of performance, rehearsal and teaching space.",
-      "url": "https://www.wqad.com/article/news/local/western-illinois-university-goldfarb-performing-arts-center-debut-ribbon-cutting/526-71e5b2c7-e310-4ed6-bfa9-c8bb1392ead9",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cece5951-dcbc-4ed6-b99d-79ce0152ff46/20260915T210520/cece5951-dcbc-4ed6-b99d-79ce0152ff46_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jamison Fisher in court for hearing on pro se motions",
-      "summary": "Jamison appeared in Henry County Court in Cambridge on Sept. 15 for a hearing on pro se motions that he filed in his case in connection with the death of 11 yea…",
-      "url": "https://www.ourquadcities.com/news/local-news/jamison-fisher-in-court-for-hearing-on-pro-se-motions/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Jamison-Fisher-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'Unprecedented growth in electricity demand' - Iowa Climate Statement",
-      "summary": "The 16th annual Iowa Climate Statement, which addresses the increase in demand for electricity, was released earlier today. The statement has been endorsed by 1…",
-      "url": "https://www.ourquadcities.com/news/local-news/unprecedented-growth-in-electricity-demand-iowa-climate-statement/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/Clinton-City-Council-discusses-bringing-a-potential-data-center-to-city-limits.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois Legislative Ethics Commission names acting inspector general",
-      "summary": "David Risley has served as an investigator and ethics advisor.",
-      "url": "https://www.wqad.com/article/news/politics/ethics-commission-names-acting-inspector-general/526-0146bb08-2c02-4493-a73b-49fe74e63a8c",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/be85d9cf-2a42-4c79-9076-904ad2ddd031/20260915T174957/be85d9cf-2a42-4c79-9076-904ad2ddd031_750x422.jpg",
-      "category": "politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "‘Huge step forward’: Illinois inches closer on battery storage, solar goals",
-      "summary": "The first procurement generates excitement for the future, despite falling below target.",
-      "url": "https://www.wqad.com/article/news/state/illinois-inches-closer-battery-storage-solar-goals-capitol-news/526-90257815-16af-4760-becc-c73731b86ef6",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d0440bb5-bd42-4d08-b205-421c864ba88d/20260914T210931/d0440bb5-bd42-4d08-b205-421c864ba88d_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Moline Police Department ending Flock Safety contract",
-      "summary": "Another Quad Cities police department is ending its fixed Automated License Plate Reader (ALPR) contract with Flock Safety. A news release from the Moline Polic…",
-      "url": "https://www.ourquadcities.com/news/local-news/moline-police-department-ending-flock-safety-contract/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/License_Plate_Cameras_Regulations_26015655012732-e1785758830432.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "East Moline Greater Downtown Revitalization Project enters final stretch",
-      "summary": "Work on the project continues through the end of 2026, bringing new streets and improvements while businesses navigate construction.",
-      "url": "https://www.wqad.com/article/news/local/east-moline-greater-downtown-revitalization-project-final-stretch/526-02bc566a-635e-4c8f-9a64-f8d12cdf4c16",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/48f35399-eee9-45ba-988d-af856f4e888d/20260914T220713/48f35399-eee9-45ba-988d-af856f4e888d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf events will close roads, impact drivers",
-      "summary": "Three local traditions taking place in the next couple of weeks may impact drivers in Bettendorf. The Pleasant Valley High School Homecoming Parade takes place …",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-events-will-close-roads-impact-drivers/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Bettendorf.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
