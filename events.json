@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T10:27:09.889352+00:00",
+  "generated": "2026-09-16T15:43:50.359522+00:00",
   "total": 30,
   "events": [
     {
@@ -179,22 +179,6 @@
       "source": "visitquadcities.com"
     },
     {
-      "id": "vqc_0db0d688090f",
-      "name": "Bettendorf Parks and Recreation Safely Home Alone",
-      "start": "2026-09-17",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=13267&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
       "id": "eb_a9cd1b8438b1",
       "name": "Argrow’s 9th Annual Gala: Shimmering Hope",
       "start": "2026-09-17",
@@ -209,6 +193,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189539426%2F2862455032931%2F1%2Foriginal.20260724-104850?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8f5802957399c535794cc8aa277c0a12",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_2998dc925c8c",
+      "name": "Celebration Belle Captains Dinner Cruise",
+      "start": "2026-09-18",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13197&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "vqc_dad044f2b891",
