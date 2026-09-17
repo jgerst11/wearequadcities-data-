@@ -1,26 +1,59 @@
 {
-  "updated": "2026-09-17T16:26:55.539436+00:00",
+  "updated": "2026-09-17T22:42:40.984977+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "'Team Up to Fill Up' from United Way of West Central Illinois collects food for pantries in 4 area counties",
-      "summary": "United Way of West Central Illinois and local food pantries in Henderson, Knox, Mercer and Warren counties are holding Team Up to Fill Up, the inaugural student…",
-      "url": "https://www.ourquadcities.com/news/local-news/team-up-to-fill-up-from-united-way-of-west-central-illinois-collects-food-for-pantries-in-4-area-counties/",
-      "time": "52 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/12/United-Way-of-West-Central-Illinois.jpg?w=900",
+      "headline": "Section of Muscatine County road will close to traffic for paving project",
+      "summary": "Beginning Tuesday, September 22, 230th Street (G28) between Iowa Highway 70 and the intersection of Atwood Avenue will be closed to traffic for a PCC paving pro…",
+      "url": "https://www.ourquadcities.com/news/local-news/section-of-muscatine-county-road-will-close-to-traffic-for-paving-project/",
+      "time": "12 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/AP578795653006.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "WIU to highlight new emergency operations center with ribbon cutting",
+      "summary": "Western Illinois University in Macomb is holding a ribbon cutting ceremony for a new state-of-the-art emergency operations center.",
+      "url": "https://www.wqad.com/article/news/education/wiu-new-emergency-operations-center/526-8c05fef2-628c-45bd-b87d-835452f37503",
+      "time": "43 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78/20260917T204720/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78_750x422.jpg",
+      "category": "education"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Morrison provides update on U. S. Route 30 reconstruction project",
+      "summary": "The City of Morison has provided an update about the Illinois Department of Transportation's ongoing U. S. Route 30 reconstruction project through Morrison: \"ID…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-morrison-provides-update-on-u-s-route-30-reconstruction-project/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/04/City-of-Morrison.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "AccelerateVQC will explore how e-bikes can create connected communities",
-      "summary": "Visit Quad Cities will host its next \"AccelerateVQC, Pedaling Forward - How Cycling and E-Bikes Create Connected Communities,\" on Tuesday, Sept. 22. The event, …",
-      "url": "https://www.ourquadcities.com/news/local-news/acceleratevqc-will-explore-how-e-bikes-can-create-connected-communities/",
+      "headline": "1 airlifted to Iowa City after bicycle/vehicle crash in Rock Island",
+      "summary": "One person was airlifted to Iowa City after a crash between a vehicle and a bicyclist in Rock Island this afternoon. An email from the Rock Island Police Depart…",
+      "url": "https://www.ourquadcities.com/news/local-news/1-airlifted-to-iowa-city-after-bicycle-vehicle-crash-in-rock-island/",
       "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/ebike.png?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/crash-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Big Brothers Big Sisters of the Mississippi Valley hosts cleanup day",
+      "summary": "Big Brothers Big Sisters of the Mississippi Valley brought volunteers to Sylvan Island for some cleanup work. High school students and families, Big Brothers Bi…",
+      "url": "https://www.ourquadcities.com/news/local-news/big-brothers-big-sisters-of-the-mississippi-valley-hosts-cleanup-day/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_2ba5de.png?w=900",
       "category": "Local News"
     },
     {
@@ -30,20 +63,20 @@
       "headline": "Apples, German beer, and pickles: Here's Dani's Weekend Rundown for Sept. 17-23",
       "summary": "There's a lot happening around the Quad Cities this weekend. Whether you take the family or make it a date night, here's what you shouldn't miss.",
       "url": "https://www.wqad.com/article/entertainment/events/danis-weekend-rundown-sept-17-to-sept-23-wqad-news-8/526-e30a934e-af2b-41f3-9ad3-c789f6111487",
-      "time": "2 h ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/1d7b8b97-109a-4446-a9ab-276beaff577c/20240909T214810/1d7b8b97-109a-4446-a9ab-276beaff577c_750x422.jpg",
       "category": "events"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Registration opens for QC Corporate Games",
-      "summary": "Registration is now open for the seventh annual Quad Cities Corporate Games (QCCG), a project of the Iowa Sports Foundation in partnership with Visit Quad Citie…",
-      "url": "https://www.ourquadcities.com/news/local-news/registration-opens-for-qc-corporate-games/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_74430b.png?w=900",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pay It Forward: Quad Cities woman helps find homes for dozens of cats",
+      "summary": "Amanda Casterton helps cats find homes and gives hope to people in need, with a $300 Pay It Forward gift helping support her work with Animal Aid.",
+      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-wqad-quad-cities-woman-finds-homes-cats/526-04de2f2d-1109-414f-9680-69a61e7da4e1",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c687aee0-9aa1-41ba-ab17-b537d48ffec6/20260917T154317/c687aee0-9aa1-41ba-ab17-b537d48ffec6_750x422.jpg",
+      "category": "pay-it-forward"
     },
     {
       "source": "WQAD",
@@ -52,7 +85,7 @@
       "headline": "Vice President JD Vance to speak at Iowa midterm rally Friday",
       "summary": "Vice President JD Vance will visit Council Bluffs this Friday to speak at a midterm rally. Iowa gubernatorial candidate Zach Lahn is set to attend with him.",
       "url": "https://www.wqad.com/article/news/politics/jd-vance-iowa-council-bluffs-midterm-rally-zach-lahn/524-6b630fa7-2e21-40b3-9f3a-275ef5599f94",
-      "time": "3 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/ad29c292-e829-47f6-bc42-29a7f4e35e5e/20260910T125248/ad29c292-e829-47f6-bc42-29a7f4e35e5e_750x422.jpg",
       "category": "politics"
     },
@@ -63,7 +96,7 @@
       "headline": "Iowa delegation split on war powers vote",
       "summary": "One political expert tells our Des Moines sister station it's not uncommon to switch positions right before an election.",
       "url": "https://www.wqad.com/article/news/politics/iowa-war-powers-vote-zach-nunn-mariannette-miller-meeks-iran/524-68a27f94-8a5f-41a8-ba4e-d03c37468f24",
-      "time": "3 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/a8db656e-b8aa-4f62-a033-ff93da41d77f/20260916T142134/a8db656e-b8aa-4f62-a033-ff93da41d77f_750x422.jpg",
       "category": "politics"
     },
@@ -74,63 +107,30 @@
       "headline": "Iowa creates $25M consumer restitution fund for Meta settlement",
       "summary": "Iowa will receive nearly $126.5 million, a fraction of the $17 billion to be distributed among the 47 states that filed suit against the tech giant.",
       "url": "https://www.wqad.com/article/tech/iowa-meta-settlement-consumer-restitution-fund-school-resource-officers/524-e1fc314e-1438-4a38-8a11-2a2c31f73d87",
-      "time": "3 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/KFSM/images/4fb848c2-830a-49b4-872b-f04db896258a/20260827T123536/4fb848c2-830a-49b4-872b-f04db896258a_750x422.jpg",
       "category": "tech"
     },
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Things to do in the Quad-Cities: Riverssance, Blues Fest and other weekend events",
-      "summary": "Events this weekend include the Riverssance Festival of Fine Art, the Mississippi Valley Blues Fest, Harmony Fest and more.",
-      "url": "https://qctimes.com/life-entertainment/local/events/article_d950458a-3263-41b7-bccb-7f40179a2463.html",
-      "time": "5 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/62/1620106c-498a-589f-9700-b540408d4652/5f31b51828642.image.jpg?resize=300%2C192",
-      "category": ""
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "North Scott employee named fine arts administrator of the year",
-      "summary": "North Scott High School’s Jason Schroeder has been named fine arts administrator of the year. According to a release, Schroeder, activities director for North S…",
-      "url": "https://www.ourquadcities.com/news/local-news/north-scott-employee-named-fine-arts-administrator-of-the-year/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c2f7e1.png?w=900",
+      "headline": "Centenarians at Hammond-Henry Long Term Care Living Center are rooted in Geneseo history",
+      "summary": "The history of small towns is usually rich but sometimes forgotten. At Hammond-Henry Hospital in Geneseo, several people in their long-term living center can sp…",
+      "url": "https://www.ourquadcities.com/news/local-news/centenarians-at-hammond-henry-long-term-care-living-center-are-rooted-in-geneseo-history/",
+      "time": "23 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_d21746.png?w=900",
       "category": "Local News"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former salaried employees suing John Deere over severance payments",
-      "summary": "Two former employees are accusing Deere of intentionally changing how performance reviews work to avoid paying the amount of severance they earned.",
-      "url": "https://www.wqad.com/article/news/local/john-deere-lawsuit-severance-payments-sallaried-employees/526-67d333c2-6092-49b5-be4c-c88bb3ddf949",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/25b1428c-4ce4-438b-ae1e-79d634a7966b/20260917T030613/25b1428c-4ce4-438b-ae1e-79d634a7966b_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man with dementia reported missing from Farmington, Illinois",
-      "summary": "According to police, David \"Barry\" Coulter's wife last saw him in their home's kitchen around 3 a.m. Tuesday.",
-      "url": "https://www.wqad.com/article/news/local/man-reported-missing-farmington-illinois/526-536b73cc-e392-4d93-b04f-a4a263016142",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d2ce07b6-e91c-497c-bf62-48667a110928/20260916T215456/d2ce07b6-e91c-497c-bf62-48667a110928_750x422.jpg",
-      "category": "local"
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "UnityPoint Health-Trinity heart experts first in the QC to use new AFib technology",
-      "summary": "UnityPoint Health - Trinity Heart Center has become the first health system in the Quad Cities to use a new FDA-approved technology to treat patients with atria…",
-      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-heart-experts-first-in-the-quad-cities-to-new-afib-technology/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/UnityPoint.jpg?w=893",
+      "headline": "Infiltrator Water Technologies plans new Davenport facility",
+      "summary": "Infiltrator Water Technologies, a leading manufacturer of products for the decentralized wastewater industry, plans to develop a new manufacturing facility dedi…",
+      "url": "https://www.ourquadcities.com/news/local-news/infiltrator-water-technologies-plans-new-davenport-facility/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_cadbfd.png?w=900",
       "category": "Local News"
     }
   ]
