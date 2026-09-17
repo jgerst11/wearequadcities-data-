@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-16T22:41:24.229236+00:00",
+  "updated": "2026-09-17T03:52:28.161654+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "NextGen 5K Run/Walk for Mental Health Awareness returns to Muscatine on Sept. 19",
-      "summary": "The 5th annual NextGen 5K Run/Walk for Mental Health Awareness will return to Muscatine on Saturday, Sept. 19.",
-      "url": "https://www.wqad.com/article/entertainment/events/nextgen-5k-returns-to-muscatine/526-50800fcc-b1d4-45a5-a38e-447f26a16c2c",
-      "time": "6 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f8f7e118-f9a7-45df-8f11-1cc2b0617ddc/20260916T214304/f8f7e118-f9a7-45df-8f11-1cc2b0617ddc_750x422.jpg",
-      "category": "events"
+      "headline": "Former salaried employees suing John Deere over severance payments",
+      "summary": "Two former employees are accusing Deere of intentionally changing how performance reviews work to avoid paying the amount of severance they earned.",
+      "url": "https://www.wqad.com/article/news/local/john-deere-lawsuit-severance-payments-sallaried-employees/526-67d333c2-6092-49b5-be4c-c88bb3ddf949",
+      "time": "32 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/25b1428c-4ce4-438b-ae1e-79d634a7966b/20260917T030613/25b1428c-4ce4-438b-ae1e-79d634a7966b_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WQAD",
@@ -19,9 +19,108 @@
       "headline": "Man with dementia reported missing from Farmington, Illinois",
       "summary": "According to police, David \"Barry\" Coulter's wife last saw him in their home's kitchen around 3 a.m. Tuesday.",
       "url": "https://www.wqad.com/article/news/local/man-reported-missing-farmington-illinois/526-536b73cc-e392-4d93-b04f-a4a263016142",
-      "time": "34 min ago",
+      "time": "40 min ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d2ce07b6-e91c-497c-bf62-48667a110928/20260916T215456/d2ce07b6-e91c-497c-bf62-48667a110928_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UnityPoint Health-Trinity heart experts first in the QC to use new AFib technology",
+      "summary": "UnityPoint Health - Trinity Heart Center has become the first health system in the Quad Cities to use a new FDA-approved technology to treat patients with atria…",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-heart-experts-first-in-the-quad-cities-to-new-afib-technology/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/UnityPoint.jpg?w=893",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "FestivALL Muscatine will take over 2nd Street",
+      "summary": "Downtown Muscatine will transform into a full‑scale festival zone as FestivALL Muscatine takes over Second Street on Saturday, Sept. 19, from 1-7 p.m. Hosted by…",
+      "url": "https://www.ourquadcities.com/news/local-news/festivall-muscatine-will-take-over-2nd-street-in-muscatine/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline school staff launch free community meals to fight food insecurity",
+      "summary": "The first free meal will be Sept. 24 for any family in the Moline-Coal Valley School District. It's tied in with the free Maroon Market at the high school.",
+      "url": "https://www.wqad.com/article/news/local/the-current/feed-moline-maroon-market-free-community-meal-food-insecurity-donate-businesses-families/526-23939b94-4e8e-4b93-9054-bd2b90cd24e6",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe81cd78-bded-463f-b097-6d1757db516b/20260916T232107/fe81cd78-bded-463f-b097-6d1757db516b_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "NEST Cafe harvest meal fundraiser set for Sept. 30 in East Moline",
+      "summary": "The fundraiser helps raise about a tenth of NEST's annual budget at a time when demand for food is only growing. NEST is the QC's only pay-what-you-can restaura…",
+      "url": "https://www.wqad.com/article/news/local/the-current/nest-cafe-harvest-dinner-fundraiser-tickets-sign-up-sponsor-pay-what-you-can-increased-need/526-cfd553aa-8a56-45e2-9ca6-3c1585054c16",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b804d79c-c94d-4ac4-978e-cdf7d38e953f/20250415T163344/b804d79c-c94d-4ac4-978e-cdf7d38e953f_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa Quad Cities communities work to restore Duck Creek flood monitoring",
+      "summary": "Several Iowa communities are working to install 10 stream sensors along Duck Creek after a river gauge was removed in 2025.",
+      "url": "https://www.wqad.com/article/weather/duck-creek-flood-monitoring-quad-cities-restoration-efforts/526-9de92b99-b1ae-40a9-88f3-1ed04fa6a49e",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/8faca3c3-3df3-4b6c-ba08-3894ceec447d/20260916T233237/8faca3c3-3df3-4b6c-ba08-3894ceec447d_750x422.jpg",
+      "category": "weather"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "15 cultural groups form Muscatine Cultural Alliance",
+      "summary": "More than 15 cultural organizations have united as the Muscatine Cultural Alliance. Dedicated to the performing and visual arts, place-making, and our local his…",
+      "url": "https://www.ourquadcities.com/news/local-news/15-cultural-groups-form-muscatine-cultural-alliance/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Muscatine.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Flood Watch for Quad Cities early Thursday",
+      "summary": "Another round of heavy rain is looking likely for the Quad Cities late Wednesday night and early Thursday. 1-2\" of rain could fall and some flooding is not out …",
+      "url": "https://www.ourquadcities.com/news/local-news/flood-watch-for-quad-cities-early-thursday/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/flood-watch.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Centenarians at Hammond-Henry Long Term Care Living Center are rooted in Geneseo history",
+      "summary": "The history of small towns is usually rich but sometimes forgotten. At Hammond-Henry Hospital in Geneseo, several people in their long-term living center can sp…",
+      "url": "https://www.ourquadcities.com/news/local-news/centenarians-at-hammond-henry-long-term-care-living-center-are-rooted-in-geneseo-history/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_d21746.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "NextGen 5K Run/Walk for Mental Health Awareness returns to Muscatine on Sept. 19",
+      "summary": "The 5th annual NextGen 5K Run/Walk for Mental Health Awareness will return to Muscatine on Saturday, Sept. 19.",
+      "url": "https://www.wqad.com/article/entertainment/events/nextgen-5k-returns-to-muscatine/526-50800fcc-b1d4-45a5-a38e-447f26a16c2c",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f8f7e118-f9a7-45df-8f11-1cc2b0617ddc/20260916T214304/f8f7e118-f9a7-45df-8f11-1cc2b0617ddc_750x422.jpg",
+      "category": "events"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,96 +129,8 @@
       "headline": "Infiltrator Water Technologies plans new Davenport facility",
       "summary": "Infiltrator Water Technologies, a leading manufacturer of products for the decentralized wastewater industry, plans to develop a new manufacturing facility dedi…",
       "url": "https://www.ourquadcities.com/news/local-news/infiltrator-water-technologies-plans-new-davenport-facility/",
-      "time": "53 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_cadbfd.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Take a tour through history at the Hamburg Historic Home Tour",
-      "summary": "Take a tour through history in Davenport's Hamburg Historic District. Marion Meginnis joined Our Quad Cities News with details on the Hamburg Historic District …",
-      "url": "https://www.ourquadcities.com/news/local-news/take-a-tour-through-history-at-the-hamburg-historic-home-tour/",
-      "time": "56 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_7b760b.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-225/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Crime-Stoppers-Sherry-Gray-Michael-Nelson-Mug-shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jesse Ray receives Corps of Engineers Planning Excellence Award",
-      "summary": "A Rock Island resident is being honored by the U.S. Army Corps of Engineers with its Planning Excellence Award. St. Paul District environmental specialist Jesse…",
-      "url": "https://www.ourquadcities.com/news/local-news/jesse-ray-receives-corps-of-engineers-planning-excellence-award/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Jesse-Ray-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 injured, 1 airlifted after Dubuque County crash on Wednesday morning",
-      "summary": "According to an Iowa State Patrol crash report, a 2013 Ford Edge was traveling south on Cox Springs Road when they failed to yield at the Highway 20 intersectio…",
-      "url": "https://www.wqad.com/article/news/local/dubuque-county-crash-2-injured-1-airlifted/526-2dc7296c-eec9-4964-8efd-93971b8b93ea",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/4cbc1595-5607-4a2c-8636-dfeb451cca23/4cbc1595-5607-4a2c-8636-dfeb451cca23_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf marking Healthiest State Walk with Kiwanis Park events",
-      "summary": "Thousands of Iowans will take a 30 minute walk in three weeks to promote a statewide initiative about being active and connecting with the community. Residents …",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-marking-healthiest-state-walk-with-kiwanis-park-events/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Iowas-Healthiest-State-Initiative-Walk.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa leaders hopeful for high November voter turnout",
-      "summary": "On National Voter Registration Day, Iowa Secretary of State Paul Pate urged voters to register. Experts shared about fluxes in voter efficacy over the years.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-leaders-hopeful-high-november-voter-turnout/524-b1951c16-e22c-4871-9bb2-402e0b0f863f",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ff3eb021-a61e-4a7e-9b7d-acccb1a33735/20260916T001558/ff3eb021-a61e-4a7e-9b7d-acccb1a33735_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa school districts receive funding to buy Iowa food",
-      "summary": "Public and private schools across Iowa are receiving funding to purchase Iowa grown and raised food. Iowa Secretary of Agriculture Mike Naig announced that 125 …",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-school-districts-receive-funding-to-buy-iowa-food/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/Choose-Iowa.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Jamison Fisher in court for hearing on pro se motions",
-      "summary": "Jamison appeared in Henry County Court in Cambridge on Sept. 15 for a hearing on pro se motions that he filed in his case in connection with the death of 11 yea…",
-      "url": "https://www.ourquadcities.com/news/local-news/jamison-fisher-in-court-for-hearing-on-pro-se-motions/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Jamison-Fisher-.jpg?w=489",
       "category": "Local News"
     }
   ]
