@@ -1,16 +1,104 @@
 {
-  "updated": "2026-09-18T08:51:35.882436+00:00",
+  "updated": "2026-09-18T15:59:07.094498+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "How to get relief from fall allergies in Iowa",
-      "summary": "WEST DES MOINES, Iowa -- Cold and flu viruses are spreading as temperatures drop and school resumes. But allergies could also be causing the sniffles this year.…",
-      "url": "https://www.ourquadcities.com/news/local-news/how-to-get-relief-from-fall-allergies-in-iowa/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/03/woman-sneezing-into-tissue-allergies-GettyImages-1366554108-e1772831521324.jpg?w=900",
+      "headline": "The Heart of the Story: A range of mentoring",
+      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
+      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-a-range-of-mentoring/",
+      "time": "20 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_6bc827.png?w=900",
+      "category": "The Heart of the Story"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pedestrian struck by vehicle on Avenue of the Cities in Moline",
+      "summary": "The Moline Police Department responded to a traffic crash involving a pedestrian Thursday evening.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/pedestrian-struck-by-vehicle-on-avenue-of-the-cities-in-moline/526-51a80d4b-12f4-426e-9560-7b58afb58250",
+      "time": "50 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bad7d953-7f48-43f8-846f-3ef4fb9eb014/20260918T124148/bad7d953-7f48-43f8-846f-3ef4fb9eb014_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Agriculture in the Classroom looks to inspire next generation of farmers and innovators",
+      "summary": "To end the school week, third grade students in the Davenport Community School District got a moment out of the classroom to learn about lives they may not know…",
+      "url": "https://www.ourquadcities.com/news/local-news/agriculture-in-the-classroom-looks-to-inspire-next-generation-of-farmers-and-innovators/",
+      "time": "52 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Agriculture-in-the-Classroom-looks-to-inspire-next-generation-of-farmers-and-innovators.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "One hospitalized after Moline pedestrian/vehicle crash",
+      "summary": "A pedestrian was hospitalized after an incident involving a car on Avenue of the Cities in Moline last night. A news release from the Moline Police Department s…",
+      "url": "https://www.ourquadcities.com/news/local-news/one-hospitalized-after-moline-pedestrian-vehicle-crash/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/crash-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Blackhawk Bank & Trust to open east Davenport branch",
+      "summary": "Blackhawk Bank &#38; Trust announced that it has entered into an agreement to acquire the former bank branch property at 3325 West Kimberly Road in Davenport, a…",
+      "url": "https://www.ourquadcities.com/news/local-news/blackhawk-bank-trust-to-open-east-davenport-branch/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/Blackhawk-Bank-Trust.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "A risk of severe weather to start the weekend",
+      "summary": "After what has already been a very wet week in the Quad Cities, we still have more rain on the way for us. To start the weekend, more showers and thunderstorms …",
+      "url": "https://www.ourquadcities.com/news/local-news/a-risk-of-severe-weather-to-start-the-weekend/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker's new ad touts 12 credit upgrades. Bailey's campaign agrees they happened. The fight is over what they mean.",
+      "summary": "The claims in the governor's statewide ad check out. So does the number it leaves out: Illinois still has the lowest credit rating of any state.",
+      "url": "https://www.wqad.com/article/news/local/pritzkers-ad-credit-upgrades-what-they-mean/63-d36ed2f0-af5a-49f9-a04a-4cf2d0cf4da7",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/KSDK/images/b65b537c-a7ea-4ab1-b00d-97543741472b/20260917T202226/b65b537c-a7ea-4ab1-b00d-97543741472b_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa voters to decide on state constitutional amendment limiting income tax increases",
+      "summary": "Iowa voters face a pivotal choice in November: deciding whether to amend the state constitution to require a two-thirds legislative vote to raise income taxes.",
+      "url": "https://www.wqad.com/article/news/politics/elections/iowa-voters-state-constitutional-amendment-limiting-income-tax-increases/524-ad87f54f-10ad-4ce0-ac07-786feec53b2e",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WLTX/images/e04d5c12-63ee-4602-866a-01036904303b/20260605T153920/e04d5c12-63ee-4602-866a-01036904303b_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Gov. Reynolds orders flags at half-staff to honor Ray Gaesser",
+      "summary": "Gaesser was a former president of the Iowa and American Soybean Associations. He died Sept. 5 after a farm accident.",
+      "url": "https://www.wqad.com/article/life/people/iowa-flags-at-half-staff-ray-gaesser/524-d7f9fbb7-02d9-4b26-bcaf-f06adb9c8bc3",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/220e3587-8858-4191-af64-6064c7b007a9/220e3587-8858-4191-af64-6064c7b007a9_750x422.jpg",
+      "category": "people"
     },
     {
       "source": "WQAD",
@@ -19,7 +107,7 @@
       "headline": "Why Moline Police are suspending the department's Flock Safety contract",
       "summary": "Mayor Sangeetha Rayapati says there needs to be a balance between legislation, public sentiment and technology.",
       "url": "https://www.wqad.com/article/news/local/public-safety/why-moline-police-suspending-flock-safety-camera-contract/526-bec13b8f-6afb-4a9a-9609-91da20890091",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/8e1ea6dc-6fd1-4f95-9f40-0dba7deab992/20260918T030455/8e1ea6dc-6fd1-4f95-9f40-0dba7deab992_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,20 +118,9 @@
       "headline": "State of Illinois to help search for new operator of former Tyson Foods plant in Joslin",
       "summary": "Officials with the governor's office said resources from the Invest in Illinois Fund will be offered to help incentivize a new buyer.",
       "url": "https://www.wqad.com/article/news/local/illinois-help-former-tyson-foods-plant-joslin-new-operator-search/526-bb7b5bf1-e84e-4a27-a658-d34045912ba7",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/198c7400-d63c-4397-aa7d-1d0458a0647e/20260815T030933/198c7400-d63c-4397-aa7d-1d0458a0647e_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Clinton Symphony will open season with Beethoven's 'Eroica'",
-      "summary": "Beethoven’s Third Symphony, the “Eroica” is the featured work on Clinton Symphony Orchestra’s 73rd season opener. The concert will begin at 7:30 p.m. Saturday, …",
-      "url": "https://www.ourquadcities.com/news/local-news/clinton-symphony-will-open-season-with-beethovens-eroica/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_b3ed7f.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,86 +129,9 @@
       "headline": "Quad Cities early education leaders speak out against potential changes to Head Start",
       "summary": "Proposed federal changes to Head Start could affect language instruction, class sizes and local control, prompting concerns from Quad Cities advocates.",
       "url": "https://www.wqad.com/article/news/education/head-start-proposed-rule-federal-government-trump-administration-changes-quad-cities-leaders/526-d9c45392-4039-48a6-a5e2-62851336ad54",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a/20260917T234017/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a_750x422.jpg",
       "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "15 Illinois residents filed complaints against Homeland Security for Midway Blitz harms",
-      "summary": "The complaints are the first step to seeking monetary damages from the agency.",
-      "url": "https://www.wqad.com/article/news/state/15-residents-complaints-homeland-security-midway-blitz-capitol-news-illinois/526-418eb84b-0ad1-4700-8700-6244d38f20af",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b935a8be-3e43-49df-a5b7-3be989217245/20260917T233905/b935a8be-3e43-49df-a5b7-3be989217245_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "State of Illinois provides help to attract buyers for former Tyson plant in Joslin",
-      "summary": "Gov. JB Pritzker and the Illinois Department of Commerce and Economic Opportunity (DCEO) on Thursday announced that the State of Illinois is making resources av…",
-      "url": "https://www.ourquadcities.com/news/local-news/state-of-illinois-provides-help-to-attract-buyers-for-former-tyson-plant-in-joslin/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/TysonAP23073555880834-e1746980163434.jpg?w=800",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Choate workers’ union files lawsuit to block state from gutting mental health facility",
-      "summary": "This is the second lawsuit filed since the state announced downsizing plans in July.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/choate-workers-union-lawsuit-block-illinois-gutting-mental-health-facility-capitol-news/526-4bad59e8-6cdd-4459-8500-ac3f5dc06292",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d5f84780-c64a-4278-a016-73dbb3a85ce2/20260917T224605/d5f84780-c64a-4278-a016-73dbb3a85ce2_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities Heart Walk brings people together around CPR, survivors & heart health",
-      "summary": "This year's Heart Walk will be on Saturday, Sept. 19 in Bettendorf and emceed by James Zahara. Here's how your attendance will help save lives.",
-      "url": "https://www.wqad.com/article/news/local/the-current/quad-cities-heart-walk-event-saturday-sept-19-american-heart-association/526-0447d769-6edf-4e00-bf22-2554e7cbe83e",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2408634-6a39-4592-b1f6-a88707f72efb/20260917T222514/c2408634-6a39-4592-b1f6-a88707f72efb_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Section of Muscatine County road will close to traffic for paving project",
-      "summary": "Beginning Tuesday, September 22, 230th Street (G28) between Iowa Highway 70 and the intersection of Atwood Avenue will be closed to traffic for a PCC paving pro…",
-      "url": "https://www.ourquadcities.com/news/local-news/section-of-muscatine-county-road-will-close-to-traffic-for-paving-project/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/AP578795653006.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "WIU to highlight new emergency operations center with ribbon cutting",
-      "summary": "Western Illinois University in Macomb is holding a ribbon cutting ceremony for a new state-of-the-art emergency operations center.",
-      "url": "https://www.wqad.com/article/news/education/wiu-new-emergency-operations-center/526-8c05fef2-628c-45bd-b87d-835452f37503",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78/20260917T204720/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "City of Morrison provides update on U. S. Route 30 reconstruction project",
-      "summary": "The City of Morison has provided an update about the Illinois Department of Transportation's ongoing U. S. Route 30 reconstruction project through Morrison: \"ID…",
-      "url": "https://www.ourquadcities.com/news/local-news/city-of-morrison-provides-update-on-u-s-route-30-reconstruction-project/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/04/City-of-Morrison.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
