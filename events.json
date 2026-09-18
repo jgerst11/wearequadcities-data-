@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T10:12:42.407315+00:00",
+  "generated": "2026-09-18T15:23:27.453452+00:00",
   "total": 30,
   "events": [
     {
@@ -115,22 +115,6 @@
       "source": "visitquadcities.com"
     },
     {
-      "id": "vqc_682cca894fd4",
-      "name": "Pints for Preservation",
-      "start": "2026-09-18",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=12974&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
-    {
       "id": "eb_71cf30d71912",
       "name": "Autistic & Loved Foundation 1st Annual Gala: Celebrating Our Amazing Brains",
       "start": "2026-09-18",
@@ -145,6 +129,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189761769%2F2862455032931%2F1%2Foriginal.20260728-051316?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=27b3f2698f33dd2867593d12adf900e9",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_d0649f12406e",
+      "name": "Bettendorf Parks and Recreation Play Golf Better Together",
+      "start": "2026-09-19",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13269&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "vqc_1305e6083775",
