@@ -1,6 +1,39 @@
 {
-  "updated": "2026-09-18T19:00:19.195518+00:00",
+  "updated": "2026-09-18T22:21:55.636941+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities early education leaders speak out against potential changes to Head Start",
+      "summary": "Proposed federal changes to Head Start could affect language instruction, class sizes and local control, prompting concerns from Quad Cities advocates.",
+      "url": "https://www.wqad.com/article/news/education/head-start-proposed-rule-federal-government-trump-administration-changes-quad-cities-leaders/526-d9c45392-4039-48a6-a5e2-62851336ad54",
+      "time": "14 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a/20260917T234017/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a_750x422.jpg",
+      "category": "education"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Greater Muscatine Chamber will present Pearl City Vintage Market",
+      "summary": "The Greater Muscatine Chamber of Commerce &#38; Industry will present the sixth annual Pearl City Vintage Market along Muscatine’s Riverfront from 10 a.m.-3 p.m…",
+      "url": "https://www.ourquadcities.com/news/local-news/greater-muscatine-chamber-will-present-pearl-city-vintage-market/",
+      "time": "54 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Pearl-City-Vintage-Market.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois EPA releases ‘Comprehensive Climate Action Plan’ to reach ‘net zero’ emissions",
+      "summary": "The report calls for new investments and regulations touching nearly all sectors of the state’s economy.",
+      "url": "https://www.wqad.com/article/news/state/illinois-epa-comprehensive-climate-action-plan-capitol-news/526-bee48af3-e9ac-4e48-a7e4-9f4dad9917fd",
+      "time": "57 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b280a294-7248-4928-a250-4c7ceb296f1e/20260918T212202/b280a294-7248-4928-a250-4c7ceb296f1e_750x422.jpg",
+      "category": "state"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,8 +41,19 @@
       "headline": "Davenport 2nd Ward Alderman Tim Dunn resigning",
       "summary": "The resignation is effective immediately, according to city officials.",
       "url": "https://www.wqad.com/article/news/local/davenport-second-ward-alderman-tim-dunn-resignation/526-cf5e2aab-1122-4742-80e8-dc8eb764f12b",
-      "time": "8 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b5438165-b02b-4530-a74c-05ae433ffe5c/20260918T184600/b5438165-b02b-4530-a74c-05ae433ffe5c_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man with dementia reported missing from Farmington, Illinois has been found",
+      "summary": "Several local agencies helped with a multi-day search for the man.",
+      "url": "https://www.wqad.com/article/news/local/man-reported-missing-farmington-illinois/526-536b73cc-e392-4d93-b04f-a4a263016142",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_750x422.jpg",
       "category": "local"
     },
     {
@@ -19,7 +63,7 @@
       "headline": "Tim Dunn resigns as Davenport 2nd ward alderman",
       "summary": "Davenport Alderman Tim Dunn, representing the city’s second ward, submitted his resignation to Mayor Jason Gordon, effective immediately, according to a news re…",
       "url": "https://www.ourquadcities.com/news/local-news/tim-dunn-resigns-at-davenport-2nd-ward-alderman/",
-      "time": "9 min ago",
+      "time": "3 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_ca2ce0.png?w=900",
       "category": "Local News"
     },
@@ -30,7 +74,7 @@
       "headline": "Resurfacing project may reduce lanes on 130th Avenue, Scott County",
       "summary": "Starting Monday, September 21, 130th Avenue in Scott County may be reduced to one lane of traffic between 210th Street and 240th Street for a Hot Mix Asphalt (H…",
       "url": "https://www.ourquadcities.com/news/local-news/resurfacing-project-may-reduce-lanes-on-130th-avenue-scott-county/",
-      "time": "50 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +85,7 @@
       "headline": "New K-9 officer for Rock Island Police Department",
       "summary": "The Rock Island Police Department has a new K-9 officer. A post on the department’s Facebook page says the new K-9, Dex, is a one year old Belgian Malinois from…",
       "url": "https://www.ourquadcities.com/news/local-news/new-k-9-officer-for-rock-island-police-department/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_cb4c43.png?w=900",
       "category": "Local News"
     },
@@ -52,7 +96,7 @@
       "headline": "Pedestrian killed after being hit by a train Thursday night in Davenport",
       "summary": "First responders were called to the intersection of West 5th and Warren Streets just after 8 p.m. on Thursday.",
       "url": "https://www.wqad.com/article/news/local/train-crash-pedestrian-davenport-iowa-west-fifth-warren-street/526-0310f5f8-8576-47c0-9d9a-eb4d26b592e3",
-      "time": "2 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3b7d23f-ff7f-4366-a837-dc228aba0925/20260918T162936/f3b7d23f-ff7f-4366-a837-dc228aba0925_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +107,7 @@
       "headline": "The Heart of the Story: A range of mentoring",
       "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
       "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-a-range-of-mentoring/",
-      "time": "3 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_6bc827.png?w=900",
       "category": "The Heart of the Story"
     },
@@ -74,7 +118,7 @@
       "headline": "Pedestrian struck by vehicle on Avenue of the Cities in Moline",
       "summary": "The Moline Police Department responded to a traffic crash involving a pedestrian Thursday evening.",
       "url": "https://www.wqad.com/article/news/local/public-safety/pedestrian-struck-by-vehicle-on-avenue-of-the-cities-in-moline/526-51a80d4b-12f4-426e-9560-7b58afb58250",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bad7d953-7f48-43f8-846f-3ef4fb9eb014/20260918T124148/bad7d953-7f48-43f8-846f-3ef4fb9eb014_750x422.jpg",
       "category": "public-safety"
     },
@@ -85,53 +129,9 @@
       "headline": "Agriculture in the Classroom looks to inspire next generation of farmers and innovators",
       "summary": "To end the school week, third grade students in the Davenport Community School District got a moment out of the classroom to learn about lives they may not know…",
       "url": "https://www.ourquadcities.com/news/local-news/agriculture-in-the-classroom-looks-to-inspire-next-generation-of-farmers-and-innovators/",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Agriculture-in-the-Classroom-looks-to-inspire-next-generation-of-farmers-and-innovators.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "One hospitalized after Moline pedestrian/vehicle crash",
-      "summary": "A pedestrian was hospitalized after an incident involving a car on Avenue of the Cities in Moline last night. A news release from the Moline Police Department s…",
-      "url": "https://www.ourquadcities.com/news/local-news/one-hospitalized-after-moline-pedestrian-vehicle-crash/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/crash-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "A risk of severe weather to start the weekend",
-      "summary": "After what has already been a very wet week in the Quad Cities, we still have more rain on the way for us. To start the weekend, more showers and thunderstorms …",
-      "url": "https://www.ourquadcities.com/news/local-news/a-risk-of-severe-weather-to-start-the-weekend/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pritzker's new ad touts 12 credit upgrades. Bailey's campaign agrees they happened. The fight is over what they mean.",
-      "summary": "The claims in the governor's statewide ad check out. So does the number it leaves out: Illinois still has the lowest credit rating of any state.",
-      "url": "https://www.wqad.com/article/news/local/pritzkers-ad-credit-upgrades-what-they-mean/63-d36ed2f0-af5a-49f9-a04a-4cf2d0cf4da7",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/b65b537c-a7ea-4ab1-b00d-97543741472b/20260917T202226/b65b537c-a7ea-4ab1-b00d-97543741472b_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa voters to decide on state constitutional amendment limiting income tax increases",
-      "summary": "Iowa voters face a pivotal choice in November: deciding whether to amend the state constitution to require a two-thirds legislative vote to raise income taxes.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-voters-state-constitutional-amendment-limiting-income-tax-increases/524-ad87f54f-10ad-4ce0-ac07-786feec53b2e",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WLTX/images/e04d5c12-63ee-4602-866a-01036904303b/20260605T153920/e04d5c12-63ee-4602-866a-01036904303b_750x422.jpg",
-      "category": "elections"
     }
   ]
 }
