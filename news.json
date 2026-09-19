@@ -1,6 +1,61 @@
 {
-  "updated": "2026-09-19T08:38:01.937922+00:00",
+  "updated": "2026-09-19T15:31:11.721708+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Donate, 'shop' for free art supplies at Rock Island Public Library",
+      "summary": "The Rock Island Public Library will accept gently used or new art and craft items at all library locations now through Sept. 24, a news release says. Donated su…",
+      "url": "https://www.ourquadcities.com/news/local-news/donate-shop-for-free-art-supplies-at-rock-island-public-library/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/art-supplies-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Free vaccine clinic for dogs to be held at St. Anthony's, downtown Davenport",
+      "summary": "The Quad City Animal Welfare Center (QCAWC) and the Humane Society of Scott County are joining together once again to help keep dogs throughout the Quad Cities …",
+      "url": "https://www.ourquadcities.com/news/local-news/free-vaccine-clinic-for-dogs-to-be-held-at-st-anthonys-downtown-davenport/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/Krypto.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Dispose of hazardous waste at East Moline collection event",
+      "summary": "The State of Illinois is hosting Fall Household Hazardous Waste (HHW) one-day collection events this year in eight communities throughout the state. These colle…",
+      "url": "https://www.ourquadcities.com/news/local-news/dispose-of-hazardous-waste-at-east-moline-collection-event/",
+      "time": "2 h ago",
+      "image": "",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cancer Support Community at Gilda's Club to present session on biology of cancer",
+      "summary": "The Cancer Support Community Iowa &#38; NW Illinois at Gilda's Club invites the public to join - in-person or virtually - an informative and supportive workshop…",
+      "url": "https://www.ourquadcities.com/news/local-news/cancer-support-community-at-gildas-club-to-present-session-on-biology-of-cancer/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Free Rock Island sessions help explain Medicare, Social Security",
+      "summary": "\"Understanding Medicare for 2027\" will be offered at two places and times. Insurance specialist Kara Wolf will break down what enrollees need to know before ope…",
+      "url": "https://www.ourquadcities.com/news/local-news/free-rock-island-sessions-help-explain-medicare-social-security/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/01/medicare_06112024_AP_AP24163002550920-e1737119935754.jpg?w=800",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +63,7 @@
       "headline": "Davenport 2nd Ward Alderman Tim Dunn resigning",
       "summary": "The resignation is effective immediately, according to city officials.",
       "url": "https://www.wqad.com/article/news/local/davenport-second-ward-alderman-tim-dunn-resignation/526-cf5e2aab-1122-4742-80e8-dc8eb764f12b",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b5438165-b02b-4530-a74c-05ae433ffe5c/20260918T184600/b5438165-b02b-4530-a74c-05ae433ffe5c_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +74,7 @@
       "headline": "Iowa vs Northern Iowa - Chance for showers and storms Saturday in Iowa City",
       "summary": "It's another big game in Iowa city as the Iowa Hawkeyes host Northern Iowa on Saturday (September 19th.) And it's another day with the chance for showers and st…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-vs-northern-iowa-chance-for-showers-and-storms-saturday-in-iowa-city/",
-      "time": "6 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2293256802.jpg?w=900",
       "category": "Local News"
     },
@@ -30,30 +85,8 @@
       "headline": "Judy's Family Cafe opens new location in Aledo, Illinois",
       "summary": "After becoming a social media star, Judy Wang has been looking to expand her restaurant to cities other than Galesburg. Judy's Family Cafe opened on Friday in A…",
       "url": "https://www.ourquadcities.com/news/local-news/judys-family-cafe-opens-new-location-in-aledo-illinois/",
-      "time": "6 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Judys-Family-Cafe-opens-new-location-in-Aledo-Illinois.jpg?w=800",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Trailblazers in school desegregation will give free presentation in Muscatine",
-      "summary": "Carlotta Walls LaNier of the Little Rock Nine and Dr. Leona Tate of the New Orleans Four are coming to Iowa for three evenings of conversations in October. Six-…",
-      "url": "https://www.ourquadcities.com/news/local-news/trailblazers-in-school-desegregation-will-give-free-presentation-in-muscatine/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Leona-Tate-Carlotta-Walls-LaNier.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Care Animal Center, Davenport, to hold food drive to help QCA shelters, rescues",
-      "summary": "Care Animal Center, 1502 W. Kimberly Road, Davenport, will hold a Furry Friends Food Drive from 8 a.m.-2 p.m. Saturday, Oct. 3, a news release says. The 13th an…",
-      "url": "https://www.ourquadcities.com/news/local-news/care-animal-center-davenport-to-hold-food-drive-to-help-qca-shelters-rescues/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Furry-Friends-Food-Drive.jpg?w=574",
       "category": "Local News"
     },
     {
@@ -63,7 +96,7 @@
       "headline": "Judy's Family Cafe opens 3rd location in Aledo",
       "summary": "The restaurant started as just one cafe in Galesburg and has now grown into three locations, mainly due to its owner's large social media presence.",
       "url": "https://www.wqad.com/article/life/food/judys-family-cafe-aledo-location-opens/526-b6f265dd-2cda-45fa-8fcc-4a764270e8bd",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a7adeff6-d971-434e-800c-4ac3989b9db8/20260919T001105/a7adeff6-d971-434e-800c-4ac3989b9db8_750x422.jpg",
       "category": "food"
     },
@@ -74,7 +107,7 @@
       "headline": "Pedestrian killed after being hit by a train Thursday night in Davenport",
       "summary": "First responders were called to the intersection of West 5th and Warren Streets just after 8 p.m. on Thursday.",
       "url": "https://www.wqad.com/article/news/local/train-crash-pedestrian-davenport-iowa-west-fifth-warren-street/526-0310f5f8-8576-47c0-9d9a-eb4d26b592e3",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3b7d23f-ff7f-4366-a837-dc228aba0925/20260918T162936/f3b7d23f-ff7f-4366-a837-dc228aba0925_750x422.jpg",
       "category": "local"
     },
@@ -85,7 +118,7 @@
       "headline": "Geneseo 10-year-old throws out first pitch at Wrigley Field",
       "summary": "Cubs superfan Callen Moe not only loves watching baseball, he's also a gold-medal-earning adaptive athlete who competes in softball, track, tennis and sled hock…",
       "url": "https://www.wqad.com/article/news/local/the-current/geneseo-10-year-old-throws-first-pitch-cubs-game-wrigley-field-wheelchair-adaptive-athlete/526-eb54ed6e-07d7-4f18-8b15-d1e7806a5bd8",
-      "time": "9 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e2d6538c-65e2-48e4-ad18-e60524e5283e/20260918T231636/e2d6538c-65e2-48e4-ad18-e60524e5283e_750x422.jpg",
       "category": "the-current"
     },
@@ -96,42 +129,9 @@
       "headline": "Getting to Know the Man Behind Knight's Pizza: Caden Knight",
       "summary": "What a year for KNIGHT's PIZZA! Chief Meteorologist Andy McCray talks with familiar faces around the Quad Cities in the Getting to Know Podcast. Learn more abou…",
       "url": "https://www.ourquadcities.com/news/local-news/getting-to-know-the-man-behind-knights-pizza-caden-knight/",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/CADEN-KNIGHT-THUMBNAIL.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities early education leaders speak out against potential changes to Head Start",
-      "summary": "Proposed federal changes to Head Start could affect language instruction, class sizes and local control, prompting concerns from Quad Cities advocates.",
-      "url": "https://www.wqad.com/article/news/education/head-start-proposed-rule-federal-government-trump-administration-changes-quad-cities-leaders/526-d9c45392-4039-48a6-a5e2-62851336ad54",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a/20260917T234017/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois EPA releases ‘Comprehensive Climate Action Plan’ to reach ‘net zero’ emissions",
-      "summary": "The report calls for new investments and regulations touching nearly all sectors of the state’s economy.",
-      "url": "https://www.wqad.com/article/news/state/illinois-epa-comprehensive-climate-action-plan-capitol-news/526-bee48af3-e9ac-4e48-a7e4-9f4dad9917fd",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b280a294-7248-4928-a250-4c7ceb296f1e/20260918T212202/b280a294-7248-4928-a250-4c7ceb296f1e_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man with dementia reported missing from Farmington, Illinois has been found",
-      "summary": "Several local agencies helped with a multi-day search for the man.",
-      "url": "https://www.wqad.com/article/news/local/man-reported-missing-farmington-illinois/526-536b73cc-e392-4d93-b04f-a4a263016142",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_750x422.jpg",
-      "category": "local"
     }
   ]
 }
