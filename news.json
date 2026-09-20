@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-20T03:52:27.507310+00:00",
+  "updated": "2026-09-20T09:08:02.594195+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "After preschool closes, Davenport church holds sale",
+      "summary": "After nearly 50 years, the preschool at St. Mark Lutheran Church, 2363 W. 3rd St., Davenport, is closing, a news release says. Now the preschool items will be s…",
+      "url": "https://www.ourquadcities.com/news/local-news/after-preschool-closes-davenport-church-holds-sale/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/000_best-numberblocks-toy-6dc1bf-2.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "It's 'nothin' but a good time' at Circa '21's 'Rock of Ages' musical",
       "summary": "Wrapping up the Rock Island theater's 49th season of live entertainment, Circa '21 Dinner Playhouse invites audiences to travel back in time to the 1980s in the…",
       "url": "https://www.ourquadcities.com/news/local-news/its-nothin-but-a-good-time-at-circa-21s-rock-of-ages-musical/",
-      "time": "19 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Rock-of-Ages.jpg?w=800",
       "category": "Local News"
     },
@@ -19,7 +30,7 @@
       "headline": "'That was a lot of fun': Hawkeyes run past UNI in 55-0 win",
       "summary": "Iowa had three running backs in Xavier Williams, Nathan McNeil and Braeden Jackson run for more than 100 yards apiece, and the No. 18 Hawkeyes rolled to a 55-0 …",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-run-past-uni-in-55-0-win/",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26262796923079.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -30,7 +41,7 @@
       "headline": "Donate, 'shop' for free art supplies at Rock Island Public Library",
       "summary": "The Rock Island Public Library will accept gently used or new art and craft items at all library locations now through Sept. 24, a news release says. Donated su…",
       "url": "https://www.ourquadcities.com/news/local-news/donate-shop-for-free-art-supplies-at-rock-island-public-library/",
-      "time": "13 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/art-supplies-.jpg?w=900",
       "category": "Local News"
     },
@@ -41,30 +52,8 @@
       "headline": "Free vaccine clinic for dogs to be held at St. Anthony's, downtown Davenport",
       "summary": "The Quad City Animal Welfare Center (QCAWC) and the Humane Society of Scott County are joining together once again to help keep dogs throughout the Quad Cities …",
       "url": "https://www.ourquadcities.com/news/local-news/free-vaccine-clinic-for-dogs-to-be-held-at-st-anthonys-downtown-davenport/",
-      "time": "14 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/Krypto.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Dispose of hazardous waste at East Moline collection event",
-      "summary": "The State of Illinois is hosting Fall Household Hazardous Waste (HHW) one-day collection events this year in eight communities throughout the state. These colle…",
-      "url": "https://www.ourquadcities.com/news/local-news/dispose-of-hazardous-waste-at-east-moline-collection-event/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/hazardous-household-material.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cancer Support Community at Gilda's Club to present session on biology of cancer",
-      "summary": "The Cancer Support Community Iowa &#38; NW Illinois at Gilda's Club invites the public to join - in-person or virtually - an informative and supportive workshop…",
-      "url": "https://www.ourquadcities.com/news/local-news/cancer-support-community-at-gildas-club-to-present-session-on-biology-of-cancer/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -132,6 +121,17 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/CADEN-KNIGHT-THUMBNAIL.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities early education leaders speak out against potential changes to Head Start",
+      "summary": "Proposed federal changes to Head Start could affect language instruction, class sizes and local control, prompting concerns from Quad Cities advocates.",
+      "url": "https://www.wqad.com/article/news/education/head-start-proposed-rule-federal-government-trump-administration-changes-quad-cities-leaders/526-d9c45392-4039-48a6-a5e2-62851336ad54",
+      "time": "1d ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a/20260917T234017/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a_750x422.jpg",
+      "category": "education"
     }
   ]
 }
