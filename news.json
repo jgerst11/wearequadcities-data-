@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-20T22:14:19.378871+00:00",
+  "updated": "2026-09-21T03:49:04.857403+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Heavy rainfall across the region brings evacuation efforts",
+      "summary": "Heavy rainfall brought flood warnings and watches across our region. Flooding in Lee County forced an emergency evacuation at an RV campsite in the area. Our Qu…",
+      "url": "https://www.ourquadcities.com/news/local-news/heavy-rainfall-across-the-region-brings-evacuation-efforts/",
+      "time": "5 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_567725.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Soles for Children event provides clothing and more in Rock Island",
+      "summary": "Families across the Quad Cities are facing rising expenses, prompting Soles for Children to provide shoes and winter clothing at their annual event.",
+      "url": "https://www.wqad.com/article/news/local/soles-children-clothing-shoes-rock-island-11th-annual/526-d5b69f3f-2c1e-4b7e-99b8-01d5f97d28db",
+      "time": "28 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/9a115353-59b1-4900-be44-c696e4978d3e/20260921T031020/9a115353-59b1-4900-be44-c696e4978d3e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "1 dead after Rock Island stabbing",
+      "summary": "26-year-old Shandon A. Babers has been charged with first-degree murder.",
+      "url": "https://www.wqad.com/article/news/local/1-dead-rock-island-stabbing-september-20/526-9b0b2ad1-a485-4281-95a7-9dbfc14e67f8",
+      "time": "33 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b07920d0-e3b2-4564-b07e-2e07e0d0cf6e/20260920T215855/b07920d0-e3b2-4564-b07e-2e07e0d0cf6e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Below average temperatures to start the week",
+      "summary": "After a lot of rain from this past week has caused their own problems here in the Quad Cities, as the rain dries out soon, the temperatures are dropping. Starti…",
+      "url": "https://www.ourquadcities.com/news/local-news/below-average-temperatures-to-start-the-week/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-cooler-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,8 +52,8 @@
       "headline": "Police arrest suspect after fatal Rock Island stabbing",
       "summary": "Rock Island police have arrested a 26-year-old suspect in connection with a fatal stabbing early Sunday, according to a news release. Shortly after 6:15 a.m. Su…",
       "url": "https://www.ourquadcities.com/news/local-news/police-arrest-suspect-after-fatal-rock-island-stabbing/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Shandon-Babers.jpg?w=607",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Shandon-Babers-mug-shot.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,7 +63,7 @@
       "headline": "Iowa farmers make push to break up what they call fertilizer monopoly",
       "summary": "Farmers in Iowa get angry about the rising cost of fertilizer drastically impacting their business. They're certainly not alone. Radio Iowa reports farmers brou…",
       "url": "https://www.ourquadcities.com/news/4-the-record/iowa-farmers-make-push-to-break-up-what-they-call-fertilizer-monopoly/",
-      "time": "6 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/4TR-B-BLOCK.png?w=643",
       "category": "4 The Record"
     },
@@ -27,12 +71,12 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "'That was a lot of fun': Hawkeyes run past UNI in 55-0 win",
-      "summary": "Iowa had three running backs in Xavier Williams, Nathan McNeil and Braeden Jackson run for more than 100 yards apiece, and the No. 18 Hawkeyes rolled to a 55-0 …",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-run-past-uni-in-55-0-win/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26262796923079.jpg?w=900",
-      "category": "Hawkeye Headquarters"
+      "headline": "After preschool closes, Davenport church holds sale",
+      "summary": "After nearly 50 years, the preschool at St. Mark Lutheran Church, 2363 W. 3rd St., Davenport, is closing, a news release says. Now the preschool items will be s…",
+      "url": "https://www.ourquadcities.com/news/local-news/after-preschool-closes-davenport-church-holds-sale/",
+      "time": "23 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/000_best-numberblocks-toy-6dc1bf-2.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -41,7 +85,7 @@
       "headline": "Davenport 2nd Ward Alderman Tim Dunn resigning",
       "summary": "The resignation is effective immediately, according to city officials.",
       "url": "https://www.wqad.com/article/news/local/davenport-second-ward-alderman-tim-dunn-resignation/526-cf5e2aab-1122-4742-80e8-dc8eb764f12b",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b5438165-b02b-4530-a74c-05ae433ffe5c/20260918T184600/b5438165-b02b-4530-a74c-05ae433ffe5c_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +96,7 @@
       "headline": "Judy's Family Cafe opens 3rd location in Aledo",
       "summary": "The restaurant started as just one cafe in Galesburg and has now grown into three locations, mainly due to its owner's large social media presence.",
       "url": "https://www.wqad.com/article/life/food/judys-family-cafe-aledo-location-opens/526-b6f265dd-2cda-45fa-8fcc-4a764270e8bd",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a7adeff6-d971-434e-800c-4ac3989b9db8/20260919T001105/a7adeff6-d971-434e-800c-4ac3989b9db8_750x422.jpg",
       "category": "food"
     },
@@ -63,42 +107,9 @@
       "headline": "Pedestrian killed after being hit by a train Thursday night in Davenport",
       "summary": "First responders were called to the intersection of West 5th and Warren Streets just after 8 p.m. on Thursday.",
       "url": "https://www.wqad.com/article/news/local/train-crash-pedestrian-davenport-iowa-west-fifth-warren-street/526-0310f5f8-8576-47c0-9d9a-eb4d26b592e3",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3b7d23f-ff7f-4366-a837-dc228aba0925/20260918T162936/f3b7d23f-ff7f-4366-a837-dc228aba0925_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Geneseo 10-year-old throws out first pitch at Wrigley Field",
-      "summary": "Cubs superfan Callen Moe not only loves watching baseball, he's also a gold-medal-earning adaptive athlete who competes in softball, track, tennis and sled hock…",
-      "url": "https://www.wqad.com/article/news/local/the-current/geneseo-10-year-old-throws-first-pitch-cubs-game-wrigley-field-wheelchair-adaptive-athlete/526-eb54ed6e-07d7-4f18-8b15-d1e7806a5bd8",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e2d6538c-65e2-48e4-ad18-e60524e5283e/20260918T231636/e2d6538c-65e2-48e4-ad18-e60524e5283e_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities early education leaders speak out against potential changes to Head Start",
-      "summary": "Proposed federal changes to Head Start could affect language instruction, class sizes and local control, prompting concerns from Quad Cities advocates.",
-      "url": "https://www.wqad.com/article/news/education/head-start-proposed-rule-federal-government-trump-administration-changes-quad-cities-leaders/526-d9c45392-4039-48a6-a5e2-62851336ad54",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a/20260917T234017/2a7b0ebe-8b8d-4c85-b7ba-73103e960c4a_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Tim Dunn resigns as Davenport 2nd Ward alderman",
-      "summary": "Davenport Alderman Tim Dunn, representing the city’s 2nd Ward, has submitted his resignation to Mayor Jason Gordon, effective immediately, according to a news r…",
-      "url": "https://www.ourquadcities.com/news/local-news/tim-dunn-resigns-at-davenport-2nd-ward-alderman/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_ca2ce0.png?w=900",
-      "category": "Local News"
     }
   ]
 }
