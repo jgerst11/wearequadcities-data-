@@ -1,6 +1,83 @@
 {
-  "updated": "2026-09-22T09:07:11.120422+00:00",
+  "updated": "2026-09-22T16:28:22.516614+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bettendorf Public Library Creation Studio continues growth with $35,000 donation",
+      "summary": "Bettendorf Public Library's Creation Studio received a $35,000 donation, allowing for upcoming additions and upgrades.",
+      "url": "https://www.wqad.com/article/news/community/bettendorf-public-library-creation-studio-grows/526-ee54f37a-b785-4264-a630-bd4bfe90977b",
+      "time": "42 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bc6b131b-08aa-49fa-bb9e-d10601fe5936/20250806T183421/bc6b131b-08aa-49fa-bb9e-d10601fe5936_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities leaf collection guidelines, dates",
+      "summary": "The Quad Cities area provides free leaf collection during the fall season. Here's what residents should know.",
+      "url": "https://www.wqad.com/article/news/local/quad-cities-leaf-collection/526-ed4a3c33-a80d-45ea-beb3-85a96f9984fa",
+      "time": "43 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c2d1d067-5df8-48df-a670-f22f3b78d9b1/20260901T003435/c2d1d067-5df8-48df-a670-f22f3b78d9b1_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gather for the Cure raises funds for MercyOne Genesis breast center",
+      "summary": "MercyOne Genesis and the MercyOne Genesis Foundation are marking Breast Cancer Awareness Month by hosting the sixth annual Gather for the Cure on Sunday, Octobe…",
+      "url": "https://www.ourquadcities.com/news/local-news/gather-for-the-cure-raises-funds-for-mercyone-genesis-breast-center/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/Gather-for-the-Cure.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Violence Free Iowa: The Coalition Against Sexual Assault and Domestic Violence launches",
+      "summary": "Violence Free Iowa merges the responsibilities of two organizations combating sexual assault and domestic violence in Iowa.",
+      "url": "https://www.wqad.com/article/news/community/violence-free-iowa-coalition-against-sexual-assault-and-domestic-violence-launches/524-4c3adbe4-cd9b-4806-b793-83f3f89ba3fc",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/b7d1c6ce-2f95-402e-9763-fd6b2a502a37/20260921T225139/b7d1c6ce-2f95-402e-9763-fd6b2a502a37_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Fall foliage in Iowa: When to expect changing colors",
+      "summary": "A warm and wet September pushed back fall colors compared to last year — but change is on the horizon.",
+      "url": "https://www.wqad.com/article/tech/science/environment/fall-foliage-iowa-changing-colors-leaves-autumn/524-7e8af744-d0a9-4fb4-a76d-379dda5ba362",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b587040f-3cb6-4bcb-9ca4-3ea99e8b32ae/b587040f-3cb6-4bcb-9ca4-3ea99e8b32ae_750x422.jpg",
+      "category": "environment"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "One more rainy day for the Quad Cities",
+      "summary": "While rain is in the forecast Tuesday, it won't be as heavy as what we picked up this past weekend. Cooler than normal temperatures stick around through the wee…",
+      "url": "https://www.ourquadcities.com/news/local-news/one-more-rainy-day-for-the-quad-cities/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/chance-of-rain-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Humility Homes & Services to raise money with brunch fundraiser",
+      "summary": "Humility Homes &#38; Services, Inc. (HHSI) invites the Quad Cities community to raise a glass—and raise hope—at A Toast to Home, a brunch fundraiser presented b…",
+      "url": "https://www.ourquadcities.com/news/local-news/humility-homes-services-to-raise-money-with-brunch-fundraiser/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/04/Humility-Homes-Services.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "WIU to highlight new emergency operations center with ribbon cutting",
       "summary": "Western Illinois University in Macomb is holding a ribbon cutting ceremony for a new state-of-the-art emergency operations center.",
       "url": "https://www.wqad.com/article/news/education/wiu-new-emergency-operations-center/526-8c05fef2-628c-45bd-b87d-835452f37503",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78/20260917T204720/c666fe88-f6fe-420a-8cab-c3f1b6d4ce78_750x422.jpg",
       "category": "education"
     },
@@ -19,7 +96,7 @@
       "headline": "Residents and activists ask East Moline to cancel Flock Safety contract",
       "summary": "The city's current contract for automated license plate readers is funded through a grant.",
       "url": "https://www.wqad.com/article/news/local/public-safety/flock-safety-contract-east-moline-activists-advocate-cancelation/526-3eebf898-ed4b-4fad-8815-f9d21a35efc0",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3d980f9f-da53-44aa-83b5-d0e64b0bb11b/20260922T034409/3d980f9f-da53-44aa-83b5-d0e64b0bb11b_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,19 +107,8 @@
       "headline": "Crash involves vehicles on Interstate 74 East",
       "summary": "Shortly after 9 p.m. Monday, emergency vehicles and responders were on the scene of a crash just past Exit 5 to Interstate 280 West. Our Quad Cities News crew s…",
       "url": "https://www.ourquadcities.com/news/local-news/crash-involves-vehicles-on-interstate-74-east/",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/crash-on-I-74.jpg?w=832",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois falls short in reducing carbon emissions: What to know",
-      "summary": "A new report shows that despite progress, Illinois is falling short of its lofty goals to reduce carbon emissions. The goal is net zero by 2050, but the state i…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-falls-short-in-reducing-carbon-emissions-what-to-know/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/669aa985e8e874.95350235.jpeg?w=900",
       "category": "Local News"
     },
     {
@@ -52,7 +118,7 @@
       "headline": "State and local leaders gather at Mercado on Fifth to discuss homelessness among Latine Illinoisans",
       "summary": "A first-of-its-kind report was released earlier this year examining the structural factors contributing to housing instability among Latine people in the state.",
       "url": "https://www.wqad.com/article/news/community/illinois-report-homelessness-latine-people-moline-event-mercado-on-fifth/526-584444b4-4344-4f9b-846b-5f2b54e5dd18",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d69820d4-28fe-4927-aabf-51fd96a99c6a/20260921T232356/d69820d4-28fe-4927-aabf-51fd96a99c6a_750x422.jpg",
       "category": "community"
     },
@@ -63,75 +129,9 @@
       "headline": "Clinton's MS Fest to raise money for local people living with multiple sclerosis",
       "summary": "MS Fest returns on Sunday, Sept. 27. It's all raising money for the QCA nonprofit, the Finch Fund, which helps local people living with MS.",
       "url": "https://www.wqad.com/article/news/local/the-current/clinton-ms-fest-event-the-finch-fund-nonprofit-multiple-sclerosis/526-e78549c7-f754-49c4-a1e4-f79efea94a07",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/abb2f15b-0834-4b73-874b-c5f01a7f8939/20260921T232258/abb2f15b-0834-4b73-874b-c5f01a7f8939_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Century-old Davenport homes saved from demolition to house refugee families",
-      "summary": "Two historic homes in Davenport, once marked for demolition, have been restored to provide affordable housing for refugee families.",
-      "url": "https://www.wqad.com/article/news/community/davenport-homes-renovated-house-refugee-families-tapestry-farms-first-presbyterian-church/526-6cc2090c-9c0e-4dc4-a9bc-0122eefa915f",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ef472c4c-d0f9-45f7-a6b1-5a7a75bde3a9/20260921T222141/ef472c4c-d0f9-45f7-a6b1-5a7a75bde3a9_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Galesburg K9 Dax to retire",
-      "summary": "The city of Galesburg is set to approve K9 Officer Dax's retirement after several years with the department.",
-      "url": "https://www.wqad.com/article/news/local/galesburg-k9-dax-retirement/526-eb082dea-3f9d-4b20-87d7-9ea65f53079c",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ee0fdd34-8fd5-462c-a552-adc029385ea7/20260921T203642/ee0fdd34-8fd5-462c-a552-adc029385ea7_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Report on Latine homelessness in Illinois: What to know",
-      "summary": "A new report is shedding light on Latine homelessness in Illinois, including factors contributing to housing instability. The report was presented at Mercado on…",
-      "url": "https://www.ourquadcities.com/news/local-news/report-on-latine-homelessness-in-illinois-what-to-know/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/homeless-homelessness-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Had enough of the rain? More coming tonight",
-      "summary": "We've had measurable rain for the last 7 straight days in the Quad Cities! That's only happened one other time in the last 60 years in the Quad Cities! And some…",
-      "url": "https://www.ourquadcities.com/news/local-news/had-enough-of-the-rain-more-coming-tonight/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP-Blank-Image-1.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Burlington lands $6.7M Department of Defense grant for third fire station",
-      "summary": "The City of Burlington has been awarded a $6.7M grant from the Department of Defense to build a third fire station in support of the Iowa Army Ammunition Plant.",
-      "url": "https://www.wqad.com/article/news/local/burlington-grant-for-new-fire-station/526-89cdae3d-5abd-4f2d-98c1-667ef7503837",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/becb87bf-80ec-4fa9-b634-25825b3a22d4/becb87bf-80ec-4fa9-b634-25825b3a22d4_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "City of Galesburg considering temporary ban on new data center development",
-      "summary": "City leaders will discuss a 180-day moratorium on processing and approving data center applications during Monday night's city council meeting.",
-      "url": "https://www.wqad.com/article/news/local/galesburg-illinois-data-center-moratorium-consideration-city-council/526-2bb34e1a-4278-4a7d-929b-d6a565d2d290",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/af32f61f-8319-48b0-803c-ef14165a89d5/20250109T004837/af32f61f-8319-48b0-803c-ef14165a89d5_750x422.jpg",
-      "category": "local"
     }
   ]
 }
