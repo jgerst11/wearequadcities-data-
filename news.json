@@ -1,16 +1,49 @@
 {
-  "updated": "2026-09-21T23:02:47.387255+00:00",
+  "updated": "2026-09-22T03:46:30.501093+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Had enough of the rain? More coming tonight",
-      "summary": "We've had measurable rain for the last 7 straight days in the Quad Cities! That's only happened one other time in the last 60 years in the Quad Cities! And some…",
-      "url": "https://www.ourquadcities.com/news/local-news/had-enough-of-the-rain-more-coming-tonight/",
-      "time": "30 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP-Blank-Image-1.png?w=900",
+      "headline": "Crash involves vehicles on Interstate 74 East",
+      "summary": "Shortly after 9 p.m. Monday, emergency vehicles and responders were on the scene of a crash just past Exit 5 to Interstate 280 West. Our Quad Cities News crew s…",
+      "url": "https://www.ourquadcities.com/news/local-news/crash-involves-vehicles-on-interstate-74-east/",
+      "time": "26 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/crash-on-I-74.jpg?w=832",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois falls short in reducing carbon emissions: What to know",
+      "summary": "A new report shows that despite progress, Illinois is falling short of its lofty goals to reduce carbon emissions. The goal is net zero by 2050, but the state i…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-falls-short-in-reducing-carbon-emissions-what-to-know/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/669aa985e8e874.95350235.jpeg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "State and local leaders gather at Mercado on Fifth to discuss homelessness among Latine Illinoisans",
+      "summary": "A first-of-its-kind report was released earlier this year examining the structural factors contributing to housing instability among Latine people in the state.",
+      "url": "https://www.wqad.com/article/news/community/illinois-report-homelessness-latine-people-moline-event-mercado-on-fifth/526-584444b4-4344-4f9b-846b-5f2b54e5dd18",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d69820d4-28fe-4927-aabf-51fd96a99c6a/20260921T232356/d69820d4-28fe-4927-aabf-51fd96a99c6a_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Clinton's MS Fest to raise money for local people living with multiple sclerosis",
+      "summary": "MS Fest returns on Sunday, Sept. 27. It's all raising money for the QCA nonprofit, the Finch Fund, which helps local people living with MS.",
+      "url": "https://www.wqad.com/article/news/local/the-current/clinton-ms-fest-event-the-finch-fund-nonprofit-multiple-sclerosis/526-e78549c7-f754-49c4-a1e4-f79efea94a07",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/abb2f15b-0834-4b73-874b-c5f01a7f8939/20260921T232258/abb2f15b-0834-4b73-874b-c5f01a7f8939_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
@@ -18,10 +51,43 @@
       "color": "slate",
       "headline": "Century-old Davenport homes saved from demolition to house refugee families",
       "summary": "Two historic homes in Davenport, once marked for demolition, have been restored to provide affordable housing for refugee families.",
-      "url": "https://www.wqad.com/article/life/heartwarming/davenport-homes-renovated-house-refugee-families-tapestry-farms-first-presbyterian-church/526-6cc2090c-9c0e-4dc4-a9bc-0122eefa915f",
-      "time": "38 min ago",
+      "url": "https://www.wqad.com/article/news/community/davenport-homes-renovated-house-refugee-families-tapestry-farms-first-presbyterian-church/526-6cc2090c-9c0e-4dc4-a9bc-0122eefa915f",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ef472c4c-d0f9-45f7-a6b1-5a7a75bde3a9/20260921T222141/ef472c4c-d0f9-45f7-a6b1-5a7a75bde3a9_750x422.jpg",
-      "category": "heartwarming"
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Galesburg K9 Dax to retire",
+      "summary": "The city of Galesburg is set to approve K9 Officer Dax's retirement after several years with the department.",
+      "url": "https://www.wqad.com/article/news/local/galesburg-k9-dax-retirement/526-eb082dea-3f9d-4b20-87d7-9ea65f53079c",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ee0fdd34-8fd5-462c-a552-adc029385ea7/20260921T203642/ee0fdd34-8fd5-462c-a552-adc029385ea7_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Report on Latine homelessness in Illinois: What to know",
+      "summary": "A new report is shedding light on Latine homelessness in Illinois, including factors contributing to housing instability. The report was presented at Mercado on…",
+      "url": "https://www.ourquadcities.com/news/local-news/report-on-latine-homelessness-in-illinois-what-to-know/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/homeless-homelessness-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Had enough of the rain? More coming tonight",
+      "summary": "We've had measurable rain for the last 7 straight days in the Quad Cities! That's only happened one other time in the last 60 years in the Quad Cities! And some…",
+      "url": "https://www.ourquadcities.com/news/local-news/had-enough-of-the-rain-more-coming-tonight/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP-Blank-Image-1.png?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +96,7 @@
       "headline": "Burlington lands $6.7M Department of Defense grant for third fire station",
       "summary": "The City of Burlington has been awarded a $6.7M grant from the Department of Defense to build a third fire station in support of the Iowa Army Ammunition Plant.",
       "url": "https://www.wqad.com/article/news/local/burlington-grant-for-new-fire-station/526-89cdae3d-5abd-4f2d-98c1-667ef7503837",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/becb87bf-80ec-4fa9-b634-25825b3a22d4/becb87bf-80ec-4fa9-b634-25825b3a22d4_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +107,7 @@
       "headline": "Two Davenport homes renovated for refugee families",
       "summary": "Two properties in Davenport went under major renovations and will house local refugees. The homes were owned by the Foundation of First Presbyterian Church and …",
       "url": "https://www.ourquadcities.com/news/local-news/two-davenport-homes-renovated-for-refugee-families/",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_ac624b.png?w=900",
       "category": "Local News"
     },
@@ -52,7 +118,7 @@
       "headline": "City of Galesburg considering temporary ban on new data center development",
       "summary": "City leaders will discuss a 180-day moratorium on processing and approving data center applications during Monday night's city council meeting.",
       "url": "https://www.wqad.com/article/news/local/galesburg-illinois-data-center-moratorium-consideration-city-council/526-2bb34e1a-4278-4a7d-929b-d6a565d2d290",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/af32f61f-8319-48b0-803c-ef14165a89d5/20250109T004837/af32f61f-8319-48b0-803c-ef14165a89d5_750x422.jpg",
       "category": "local"
     },
@@ -63,74 +129,8 @@
       "headline": "Can you solve the mystery at whodunit Fatal Fiction: The Next Chapter?",
       "summary": "It's a night of mystery in an interactive whodunit, and you can help solve the crime! Tessa Wallace joined Our Quad Cities News with details on the Davenport Pu…",
       "url": "https://www.ourquadcities.com/news/local-news/can-you-solve-the-mystery-at-whodunit-fatal-fiction-the-next-chapter/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_04645f.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Special Olympics Iowa Polar Plunge set for Sept. 26 in Davenport",
-      "summary": "Special Olympics Iowa Polar Plunge is set for Sept. 26 in Davenport, raising funds for sports training and programming.",
-      "url": "https://www.wqad.com/article/news/community/special-olympics-iowa-polar-plunge-set-in-davenport/526-98c4cdba-1ca6-4ead-8c43-6f3fc8315623",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a93881b1-3100-4f48-96bd-7b3d0a506bc6/20260921T210640/a93881b1-3100-4f48-96bd-7b3d0a506bc6_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Republican-turned-independent Collin Corbett hopes to provide voters an alternative for Illinois governor",
-      "summary": "Corbett supports social issues that align with many Democrats while describing himself as fiscally conservative but also supporting a service tax.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-governor-candidate-independent-collin-corbett/526-63b98c36-412b-485e-80e6-48dfd6467e3d",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b0f6de0c-a806-4906-89fb-a61803d757cb/20260921T204322/b0f6de0c-a806-4906-89fb-a61803d757cb_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Galesburg K9 Dax to retire",
-      "summary": "The city of Galesburg is set to approve K9 Officer Dax's retirement after several years with the department.",
-      "url": "https://www.wqad.com/article/news/local/galesburg-k9-dax-retirement/526-eb082dea-3f9d-4b20-87d7-9ea65f53079c",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ee0fdd34-8fd5-462c-a552-adc029385ea7/20260921T203642/ee0fdd34-8fd5-462c-a552-adc029385ea7_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man arrested in connection Muscatine elementary school break in",
-      "summary": "Muscatine police have arrested the man in connection with a break-in at Mulberry Elementary School between 4 and 5 a.m. on Sunday, Sept. 20.",
-      "url": "https://www.wqad.com/article/news/crime/muscatine-iowa-police-department-mulberry-elementary-school-break-in/526-7d08aeff-60ed-43e8-98e4-0caf50e73978",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/daf93a4a-2da2-4bae-92ff-008bdefe6370/daf93a4a-2da2-4bae-92ff-008bdefe6370_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Single game tickets on sale for Quad City Storm hockey",
-      "summary": "The Quad City Storm has released its promotional schedule for the 2026-2027 season. Tickets are on sale now.",
-      "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-tickets-promotional-schedule/526-f550f10d-5132-4766-89f6-676b7afb9a44",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/efa878c0-d7be-4d38-96dd-f18b090792b1/20260921T184754/efa878c0-d7be-4d38-96dd-f18b090792b1_750x422.jpg",
-      "category": "hockey"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Burlington receives federal funding for new fire station",
-      "summary": "Burlington is receiving millions in federal funding for a new fire station in the city. The city has been awarded $6,765,530 to construct the new fire station i…",
-      "url": "https://www.ourquadcities.com/news/local-news/burlington-receives-federal-funding-for-new-fire-station/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/08/City-of-Burlington.jpg?w=900",
       "category": "Local News"
     }
   ]
