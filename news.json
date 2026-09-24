@@ -1,6 +1,39 @@
 {
-  "updated": "2026-09-24T09:03:56.851680+00:00",
+  "updated": "2026-09-24T16:40:05.015641+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'Immeasurable comfort' | Family of late Hawkeye Marching Band member share gratitude for community",
+      "summary": "Derek Phillips died after collapsing and suffering severe cardiac arrest during the Iowa Hawkeye's first football game of the 2026 season.",
+      "url": "https://www.wqad.com/article/news/community/derek-phillips-family-message-hawkeye-marching-band/524-317cd7ff-3ef4-4d6f-a8ce-7ae86b9481af",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f9bc2b52-be18-4abe-a2d0-99b464cc66bd/20260908T220435/f9bc2b52-be18-4abe-a2d0-99b464cc66bd_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cat dies in Clinton fire",
+      "summary": "A cat is dead after a fire in Clinton yesterday morning, according to a news release from the Clinton Fire Department. Firefighters were dispatched to the 500 b…",
+      "url": "https://www.ourquadcities.com/news/local-news/cat-dies-in-clinton-fire/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Clinton-Fire-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "14 people face federal charges in connection to central Iowa meth distribution ring, officials say",
+      "summary": "The Department of Justice and 16 other agencies participated in an 11-month investigation, resulting in 11 arrests so far.",
+      "url": "https://www.wqad.com/article/news/crime/meth-trafficking-ring-iowa-charges-indictment/524-5dbde676-4497-4ace-9a83-c008f09fe591",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/fd6836e3-cafd-4903-a63e-97126fa10b86/20260924T002551/fd6836e3-cafd-4903-a63e-97126fa10b86_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +41,7 @@
       "headline": "Clinton, Jackson County residents asked to fill out public survey on transportation",
       "summary": "Regional Planning Affiliation 8, with ECIA Transportation and Planning, is working to update its long-range plan and wants community input.",
       "url": "https://www.wqad.com/article/news/community/transportation/transportation-survey-eastern-iowa-ecia/526-a0da1274-583f-484c-9790-537de7cb99a1",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/KING/images/f7cc7bb3-2da9-47a4-8e67-ebe82fe0807a/20260629T212017/f7cc7bb3-2da9-47a4-8e67-ebe82fe0807a_750x422.jpg",
       "category": "transportation"
     },
@@ -19,7 +52,7 @@
       "headline": "Captain’s Table name set to return as new owners take over Moline riverfront restaurant",
       "summary": "Moline's former Catfish Charlie's is set to become Captain's Table again, with new owners planning to reopen the riverfront restaurant as early as November.",
       "url": "https://www.wqad.com/article/life/food/captains-table-new-owner-moline-riverfront-restaurant-catfish-charlies/526-b072c37e-78db-4975-8391-2a3f8a44ee38",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/407d5d35-048c-414b-9171-f182af5a4ef4/20260924T032324/407d5d35-048c-414b-9171-f182af5a4ef4_750x422.jpg",
       "category": "food"
     },
@@ -30,7 +63,7 @@
       "headline": "Quad Cities veteran reunites with her fellow service women nearly 30 years later on Honor Flight",
       "summary": "Lisa Olsen was so excited to bring \"The Fab Four\" together ahead of the 67th Honor Flight of the Quad Cities.",
       "url": "https://www.wqad.com/article/life/heartwarming/honor-flight-of-the-quad-cities-reunion-four-service-woman/526-3ab6bd83-f601-4353-b976-0711226dd5aa",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/127128f3-c213-451b-8284-854f0926c9b7/20260923T235419/127128f3-c213-451b-8284-854f0926c9b7_750x422.jpg",
       "category": "heartwarming"
     },
@@ -41,7 +74,7 @@
       "headline": "Humane Society of Scott County waives adult dog and cat adoption fees",
       "summary": "The Humane Society of Scott County is waiving adoptions fees for some animals through September 30. According to a Facebook post, adult dogs over 30 lbs. and ad…",
       "url": "https://www.ourquadcities.com/news/local-news/humane-society-of-scott-county-waives-adult-dog-and-cat-adoption-fees/",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/black-cat-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "WQAD photojournalist and veteran reflects on emotional Honor Flight to Washington",
       "summary": "Art Mireles served in the Army, following in his service member father's and grandfather's footsteps. Here's what impacted him the most during his trip to D.C.",
       "url": "https://www.wqad.com/article/news/local/the-current/art-mireles-news-8-photojournalist-honor-flight-veteran-recap-emotional-homecoming-washington-dc/526-e30edbe2-a421-4a49-bca1-836d91ba0b7a",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b4798264-6ad2-472a-b55f-21fa8dc7ce50/20260923T232139/b4798264-6ad2-472a-b55f-21fa8dc7ce50_750x422.jpg",
       "category": "the-current"
     },
@@ -63,7 +96,7 @@
       "headline": "Downtown Moline braces for busy weekend",
       "summary": "With Ella Langley performing Saturday at the Vibrant Arena and the Quad Cities marathon kicking off Sunday morning, Moline has a busy weekend to prepare for.",
       "url": "https://www.wqad.com/article/news/community/moline-illinois-traffic-closures-ella-langley-concert-quad-cities-marathon/526-d5fbe5d4-baf9-4bcc-8379-9ee687a2ee64",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/73b59b79-1791-4b6e-885d-72dc589b20a5/20260923T234725/73b59b79-1791-4b6e-885d-72dc589b20a5_750x422.jpg",
       "category": "community"
     },
@@ -74,20 +107,9 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-226/",
-      "time": "14 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Crime-Stoppers-Domingo-Monge-Christopher-Otten-mug-shot.jpg?w=900",
       "category": "Crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Milan community voices concerns over proposed battery storage facility",
-      "summary": "More than 100 people gathered in Milan to oppose the proposed facility, raising concerns about safety, property values and the environment.",
-      "url": "https://www.wqad.com/article/news/local/milan-concerns-proposed-battery-storage-facility/526-247f3099-3422-45d5-9ded-4ea002ed4038",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/5538c1b1-4017-44c6-aa27-d6f333804dcb/20260923T030545/5538c1b1-4017-44c6-aa27-d6f333804dcb_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
