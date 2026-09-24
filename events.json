@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T02:04:55.743615+00:00",
-  "total": 19,
+  "generated": "2026-09-24T10:42:20.978459+00:00",
+  "total": 22,
   "events": [
     {
       "id": "vqc_7665a0d1f967",
@@ -206,6 +206,54 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13179&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_301ebe2d8bdf",
+      "name": "Minor Arcana Major Confusion Tarot Workshop ALL ARE WELCOME",
+      "start": "2026-09-25",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13363&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_37e450ad310f",
+      "name": "Celebration River Cruises ONLY Dueling Pianos ON the River",
+      "start": "2026-09-25",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12643&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_b5ba140eac1c",
+      "name": "Footloose",
+      "start": "2026-09-25",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13180&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
