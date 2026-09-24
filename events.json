@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T10:42:20.978459+00:00",
-  "total": 22,
+  "generated": "2026-09-24T16:05:53.698211+00:00",
+  "total": 23,
   "events": [
     {
       "id": "vqc_7665a0d1f967",
@@ -206,6 +206,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13179&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_89dc59d9503c",
+      "name": "Nashville Nights A Songwriters Showcase at The Rust Belt",
+      "start": "2026-09-25",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13060&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
