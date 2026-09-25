@@ -1,16 +1,104 @@
 {
-  "updated": "2026-09-25T16:45:37.826813+00:00",
+  "updated": "2026-09-25T23:08:42.268976+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "QC Senior Expo brings hundreds together for services, connection and free haircuts",
+      "summary": "Hundreds attended the QC Senior Expo in Davenport, where seniors found services, job opportunities, free haircuts and resources all under one roof",
+      "url": "https://www.wqad.com/article/news/community/qc-senior-expo-brings-hundreds-together/526-e8be348e-d518-40c3-b61e-0d4d9d9dc833",
+      "time": "24 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/5b7ec0d6-35ae-48a0-87e3-5734c06065f7/20260925T194235/5b7ec0d6-35ae-48a0-87e3-5734c06065f7_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island homecoming game postponed due to 'unexpected illness' impacting athletes, coaches",
+      "summary": "The district said several athletes, coaches and family members \"were impacted by an unexpected illness\" Thursday evening.",
+      "url": "https://www.wqad.com/article/news/local/rock-island-homecoming-game-moline-canceled-friday-night/526-eea854e0-251e-43ee-a84f-ccac2dfcdd72",
+      "time": "43 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e153e18d-91de-4628-8923-8de356793604/20260925T185711/e153e18d-91de-4628-8923-8de356793604_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Millie Moo Foundation Walk raises pediatric cancer awareness",
-      "summary": "The Millie Moo Foundation is hosting its Pediatric Cancer Awareness Walk in downtown Port Byron on Saturday, September 26th. Community members are encouraged to…",
-      "url": "https://www.ourquadcities.com/news/local-news/millie-moo-foundation-walk-raises-pediatric-cancer-awareness/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_8a90cf.png?w=900",
+      "headline": "Musco Sports Center wins People's All-Star Community Award",
+      "summary": "The City of Muscatine has announced that the Musco Sports Center has won the 2026 People’s All-Star Community Award, presented by the Iowa League of Cities. The…",
+      "url": "https://www.ourquadcities.com/news/local-news/musco-sports-center-wins-peoples-all-star-community-award/",
+      "time": "56 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Musco-Sports-Center.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport fire chief retiree dies at 76",
+      "summary": "Mark Frese dedicated 37 years to the Davenport Fire Department until his retirement in 2011.",
+      "url": "https://www.wqad.com/article/life/people/davenport-fire-chief-retiree-dies/526-793d7422-50da-4b88-9fa0-1a16991b33f6",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f/20260925T193236/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f_750x422.jpg",
+      "category": "people"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Mark Frese, former Davenport Fire Chief, dies at age 76",
+      "summary": "A longtime Davenport Fire Department chief has died. The City of Davenport and the Davenport Fire Department announced in a news release that former Davenport F…",
+      "url": "https://www.ourquadcities.com/news/local-news/mark-frese-former-davenport-fire-chief-dies-at-age-76/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese-featured-image.png?w=447",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa League of Cities holds conference in Bettendorf",
+      "summary": "The Iowa League of Cities held its annual conference and exhibit in Bettendorf for the first time this week. From Wednesday, September 23 through Friday, Septem…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-league-of-cities-holds-conference-in-bettendorf/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Iowa-League-of-Cities-featured-image.png?w=447",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Dr. Edward Rogalski dies; President Emeritus of St. Ambrose was 84",
+      "summary": "St. Ambrose University is mourning the loss of one of its best-known staff members. Brian Boesen, associate vice president of communications and marketing for S…",
+      "url": "https://www.ourquadcities.com/news/local-news/dr-edward-rogalski-dies-president-emeritus-of-st-ambrose-was-84/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_716fc5.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island High School homecoming rescheduled due to illness",
+      "summary": "UPDATE: A post on Moline's X account said the game has been postponed until tomorrow, Sept. 26. Freshmen will kick off at 11 a.m. and varsity starts at 1 p.m. i…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-high-school-homecoming-postponed/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/rock-island-football.png?w=593",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man charged with arson after Davenport apartment fire",
+      "summary": "31-year-old Dominick Ponciano of Davenport faces first-degree arson, burglary and criminal mischief.",
+      "url": "https://www.wqad.com/article/news/crime/davenport-apartment-fire-arrest-arson-charge/526-44bc374f-14c0-4e2e-8309-85c63cf61f8d",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +107,7 @@
       "headline": "QCSportsNet Week 6 football preview: Rock Island, Moline & United Township",
       "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Ken Jacoby provide your preseason breakdown of Rock Island, Moline and United Township before Week 6 of high sc…",
       "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-6-football-preview-rock-island-moline-united-township/",
-      "time": "2 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/B915377FE24232E32A82493B9079A78E_4.jpg?w=900",
       "category": "High School Sports"
     },
@@ -30,7 +118,7 @@
       "headline": "Showery couple of days",
       "summary": "Scattered showers are likely across the Quad Cities into the weekend. Temperatures will continue to run below average for late September. Here's your full 7-day…",
       "url": "https://www.ourquadcities.com/news/local-news/showery-couple-of-days/",
-      "time": "5 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -41,86 +129,9 @@
       "headline": "High diesel prices put pressure on school bus budgets in the Quad Cities",
       "summary": "Rising diesel prices are putting pressure on school districts that operate their own buses, while one district says another fuel source is helping control costs…",
       "url": "https://www.wqad.com/article/news/local/high-diesel-prices-pressure-school-bus-budgets-quad-cities/526-7156a584-177e-44c0-8e9a-9bed7f5a3539",
-      "time": "13 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/8ab64c9e-3e2d-4ebb-8c80-d21bf8a8cf99/20260925T030548/8ab64c9e-3e2d-4ebb-8c80-d21bf8a8cf99_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "MetroLINK celebrates addition of electric vehicle charging stations in the QCA",
-      "summary": "Because of increased need in the Quad Cities, MetroLINK has opened new electric car charging stations in Moline and East Moline in 2026. MetroLINK has more simi…",
-      "url": "https://www.ourquadcities.com/news/local-news/metrolink-celebrates-addition-of-electric-vehicle-charging-stations-in-the-qca/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/electric-vehicles-GENERIC-vehicle-charging-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Some Hawkeyes have deep ties to Ann Arbor and Michigan star",
-      "summary": "The top 20 matchup on Saturday between the #17 Iowa Hawkeyes and #18 Michigan Wolverines will be more than just an opportunity for the Hawkeyes to notch a premi…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/some-hawkeyes-with-deep-ties-to-ann-arbor-and-michigan-star/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/AP23255703918541.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Popular Astronomy Club celebrates 90 years of exploring the skies",
-      "summary": "The Quad Cities club invites you out to its next public observation night on Oct. 3 in Rock Island's Longview Park.",
-      "url": "https://www.wqad.com/article/news/local/the-current/popular-astronomy-club-quad-cities-space-telescope-mobile-observatory-anniversary-90-years/526-926d7761-6b80-48c8-9617-0cc4eba70244",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a5d07abb-a03c-4ea3-8c12-8a3f20d0238f/20260924T223254/a5d07abb-a03c-4ea3-8c12-8a3f20d0238f_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Historic hunting dogs",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-historic-hunting-dogs/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_16b830.png?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Electric vehicle chargers installed at East Moline Public Library",
-      "summary": "MetroLINK said the level three chargers can add between 100 and 250 miles of range to an electric vehicle in about 30 to 45 minutes.",
-      "url": "https://www.wqad.com/article/news/local/east-moline-public-library-electric-vehicle-chargers-installed/526-3bc08f50-77d2-4831-a863-623d49d2cacc",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ec10dc1b-ea30-42da-9621-0693c55a171c/20260924T204610/ec10dc1b-ea30-42da-9621-0693c55a171c_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport City Council will fill Ward 2 vacancy by appointment during Oct. 7 meeting",
-      "summary": "Under Iowa Code, Ward 2 residents can petition for a special election.",
-      "url": "https://www.wqad.com/article/news/local/davenport-city-council-ward-2-vacancy/526-a60ae577-3ee2-412d-a563-57e01af3fcbd",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities nonprofit Lead(h)er celebrates 10 years of empowering women",
-      "summary": "Lead(h)er pairs local mentors and mentees for professional development and community. You can celebrate with them at this year's Fuel the Fire Gala on Oct. 8.",
-      "url": "https://www.wqad.com/article/news/local/the-current/leadher-nonprofit-lead-her-fuel-the-fire-girl-awards-women-mentor-mentee-leadership-professional-development/526-537aa837-5824-4245-a995-73bb5b1808fc",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e71ed4f6-7b23-4c20-b8dc-30953cc6f657/20260924T222827/e71ed4f6-7b23-4c20-b8dc-30953cc6f657_750x422.jpg",
-      "category": "the-current"
     }
   ]
 }
