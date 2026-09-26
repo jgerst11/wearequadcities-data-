@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-26T19:10:09.832187+00:00",
+  "updated": "2026-09-26T22:26:25.868060+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Vehicle leaves roadway at I-74 and Rt. 6 entrance to airport in Moline",
+      "summary": "The Quad Cities International Airport says the accident is currently under investigation by the Rock Island County Sheriff's Office.",
+      "url": "https://www.wqad.com/article/traffic/incidents/vehicle-leaves-roadway-at-i-74-and-rt-6-entrance-to-airport-in-moline/526-42a088ea-aee0-4b0c-ad44-dc468d6345b5",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
+      "category": "incidents"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities standings, scores and schedules",
+      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
+      "url": "https://qctimes.com/sports/high-school/article_be729b93-f648-4380-99a9-85e114d8c58d.html",
+      "time": "5 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
+      "category": ""
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,19 +30,8 @@
       "headline": "Revival, 'Jesus Walk,' planned for Muscatine",
       "summary": "The ELIM Arrival, the evangelical outreach branch of The Well of Iowa, will host a regional revival and worship night in Muscatine at 5 p.m. Sunday, Sept. 27, i…",
       "url": "https://www.ourquadcities.com/news/local-news/revival-jesus-walk-planned-for-muscatine/",
-      "time": "5 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Activist against book banning will appear at Augustana College, Rock Island",
-      "summary": "Augustana College, Rock Island, invites the public to a River Readings lecture featuring Steven Pico, who at age 17 challenged his Long Island school district’s…",
-      "url": "https://www.ourquadcities.com/news/local-news/activist-against-book-banning-will-appear-at-augustana-college-rock-island/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Augustana-College.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -30,7 +41,7 @@
       "headline": "Erie family keeps farming history alive during annual harvest event",
       "summary": "Harvest season is underway across the Quad Cities, and one family at Bos Brothers Historical Farm in Erie is taking visitors back in time.",
       "url": "https://www.wqad.com/article/news/local/erie-family-farming-history-alive-harvest-event/526-f3e1b6aa-a40b-4c98-8d8f-43ed195f30d6",
-      "time": "16 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a2a45e04-0301-4d5d-a463-46734cd0a95d/20260926T024402/a2a45e04-0301-4d5d-a463-46734cd0a95d_750x422.jpg",
       "category": "local"
     },
@@ -41,7 +52,7 @@
       "headline": "Longfellow Elementary students celebrate '9 2 5' with reading tribute to Dolly Parton",
       "summary": "Friday was \"Dolly Day,\" so named in honor of the late Dolly Parton, who starred in the hit movie \"9 to 5.\" On 9/25, one Rock Island school went \"9 2 5\" with a w…",
       "url": "https://www.ourquadcities.com/news/local-news/longfellow-elementary-students-celebrate-9-2-5-with-reading-tribute-to-dolly-parton/",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Steven-Inman-.jpg?w=567",
       "category": "Local News"
     },
@@ -52,7 +63,7 @@
       "headline": "QC Senior Expo brings hundreds together for services, connection and free haircuts",
       "summary": "Hundreds attended the QC Senior Expo in Davenport, where seniors found services, job opportunities, free haircuts and resources all under one roof.",
       "url": "https://www.wqad.com/article/news/community/qc-senior-expo-brings-hundreds-together/526-e8be348e-d518-40c3-b61e-0d4d9d9dc833",
-      "time": "19 h ago",
+      "time": "23 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/187b5f3a-4578-4050-82fd-e12da8df881e/20260925T230746/187b5f3a-4578-4050-82fd-e12da8df881e_750x422.jpg",
       "category": "community"
     },
@@ -63,7 +74,7 @@
       "headline": "Rock Island homecoming game postponed due to 'unexpected illness' impacting athletes, coaches",
       "summary": "The district said several athletes, coaches and family members \"were impacted by an unexpected illness\" Thursday evening.",
       "url": "https://www.wqad.com/article/news/local/rock-island-homecoming-game-moline-canceled-friday-night/526-eea854e0-251e-43ee-a84f-ccac2dfcdd72",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e153e18d-91de-4628-8923-8de356793604/20260925T185711/e153e18d-91de-4628-8923-8de356793604_750x422.jpg",
       "category": "local"
     },
@@ -74,7 +85,7 @@
       "headline": "Musco Sports Center wins People's All-Star Community Award",
       "summary": "The City of Muscatine has announced that the Musco Sports Center has won the 2026 People’s All-Star Community Award, presented by the Iowa League of Cities. The…",
       "url": "https://www.ourquadcities.com/news/local-news/musco-sports-center-wins-peoples-all-star-community-award/",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Musco-Sports-Center.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +96,7 @@
       "headline": "Davenport fire chief retiree dies at 76",
       "summary": "Mark Frese dedicated 37 years to the Davenport Fire Department until his retirement in 2011.",
       "url": "https://www.wqad.com/article/life/people/davenport-fire-chief-retiree-dies/526-793d7422-50da-4b88-9fa0-1a16991b33f6",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f/20260925T193236/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f_750x422.jpg",
       "category": "people"
     },
@@ -96,8 +107,8 @@
       "headline": "Mark Frese, former Davenport Fire Chief, dies at age 76",
       "summary": "A longtime Davenport Fire Department chief has died. The City of Davenport and the Davenport Fire Department announced in a news release that former Davenport F…",
       "url": "https://www.ourquadcities.com/news/local-news/mark-frese-former-davenport-fire-chief-dies-at-age-76/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese-featured-image.png?w=447",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -121,17 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCSportsNet Week 6 football preview: Rock Island, Moline & United Township",
-      "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Ken Jacoby provide your preseason breakdown of Rock Island, Moline and United Township before Week 6 of high sc…",
-      "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-6-football-preview-rock-island-moline-united-township/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/B915377FE24232E32A82493B9079A78E_4.jpg?w=900",
-      "category": "High School Sports"
     }
   ]
 }
