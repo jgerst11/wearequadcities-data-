@@ -1,38 +1,71 @@
 {
-  "updated": "2026-09-26T22:26:25.868060+00:00",
+  "updated": "2026-09-27T04:10:04.724364+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Vehicle leaves roadway at I-74 and Rt. 6 entrance to airport in Moline",
-      "summary": "The Quad Cities International Airport says the accident is currently under investigation by the Rock Island County Sheriff's Office.",
+      "headline": "One dead after vehicle left roadway at I-74 and Rt. 6 entrance to airport in Moline",
+      "summary": "Officials say the crash remains under investigation by the Rock Island County Sheriff's Office.",
       "url": "https://www.wqad.com/article/traffic/incidents/vehicle-leaves-roadway-at-i-74-and-rt-6-entrance-to-airport-in-moline/526-42a088ea-aee0-4b0c-ad44-dc468d6345b5",
-      "time": "3 h ago",
+      "time": "51 min ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
       "category": "incidents"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_be729b93-f648-4380-99a9-85e114d8c58d.html",
-      "time": "5 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Revival, 'Jesus Walk,' planned for Muscatine",
-      "summary": "The ELIM Arrival, the evangelical outreach branch of The Well of Iowa, will host a regional revival and worship night in Muscatine at 5 p.m. Sunday, Sept. 27, i…",
-      "url": "https://www.ourquadcities.com/news/local-news/revival-jesus-walk-planned-for-muscatine/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "headline": "Below average temperatures for the marathon tomorrow",
+      "summary": "After temperatures have been holding below average throughout most of the week, they are holding that trend for next week. The big Quad Cities Marathon will kic…",
+      "url": "https://www.ourquadcities.com/news/local-news/below-average-temperatures-for-the-marathon-tomorrow/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-cooler-GENERIC.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "1st parish named for Archbishop Fulton Sheen in 'week of firsts' for Peoria Diocese",
+      "summary": "On Saturday, Bishop Louis Tylka talked about \"a week of firsts\" for the Peoria Diocese at the church where Peoria native Archbishop Fulton Sheen was baptized, a…",
+      "url": "https://www.ourquadcities.com/news/local-news/1st-parish-named-for-archbishop-fulton-sheen-in-week-of-firsts-for-peoria-diocese/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/03/Catholic-Diocese-of-Peoria.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "One transported from scene after Rock Island crash",
+      "summary": "One person was transported from the scene after a crash shortly before 4:30 p.m. Saturday at 23rd Street and 9th Avenue, Rock Island. Our Quad Cities News crew …",
+      "url": "https://www.ourquadcities.com/news/local-news/one-transported-from-scene-after-rock-island-crash/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/RI-crash-photo-.jpg?w=736",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes stun Michigan with TD as time expires",
+      "summary": "Hank Brown threw a game-ending, 16-yard touchdown pass to Reece Vander Zee to lift No. 17 Iowa to a 20-19 win over No. 18 Michigan on Saturday. The Hawkeyes (4-…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-stun-michigan-with-td-as-time-expires/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2297304550.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Millie Moo Foundation turns loss into support for childhood cancer families",
+      "summary": "A Port Byron family is honoring their daughter Millie, who died from childhood cancer, by raising money and supporting families facing similar situations.",
+      "url": "https://www.wqad.com/article/news/community/millie-moo-foundation-turns-loss-into-support-for-childhood-cancer-families/526-18824885-ac2f-4782-8b0a-5d8f7d1871fe",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/88d9e064-ec7d-47fc-bbf0-dd4e842edc05/20260926T232739/88d9e064-ec7d-47fc-bbf0-dd4e842edc05_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WQAD",
@@ -41,20 +74,9 @@
       "headline": "Erie family keeps farming history alive during annual harvest event",
       "summary": "Harvest season is underway across the Quad Cities, and one family at Bos Brothers Historical Farm in Erie is taking visitors back in time.",
       "url": "https://www.wqad.com/article/news/local/erie-family-farming-history-alive-harvest-event/526-f3e1b6aa-a40b-4c98-8d8f-43ed195f30d6",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a2a45e04-0301-4d5d-a463-46734cd0a95d/20260926T024402/a2a45e04-0301-4d5d-a463-46734cd0a95d_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Longfellow Elementary students celebrate '9 2 5' with reading tribute to Dolly Parton",
-      "summary": "Friday was \"Dolly Day,\" so named in honor of the late Dolly Parton, who starred in the hit movie \"9 to 5.\" On 9/25, one Rock Island school went \"9 2 5\" with a w…",
-      "url": "https://www.ourquadcities.com/news/local-news/longfellow-elementary-students-celebrate-9-2-5-with-reading-tribute-to-dolly-parton/",
-      "time": "20 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Steven-Inman-.jpg?w=567",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -63,7 +85,7 @@
       "headline": "QC Senior Expo brings hundreds together for services, connection and free haircuts",
       "summary": "Hundreds attended the QC Senior Expo in Davenport, where seniors found services, job opportunities, free haircuts and resources all under one roof.",
       "url": "https://www.wqad.com/article/news/community/qc-senior-expo-brings-hundreds-together/526-e8be348e-d518-40c3-b61e-0d4d9d9dc833",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/187b5f3a-4578-4050-82fd-e12da8df881e/20260925T230746/187b5f3a-4578-4050-82fd-e12da8df881e_750x422.jpg",
       "category": "community"
     },
@@ -110,28 +132,6 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Dr. Edward Rogalski dies; President Emeritus of St. Ambrose was 84",
-      "summary": "St. Ambrose University is mourning the loss of one of its best-known staff members. Brian Boesen, associate vice president of communications and marketing for S…",
-      "url": "https://www.ourquadcities.com/news/local-news/dr-edward-rogalski-dies-president-emeritus-of-st-ambrose-was-84/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_716fc5.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man charged with arson after Davenport apartment fire",
-      "summary": "31-year-old Dominick Ponciano of Davenport faces first-degree arson, burglary and criminal mischief.",
-      "url": "https://www.wqad.com/article/news/crime/davenport-apartment-fire-arrest-arson-charge/526-44bc374f-14c0-4e2e-8309-85c63cf61f8d",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22/691bd9c6-7a2b-46bc-87c1-7d1b0c92cd22_750x422.jpg",
-      "category": "crime"
     }
   ]
 }
