@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-27T04:10:04.724364+00:00",
+  "updated": "2026-09-27T13:35:29.910573+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "2 die in late-night Scott County crash",
+      "summary": "Two people died in a two-car crash late Saturday in Scott County, according to a news release from the Scott County Sheriff's Office. Shortly after 11:30 p.m. S…",
+      "url": "https://www.ourquadcities.com/news/local-news/2-die-in-late-night-scott-county-crash/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/fatal-helicopter-crash-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +19,7 @@
       "headline": "One dead after vehicle left roadway at I-74 and Rt. 6 entrance to airport in Moline",
       "summary": "Officials say the crash remains under investigation by the Rock Island County Sheriff's Office.",
       "url": "https://www.wqad.com/article/traffic/incidents/vehicle-leaves-roadway-at-i-74-and-rt-6-entrance-to-airport-in-moline/526-42a088ea-aee0-4b0c-ad44-dc468d6345b5",
-      "time": "51 min ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
       "category": "incidents"
     },
@@ -19,7 +30,7 @@
       "headline": "Below average temperatures for the marathon tomorrow",
       "summary": "After temperatures have been holding below average throughout most of the week, they are holding that trend for next week. The big Quad Cities Marathon will kic…",
       "url": "https://www.ourquadcities.com/news/local-news/below-average-temperatures-for-the-marathon-tomorrow/",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-cooler-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +41,7 @@
       "headline": "1st parish named for Archbishop Fulton Sheen in 'week of firsts' for Peoria Diocese",
       "summary": "On Saturday, Bishop Louis Tylka talked about \"a week of firsts\" for the Peoria Diocese at the church where Peoria native Archbishop Fulton Sheen was baptized, a…",
       "url": "https://www.ourquadcities.com/news/local-news/1st-parish-named-for-archbishop-fulton-sheen-in-week-of-firsts-for-peoria-diocese/",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/03/Catholic-Diocese-of-Peoria.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +52,7 @@
       "headline": "One transported from scene after Rock Island crash",
       "summary": "One person was transported from the scene after a crash shortly before 4:30 p.m. Saturday at 23rd Street and 9th Avenue, Rock Island. Our Quad Cities News crew …",
       "url": "https://www.ourquadcities.com/news/local-news/one-transported-from-scene-after-rock-island-crash/",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/RI-crash-photo-.jpg?w=736",
       "category": "Local News"
     },
@@ -50,10 +61,10 @@
       "badge": "QC",
       "color": "brick",
       "headline": "Hawkeyes stun Michigan with TD as time expires",
-      "summary": "Hank Brown threw a game-ending, 16-yard touchdown pass to Reece Vander Zee to lift No. 17 Iowa to a 20-19 win over No. 18 Michigan on Saturday. The Hawkeyes (4-…",
+      "summary": "UPDATE: In the same stadium where Michigan was given an extra second in a controversial win over Western Michigan, the Iowa Hawkeyes took full advantage of havi…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-stun-michigan-with-td-as-time-expires/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2297304550.jpg?w=900",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2297313339.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
     {
@@ -63,9 +74,20 @@
       "headline": "Millie Moo Foundation turns loss into support for childhood cancer families",
       "summary": "A Port Byron family is honoring their daughter Millie, who died from childhood cancer, by raising money and supporting families facing similar situations.",
       "url": "https://www.wqad.com/article/news/community/millie-moo-foundation-turns-loss-into-support-for-childhood-cancer-families/526-18824885-ac2f-4782-8b0a-5d8f7d1871fe",
-      "time": "4 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/88d9e064-ec7d-47fc-bbf0-dd4e842edc05/20260926T232739/88d9e064-ec7d-47fc-bbf0-dd4e842edc05_750x422.jpg",
       "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Revival, 'Jesus Walk,' planned for Muscatine",
+      "summary": "The ELIM Arrival, the evangelical outreach branch of The Well of Iowa, will host a regional revival and worship night in Muscatine at 5 p.m. Sunday, Sept. 27, i…",
+      "url": "https://www.ourquadcities.com/news/local-news/revival-jesus-walk-planned-for-muscatine/",
+      "time": "23 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -101,17 +123,6 @@
       "category": "local"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Musco Sports Center wins People's All-Star Community Award",
-      "summary": "The City of Muscatine has announced that the Musco Sports Center has won the 2026 People’s All-Star Community Award, presented by the Iowa League of Cities. The…",
-      "url": "https://www.ourquadcities.com/news/local-news/musco-sports-center-wins-peoples-all-star-community-award/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/Musco-Sports-Center.jpg?w=900",
-      "category": "Local News"
-    },
-    {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
@@ -121,17 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f/20260925T193236/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f_750x422.jpg",
       "category": "people"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Mark Frese, former Davenport Fire Chief, dies at age 76",
-      "summary": "A longtime Davenport Fire Department chief has died. The City of Davenport and the Davenport Fire Department announced in a news release that former Davenport F…",
-      "url": "https://www.ourquadcities.com/news/local-news/mark-frese-former-davenport-fire-chief-dies-at-age-76/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
