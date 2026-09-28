@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T12:17:09.002567+00:00",
-  "total": 13,
+  "generated": "2026-09-28T22:43:34.650254+00:00",
+  "total": 16,
   "events": [
     {
       "id": "vqc_eec820fa0058",
@@ -14,6 +14,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11761&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_3f142f4b4363",
+      "name": "Remember the Titans",
+      "start": "2026-09-29",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13182&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -62,6 +78,38 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11813&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_9c9cfb2621b7",
+      "name": "Nocturnal Nature Quest Plants Creatures and Curiosities",
+      "start": "2026-09-30",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13490&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_2ce0d88c11a1",
+      "name": "Nocturnal Nature Quest",
+      "start": "2026-09-30",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13498&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
