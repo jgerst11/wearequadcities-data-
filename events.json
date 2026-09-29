@@ -1,23 +1,7 @@
 {
-  "generated": "2026-09-28T22:43:34.650254+00:00",
-  "total": 16,
+  "generated": "2026-09-29T03:10:01.285298+00:00",
+  "total": 15,
   "events": [
-    {
-      "id": "vqc_eec820fa0058",
-      "name": "Riverboat Twilight 2 Day Cruise",
-      "start": "2026-09-28",
-      "end": "",
-      "venue": "",
-      "address": "",
-      "city": "Quad Cities",
-      "state": "",
-      "category": "Events",
-      "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11761&sort_cat=",
-      "image": "",
-      "is_free": false,
-      "source": "visitquadcities.com"
-    },
     {
       "id": "vqc_3f142f4b4363",
       "name": "Remember the Titans",
