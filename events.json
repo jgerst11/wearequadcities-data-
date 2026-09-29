@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T03:10:01.285298+00:00",
-  "total": 15,
+  "generated": "2026-09-29T11:45:37.641036+00:00",
+  "total": 17,
   "events": [
     {
       "id": "vqc_3f142f4b4363",
@@ -174,6 +174,38 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11762&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_456b9b3cea6b",
+      "name": "Riverboat Twilight 2 Day Cruise",
+      "start": "2026-10-01",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11763&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_fdb4ad0350d0",
+      "name": "FREE Senior Day at the Figge",
+      "start": "2026-10-01",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=12682&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
