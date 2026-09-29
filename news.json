@@ -1,72 +1,6 @@
 {
-  "updated": "2026-09-29T00:14:34.162925+00:00",
+  "updated": "2026-09-29T10:27:59.362215+00:00",
   "items": [
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa DNR reminds hunters about new deer stand tags law",
-      "summary": "Officials urge deer hunters in Iowa to remember a new law this hunting season.",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-dnr-reminds-hunters-about-new-deer-stand-tags-law/",
-      "time": "20 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/deer-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine Fire Department will host public-safety open house",
-      "summary": "One of the community’s most popular annual events, the Muscatine Public Safety Open House, will be held from noon until 3 p.m. Sunday, Oct. 4, at the Public Saf…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-fire-department-will-host-public-safety-open-house/",
-      "time": "59 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/09/Fire-Prevention-Week-graphic-with-Sparky.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA freshman earns WIU President's Scholarship",
-      "summary": "Freshman Alexis Brown of Wapello, Iowa, has been named a recipient of the Western Illinois University President's Scholarship, in conjunction with the AIM High …",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-freshman-earns-wiu-presidents-scholarship/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Alexis-Brown-.jpg?w=872",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Early look at the weather forecast for Iowa vs Ohio State football game at Kinnick Stadium",
-      "summary": "After the thrilling finish for Iowa at Michigan, it's another HUGE game coming up for the Hawkeyes on Saturday! It's Ohio State vs Iowa in a battle of top 15 ra…",
-      "url": "https://www.ourquadcities.com/news/local-news/early-look-at-the-weather-forecast-for-iowa-vs-ohio-state-football-game-at-kinnick-stadium/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Screenshot-2025-10-17-095133.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Victims identified in fatal Scott County crash Saturday night",
-      "summary": "A 19-year-old McCausland man and an 18-year-old from Davenport were both killed when another driver hit their car at a rural Scott County intersection.",
-      "url": "https://www.wqad.com/article/news/local/victims-identified-fatal-scott-county-crash-saturday-night/526-33d5d61b-2e87-400d-b2d5-4a2c497bc370",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/KXTV/images/6c821cd4-7581-48d6-acef-ccd56b281bab/6c821cd4-7581-48d6-acef-ccd56b281bab_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Help those with eating disorders at Amy's Gift QCA eating disorder conference",
-      "summary": "You can help promote awareness, understanding, diagnosis and treatment for eating disorders in our community. Stephanie Burrough joined Our Quad Cities News wit…",
-      "url": "https://www.ourquadcities.com/news/local-news/help-those-with-eating-disorders-at-amys-gift-qca-eating-disorder-conference/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_8d803d.png?w=900",
-      "category": "Local News"
-    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -74,7 +8,7 @@
       "headline": "Milan police: Man dies after being intentionally struck by vehicle",
       "summary": "Police say two men were intentionally struck by a vehicle following an altercation in Milan. One victim died, and a 43-year-old suspect was arrested.",
       "url": "https://www.wqad.com/article/news/crime/milan-police-man-dies-after-being-intentionally-struck-by-vehicle/526-e613fe9f-1173-4415-b787-b09019330687",
-      "time": "4 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/KTHV/images/b858e4c2-633a-4970-927d-e777ac85b876/20260922T180539/b858e4c2-633a-4970-927d-e777ac85b876_750x422.jpg",
       "category": "crime"
     },
@@ -85,9 +19,108 @@
       "headline": "23-year-old woman hospitalized after shooting in Rock Island",
       "summary": "Police say a 23-year-old woman was shot in the abdomen Sunday night in Rock Island. The victim was last reported in stable condition.",
       "url": "https://www.wqad.com/article/news/crime/23-year-old-woman-hospitalized-after-shooting-in-rock-island/526-3ae49245-c4e9-42b9-865b-eeb439782f32",
-      "time": "8 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/KYTX/images/584048777/584048777_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Free Tricks and Treats event offered for dogs, owners, in Rock Island park",
+      "summary": "Rock Island Parks and Recreation invites dogs and their owners to celebrate Halloween at Tricks and Treats from 1-3 p.m. Saturday, Oct. 3, at the new Eleanor Wa…",
+      "url": "https://www.ourquadcities.com/news/local-news/free-tricks-and-treats-event-offered-for-dogs-owners-in-rock-island-park/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/tricks-and-treats-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "MLB considers Grand Teton National Park for baseball game site, prompting concern",
+      "summary": "MLB has hosted games in unique locations before, like the Iowa cornfields from \"Field of Dreams.\"",
+      "url": "https://www.wqad.com/article/news/nation-world/mlb-grand-teton-national-park-baseball-game-proposal/507-feb4fcf0-6817-4a25-acf9-b6dc4928e41a",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/ba5f6f33-cafd-47e0-a1be-6ea90f3ac90e/20260929T004729/ba5f6f33-cafd-47e0-a1be-6ea90f3ac90e_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Register now for World's Largest Polio Walk that will start in Moline",
+      "summary": "Registration is now open (and free) for the Quad Cities edition of The World’s Largest Polio Walk on Oct. 24. The walk, expected to draw hundreds of Quad Cities…",
+      "url": "https://www.ourquadcities.com/news/local-news/register-now-for-worlds-largest-polio-walk-that-will-start-in-moline/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/04/67fbbd29210265.89186893.jpeg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Third Place QC preparing to move to Abbey Station as demand outgrows current space",
+      "summary": "The Rock Island day shelter is approaching its first anniversary, but demand has far outgrown its current space as leaders prepare to move.",
+      "url": "https://www.wqad.com/article/news/community/third-place-qc-abbey-station-planned-move-demand-exceeds-capacity/526-2c58733b-0ab2-4502-875a-da41c40a51c8",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c5852f4b-8244-4524-8b95-c035a484fb6e/20260929T000834/c5852f4b-8244-4524-8b95-c035a484fb6e_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA freshman earns WIU President's Scholarship",
+      "summary": "Freshman Alexis Brown of Wapello, Iowa, has been named a recipient of the Western Illinois University President's Scholarship, in conjunction with the AIM High …",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-freshman-earns-wiu-presidents-scholarship/",
+      "time": "11 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_2765ae.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Early look at the weather forecast for Iowa vs Ohio State football game at Kinnick Stadium",
+      "summary": "After the thrilling finish for Iowa at Michigan, it's another HUGE game coming up for the Hawkeyes on Saturday! It's Ohio State vs Iowa in a battle of top 15 ra…",
+      "url": "https://www.ourquadcities.com/news/local-news/early-look-at-the-weather-forecast-for-iowa-vs-ohio-state-football-game-at-kinnick-stadium/",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Screenshot-2025-10-17-095133.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Victims identified in fatal Scott County crash Saturday night",
+      "summary": "A 19-year-old McCausland man and an 18-year-old from Davenport were both killed when another driver hit their car at a rural Scott County intersection.",
+      "url": "https://www.wqad.com/article/news/local/victims-identified-fatal-scott-county-crash-saturday-night/526-33d5d61b-2e87-400d-b2d5-4a2c497bc370",
+      "time": "12 h ago",
+      "image": "https://media.tegna-media.com/assets/KXTV/images/6c821cd4-7581-48d6-acef-ccd56b281bab/6c821cd4-7581-48d6-acef-ccd56b281bab_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities standings, scores and schedules",
+      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
+      "url": "https://qctimes.com/sports/high-school/article_f201ee32-51ee-44fd-9413-9239d78d6fc4.html",
+      "time": "14 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Biz Bytes: Corps of Engineers selects Rock Island resident for award, UnityPoint Health announces new technology and more economic news",
+      "summary": "Corps of Engineers selects Rock Island resident for award, Black Bank & Trust to expand and more business news.",
+      "url": "https://qctimes.com/news/local/business/article_85d8945b-a3ed-4370-bd8e-09367bcb9199.html",
+      "time": "17 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/5/c5/5c53c3f8-4675-484b-915b-2087e66e48a3/6ab2c8299620b.image.jpg?resize=300%2C300",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -96,30 +129,8 @@
       "headline": "Rock Island Police investigate after woman shot",
       "summary": "Rock Island Police are investigating a shots-fired incident after a woman was taken to a local hospital with a gunshot wound. A news release from the Rock Islan…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-investigate-after-woman-shot/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hawkeyes react to last-second win against Michigan",
-      "summary": "The Hawkeyes are 4-0 in 2026 after an incredible, last-second win over Michigan on Saturday. Hank Brown tossed the game-winning touchdown pass to Reece Vander Z…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-react-to-last-second-win-against-michigan/",
       "time": "19 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/AP26269841627171.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: Names released in fatal Scott County crash",
-      "summary": "UPDATE: A news release from the Scott County Sheriff’s Office has more information on Saturday night’s fatal crash in rural Scott County. The driver of the Mazd…",
-      "url": "https://www.ourquadcities.com/news/local-news/2-die-in-late-night-scott-county-crash/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/fatal-helicopter-crash-GENERIC.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
       "category": "Local News"
     }
   ]
