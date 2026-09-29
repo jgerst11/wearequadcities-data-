@@ -1,27 +1,93 @@
 {
-  "updated": "2026-09-29T17:48:22.991777+00:00",
+  "updated": "2026-09-29T23:30:14.625465+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 charged with livestock neglect after 379 animals removed from Iowa property",
-      "summary": "The Marshall County Sheriff's Office was alerted to the situation by a caller who reported a pony was unable to stand.",
-      "url": "https://www.wqad.com/article/news/crime/2-charged-livestock-neglect-marshalltown-379-animals-removed-arl/524-35f0b118-0f49-464f-9c6a-bb2acebfb2ab",
-      "time": "6 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/f7aff81a-bc67-4993-aa9d-88704b57ae2c/20260928T220519/f7aff81a-bc67-4993-aa9d-88704b57ae2c_750x422.jpg",
-      "category": "crime"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ella Langley concert sets record at Vibrant Arena, Moline",
+      "summary": "This past weekend Ella Langley became the highest-grossing female artist in the 34-year history of the Vibrant Arena, according to a statement from the Vibrant …",
+      "url": "https://www.ourquadcities.com/news/local-news/ella-langley-concert-sets-record-at-vibrant-arena-moline/",
+      "time": "4 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Ella-Langley.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Expert explains why Mesabi Metallics chose Iowa for massive steel plant",
-      "summary": "Consultant John Boyd said Lee County was selected for its infrastructure and close proximity to a community college.",
-      "url": "https://www.wqad.com/article/money/business/mesabi-metallic-plant-lee-county-why-iowa-multi-billion-dollar-steel-mill-development-projects/524-5e1aca10-e0aa-43d9-911c-a13c74640491",
-      "time": "7 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/bcecacbd-fd52-4fb4-85f5-41efb9c43551/20260929T025852/bcecacbd-fd52-4fb4-85f5-41efb9c43551_750x422.jpg",
-      "category": "business"
+      "headline": "Scott County construction accident leaves one man seriously injured",
+      "summary": "Officials said a man was found in a ditch with part of his body pinned underneath construction equipment.",
+      "url": "https://www.wqad.com/article/news/local/scott-county-construction-accident-one-man-seriously-injured/526-e8febb28-df24-4b96-9eae-4512d2af9fce",
+      "time": "17 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f808dc35-5b43-4eea-8dc7-949f2af663ac/20260929T221026/f808dc35-5b43-4eea-8dc7-949f2af663ac_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Musco Sports Center named Iowa's top community project",
+      "summary": "The Muscatine dome won the 2026 People's All-Star Community Award through the Iowa League of Cities. In its first 11 months, nearly 80,000 people have visited i…",
+      "url": "https://www.wqad.com/article/news/local/the-current/musco-sports-center-muscatine-dome-visitors-peoples-all-star-community-award/526-d5906e00-9b9a-41d6-a154-8f89e12863e2",
+      "time": "27 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cab98cf3-f18f-4a25-b45b-38104986c77b/20260901T012811/cab98cf3-f18f-4a25-b45b-38104986c77b_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Heavy rain coming to Quad Cities Wednesday and Thursday",
+      "summary": "After some much-needed dry weather lately, things are about to get wet again in the Quad Cities. Rain is likely Wednesday and Thursday and could be heavy both d…",
+      "url": "https://www.ourquadcities.com/news/local-news/heavy-rain-coming-to-quad-cities-wednesday-and-thursday/",
+      "time": "44 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Regional-Future-Rain-Accumulation-GFS-Ensemble-50km-NO-NUMBER-DATA.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Judge: Fired teacher offered students extra credit in return for cash donations",
+      "summary": "According to an Iowa Capital Dispatch article by Clark Kauffman, an Iowa high school teacher has been fired for offering students extra credit in return for cas…",
+      "url": "https://www.ourquadcities.com/news/local-news/judge-fired-teacher-offered-students-extra-credit-in-return-for-cash-donations/",
+      "time": "53 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Man seriously injured after QCA construction accident",
+      "summary": "A man was transported to the hospital following a construction accident. According to a release, the Scott County Sheriff’s Office was notified of a constructio…",
+      "url": "https://www.ourquadcities.com/news/local-news/man-seriously-injured-after-qca-construction-accident/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/accident-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Smart Automotive prepares to open 3 new dealership locations in Davenport",
+      "summary": "Smart Automotive is set to expand its presence in Davenport, opening three new dealerships with upgraded facilities this fall.",
+      "url": "https://www.wqad.com/article/money/cars/smart-automotive-new-dealership-locations-davenport-iowa/526-2d050617-60bc-4f89-9be1-8d9510a2463d",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/54f15272-648d-40ce-b8b1-dbd9cc939bd8/20260929T221718/54f15272-648d-40ce-b8b1-dbd9cc939bd8_750x422.jpg",
+      "category": "cars"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Clinton updates progress on road-construction projects",
+      "summary": "The City of Clinton has released an update as construction progresses on the Manufacturing Drive and Bluff Boulevard Improvement Project: College Avenue &#38; B…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-clinton-updates-progress-on-road-construction-projects/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/road-construction-work-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +96,7 @@
       "headline": "Iowa governor calls special session to amend Major Economic Growth Attraction program",
       "summary": "The MEGA program allows for tax credits to be issued to eligible businesses in rural counties.",
       "url": "https://www.wqad.com/article/money/economy/iowa-special-session-mesabi-metallics-steel-plant-mega-program-tax-incentive/524-ce3db18d-9723-4ce1-83ca-e1959e3d2af1",
-      "time": "10 min ago",
+      "time": "1 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/c10d3046-3d70-45d3-a4e4-e3ba9e124bf0/20260929T152436/c10d3046-3d70-45d3-a4e4-e3ba9e124bf0_750x422.jpg",
       "category": "economy"
     },
@@ -38,100 +104,34 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Thomas Sauer to perform at Central High School, QCSO",
-      "summary": "Davenport Central High School alumnus and acclaimed pianist Thomas Sauer is returning to the Quad Cities for a special guest artist visit with Central High Scho…",
-      "url": "https://www.ourquadcities.com/news/local-news/thomas-sauer-to-perform-at-central-high-school-qcso/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Thomas-Sauer.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Early voting underway in Henry County, 1 week left to register",
-      "summary": "Henry County wants to make sure residents are aware of important voting information for the Nov. 3 General Election. Barb Link, Henry County Clerk, says Oct. 6 …",
-      "url": "https://www.ourquadcities.com/news/local-news/early-voting-underway-in-henry-county-1-week-left-to-register/",
+      "headline": "Muscatine stocking Discovery Pond with rainbow trout",
+      "summary": "The Iowa Department of Natural Resources will release 1,500 rainbow trout into Discovery Pond at Discovery Park in Muscatine on Saturday, Oct. 31 at 10 a.m. One…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-stocking-discovery-pond-with-rainbow-trout/",
       "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Top-Midterms_042324_AP_Matt-Rourke.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/DNR_iowa.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "'Alice in Wonderland' ballet will be presented at Adler Theatre, Davenport",
-      "summary": "The Adler Theatre has announced \"Alice in Wonderland\" by Romero Britto &#38; International Ballet Stars, one night only at 7 p.m. Thursday, May 13. Tickets will…",
-      "url": "https://www.ourquadcities.com/news/local-news/alice-in-wonderland-ballet-will-be-presented-at-adler-theatre-davenport/",
+      "headline": "Jamison Fisher drops change of venue motion",
+      "summary": "Jamison Fisher is no longer seeking a change of venue for his trial in the death of 11-year-old Trudy Appleby in 1996. Henry County Court records show that Fish…",
+      "url": "https://www.ourquadcities.com/news/local-news/jamison-fisher-drops-change-of-venue-motion/",
       "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Alice-in-Wonderland-.jpg?w=760",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Live Muscatine orientation connects residents, community",
-      "summary": "Muscatine residents new to the area or who want to reconnect to the community can learn more about the city at an upcoming orientation. The LIVE Muscatine Welco…",
-      "url": "https://www.ourquadcities.com/news/local-news/live-muscatine-orientation-connects-residents-community/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/02/Live-Muscatine.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rainy stretch for the Quad Cities",
-      "summary": "Quite a bit of rain is on the way for the Quad Cities starting late tonight. Another beautiful day is expected across the Mississippi River Valley today. Here's…",
-      "url": "https://www.ourquadcities.com/news/local-news/rainy-stretch-for-the-quad-cities/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/rain-GENERIC.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Jamison-Fisher-mug-shot.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Milan police: Man dies after being intentionally struck by vehicle",
-      "summary": "Police say two men were intentionally struck by a vehicle following an altercation in Milan. One victim died, and a 43-year-old suspect was arrested.",
-      "url": "https://www.wqad.com/article/news/crime/milan-police-man-dies-after-being-intentionally-struck-by-vehicle/526-e613fe9f-1173-4415-b787-b09019330687",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/KTHV/images/b858e4c2-633a-4970-927d-e777ac85b876/20260922T180539/b858e4c2-633a-4970-927d-e777ac85b876_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "23-year-old woman hospitalized after shooting in Rock Island",
-      "summary": "Police say a 23-year-old woman was shot in the abdomen Sunday night in Rock Island. The victim was last reported in stable condition.",
-      "url": "https://www.wqad.com/article/news/crime/23-year-old-woman-hospitalized-after-shooting-in-rock-island/526-3ae49245-c4e9-42b9-865b-eeb439782f32",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/KYTX/images/584048777/584048777_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island Police hire traveling dispatch agency to address shortage",
-      "summary": "The Rock Island City Council voted Monday to address a shortage of 911 dispatch operators. The Rock Island Police Department will now use traveling dispatchers …",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-police-hire-traveling-dispatch-agency-to-address-shortage/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/dispatch.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Free Tricks and Treats event offered for dogs, owners, in Rock Island park",
-      "summary": "Rock Island Parks and Recreation invites dogs and their owners to celebrate Halloween at Tricks and Treats from 1-3 p.m. Saturday, Oct. 3, at the new Eleanor Wa…",
-      "url": "https://www.ourquadcities.com/news/local-news/free-tricks-and-treats-event-offered-for-dogs-owners-in-rock-island-park/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_8a6c78.png?w=900",
-      "category": "Local News"
+      "headline": "Replacing Mendoza: Candidates vie to be Illinois' first new comptroller in a decade",
+      "summary": "Margaret Croke and Bryan Drew share different visions for the office’s transparency and oversight.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/replacing-mendoza-candidates-vie-to-be-states-first-new-comptroller-in-a-decade/526-81814e9a-5055-4fe5-8a42-41b6d4464e6a",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cb14177f-c08b-47dd-8b8c-3909355238ab/20260929T192756/cb14177f-c08b-47dd-8b8c-3909355238ab_750x422.jpg",
+      "category": "illinois-politics"
     }
   ]
 }
