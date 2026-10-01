@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-01T04:39:53.920970+00:00",
+  "updated": "2026-10-01T15:10:48.044493+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Augustana connects students with local volunteer opportunities",
+      "summary": "Augustana College students learned how they can give back to the Quad Cities during a volunteer recruitment fair. “Volunteers Rock! The Power of Participation” …",
+      "url": "https://www.ourquadcities.com/news/local-news/augustana-connects-students-with-local-volunteer-opportunities/",
+      "time": "36 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/B7167EDF00F50AFEADBEFE065C27BACE_8.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'STRONG Minds' helps teens build mental health skills",
+      "summary": "A new program from Davenport Parks and Recreation will help teens build the mental health skills they need to regulate their emotions and thoughts. The Davenpor…",
+      "url": "https://www.ourquadcities.com/news/local-news/strong-minds-helps-teens-build-mental-health-skills/",
+      "time": "53 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Metropolitan Community Church, Davenport, hosts QC artist's reception",
+      "summary": "An artist's reception for the Karene Nagel \"Magic in Watercolors\" exhibit will be held at 6:30 p.m. Friday, Oct. 2, at the Metropolitan Community Church - Quad …",
+      "url": "https://www.ourquadcities.com/news/local-news/metropolitan-community-church-davenport-hosts-qc-artists-reception/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_d6ad28.png?w=574",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +41,7 @@
       "headline": "Iowa Farmers Union joins lawsuit against USDA over decision to cut solar funding",
       "summary": "The Iowa Farmers Union and others are suing the USDA over its retroactive exclusion of solar from a key funding program.",
       "url": "https://www.wqad.com/article/news/agriculture/iowa-farmers-union-joins-lawsuit-against-usda-cut-solar-funding/524-b74495af-3aa1-4195-9f7b-66303fd49fae",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d15fca6c-c684-4803-af8b-39ab1845ad9d/d15fca6c-c684-4803-af8b-39ab1845ad9d_750x422.jpg",
       "category": "agriculture"
     },
@@ -19,20 +52,9 @@
       "headline": "James Zahara named best weathercaster in a medium TV market by the Illinois Broadcasters Association",
       "summary": "All of James' colleagues here at News 8 wish to congratulate our chief meteorologist on the recognition.",
       "url": "https://www.wqad.com/article/news/local/james-zahara-best-weathercaster-medium-tv-market-illinois-broadcasters-association/526-6cdcffd2-33e8-4cd7-9722-2c76d97cf11f",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/daa8e001-b503-4792-b70b-3c94b23b710e/20261001T012345/daa8e001-b503-4792-b70b-3c94b23b710e_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine Police's K-9 Six to receive new protective vest",
-      "summary": "Muscatine Police Department's K-9 Six will receive a bullet- and stab-protective vest thanks to a charitable donation from the non-profit organization Vested In…",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-polices-k-9-six-to-receive-new-protective-vest/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/K9-Six.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,19 +63,8 @@
       "headline": "See I-80 bridge design at public meeting in LeClaire City Hall",
       "summary": "After more than five years of planning, engineering, environmental review and community input, the I-80 Mississippi River Bridge project has advanced into final…",
       "url": "https://www.ourquadcities.com/news/local-news/see-i-80-bridge-design-at-public-in-leclaire-city-hall/",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/bridge.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Orpheum Theatre, Galesburg, will present Fleetwood Mac tribute band Rumours",
-      "summary": "The Orpheum Theatre Presents 2026-2027 season continues with Rumours: The Ultimate Fleetwood Mac Tribute Band at 7:30 p.m. Thursday, Oct. 8, sponsored by Dave’s…",
-      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-will-present-fleetwood-mac-tribute-band-rumours/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c91d88.png?w=900",
       "category": "Local News"
     },
     {
@@ -63,7 +74,7 @@
       "headline": "Residents invited to line funeral procession route for former Davenport fire chief",
       "summary": "The funeral for former Davenport Fire Chief Mark Frese will take place on Thursday morning, Oct. 1, according to a news release from the City of Davenport. Memb…",
       "url": "https://www.ourquadcities.com/news/local-news/residents-invited-to-line-funeral-procession-route-for-former-davenport-fire-chief/",
-      "time": "3 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
       "category": "Local News"
     },
@@ -74,7 +85,7 @@
       "headline": "Rock Island Police working to solve 911 dispatcher shortage",
       "summary": "While the city approved a temporary contract for on-demand dispatcher services, the search continues to fill remaining full-time roles.",
       "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-police-911-dispatcher-shortage/526-27961230-42e1-4462-ad1d-823a87e61ce4",
-      "time": "4 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d9323b1c-0823-4caf-99b6-2da114bc0925/20260930T235933/d9323b1c-0823-4caf-99b6-2da114bc0925_750x422.jpg",
       "category": "public-safety"
     },
@@ -85,7 +96,7 @@
       "headline": "New interactive 'Story Map' documents decades of Quad Cities LGBTQ+ history",
       "summary": "After five years of work, the online map highlights key moments, places and people that make up local LGBTQ+ history. Now the creators need your help adding mor…",
       "url": "https://www.wqad.com/article/news/local/the-current/new-interactive-story-map-digital-lgbtq-history-quad-cities-people-places-moments-davenport-west-end-rock-island/526-e24c9e44-ed4e-4b15-981d-45322c264a2c",
-      "time": "4 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c2295594-6f42-4783-8be5-226ca50202ef/20260930T234334/c2295594-6f42-4783-8be5-226ca50202ef_750x422.jpg",
       "category": "the-current"
     },
@@ -96,7 +107,7 @@
       "headline": "Wet September rain delays harvest and raises costs for Quad Cities area farmers",
       "summary": "It's been the wettest September since 2020. That can translate into a delayed harvest, lost yields, compacted soil and deteriorating mental health for local far…",
       "url": "https://www.wqad.com/article/news/agriculture/wet-september-harvest-delay-corn-soybean-moisture-soil-compact-farmer-mental-health-iowa-state-university-extension/526-79039651-82dd-4354-9fbb-dae0170247f2",
-      "time": "5 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0e670b86-a990-4166-a288-1bc30779959a/20260930T232456/0e670b86-a990-4166-a288-1bc30779959a_750x422.jpg",
       "category": "agriculture"
     },
@@ -107,7 +118,7 @@
       "headline": "QC investor group acquires Happy Joe's",
       "summary": "A group of Quad Cities investors has acquired Happy Joe's Pizza &#38; Ice Cream, including the brand's franchising company and its three company-owned restauran…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-investor-group-acquires-happy-joes/",
-      "time": "5 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Happy-Joes.jpg?w=900",
       "category": "Local News"
     },
@@ -118,20 +129,9 @@
       "headline": "Muscatine Parks and Recreation Department seeking volunteers for Halloween at Kent Stein Park event",
       "summary": "A haunted night at Muscatine's Kent Stein Park is set to bring Halloween fun on Saturday, Oct. 24.",
       "url": "https://www.wqad.com/article/news/local/halloween-at-kent-stein-park-in-muscatine/526-d7b32dd5-0c4c-4459-aba0-ca7df45dc821",
-      "time": "5 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e6716a7d-c548-41ab-affe-bdd139195e58/20260930T222745/e6716a7d-c548-41ab-affe-bdd139195e58_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Funeral procession announced for former Davenport fire chief",
-      "summary": "The funeral procession for former Davenport Fire Chief Mark Frese will be held Thursday, Oct. 1 and is open to the public.",
-      "url": "https://www.wqad.com/article/news/community/funeral-procession-announced-for-former-davenport-fire-chief/526-155b95ec-a0e6-4e62-aec8-22ead9b2b147",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f/20260925T193236/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f_750x422.jpg",
-      "category": "community"
     }
   ]
 }
