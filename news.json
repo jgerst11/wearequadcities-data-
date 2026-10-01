@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-01T15:10:48.044493+00:00",
+  "updated": "2026-10-01T20:51:07.959987+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities nonprofit providing necessities to foster children receives 'Angels in Adoption' award",
+      "summary": "Liz Estilow founded My G.E.A.R Outreach so that children entering foster care can have their own toys, clothes and necessities, easing the transition.",
+      "url": "https://www.wqad.com/article/news/local/good-news/my-gear-outreach-nonprofit-iowa-illinois-congressional-angels-in-adoption-award/526-0f2d0b00-d667-4940-8624-e3ab1faf5c31",
+      "time": "16 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d970e4f6-092b-431f-8184-77dc39e8f1ae/20261001T191835/d970e4f6-092b-431f-8184-77dc39e8f1ae_750x422.jpg",
+      "category": "good-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Man arrested after stabbing at Davenport convenience store",
+      "summary": "Davenport police responded to the 7500 block of Northwest Boulevard in reference to a disturbance where they found one person suffering stab wounds to their nec…",
+      "url": "https://www.wqad.com/article/news/local/man-arrested-stabbing-davenport-convenience-store/526-ca74c75a-3f0e-40d2-8c14-43eb7d5c6b56",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/a8376308-d5e4-45ea-a992-3e8c36bbeb7c/a8376308-d5e4-45ea-a992-3e8c36bbeb7c_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Report: New data centers could create more than 120K Illinois jobs, though mostly temporary",
+      "summary": "Energy and environmental advocates remain skeptical that data centers will provide significant and lasting benefits.",
+      "url": "https://www.wqad.com/article/money/economy/data-centers-could-create-more-than-120k-illinois-jobs/526-0e89dabe-31dd-4f31-93cd-4fcdfc506528",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c27ecc75-2ad8-471a-888d-782d32e3022d/20261001T185303/c27ecc75-2ad8-471a-888d-782d32e3022d_750x422.jpg",
+      "category": "economy"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Track your visits to area museums with free mobile app during QC Museum Month",
+      "summary": "Visit Quad Cities and area museums celebrate the 11th annual Quad Cities Museum Month with more than 20 museums participating.",
+      "url": "https://www.wqad.com/article/news/community/track-your-visits-to-area-museums-with-free-mobile-app-during-qc-museum-month/526-98534f95-7100-4acf-958f-582fe23917d1",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b6153092-d00f-462f-92e1-939e2aa87261/20260622T231437/b6153092-d00f-462f-92e1-939e2aa87261_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Study shows Eastern Iowa Community Colleges' economic impact on region",
+      "summary": "A new study reveals the economic impact Eastern Iowa Community Colleges have on the region. The colleges partnered with Lightcast to measure economic impact and…",
+      "url": "https://www.ourquadcities.com/news/local-news/study-shows-eastern-iowa-community-colleges-economic-impact-on-region/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Eastern-Iowa-Community-Colleges.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2026 midterm voting guide: What Illinoisans should know",
+      "summary": "Election Day for the 2026 midterm election is Tuesday, Nov. 3.",
+      "url": "https://www.wqad.com/article/news/politics/elections/2026-midterm-voting-guide-illinois-election-races-senate-governor-representatives/526-99a1e5b1-55eb-4b54-b889-f837e174452f",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c836da01-6869-4e17-abe3-d3a13637854f/20240917T164521/c836da01-6869-4e17-abe3-d3a13637854f_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "NAMIWalks raises awareness, funds for mental health programs",
+      "summary": "Walkers from around the Quad Cities are joining forces on Oct. 10 for NAMIWalks Greater Mississippi Valley, part of the nation’s largest mental health awareness…",
+      "url": "https://www.ourquadcities.com/news/local-news/namiwalks-raises-awareness-funds-for-mental-health-programs/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/NAMI.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Child on bicycle struck by vehicle in Eldridge",
+      "summary": "Police say the juvenile suffered minor injuries.",
+      "url": "https://www.wqad.com/article/traffic/incidents/child-on-bicycle-struck-by-vehicle-in-eldridge/526-a3228dbe-252c-482a-8591-c1d183f0b399",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/ba7fb473-f27e-4322-afc5-e42d0e9feac1/20250810T194914/ba7fb473-f27e-4322-afc5-e42d0e9feac1_750x422.jpg",
+      "category": "incidents"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +96,7 @@
       "headline": "Augustana connects students with local volunteer opportunities",
       "summary": "Augustana College students learned how they can give back to the Quad Cities during a volunteer recruitment fair. “Volunteers Rock! The Power of Participation” …",
       "url": "https://www.ourquadcities.com/news/local-news/augustana-connects-students-with-local-volunteer-opportunities/",
-      "time": "36 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/B7167EDF00F50AFEADBEFE065C27BACE_8.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +107,7 @@
       "headline": "'STRONG Minds' helps teens build mental health skills",
       "summary": "A new program from Davenport Parks and Recreation will help teens build the mental health skills they need to regulate their emotions and thoughts. The Davenpor…",
       "url": "https://www.ourquadcities.com/news/local-news/strong-minds-helps-teens-build-mental-health-skills/",
-      "time": "53 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +118,7 @@
       "headline": "Metropolitan Community Church, Davenport, hosts QC artist's reception",
       "summary": "An artist's reception for the Karene Nagel \"Magic in Watercolors\" exhibit will be held at 6:30 p.m. Friday, Oct. 2, at the Metropolitan Community Church - Quad …",
       "url": "https://www.ourquadcities.com/news/local-news/metropolitan-community-church-davenport-hosts-qc-artists-reception/",
-      "time": "2 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_d6ad28.png?w=574",
       "category": "Local News"
     },
@@ -41,97 +129,9 @@
       "headline": "Iowa Farmers Union joins lawsuit against USDA over decision to cut solar funding",
       "summary": "The Iowa Farmers Union and others are suing the USDA over its retroactive exclusion of solar from a key funding program.",
       "url": "https://www.wqad.com/article/news/agriculture/iowa-farmers-union-joins-lawsuit-against-usda-cut-solar-funding/524-b74495af-3aa1-4195-9f7b-66303fd49fae",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d15fca6c-c684-4803-af8b-39ab1845ad9d/d15fca6c-c684-4803-af8b-39ab1845ad9d_750x422.jpg",
       "category": "agriculture"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "James Zahara named best weathercaster in a medium TV market by the Illinois Broadcasters Association",
-      "summary": "All of James' colleagues here at News 8 wish to congratulate our chief meteorologist on the recognition.",
-      "url": "https://www.wqad.com/article/news/local/james-zahara-best-weathercaster-medium-tv-market-illinois-broadcasters-association/526-6cdcffd2-33e8-4cd7-9722-2c76d97cf11f",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/daa8e001-b503-4792-b70b-3c94b23b710e/20261001T012345/daa8e001-b503-4792-b70b-3c94b23b710e_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "See I-80 bridge design at public meeting in LeClaire City Hall",
-      "summary": "After more than five years of planning, engineering, environmental review and community input, the I-80 Mississippi River Bridge project has advanced into final…",
-      "url": "https://www.ourquadcities.com/news/local-news/see-i-80-bridge-design-at-public-in-leclaire-city-hall/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/bridge.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Residents invited to line funeral procession route for former Davenport fire chief",
-      "summary": "The funeral for former Davenport Fire Chief Mark Frese will take place on Thursday morning, Oct. 1, according to a news release from the City of Davenport. Memb…",
-      "url": "https://www.ourquadcities.com/news/local-news/residents-invited-to-line-funeral-procession-route-for-former-davenport-fire-chief/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island Police working to solve 911 dispatcher shortage",
-      "summary": "While the city approved a temporary contract for on-demand dispatcher services, the search continues to fill remaining full-time roles.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-police-911-dispatcher-shortage/526-27961230-42e1-4462-ad1d-823a87e61ce4",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d9323b1c-0823-4caf-99b6-2da114bc0925/20260930T235933/d9323b1c-0823-4caf-99b6-2da114bc0925_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New interactive 'Story Map' documents decades of Quad Cities LGBTQ+ history",
-      "summary": "After five years of work, the online map highlights key moments, places and people that make up local LGBTQ+ history. Now the creators need your help adding mor…",
-      "url": "https://www.wqad.com/article/news/local/the-current/new-interactive-story-map-digital-lgbtq-history-quad-cities-people-places-moments-davenport-west-end-rock-island/526-e24c9e44-ed4e-4b15-981d-45322c264a2c",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2295594-6f42-4783-8be5-226ca50202ef/20260930T234334/c2295594-6f42-4783-8be5-226ca50202ef_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Wet September rain delays harvest and raises costs for Quad Cities area farmers",
-      "summary": "It's been the wettest September since 2020. That can translate into a delayed harvest, lost yields, compacted soil and deteriorating mental health for local far…",
-      "url": "https://www.wqad.com/article/news/agriculture/wet-september-harvest-delay-corn-soybean-moisture-soil-compact-farmer-mental-health-iowa-state-university-extension/526-79039651-82dd-4354-9fbb-dae0170247f2",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0e670b86-a990-4166-a288-1bc30779959a/20260930T232456/0e670b86-a990-4166-a288-1bc30779959a_750x422.jpg",
-      "category": "agriculture"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC investor group acquires Happy Joe's",
-      "summary": "A group of Quad Cities investors has acquired Happy Joe's Pizza &#38; Ice Cream, including the brand's franchising company and its three company-owned restauran…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-investor-group-acquires-happy-joes/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Happy-Joes.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine Parks and Recreation Department seeking volunteers for Halloween at Kent Stein Park event",
-      "summary": "A haunted night at Muscatine's Kent Stein Park is set to bring Halloween fun on Saturday, Oct. 24.",
-      "url": "https://www.wqad.com/article/news/local/halloween-at-kent-stein-park-in-muscatine/526-d7b32dd5-0c4c-4459-aba0-ca7df45dc821",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e6716a7d-c548-41ab-affe-bdd139195e58/20260930T222745/e6716a7d-c548-41ab-affe-bdd139195e58_750x422.jpg",
-      "category": "local"
     }
   ]
 }
