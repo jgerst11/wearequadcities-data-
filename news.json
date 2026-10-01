@@ -1,49 +1,126 @@
 {
-  "updated": "2026-09-30T20:36:52.151408+00:00",
+  "updated": "2026-10-01T04:39:53.920970+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "2026 midterm voting guide: What Iowans should know",
-      "summary": "Election Day for the 2026 midterm election is Tuesday, Nov. 3.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-voter-guide-elections-polls-voter-id-absentee-ballots-2026-midterms/524-9cf0b054-32c0-4414-9e79-704efb8bc292",
-      "time": "51 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d/20240917T170336/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Happy Joe's under new ownership",
-      "summary": "A group of Quad Cities investors has acquired Happy Joe's Pizza & Ice Cream, according to a press release.",
-      "url": "https://www.wqad.com/article/money/business/happy-joes-under-new-ownership/526-ba6b8813-5154-4319-9d2a-cb2c43dc1a20",
-      "time": "52 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/57c3feab-16ab-4694-b121-dbf8d23ba5be/57c3feab-16ab-4694-b121-dbf8d23ba5be_750x422.jpg",
-      "category": "business"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois woman duped out of $318K in elaborate gold-bar scheme",
-      "summary": "The scammers planned a second $272K drop, telling her to hand over the gold to a federal agent who would give a code word. That's when she called their bluff.",
-      "url": "https://www.wqad.com/article/news/crime/illinois-woman-duped-out-of-318k-in-elaborate-gold-bar-scheme/526-fe5e9afc-4870-4c0e-8133-0988d4ee19d1",
+      "headline": "Iowa Farmers Union joins lawsuit against USDA over decision to cut solar funding",
+      "summary": "The Iowa Farmers Union and others are suing the USDA over its retroactive exclusion of solar from a key funding program.",
+      "url": "https://www.wqad.com/article/news/agriculture/iowa-farmers-union-joins-lawsuit-against-usda-cut-solar-funding/524-b74495af-3aa1-4195-9f7b-66303fd49fae",
       "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c42897ea-5343-46a8-b416-72ec9f2a66ca/20260930T193229/c42897ea-5343-46a8-b416-72ec9f2a66ca_750x422.jpg",
-      "category": "crime"
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d15fca6c-c684-4803-af8b-39ab1845ad9d/d15fca6c-c684-4803-af8b-39ab1845ad9d_750x422.jpg",
+      "category": "agriculture"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Boil orders in the Quad Cities region",
-      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
-      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "headline": "James Zahara named best weathercaster in a medium TV market by the Illinois Broadcasters Association",
+      "summary": "All of James' colleagues here at News 8 wish to congratulate our chief meteorologist on the recognition.",
+      "url": "https://www.wqad.com/article/news/local/james-zahara-best-weathercaster-medium-tv-market-illinois-broadcasters-association/526-6cdcffd2-33e8-4cd7-9722-2c76d97cf11f",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/daa8e001-b503-4792-b70b-3c94b23b710e/20261001T012345/daa8e001-b503-4792-b70b-3c94b23b710e_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine Police's K-9 Six to receive new protective vest",
+      "summary": "Muscatine Police Department's K-9 Six will receive a bullet- and stab-protective vest thanks to a charitable donation from the non-profit organization Vested In…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-polices-k-9-six-to-receive-new-protective-vest/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/K9-Six.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "See I-80 bridge design at public meeting in LeClaire City Hall",
+      "summary": "After more than five years of planning, engineering, environmental review and community input, the I-80 Mississippi River Bridge project has advanced into final…",
+      "url": "https://www.ourquadcities.com/news/local-news/see-i-80-bridge-design-at-public-in-leclaire-city-hall/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/bridge.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Orpheum Theatre, Galesburg, will present Fleetwood Mac tribute band Rumours",
+      "summary": "The Orpheum Theatre Presents 2026-2027 season continues with Rumours: The Ultimate Fleetwood Mac Tribute Band at 7:30 p.m. Thursday, Oct. 8, sponsored by Dave’s…",
+      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-will-present-fleetwood-mac-tribute-band-rumours/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c91d88.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Residents invited to line funeral procession route for former Davenport fire chief",
+      "summary": "The funeral for former Davenport Fire Chief Mark Frese will take place on Thursday morning, Oct. 1, according to a news release from the City of Davenport. Memb…",
+      "url": "https://www.ourquadcities.com/news/local-news/residents-invited-to-line-funeral-procession-route-for-former-davenport-fire-chief/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Mark-Frese.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island Police working to solve 911 dispatcher shortage",
+      "summary": "While the city approved a temporary contract for on-demand dispatcher services, the search continues to fill remaining full-time roles.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-police-911-dispatcher-shortage/526-27961230-42e1-4462-ad1d-823a87e61ce4",
       "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d9323b1c-0823-4caf-99b6-2da114bc0925/20260930T235933/d9323b1c-0823-4caf-99b6-2da114bc0925_750x422.jpg",
       "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New interactive 'Story Map' documents decades of Quad Cities LGBTQ+ history",
+      "summary": "After five years of work, the online map highlights key moments, places and people that make up local LGBTQ+ history. Now the creators need your help adding mor…",
+      "url": "https://www.wqad.com/article/news/local/the-current/new-interactive-story-map-digital-lgbtq-history-quad-cities-people-places-moments-davenport-west-end-rock-island/526-e24c9e44-ed4e-4b15-981d-45322c264a2c",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c2295594-6f42-4783-8be5-226ca50202ef/20260930T234334/c2295594-6f42-4783-8be5-226ca50202ef_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Wet September rain delays harvest and raises costs for Quad Cities area farmers",
+      "summary": "It's been the wettest September since 2020. That can translate into a delayed harvest, lost yields, compacted soil and deteriorating mental health for local far…",
+      "url": "https://www.wqad.com/article/news/agriculture/wet-september-harvest-delay-corn-soybean-moisture-soil-compact-farmer-mental-health-iowa-state-university-extension/526-79039651-82dd-4354-9fbb-dae0170247f2",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/0e670b86-a990-4166-a288-1bc30779959a/20260930T232456/0e670b86-a990-4166-a288-1bc30779959a_750x422.jpg",
+      "category": "agriculture"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC investor group acquires Happy Joe's",
+      "summary": "A group of Quad Cities investors has acquired Happy Joe's Pizza &#38; Ice Cream, including the brand's franchising company and its three company-owned restauran…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-investor-group-acquires-happy-joes/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/02/Happy-Joes.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Muscatine Parks and Recreation Department seeking volunteers for Halloween at Kent Stein Park event",
+      "summary": "A haunted night at Muscatine's Kent Stein Park is set to bring Halloween fun on Saturday, Oct. 24.",
+      "url": "https://www.wqad.com/article/news/local/halloween-at-kent-stein-park-in-muscatine/526-d7b32dd5-0c4c-4459-aba0-ca7df45dc821",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e6716a7d-c548-41ab-affe-bdd139195e58/20260930T222745/e6716a7d-c548-41ab-affe-bdd139195e58_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WQAD",
@@ -52,86 +129,9 @@
       "headline": "Funeral procession announced for former Davenport fire chief",
       "summary": "The funeral procession for former Davenport Fire Chief Mark Frese will be held Thursday, Oct. 1 and is open to the public.",
       "url": "https://www.wqad.com/article/news/community/funeral-procession-announced-for-former-davenport-fire-chief/526-155b95ec-a0e6-4e62-aec8-22ead9b2b147",
-      "time": "4 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f/20260925T193236/e5d2c8f7-2d7a-4636-8eda-bee9d8abf90f_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rotary Club of Rock Island plans pancake breakfast fundraiser",
-      "summary": "The Rotary Club of Rock Island invites the community to start their Saturday with a hearty breakfast while supporting local community service projects at its up…",
-      "url": "https://www.ourquadcities.com/news/local-news/rotary-club-of-rock-island-plans-pancake-breakfast-fundraiser/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/11/GettyImages-522241854.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Heavy rain expected for the Quad Cities",
-      "summary": "A storm system will bring another round of moderate to heavy rain to the Quad Cities today through Thursday night. High today and tomorrow will be around 70° th…",
-      "url": "https://www.ourquadcities.com/news/local-news/heavy-rain-expected-for-the-quad-cities/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/flood-watch.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf Community Band plans concert in DeWitt",
-      "summary": "At 3 p.m. Saturday, Oct. 17, the Bettendorf Community Band – a partner of the BettendorfParks &#38; Recreation Department and endorsed by the City of Bettendorf…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-community-band-plans-concert-in-dewitt/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/03/Bettendorf-Community-Band.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bally's Quad Cities adds new comedy series",
-      "summary": "Bally’s Quad Cities Casino &#38; Hotel, Rock Island, will add a new reason to spend a night out with the debut of a new comedy series beginning Oct. 9 and 10, a…",
-      "url": "https://www.ourquadcities.com/news/local-news/ballys-quad-cities-adds-new-comedy-series/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/Ballys7.png?w=858",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa veteran completes 375-mile walk across state to raise awareness for mental health",
-      "summary": "Darrian Schwenke, an Army Special Forces veteran, called the journey Project Course of Action, combining his experience with mental health and his love of golf.",
-      "url": "https://www.wqad.com/article/news/local/iowa-veteran-completes-375-mile-walk-across-state-mental-healt-awareness/526-a7d25b68-b77d-4b0d-b9f4-04fb25ba41a4",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/eaf069c1-ebac-4ecd-8190-7941585ba943/20260930T030845/eaf069c1-ebac-4ecd-8190-7941585ba943_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "What's ahead for local arts in the QCA?",
-      "summary": "The future of local arts was the center of a discussion in Rock Island. Quad City Arts hosted a working session at its gallery with Arts Alliance Illinois. Arti…",
-      "url": "https://www.ourquadcities.com/news/local-news/whats-ahead-for-local-arts-in-the-qca/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_1417a0.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Families can have children's fingerprints taken at East Moline Library event",
-      "summary": "From 11 a.m.-1 p.m. Saturday, Oct. 3, families can stop by the East Moline Library and have their children’s fingerprints taken and put in a document that a gua…",
-      "url": "https://www.ourquadcities.com/news/local-news/families-can-have-childrens-fingerprints-taken-at-east-moline-library-event/",
-      "time": "20 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/05/fingerprint-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
