@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T11:32:12.334947+00:00",
-  "total": 27,
+  "generated": "2026-10-02T16:59:21.939950+00:00",
+  "total": 28,
   "events": [
     {
       "id": "vqc_b057b0ed27e2",
@@ -273,6 +273,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185215655%2F810334560543%2F1%2Foriginal.20260522-133443?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.652&fp-y=0.762&s=e74681f2801e697c0623d5b1101933e5",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_3e9478a00ae9",
+      "name": "Bettendorf Parks and Recreation Youth Basketball Clinic",
+      "start": "2026-10-03",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13453&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "vqc_8ebb737fc120",
