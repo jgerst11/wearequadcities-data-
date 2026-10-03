@@ -1,16 +1,104 @@
 {
-  "updated": "2026-10-02T20:24:48.341716+00:00",
+  "updated": "2026-10-03T04:14:20.913629+00:00",
   "items": [
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Resignation, hirings and transfers from Bettendorf School District for Sept. 23",
-      "summary": "The following personnel items are from the Sept. 23 agenda of the Bettendorf Community School District. The School Board met at the Administration Center in Bet…",
-      "url": "https://qctimes.com/news/local/education/article_ff92e53f-57f9-4fb7-80d7-6cc48f4c659c.html",
-      "time": "24 min ago",
-      "image": "",
-      "category": ""
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa City students gear up for ESPN's College Gameday return to campus",
+      "summary": "Saturday marks the show's first visit to Iowa City in 20 years.",
+      "url": "https://www.wqad.com/article/news/local/iowa-city-students-gear-up-espn-college-gameday-campus-return/526-62380433-a231-4dc4-ba2a-d3310848ff4e",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/91f389e0-0707-4f19-a609-b1da597391fa/20261003T030344/91f389e0-0707-4f19-a609-b1da597391fa_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Gov. Reynolds signs MEGA program bill after successful passage during special session",
+      "summary": "Our Des Moines sister station has the latest updates from subcommittee to signature as legislators are tasked with raising the tax incentive cap.",
+      "url": "https://www.wqad.com/article/news/politics/iowa-politics/iowa-special-session-steel-plant-legislature-vote-updates-live-blog/524-62a73ec1-a1d6-4a60-80fc-9bcd6a5b4b12",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/b8abd0c7-34b6-4341-992f-98742b885a7d/20250131T205535/b8abd0c7-34b6-4341-992f-98742b885a7d_750x422.jpg",
+      "category": "iowa-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Swenson Swedish American Research Center hosts symposium on U.S., Swedish elections",
+      "summary": "The 2026 O. Fritiof Ander Symposium brings together scholars, policymakers, and journalists for a public conversation about elections in United States and Swede…",
+      "url": "https://www.ourquadcities.com/news/local-news/swenson-swedish-american-research-center-hosts-symposium-on-u-s-swedish-elections/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/10/Augustana-College.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Cleanup is underway across the Quad Cities after flooding",
+      "summary": "Residents and flood restoration crews have been working around the clock to drain water and repair damage.",
+      "url": "https://www.wqad.com/article/news/community/flooding-heavy-rain-quad-cities-cleanup/526-d6dd027f-1428-4d5c-87ed-93bb2213b1b0",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d932d483-a2da-4896-951f-33097bce59a7/20261002T232651/d932d483-a2da-4896-951f-33097bce59a7_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Family, community members rally to free Iowa City mother facing third-country deportation",
+      "summary": "Fatou Traore was detained on Sept. 24 despite being in the U.S. legally. She is facing deportation to Sierra Leone, a country she has no connection to.",
+      "url": "https://www.wqad.com/article/news/politics/immigration-news/iowa-city-mother-facing-deportation-friday-rally-davenport-iowa/526-bae836a2-181b-4b0c-a9c3-b809c55575b6",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fbcec9ac-801c-483d-bbea-a99806b8e004/20261002T193530/fbcec9ac-801c-483d-bbea-a99806b8e004_750x422.jpg",
+      "category": "immigration-news"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Renowned pianist and Davenport Central alum shares his music with the next generation",
+      "summary": "Pianist Thomas Sauer returned to his old stomping grounds to share his music and his professional journey. Davenport Central High School alum Sauer is back in h…",
+      "url": "https://www.ourquadcities.com/news/local-news/renowned-pianist-and-davenport-central-alum-shares-his-music-with-the-next-generation/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_4c618e.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gallery opening planned for \"The Monster Under My Bed\" exhibition at Quad-City Arts",
+      "summary": "Quad City Arts will present \"The Monster Under My Bed\" - works by 27 regional artists - an exhibition that explores fear, anxiety, and well-being through 38 wor…",
+      "url": "https://www.ourquadcities.com/news/local-news/gallery-opening-planned-for-the-monster-under-my-bed-exhibition-at-quad-city-arts/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Monster-Under-My-Bed-.jpg?w=854",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa DNR investigating fish kill at the Little Maquoketa River in Dubuque County",
+      "summary": "DNR staff identified an animal feeding operation near the tributary as the source of the manure runoff. The amount of manure released is not known at this time.",
+      "url": "https://www.wqad.com/article/news/local/fish-kill-manure-runoff-little-maquoketa-river-dubuque-county-iowa-iowa-dnr-investigation/526-e4ce77bd-459c-45b9-979b-bb08316cbcf8",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WCNC/images/bc3252c5-1869-49e2-a90f-60c08ccc878d/20260804T124943/bc3252c5-1869-49e2-a90f-60c08ccc878d_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "18-year-old arrested after shots fired at Davenport gas station",
+      "summary": "An 18-year-old man faces five felony charges after shots were fired at a vehicle on Brady Street in Davenport.",
+      "url": "https://www.wqad.com/article/news/crime/davenport-police-gas-station-response-thursday-oct-1/526-010350ff-089f-4be8-9883-879b890f47ce",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a1b00b89-485b-40bf-bd9b-213395126a89/20261002T173900/a1b00b89-485b-40bf-bd9b-213395126a89_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +107,7 @@
       "headline": "QCSportsNet Week 7 football preview: Rock Island, Moline & United Township",
       "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Grant Dahlstrom provide your breakdown of Rock Island, Moline and United Township before Week 7 of high school …",
       "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-7-football-preview-rock-island-moline-united-township/",
-      "time": "43 min ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/ED4C035C0F5619B1D4FCF2E680DE0F21_3.jpg?w=900",
       "category": "High School Sports"
     },
@@ -30,7 +118,7 @@
       "headline": "5 years in: What the ‘Home Illinois’ plan reveals about the state of homelessness",
       "summary": "Local homelessness, affordable housing, racial disparities, and the planned solution.",
       "url": "https://www.wqad.com/article/news/state/5-years-in-what-home-illinois-plan-reveals-state-homelessness-capitol-news/526-18bb9c70-143a-4583-bf14-cbbecee9487e",
-      "time": "48 min ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e652fca6-a578-4655-9769-3e43ddf08eff/20261002T192646/e652fca6-a578-4655-9769-3e43ddf08eff_750x422.jpg",
       "category": "state"
     },
@@ -41,97 +129,9 @@
       "headline": "Enjoy creepy fun at Spooky Spectacular & Candy Crawl",
       "summary": "Families can enjoy Halloween fun at the Spooky Spectacular &#38; Candy Crawl on October 24! According to a release, the Downtown Davenport Partnership invites y…",
       "url": "https://www.ourquadcities.com/news/local-news/enjoy-creepy-fun-at-spooky-spectacular-candy-crawl/",
-      "time": "1 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_815e13.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "One Phone Call Covers Windows, Siding, Doors and Gutters in Quad Cities",
-      "summary": "Photo provided by Suburban Construction",
-      "url": "https://qctimes.com/places/content/article_506c9fca-104e-4617-9b0d-3b50c9ff1438.html",
-      "time": "1 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport man arrested after gunfire near Roger Craig Stadium",
-      "summary": "An 18-year-old man from Davenport is being held on a $100,000 cash-only bond after he was arrested in connection with a large police presence near Roger Craig S…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-arrested-in-connection-with-shooting-near-roger-craig-stadium/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Jeramiah-Rivera-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa DNR investigating fish kill at the Little Maquoketa River in Dubuque County",
-      "summary": "DNR staff identified an animal feeding operation near the tributary as the source of the manure runoff. The amount of manure released is not known at this time.",
-      "url": "https://www.wqad.com/article/news/local/fish-kill-manure-runoff-little-maquoketa-river-dubuque-county-iowa-iowa-dnr-investigation/526-e4ce77bd-459c-45b9-979b-bb08316cbcf8",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/bc3252c5-1869-49e2-a90f-60c08ccc878d/20260804T124943/bc3252c5-1869-49e2-a90f-60c08ccc878d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_d68ff79f-129a-4836-8ea1-c2e5c64915d8.html",
-      "time": "1 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "With just over a month until Iowa picks its next governor, Lahn and Sand make final campaign pushes",
-      "summary": "With just 34 days until the Iowa governor race decision, Rob Sand and Zach Lahn spoke with voters on key state concerns.",
-      "url": "https://www.wqad.com/article/news/politics/elections/month-until-iowa-picks-next-governor-lahn-sand-final-campaign-pushes/524-60a11cfa-3f21-4118-b940-445170caf374",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/e01c8b21-02ad-4bb5-b517-fc3ecd25f204/20261001T025650/e01c8b21-02ad-4bb5-b517-fc3ecd25f204_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa lawmakers question rush to approve $1B in tax incentives for Mesabi steel plant",
-      "summary": "As Iowa lawmakers convene at the Capitol for a special session on a $15 billion steel plant proposal, concerns mount over $1 billion in tax incentives.",
-      "url": "https://www.wqad.com/article/news/politics/iowa-politics/iowa-lawmakers-question-tax-incentives-mesabi-steel-plant-special-session/524-2aa2b6a9-a093-463b-ae77-8f1f5f930cf3",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ae71c19d-96fd-4cab-99c0-b4dc2027642e/20250306T220739/ae71c19d-96fd-4cab-99c0-b4dc2027642e_750x422.jpg",
-      "category": "iowa-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Legislators head to Iowa Capitol to vote on raising tax incentive cap for $15B steel plant",
-      "summary": "Officials say the change to Iowa's MEGA program is needed to secure a $15 billion steel plant project for the state.",
-      "url": "https://www.wqad.com/article/news/politics/iowa-politics/iowa-special-session-tax-incentive-cap-steel-plant/524-01994e9f-86ce-4ec8-b4b5-e06ac9dcf9a3",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/7ba7d7bb-d7d8-4875-a694-5f20479ac6d5/20261002T041509/7ba7d7bb-d7d8-4875-a694-5f20479ac6d5_750x422.jpg",
-      "category": "iowa-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "LIVE BLOG: Iowa legislature in special session to amend MEGA program",
-      "summary": "Our Des Moines sister station has the latest updates from subcommittee to signature as legislators are tasked with raising the tax incentive cap.",
-      "url": "https://www.wqad.com/article/news/politics/iowa-politics/iowa-special-session-steel-plant-legislature-vote-updates-live-blog/524-62a73ec1-a1d6-4a60-80fc-9bcd6a5b4b12",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b8abd0c7-34b6-4341-992f-98742b885a7d/20250131T205535/b8abd0c7-34b6-4341-992f-98742b885a7d_750x422.jpg",
-      "category": "iowa-politics"
     }
   ]
 }
