@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-03T19:03:33.789123+00:00",
+  "updated": "2026-10-03T22:43:41.426652+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Frozen berries recalled in Iowa and Illinois amid possible E. coli contamination",
+      "summary": "Great Value's frozen Organic Triple Berry Blend, Organic Blueberries 10 OZ, and Trader Joe’s frozen Organic Mixed Berry Blend were recalled.",
+      "url": "https://www.ourquadcities.com/news/local-news/frozen-berries-recalled-in-iowa-and-illinois-amid-possible-e-coli-contamination/",
+      "time": "56 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_5bb003.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "No injures reported following early morning Bettendorf fire",
+      "summary": "No injuries to occupants or firefighters were reported following a Bettendorf fire. According to a release from the City of Bettendorf, the Bettendorf Fire Depa…",
+      "url": "https://www.ourquadcities.com/news/local-news/no-one-injured-reported-following-early-morning-bettendorf-fire/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fire-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "No injuries in early-morning residential fire in Bettendorf",
+      "summary": "Authorities say a residential fire in Bettendorf early Saturday caused approximately $40,000 in damage.",
+      "url": "https://www.wqad.com/article/news/community/no-injuries-in-early-morning-residential-fire-in-bettendorf/526-2e51b30b-4fc5-4031-8cb0-4f905ffff354",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
+      "category": "community"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +41,7 @@
       "headline": "Back from the Dead returns to Rock Island",
       "summary": "You can enjoy a full day of Halloween fun, eerie adventures and experiences across Rock Island! According to a release from the Quad Cities Chamber, the Rock Is…",
       "url": "https://www.ourquadcities.com/news/local-news/back-from-the-dead-returns-to-rock-island/",
-      "time": "50 min ago",
+      "time": "4 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Back-from-the-Dead.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +52,7 @@
       "headline": "Tree education session will be held in Riverside Cemetery, Moline",
       "summary": "The City of Moline Parks and Recreation Department and Moline Community Development Corporation will partner for the second year to invite residents, homeowners…",
       "url": "https://www.ourquadcities.com/news/local-news/tree-education-session-will-be-held-in-riverside-cemetery-moline/",
-      "time": "4 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Maple-Leaf-Tree-With-Red-Leaves.jpg?w=900",
       "category": "Local News"
     },
@@ -30,8 +63,8 @@
       "headline": "Muscatine invites residents to join in the Healthiest State Walk",
       "summary": "Iowans across the state will take part in the 16th Annual Healthiest State Walk on Wednesday, Oct. 7, in a statewide initiative encouraging residents to step ou…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-invites-residents-to-join-in-the-healthiest-state-walk/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/walk-.jpg?w=860",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/Iowas-Healthiest-State-Initiative-Walk.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,8 +74,19 @@
       "headline": "Comedian Dale Jones will bring comedy show to Rhythm City, Davenport",
       "summary": "Comedian Dale Jones will perform Saturday, Nov. 14, at the Rhythm City Casino, 7077 Elmore Ave., Davenport, a news release says. Tickets are available online he…",
       "url": "https://www.ourquadcities.com/news/local-news/comedian-dale-jones-will-bring-comedy-show-to-rhythm-city-davenport/",
-      "time": "7 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/Dale-Jones.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Citizens First Bank, Morrison, announces branch manager for new location",
+      "summary": "Citizens First Bank has announced that Kristine Wiersema has been named branch manager of the bank’s new Morrison, Illinois, location. She will continue in her …",
+      "url": "https://www.ourquadcities.com/news/local-news/citizens-first-bank-morrison-announces-branch-manger-for-new-location/",
+      "time": "11 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Kristine-Wiersema-1.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,7 +96,7 @@
       "headline": "Iowa City students gear up for ESPN's College Gameday return to campus",
       "summary": "Saturday marks the show's first visit to Iowa City in 20 years.",
       "url": "https://www.wqad.com/article/news/local/iowa-city-students-gear-up-espn-college-gameday-campus-return/526-62380433-a231-4dc4-ba2a-d3310848ff4e",
-      "time": "15 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/91f389e0-0707-4f19-a609-b1da597391fa/20261003T030344/91f389e0-0707-4f19-a609-b1da597391fa_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +107,7 @@
       "headline": "Gov. Reynolds signs MEGA program bill after successful passage during special session",
       "summary": "Our Des Moines sister station has the latest updates from subcommittee to signature as legislators are tasked with raising the tax incentive cap.",
       "url": "https://www.wqad.com/article/news/politics/iowa-politics/iowa-special-session-steel-plant-legislature-vote-updates-live-blog/524-62a73ec1-a1d6-4a60-80fc-9bcd6a5b4b12",
-      "time": "15 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/b8abd0c7-34b6-4341-992f-98742b885a7d/20250131T205535/b8abd0c7-34b6-4341-992f-98742b885a7d_750x422.jpg",
       "category": "iowa-politics"
     },
@@ -74,7 +118,7 @@
       "headline": "Top 15 showdown in Iowa City, #14 Iowa hosts #5 Ohio State",
       "summary": "The leaves are finally starting to turn from a lush green to crunchy red and yellow. With it comes fall weather and Big Ten football. The season is young, only …",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/top-15-showdown-in-iowa-city-14-iowa-hosts-5-ohio-state/",
-      "time": "19 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2297314617.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -85,53 +129,9 @@
       "headline": "Cleanup is underway across the Quad Cities after flooding",
       "summary": "Residents and flood restoration crews have been working around the clock to drain water and repair damage.",
       "url": "https://www.wqad.com/article/news/community/flooding-heavy-rain-quad-cities-cleanup/526-d6dd027f-1428-4d5c-87ed-93bb2213b1b0",
-      "time": "19 h ago",
+      "time": "23 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d932d483-a2da-4896-951f-33097bce59a7/20261002T232651/d932d483-a2da-4896-951f-33097bce59a7_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Family, community members rally to free Iowa City mother facing third-country deportation",
-      "summary": "Fatou Traore was detained on Sept. 24 despite being in the U.S. legally. She is facing deportation to Sierra Leone, a country she has no connection to.",
-      "url": "https://www.wqad.com/article/news/politics/immigration-news/iowa-city-mother-facing-deportation-friday-rally-davenport-iowa/526-bae836a2-181b-4b0c-a9c3-b809c55575b6",
-      "time": "19 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fbcec9ac-801c-483d-bbea-a99806b8e004/20261002T193530/fbcec9ac-801c-483d-bbea-a99806b8e004_750x422.jpg",
-      "category": "immigration-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa DNR investigating fish kill at the Little Maquoketa River in Dubuque County",
-      "summary": "DNR staff identified an animal feeding operation near the tributary as the source of the manure runoff. The amount of manure released is not known at this time.",
-      "url": "https://www.wqad.com/article/news/local/fish-kill-manure-runoff-little-maquoketa-river-dubuque-county-iowa-iowa-dnr-investigation/526-e4ce77bd-459c-45b9-979b-bb08316cbcf8",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/bc3252c5-1869-49e2-a90f-60c08ccc878d/20260804T124943/bc3252c5-1869-49e2-a90f-60c08ccc878d_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "18-year-old arrested after shots fired at Davenport gas station",
-      "summary": "An 18-year-old man faces five felony charges after shots were fired at a vehicle on Brady Street in Davenport.",
-      "url": "https://www.wqad.com/article/news/crime/davenport-police-gas-station-response-thursday-oct-1/526-010350ff-089f-4be8-9883-879b890f47ce",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a1b00b89-485b-40bf-bd9b-213395126a89/20261002T173900/a1b00b89-485b-40bf-bd9b-213395126a89_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "5 years in: What the ‘Home Illinois’ plan reveals about the state of homelessness",
-      "summary": "Local homelessness, affordable housing, racial disparities, and the planned solution.",
-      "url": "https://www.wqad.com/article/news/state/5-years-in-what-home-illinois-plan-reveals-state-homelessness-capitol-news/526-18bb9c70-143a-4583-bf14-cbbecee9487e",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e652fca6-a578-4655-9769-3e43ddf08eff/20261002T192646/e652fca6-a578-4655-9769-3e43ddf08eff_750x422.jpg",
-      "category": "state"
     }
   ]
 }
