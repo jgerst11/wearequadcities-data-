@@ -1,16 +1,71 @@
 {
-  "updated": "2026-10-05T04:34:09.593157+00:00",
+  "updated": "2026-10-05T16:53:02.384854+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "45 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Enjoy Halloween fun at Witches Night Out",
-      "summary": "Enjoy a witchy night out in Downtown Moline! According to a release, Moline Centre is hosting its first-ever Witches Night Out October 30. The event brings Hall…",
-      "url": "https://www.ourquadcities.com/news/local-news/enjoy-halloween-fun-at-witches-night-out/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_27e9a1.png?w=900",
+      "headline": "Former Davenport Wonder Bread factory to be demolished",
+      "summary": "Changes are coming to River Drive in Davenport as a long-time landmark will soon be demolished. A post on Davenport Alderman John Blunk’s Facebook page says the…",
+      "url": "https://www.ourquadcities.com/news/local-news/former-davenport-wonder-bread-factory-to-be-demolished/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Wonder-Plant-Continental-Apt-1.png?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Public invited to share comments, see plans at Centennial Bridge meeting",
+      "summary": "The Illinois and Iowa Departments of Transportation invite the public to attend an open house for the U.S. 67 (Centennial Bridge) corridor study from 3-6 p.m. W…",
+      "url": "https://www.ourquadcities.com/news/local-news/public-invited-to-share-comments-see-plans-at-centennial-bridge-meeting/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Centennial-Bridge-GENERIC-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport Speedway plans to double down on action at end of 2026 season",
+      "summary": "Davenport Speedway is set to double down as it closes out the 2026 season. The two-night Davenport Dirt Stars event will be held Oct. 9-10. Racing on both night…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-speedway-plans-to-double-down-on-action-at-end-of-2026-season/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Augustana chooses first assistant vice president for impact learning",
+      "summary": "Augustana College, Rock Island, has selected Quad Cities strategic leader and 2002 alumna Angela Snyder to serve as its first assistant vice president for impac…",
+      "url": "https://www.ourquadcities.com/news/local-news/augustana-chooses-first-assistant-vice-presi/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Angela-Snyder.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "No injuries in early-morning residential fire in Bettendorf",
+      "summary": "Authorities say a residential fire in Bettendorf early Saturday caused approximately $40,000 in damage.",
+      "url": "https://www.wqad.com/article/news/community/no-injuries-in-early-morning-residential-fire-in-bettendorf/526-2e51b30b-4fc5-4031-8cb0-4f905ffff354",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WQAD",
@@ -19,9 +74,42 @@
       "headline": "Muscatine open house brings families and first responders together",
       "summary": "Muscatine families learned fire safety, practiced CPR and met first responders at a city open house aimed at building community connections after a difficult su…",
       "url": "https://www.wqad.com/article/news/community/muscatine-open-house-brings-families-and-first-responders-together/526-d603f93c-7639-4461-abe3-d8e7d60db014",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c7556662-6cce-435c-80ac-744efa08ea27/20261004T234549/c7556662-6cce-435c-80ac-744efa08ea27_750x422.jpg",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c7556662-6cce-435c-80ac-744efa08ea27/20261005T102639/c7556662-6cce-435c-80ac-744efa08ea27_750x422.jpg",
       "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Free heart health screenings offered at Trinity in Rock Island",
+      "summary": "Heart to Heart Day at UnityPoint Trinity in Rock Island offered free heart health screenings Saturday, reminding the community about prevention and regular chec…",
+      "url": "https://www.wqad.com/article/news/local/heart-health-screenings-at-trinity-in-rock-island/526-d958591b-583f-444a-b3a4-14d408855224",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c3c297a3-9dfb-4854-ba47-c377929287b6/20261005T102545/c3c297a3-9dfb-4854-ba47-c377929287b6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Retired Deere employee still comes to work as tour guide at Iowa facility",
+      "summary": "There's more to the story of John Deere ... and a longtime employee at the plant in Ankeny, Iowa, is there to share it with visitors. Roger Riley has the story …",
+      "url": "https://www.ourquadcities.com/news/local-news/retired-deere-employee-still-comes-to-work-as-tour-guide-at-iowa-facility/",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_8cd088.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Behind The Scenes: Big Ten on CBS",
+      "summary": "Lights, camera, action! A live sports broadcast has many moving parts. For the Iowa-Ohio State game, the Big Ten on CBS crew was tasked with putting together th…",
+      "url": "https://www.ourquadcities.com/sports/local-sports/behind-the-scenes-big-ten-on-cbs/",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/cbs-sports.png?w=590",
+      "category": "Local Sports"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,7 +118,7 @@
       "headline": "2 suspects face charges in connection with fake cell-phone scam at Iowa Walmart",
       "summary": "One man has been arrested and a warrant has been issued for the arrest of another after a scam that occurred at a Walmart in West Burlington earlier this year, …",
       "url": "https://www.ourquadcities.com/news/local-news/2-suspects-face-charges-in-connection-with-fake-cell-phone-scam-at-iowa-walmart/",
-      "time": "4 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/cellphone-GENERIC-cell-phone-phones-4.jpg?w=900",
       "category": "Local News"
     },
@@ -41,97 +129,9 @@
       "headline": "Eastern Iowa Community Colleges to receive $817K workforce training grant",
       "summary": "The funding will help launch or enhance 11 training programs expected to serve 362 students.",
       "url": "https://www.wqad.com/article/news/education/eastern-iowa-community-colleges-to-receive-817k-grant/526-43e3de3e-3ddd-4664-a15d-f063de740fac",
-      "time": "6 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d20d4e1e-dfbf-4986-976a-32fdee03d6b4/20250128T171946/d20d4e1e-dfbf-4986-976a-32fdee03d6b4_750x422.jpg",
       "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Water main rupture causes Monmouth road closure",
-      "summary": "It's an Our Quad Cities News traffic alert. A road closure is in effect for the intersection of N. 6th St. and Highway 34 in Monmouth. According to a release fr…",
-      "url": "https://www.ourquadcities.com/news/local-news/water-main-rupture-causes-monmouth-road-closure/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois police arrest teens, charge parent after fight involving nearly 250 teens at Raising Cane's",
-      "summary": "Multiple fights broke out after a high school football game when hundreds of teens gathered near businesses like Raising Cane's and Taco Bell.",
-      "url": "https://www.wqad.com/article/news/nation-world/illinois-police-arrest-teens-charge-parent-after-fight/507-cc4c8b86-bd5b-48f6-931a-ff6dae372812",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/702b1556-1b6d-48fd-8d2c-6e436b775bc4/20261004T031721/702b1556-1b6d-48fd-8d2c-6e436b775bc4_750x422.jpg",
-      "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Free heart health screenings offered at Trinity in Rock Island",
-      "summary": "Heart to Heart Day at UnityPoint Trinity in Rock Island offered free heart health screenings Saturday, reminding the community about prevention and regular chec…",
-      "url": "https://www.wqad.com/article/news/local/heart-health-screenings-at-trinity-in-rock-island/526-d958591b-583f-444a-b3a4-14d408855224",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c3c297a3-9dfb-4854-ba47-c377929287b6/20261004T013642/c3c297a3-9dfb-4854-ba47-c377929287b6_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former Wonder Bread factory building in Davenport set for demolition",
-      "summary": "According to Davenport Alderman John Blunk, the former Wonder Bread bakery on East River Drive is slated for demolition.",
-      "url": "https://www.wqad.com/article/news/local/former-wonder-bread-factory-building-in-davenport-set-for-demolition/526-1f008ec7-30b0-4973-86fb-bdf88bdc2f2c",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ff8befc0-f0f4-48b4-8138-11e5ba638021/20261004T011240/ff8befc0-f0f4-48b4-8138-11e5ba638021_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Crews knock down garage fire in Silvis",
-      "summary": "No injuries were reported Saturday as firefighters responded to flames in a garage in Silvis.",
-      "url": "https://www.wqad.com/article/news/community/crews-knock-down-garage-fire-in-silvis/526-479ab640-0ae0-4b41-a0e3-83e941609b11",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c1c2fcbf-fdb4-41ec-9ec0-cf9d85ec022b/20261003T235107/c1c2fcbf-fdb4-41ec-9ec0-cf9d85ec022b_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'If you're going to beat a team like that, you've got to play clean': Buckeyes too much for Hawkeyes",
-      "summary": "Julian Sayin threw for 324 yards and three touchdowns, two to Jeremiah Smith, and No. 5 Ohio State beat No. 14 Iowa 31-14 on Saturday. Sayin was 20-of-27 passin…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/if-youre-going-to-beat-a-team-like-that-youve-got-to-play-clean-buckeyes-too-much-for-hawkeyes/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26276766382127.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Frozen berries recalled in Iowa and Illinois amid possible E. coli contamination",
-      "summary": "Great Value's frozen Organic Triple Berry Blend, Organic Blueberries 10 OZ, and Trader Joe’s frozen Organic Mixed Berry Blend were recalled.",
-      "url": "https://www.ourquadcities.com/news/local-news/frozen-berries-recalled-in-iowa-and-illinois-amid-possible-e-coli-contamination/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_5bb003.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "No injures reported following early morning Bettendorf fire",
-      "summary": "No injuries to occupants or firefighters were reported following a Bettendorf fire. According to a release from the City of Bettendorf, the Bettendorf Fire Depa…",
-      "url": "https://www.ourquadcities.com/news/local-news/no-one-injured-reported-following-early-morning-bettendorf-fire/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fire-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
