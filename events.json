@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T12:57:35.058076+00:00",
-  "total": 17,
+  "generated": "2026-10-05T23:27:58.547963+00:00",
+  "total": 18,
   "events": [
     {
       "id": "vqc_31fdcb99d807",
@@ -147,8 +147,8 @@
       "source": "visitquadcities.com"
     },
     {
-      "id": "vqc_f92c9073dbf8",
-      "name": "Riverboat Twilight 2 Day Cruise",
+      "id": "vqc_abd308985859",
+      "name": "Fall Snapshot",
       "start": "2026-10-06",
       "end": "",
       "venue": "",
@@ -157,7 +157,7 @@
       "state": "",
       "category": "Events",
       "description": "",
-      "url": "https://visitquadcities.com/calendarembed/event?eventid=11765&sort_cat=",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13103&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
@@ -241,6 +241,22 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F704163809%2F1791475193273%2F1%2Foriginal.20240223-230751?w=351&auto=format%2Ccompress&q=75&sharp=10&s=6d4fccf0e5767d238100bf090c586f52",
       "is_free": false,
       "source": "eventbrite.com"
+    },
+    {
+      "id": "vqc_f92c9073dbf8",
+      "name": "Riverboat Twilight 2 Day Cruise",
+      "start": "2026-10-07",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=11765&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
     },
     {
       "id": "eb_a411a581566e",
