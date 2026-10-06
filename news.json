@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-06T01:10:37.315367+00:00",
+  "updated": "2026-10-06T11:04:09.577954+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Eldridge finalizes creation of new city-run fire department",
+      "summary": "The previously volunteer fire company will officially become a city department in January.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-finalizes-new-city-fire-department/526-4e8883ed-c2de-49ec-81d1-c9d89400e8f9",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/78b0459e-7e55-4660-a6f3-d9f1fedb8f49/20261006T030436/78b0459e-7e55-4660-a6f3-d9f1fedb8f49_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island names interim fire chief",
+      "summary": "Battalion Chief Brandon Baker will serve as interim fire chief while Rock Island searches for a new full-time chief and deputy chief for the department.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-brandon-baker-interim-fire-chief/526-02726f75-d451-4e16-ba9b-2c51413d79d0",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f5105088-a7c1-4c98-9e19-a10877737fce/20261005T210617/f5105088-a7c1-4c98-9e19-a10877737fce_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Eldridge approves fire department merger with city",
+      "summary": "After more than a year of heated debate, on Monday the Eldridge City Council approved a merger of its volunteer fire department and the city. \"For the fire depa…",
+      "url": "https://www.ourquadcities.com/news/local-news/eldridge-approves-fire-department-merger-with-city/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/Eldridge-Fire-Department-is-finally-a-city-entity.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Scott County Health Dept: Now is the time to get your flu vaccine",
+      "summary": "Flu season is about ready to ramp up, so the Scott County Health Department is getting the word out: Now is the time to get vaccinated. Health officials say any…",
+      "url": "https://www.ourquadcities.com/uncategorized/scott-county-health-dept-now-is-the-time-to-get-your-flu-vaccine/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/flu-vaccine-shot-e1788429975793.jpg?w=900",
+      "category": "Uncategorized"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "INTERVIEW: Illinois residents can dispose of household waste at RICO Fairgrounds event",
+      "summary": "Illinois residents can dispose of household waste safely this weekend at a collection event at the Rock Island County Fairgrounds. Sarah Bambas from the Rock Is…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-residents-can-get-rid-of-household-waste-at-rico-fairgrounds-event/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Rock-Island-County.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,20 +63,9 @@
       "headline": "The Grinders & Spaghetti House in Moline burglarized",
       "summary": "Security footage shows a pair of suspects stealing parts and copper from the restaurant's HVAC units.",
       "url": "https://www.wqad.com/article/news/crime/the-grinders-and-spaghetti-house-moline-illinois-burglarized/526-84b2eadc-34ed-4ccd-a328-848de3484f6f",
-      "time": "8 min ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f279153f-2be5-4fe4-a59f-ce631a232cab/20261006T005756/f279153f-2be5-4fe4-a59f-ce631a232cab_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Former Wonder Bread building in Davenport will be demolished",
-      "summary": "The former Wonder Bread building in Davenport will be demolished, according to Alderman John Blunk on a Facebook post. The building on East River Drive dates ba…",
-      "url": "https://www.ourquadcities.com/news/local-news/former-wonder-bread-building-in-davenport-will-be-demolished/",
-      "time": "39 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Wonder-Bread-building-.jpg?w=562",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -30,7 +74,7 @@
       "headline": "Davenport City Council will approve appointment to fill 2nd Ward vacancy",
       "summary": "According to the agenda, the Davenport City Council will approve an appointment to fill the vacancy in the Second Ward City Council seat at its Wednesday, Oct. …",
       "url": "https://www.ourquadcities.com/news/local-news/davenport-city-council-will-approve-appointment-to-fill-2nd-ward-vacancy/",
-      "time": "51 min ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/Davenport-City-Hall.jpg?w=900",
       "category": "Local News"
     },
@@ -41,31 +85,9 @@
       "headline": "Free Iowa hotline connects farmers, families with mental health resources",
       "summary": "\"Iowa Concern\" is a free, confidential and 24/7 hotline for any Iowa resident. But with recent harvest delays, program leaders are highlighting its help for far…",
       "url": "https://www.wqad.com/article/news/local/the-current/iowa-concern-hotline-free-farmer-mental-health-confidential-therapy-resources/526-3becd7cd-eac4-44c8-83ab-8381365942a9",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0e670b86-a990-4166-a288-1bc30779959a/20260930T232456/0e670b86-a990-4166-a288-1bc30779959a_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bright blue skies highlight the QC forecast this week",
-      "summary": "Enjoying the weather lately? things look good for the rest of the week also! We'll see more sunshine this week with cool overnight lows near 50° and highs in th…",
-      "url": "https://www.ourquadcities.com/news/local-news/bright-blue-skies-highlight-the-qc-forecast-this-week/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/blank-image-2.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Tapestry Farms plans Harvest Moon Celebration in Davenport",
-      "summary": "Tapestry Farms invites the community to gather under the autumn sky for the second annual Harvest Moon Celebration, an evening of music and traditional Arabic s…",
-      "url": "https://www.ourquadcities.com/news/local-news/tapestry-farms-plans-harvest-moon-celebration-in-davenport/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/10/TF3.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -74,7 +96,7 @@
       "headline": "Brandon Baker named Rock Island interim fire chief",
       "summary": "Rock Island City Manager Todd Thompson has appointed Deputy Fire Chief Brandon Baker as Interim Fire Chief, a news release says. He replaces Fire Chief Bob Graf…",
       "url": "https://www.ourquadcities.com/news/local-news/brandon-baker-named-rock-island-interim-fire-chief/",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Rock-Island-Fire-Chief-Brandon-Baker-.jpg?w=869",
       "category": "Local News"
     },
@@ -85,7 +107,7 @@
       "headline": "Davenport City Administrator Tim Gleason resigns",
       "summary": "Gleason officially became city administrator in February after serving in the interim role since November 2025.",
       "url": "https://www.wqad.com/article/news/local/davenport-city-administrator-resigns-tim-gleason/526-eff76895-9f92-4d0c-b321-aac9168245a8",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b5102369-2239-415a-ac8f-a7b83dc4ba2b/20261005T221835/b5102369-2239-415a-ac8f-a7b83dc4ba2b_750x422.jpg",
       "category": "local"
     },
@@ -96,7 +118,7 @@
       "headline": "Davenport City Administrator Tim Gleason resigns",
       "summary": "The City of Davenport has accepted City Administrator Tim Gleason’s resignation \"to pursue other professional opportunities,\" according to a news release from t…",
       "url": "https://www.ourquadcities.com/news/local-news/davenport-city-administrator-tim-gleason-resigns/",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/Tim-Gleason-1.jpg?w=900",
       "category": "Local News"
     },
@@ -107,31 +129,9 @@
       "headline": "2 teens arrested after shots fired in Grand Mound",
       "summary": "Clinton County deputies were called to the 400 block of Fulton Street around 3:30 a.m. on Sunday, Oct. 4, after receiving reports of shots being fired.",
       "url": "https://www.wqad.com/article/news/crime/shots-fired-grand-mound-iowa-clinton-county-sheriffs-office-arrests/526-fdaa1708-9299-4f8a-8a04-b4ac3b7e0b1e",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa90f313-af64-4c54-8330-b9964f04dfb8/fa90f313-af64-4c54-8330-b9964f04dfb8_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island names interim fire chief",
-      "summary": "Battalion Chief Brandon Baker will serve as interim fire chief while Rock Island searches for a new full-time chief and deputy chief for the department.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-brandon-baker-interim-fire-chief/526-02726f75-d451-4e16-ba9b-2c51413d79d0",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f5105088-a7c1-4c98-9e19-a10877737fce/20261005T210617/f5105088-a7c1-4c98-9e19-a10877737fce_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Report: New data centers could create more than 120K Illinois jobs, though mostly temporary",
-      "summary": "Energy and environmental advocates remain skeptical that data centers will provide significant and lasting benefits.",
-      "url": "https://www.wqad.com/article/money/economy/data-centers-could-create-more-than-120k-illinois-jobs/526-0e89dabe-31dd-4f31-93cd-4fcdfc506528",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c27ecc75-2ad8-471a-888d-782d32e3022d/20261001T185303/c27ecc75-2ad8-471a-888d-782d32e3022d_750x422.jpg",
-      "category": "economy"
     }
   ]
 }
