@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-07T04:48:44.765210+00:00",
+  "updated": "2026-10-07T21:03:23.769861+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "WIU named to Princeton Review's 'Best Colleges' list",
+      "summary": "For the 22nd consecutive year, Western Illinois University has made Princeton Review's 'Best Colleges' list.",
+      "url": "https://www.wqad.com/article/news/local/wiu-named-to-princeton-reviews-best-colleges-list/526-b0d47eab-9fef-479c-867c-1bb6ff79ccf0",
+      "time": "24 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fd3dca07-3cdd-44da-b599-63be741cd206/20251104T224540/fd3dca07-3cdd-44da-b599-63be741cd206_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Orpheum Theatre warns of ticket selling scams",
+      "summary": "The Orpheum Theatre in Galesburg is warning patrons to be on the alert for ticket scams and unauthorized third-party reseller activity targeting its upcoming sh…",
+      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-warns-of-ticket-selling-scams/",
+      "time": "41 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_c91d88.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "The Price is Right Live coming to Adler Theatre",
+      "summary": "Fans of The Price Is Right will have the chance to experience the game show in person and hear the classic call, \"Come on down!\"",
+      "url": "https://www.wqad.com/article/news/local/price-is-right-live-coming-adler-theatre/526-a5cf781e-c629-472c-8713-bc2d19fe9358",
+      "time": "54 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f46238d4-6400-4f24-96d2-e207dc4b1fd4/20261007T200316/f46238d4-6400-4f24-96d2-e207dc4b1fd4_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "The Orpheum Theatre in Galesburg warning community members about online ticket scams",
+      "summary": "Theatre officials said they're seeing inflated ticket prices topping $1,700 on resale websites, as well as scammers directly targeting buyers on social media.",
+      "url": "https://www.wqad.com/article/news/local/galesburgs-orpheum-theatre-warning-online-ticket-scams/526-5689328c-36e8-4ad1-b11c-e49e4f119680",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a9549536-1819-473f-bdc0-748ed177ec76/a9549536-1819-473f-bdc0-748ed177ec76_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport man arrested in connection with damage at Grinders & Spaghetti House",
+      "summary": "Police in Moline have made an arrest in connection with burglary and damage at The Grinders &#38; Spaghetti House on Oct. 2. A news release from the department …",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-arrested-in-connection-with-damage-at-grinders-spaghetti-house/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Chad-McDermott-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Grace Period Voting starts in Henry County for Nov. 3 election",
+      "summary": "There’s still time to get registered to vote in the November 3 General Election in Henry County. A news release from Barb Link, Henry County Clerk, said startin…",
+      "url": "https://www.ourquadcities.com/news/local-news/grace-period-voting-starts-in-henry-county-for-nov-3-election/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/voting_va_091826gn02_w.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Work closing Illinois 40 bridge crossing, Bureau County",
+      "summary": "The Illinois Department of Transportation (IDOT) announced that repairs to the Illinois 40 bridge crossing Interstate 80 in Bureau County will start on Thursday…",
+      "url": "https://www.ourquadcities.com/news/local-news/work-closing-illinois-40-bridge-crossing-bureau-county/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/IDOT.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Come on down' to see The Price Is Right Live at Adler Theatre",
+      "summary": "“Come on down” to the Adler Theatre (136 E. Third Street, Davenport) to see The Price Is Right Live on Feb. 10 at 7:30 p.m. Tickets go on sale Oct. 16 at 10 a.m…",
+      "url": "https://www.ourquadcities.com/news/local-news/come-on-down-to-see-the-price-is-right-live-at-adler-theatre/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/The-Price-is-Right-Live.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-228/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Crime-Stoppers-Mickeal-Bloch-Shawn-Culmer-Mug-Shot.jpg?w=900",
+      "category": "Crime"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +107,7 @@
       "headline": "Rob Sand, Zach Lahn square off in Iowa gubernatorial debate",
       "summary": "The two candidates spoke about policy proposals including their plans for public school funding, water quality testing and how to lower everyday costs for Iowan…",
       "url": "https://www.wqad.com/article/news/politics/iowa-politics/rob-sand-zach-lahn-square-iowa-governor-debate/526-a62e9c74-329f-47cb-8a94-7f013f73a2c0",
-      "time": "1 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e9cb0a54-662d-4577-910c-0bec788a1f03/20261007T030419/e9cb0a54-662d-4577-910c-0bec788a1f03_750x422.jpg",
       "category": "iowa-politics"
     },
@@ -19,20 +118,9 @@
       "headline": "2 arrested in connection with May Rock Island shooting",
       "summary": "18-year-old Jackson Hatungimana and 19-year-old Joseph A. Akins Jr. are both charged after a man was shot in the arm and leg back in May.",
       "url": "https://www.wqad.com/article/news/crime/may-rock-island-shooting-suspects-arrested/526-087cc30e-2c4e-414f-8ada-4acf24732acf",
-      "time": "1 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/cbce268b-d166-43de-8d1b-d65053651f9a/20260928T105623/cbce268b-d166-43de-8d1b-d65053651f9a_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "New exhibit at Figge Art Museum turns gallery into artwork",
-      "summary": "A new exhibit at the Figge Art Museum, Davenport, is turning the gallery itself into the art. \"Amanda Burnham: Everything to Everyone\" will feature hundreds of …",
-      "url": "https://www.ourquadcities.com/news/local-news/new-exhibit-at-figge-art-museum-turns-gallery-into-artwork/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Figge-exhibit-.jpg?w=568",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -41,97 +129,9 @@
       "headline": "Eldridge City Council approves purchase agreement for former community center",
       "summary": "KGRD Green Bay LLC has 60 days to inspect the building and fully decide if they want to go through with the purchase.",
       "url": "https://www.wqad.com/article/news/community/eldridge-community-center-purchase-agreement-approval-city-council/526-468953e8-be0e-4ae6-860f-93f398a537f1",
-      "time": "3 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c1353482-e6d4-40f9-9f07-d192a32f370c/20261006T235539/c1353482-e6d4-40f9-9f07-d192a32f370c_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hawkeyes bruised up in loss, QB Hank Brown questionable",
-      "summary": "For a team with hopes to sneak into their first College Football Playoff, a mid-season loss to Ohio State won't end those dreams. For the Iowa Hawkeyes a 4-1 re…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-bruised-up-in-loss-qb-hank-brown-questionable/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/GettyImages-2297898625.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former Quad City Storm trainer Chloe Hinojosa joins PWHL's Minnesota Frost",
-      "summary": "The Kewanee native was named the 2025-26 SPHL Athletic Trainer of the Year. Now she's bringing her talents to the 2-time Walter Cup championship-winning Frost t…",
-      "url": "https://www.wqad.com/article/news/local/the-current/chloe-hinojosa-quad-city-storm-sphl-pwhl-minnesota-frost-athletic-trainer-professional-womens-hockey/526-e21b4c90-731a-4202-ad01-71060c5f05a0",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ae1d9501-8e87-4fe6-9ef0-1ab8b274bd34/20261006T221755/ae1d9501-8e87-4fe6-9ef0-1ab8b274bd34_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport fugitive arrested in San Diego after 14 years on the run, U.S. Marshals announce",
-      "summary": "According to the USMS, 50-year-old Brian Anthony Williams was located in the Mission Beach Area of San Diego on Tuesday and arrested without incident.",
-      "url": "https://www.wqad.com/article/news/local/davenport-fugitive-arrested-san-diego-14-years/526-4960fb16-69aa-447d-8b13-2abd2f7fc0f7",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/24b5c373-2c1c-486e-87f5-48d32a9a9244/24b5c373-2c1c-486e-87f5-48d32a9a9244_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Dirt Stars will take to the track to close out Davenport Speedway racing season",
-      "summary": "Davenport Dirt Stars will race Friday and Saturday, Oct. 9-10, at the Davenport Speedway. Complete race programs will be held both nights. The two-night Dirt St…",
-      "url": "https://www.ourquadcities.com/news/local-news/dirt-stars-will-take-to-the-track-to-close-out-davenport-speedway-racing-season/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Two men arrested in connection with Rock Island shooting",
-      "summary": "Two Rock Island men have been arrested on warrants in connection with a May shooting in Rock Island, according to a news release from Rock Island Police. Shortl…",
-      "url": "https://www.ourquadcities.com/news/local-news/two-men-arrested-in-connection-with-rock-island-shooting/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Joseph-Akins-Jr.-Jackson-Hatungimana-Mug-Shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Field forecast looking great for farmers this week around the Quad Cities and all of Iowa and Illinois",
-      "summary": "After the heavy rain from last week, this is just what the weather doctor ordered! Plan on more sunshine with lows in the 50s and highs in the 70s and 80s throu…",
-      "url": "https://www.ourquadcities.com/news/local-news/field-forecast-looking-great-for-farmers-this-week-around-the-quad-cities-and-all-of-iowa-and-illinois/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP58269753639-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Former House Republican leader backs Pritzker for governor",
-      "summary": "It’s no secret in Springfield that former House Minority Leader Jim Durkin and Darren Bailey do not get along. But Durkin has taken that rivalry one step furthe…",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-governor-race-jb-pritzker-endorsement-former-house-republican-leader-jim-durkin/526-1d9e2ebc-ecf8-4e83-aaaf-d1bb1ed6e9dd",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c0ee3e1d-1c23-4aa7-9431-98516468a175/20261006T213845/c0ee3e1d-1c23-4aa7-9431-98516468a175_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Man arrested in San Diego in connection with 2012 Davenport kidnapping case",
-      "summary": "The U.S. Marshals have arrested a man in the Mission Beach area of San Diego who was wanted on several outstanding warrants from the Southern District of Iowa o…",
-      "url": "https://www.ourquadcities.com/news/local-news/man-arrested-in-san-diego-in-connection-with-2012-davenport-kidnapping-case/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/U.S.-Marshals-Service.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
