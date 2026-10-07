@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-06T23:38:02.540874+00:00",
+  "updated": "2026-10-07T04:48:44.765210+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rob Sand, Zach Lahn square off in Iowa gubernatorial debate",
+      "summary": "The two candidates spoke about policy proposals including their plans for public school funding, water quality testing and how to lower everyday costs for Iowan…",
+      "url": "https://www.wqad.com/article/news/politics/iowa-politics/rob-sand-zach-lahn-square-iowa-governor-debate/526-a62e9c74-329f-47cb-8a94-7f013f73a2c0",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e9cb0a54-662d-4577-910c-0bec788a1f03/20261007T030419/e9cb0a54-662d-4577-910c-0bec788a1f03_750x422.jpg",
+      "category": "iowa-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2 arrested in connection with May Rock Island shooting",
+      "summary": "18-year-old Jackson Hatungimana and 19-year-old Joseph A. Akins Jr. are both charged after a man was shot in the arm and leg back in May.",
+      "url": "https://www.wqad.com/article/news/crime/may-rock-island-shooting-suspects-arrested/526-087cc30e-2c4e-414f-8ada-4acf24732acf",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/cbce268b-d166-43de-8d1b-d65053651f9a/20260928T105623/cbce268b-d166-43de-8d1b-d65053651f9a_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New exhibit at Figge Art Museum turns gallery into artwork",
+      "summary": "A new exhibit at the Figge Art Museum, Davenport, is turning the gallery itself into the art. \"Amanda Burnham: Everything to Everyone\" will feature hundreds of …",
+      "url": "https://www.ourquadcities.com/news/local-news/new-exhibit-at-figge-art-museum-turns-gallery-into-artwork/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Figge-exhibit-.jpg?w=568",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Eldridge City Council approves purchase agreement for former community center",
+      "summary": "KGRD Green Bay LLC has 60 days to inspect the building and fully decide if they want to go through with the purchase.",
+      "url": "https://www.wqad.com/article/news/community/eldridge-community-center-purchase-agreement-approval-city-council/526-468953e8-be0e-4ae6-860f-93f398a537f1",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c1353482-e6d4-40f9-9f07-d192a32f370c/20261006T235539/c1353482-e6d4-40f9-9f07-d192a32f370c_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes bruised up in loss, QB Hank Brown questionable",
+      "summary": "For a team with hopes to sneak into their first College Football Playoff, a mid-season loss to Ohio State won't end those dreams. For the Iowa Hawkeyes a 4-1 re…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-bruised-up-in-loss-qb-hank-brown-questionable/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/GettyImages-2297898625.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +63,7 @@
       "headline": "Former Quad City Storm trainer Chloe Hinojosa joins PWHL's Minnesota Frost",
       "summary": "The Kewanee native was named the 2025-26 SPHL Athletic Trainer of the Year. Now she's bringing her talents to the 2-time Walter Cup championship-winning Frost t…",
       "url": "https://www.wqad.com/article/news/local/the-current/chloe-hinojosa-quad-city-storm-sphl-pwhl-minnesota-frost-athletic-trainer-professional-womens-hockey/526-e21b4c90-731a-4202-ad01-71060c5f05a0",
-      "time": "33 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae1d9501-8e87-4fe6-9ef0-1ab8b274bd34/20261006T221755/ae1d9501-8e87-4fe6-9ef0-1ab8b274bd34_750x422.jpg",
       "category": "the-current"
     },
@@ -19,7 +74,7 @@
       "headline": "Davenport fugitive arrested in San Diego after 14 years on the run, U.S. Marshals announce",
       "summary": "According to the USMS, 50-year-old Brian Anthony Williams was located in the Mission Beach Area of San Diego on Tuesday and arrested without incident.",
       "url": "https://www.wqad.com/article/news/local/davenport-fugitive-arrested-san-diego-14-years/526-4960fb16-69aa-447d-8b13-2abd2f7fc0f7",
-      "time": "44 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/24b5c373-2c1c-486e-87f5-48d32a9a9244/24b5c373-2c1c-486e-87f5-48d32a9a9244_750x422.jpg",
       "category": "local"
     },
@@ -30,7 +85,7 @@
       "headline": "Dirt Stars will take to the track to close out Davenport Speedway racing season",
       "summary": "Davenport Dirt Stars will race Friday and Saturday, Oct. 9-10, at the Davenport Speedway. Complete race programs will be held both nights. The two-night Dirt St…",
       "url": "https://www.ourquadcities.com/news/local-news/dirt-stars-will-take-to-the-track-to-close-out-davenport-speedway-racing-season/",
-      "time": "50 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +96,7 @@
       "headline": "Two men arrested in connection with Rock Island shooting",
       "summary": "Two Rock Island men have been arrested on warrants in connection with a May shooting in Rock Island, according to a news release from Rock Island Police. Shortl…",
       "url": "https://www.ourquadcities.com/news/local-news/two-men-arrested-in-connection-with-rock-island-shooting/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Joseph-Akins-Jr.-Jackson-Hatungimana-Mug-Shot.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +107,7 @@
       "headline": "Field forecast looking great for farmers this week around the Quad Cities and all of Iowa and Illinois",
       "summary": "After the heavy rain from last week, this is just what the weather doctor ordered! Plan on more sunshine with lows in the 50s and highs in the 70s and 80s throu…",
       "url": "https://www.ourquadcities.com/news/local-news/field-forecast-looking-great-for-farmers-this-week-around-the-quad-cities-and-all-of-iowa-and-illinois/",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/AP58269753639-1.jpg?w=900",
       "category": "Local News"
     },
@@ -63,20 +118,9 @@
       "headline": "Former House Republican leader backs Pritzker for governor",
       "summary": "It’s no secret in Springfield that former House Minority Leader Jim Durkin and Darren Bailey do not get along. But Durkin has taken that rivalry one step furthe…",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-governor-race-jb-pritzker-endorsement-former-house-republican-leader-jim-durkin/526-1d9e2ebc-ecf8-4e83-aaaf-d1bb1ed6e9dd",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c0ee3e1d-1c23-4aa7-9431-98516468a175/20261006T213845/c0ee3e1d-1c23-4aa7-9431-98516468a175_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 arrested in connection with May Rock Island shooting",
-      "summary": "18-year-old Jackson Hatungimana and 19-year-old Joseph A. Akins Jr. are both charged after a man was shot in the arm and leg back in May.",
-      "url": "https://www.wqad.com/article/news/crime/may-rock-island-shooting-suspects-arrested/526-087cc30e-2c4e-414f-8ada-4acf24732acf",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/cbce268b-d166-43de-8d1b-d65053651f9a/20260928T105623/cbce268b-d166-43de-8d1b-d65053651f9a_750x422.jpg",
-      "category": "crime"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -85,53 +129,9 @@
       "headline": "Man arrested in San Diego in connection with 2012 Davenport kidnapping case",
       "summary": "The U.S. Marshals have arrested a man in the Mission Beach area of San Diego who was wanted on several outstanding warrants from the Southern District of Iowa o…",
       "url": "https://www.ourquadcities.com/news/local-news/man-arrested-in-san-diego-in-connection-with-2012-davenport-kidnapping-case/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/U.S.-Marshals-Service.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Visit Quad Cities receives grants for local tourism efforts",
-      "summary": "Illinois is awarding $4.6 million from two tourism grant programs to 49 grantees around the state for local tourism efforts. The International Tourism Grant Pro…",
-      "url": "https://www.ourquadcities.com/news/local-news/visit-quad-cities-receives-grants-for-local-tourism-efforts/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/05/Visit-Quad-Cities.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Victims identified in fatal Mississippi River boating incident near Dubuque",
-      "summary": "Two people died and a third was rescued Saturday afternoon after a boat struck a floating object on the Mississippi River near Dubuque, according to the Iowa DN…",
-      "url": "https://www.wqad.com/article/traffic/incidents/fatal-mississippi-river-boating-incident-dubuque-iowa/526-700aa3a4-430c-4d40-8f9b-a0475db56287",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e96536ea-718d-4ffa-a531-7b4d4126710d/e96536ea-718d-4ffa-a531-7b4d4126710d_750x422.jpg",
-      "category": "incidents"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "House Speaker Mike Johnson joining Rep. Mariannette Miller-Meeks for rally in Davenport",
-      "summary": "The event will be held at noon on Friday, Oct. 9. Anyone wanting to attend must RSVP online.",
-      "url": "https://www.wqad.com/article/news/politics/iowa-politics/mike-johnson-house-speaker-mariannette-miller-meeks-rally-davenport-iowa/526-3970fb2b-5cda-46d3-82bd-155b8b8939a8",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c42228e0-3d03-49f4-994e-c48c32270db7/20261006T194620/c42228e0-3d03-49f4-994e-c48c32270db7_750x422.jpg",
-      "category": "iowa-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf leaders discuss traffic concerns at 7 Brew Coffee",
-      "summary": "A recent promotional day caused traffic to line up along Middle Road that officials said reached as far back as Palmer Hills Golf Course.",
-      "url": "https://www.wqad.com/article/traffic/bettendorf-7-brew-traffic-concerns-middle-devils-glen-road/526-b0b3f2e8-f02a-4033-a601-67ce62f6b224",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f7dc14aa-1c26-4723-863a-1f437d47aa5a/20261006T183213/f7dc14aa-1c26-4723-863a-1f437d47aa5a_750x422.jpg",
-      "category": "traffic"
     }
   ]
 }
