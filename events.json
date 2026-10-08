@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T12:25:25.940583+00:00",
-  "total": 17,
+  "generated": "2026-10-08T22:37:29.273075+00:00",
+  "total": 18,
   "events": [
     {
       "id": "vqc_bb77cabfa7fc",
@@ -158,6 +158,22 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=13415&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_b67b4ff61e9a",
+      "name": "Palmer Hills Golf Course 2026 Forge Glow Putting Tournament",
+      "start": "2026-10-09",
+      "end": "",
+      "venue": "",
+      "address": "",
+      "city": "Quad Cities",
+      "state": "",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13471&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
