@@ -1,27 +1,71 @@
 {
-  "updated": "2026-10-08T21:04:58.591115+00:00",
+  "updated": "2026-10-09T05:02:13.117651+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Steel and Sears Dams on Rock River won't be removed",
+      "summary": "The Illinois DNR studied safety modifications after a 5-year-old girl drowned in 2018. But it recommended to remove both dams.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/steel-sears-dams-rock-river-wont-be-removed/526-02269b39-b3ad-4dae-9ecf-a0551f051b35",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/27f82592-99ea-44ad-b9d4-f694b311f2b1/20261009T030502/27f82592-99ea-44ad-b9d4-f694b311f2b1_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Facade of Muscatine Masonic Temple partially collapses",
+      "summary": "Fire officials aren't concerned about public safety, but the alley surrounding the facade is blocked off as a precautionary measure.",
+      "url": "https://www.wqad.com/article/news/local/muscatine-masonic-temple-facade-partial-collapse/526-39bf2379-c4b1-40b5-b1d8-b45e734940be",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e994c0a3-dac2-4680-8734-41fc23e4e38b/20261009T021246/e994c0a3-dac2-4680-8734-41fc23e4e38b_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Getting to Know the CEO of Habitat for Humanity QC, Tom Fisher-King",
-      "summary": "Chief Meteorologist Andy McCray talks with familiar faces around the Quad Cities in the Getting to Know Podcast. Learn more about important people around our ar…",
-      "url": "https://www.ourquadcities.com/news/local-news/getting-to-know-the-ceo-of-habitat-for-humanity-qc-tom-fisher-king/",
-      "time": "15 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/getting-to-know-tom-fisher-king.jpg?w=900",
+      "headline": "Muscatine residents invited to give feedback on Isett Avenue Corridor",
+      "summary": "The City of Muscatine is inviting residents to attend a public open house and share their thoughts on the preliminary design for the Connect Isett Project, a re…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-residents-invited-to-give-feedback-on-isett-avenue-corridor/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/04/Muscatine.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Bettendorf Rotary Acre of Warmth Blanket Drive  has been selected as the October 2026 recipient of Eriksen Chevrolet’s Three Degree Guarantee",
-      "summary": "Bettendorf Rotary Acre of Warmth Blanket Drive will receive $20 from Eriksen Chevrolet every time WQAD forecasts the high temperature within three degrees.",
-      "url": "https://www.wqad.com/article/news/community/bettendorf-rotary-acre-of-warmth-blanket-drive-has-been-selected-as-the-october-2026-recipient-of-eriksen-chevrolets-three-degree-guarantee/526-a98b1280-9d6a-4123-a51f-41d2430a369e",
-      "time": "47 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c809d992-4bba-4513-8353-cb37d194c5eb/20261008T201533/c809d992-4bba-4513-8353-cb37d194c5eb_750x422.jpg",
-      "category": "community"
+      "headline": "John Deere Classic's Birdies for Charity raises record-breaking $20.1M",
+      "summary": "The John Deere Classic announced this year's tournament generated $20.1 million for 492 local and regional charities.",
+      "url": "https://www.wqad.com/article/sports/john-deere-classic/john-deere-classic-birdies-for-charity-record-breaking-year/526-7085201e-9e9e-49e9-904c-17fdd6dcd03b",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/51d1ef36-d672-452a-8299-128e49b567df/20261008T164341/51d1ef36-d672-452a-8299-128e49b567df_750x422.jpg",
+      "category": "john-deere-classic"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New wellness center in Rock Island serves union members",
+      "summary": "Premise Health, the largest direct healthcare company serving unions and large employers, in partnership with the National Coalition of Labor (NCL), Mid-America…",
+      "url": "https://www.ourquadcities.com/news/local-news/wellness-center-serving-union-members-opens-in-rock-island/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Premier-Health-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Davenport program gives teens tools to navigate emotions and mental health",
+      "summary": "\"STRONG Minds\" is accepting applications for its fall session. The goal is to help local teens better understand and work through their emotions.",
+      "url": "https://www.wqad.com/article/news/local/the-current/strong-minds-davenport-americorps-mental-health-teen-program-toolbox-emotions-feelings-work-through/526-04c12f08-febd-49c8-9b31-ecd89666550a",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f246d1d3-5623-4545-abdb-ae20e6587e50/20250807T212010/f246d1d3-5623-4545-abdb-ae20e6587e50_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
@@ -30,7 +74,7 @@
       "headline": "Scott County election officials test voting machines ahead of midterm elections",
       "summary": "Iowa Secretary of State Paul Pate was present for the testing, in which election workers processed multiple ballot styles through tabulation machines.",
       "url": "https://www.wqad.com/article/news/local/scott-county-election-officials-test-voting-machines-ahead-midterms/526-ea880886-2089-47a5-af49-410269fb3681",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bae97a13-0ca7-4506-8662-426e65dd5e07/20261008T195500/bae97a13-0ca7-4506-8662-426e65dd5e07_750x422.jpg",
       "category": "local"
     },
@@ -41,20 +85,9 @@
       "headline": "Davenport house fire under investigation",
       "summary": "No injuries were reported after a Wednesday night house fire in Davenport.",
       "url": "https://www.wqad.com/article/news/local/public-safety/davenport-house-fire-1000-scott-street-under-investigation/526-3f9a8672-b767-4f8d-944d-5851aae3dc2f",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Thursday's public hearing on Clinton's data center ordinance postponed",
-      "summary": "The Special Council meeting will continue as scheduled for an item on the agenda that's unrelated to the data center ordinance.",
-      "url": "https://www.wqad.com/article/news/community/clinton-iowa-data-center-proposed-development-ordinance-public-hearing-postponed/526-0edad934-93ea-40f0-a7f6-834a4459c9cb",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fcb22c9c-7831-49ec-8cda-40e3772287ee/20261008T184204/fcb22c9c-7831-49ec-8cda-40e3772287ee_750x422.jpg",
-      "category": "community"
     },
     {
       "source": "WQAD",
@@ -63,9 +96,31 @@
       "headline": "Report: Illinois tax revenue from gambling increased 19% last year",
       "summary": "Sports betting, video gambling continue to drive increase",
       "url": "https://www.wqad.com/article/news/politics/report-illinois-tax-revenue-from-gambling-increased-19-last-year/526-e3de49e3-b020-4797-ae60-8d0a43bcccea",
-      "time": "1 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cdc0edb1-a0c2-4238-b662-970add1f0538/20261008T190701/cdc0edb1-a0c2-4238-b662-970add1f0538_750x422.jpg",
       "category": "politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bettendorf Rotary Acre of Warmth Blanket Drive  has been selected as the October 2026 recipient of Eriksen Chevrolet’s Three Degree Guarantee",
+      "summary": "Bettendorf Rotary Acre of Warmth Blanket Drive will receive $20 from Eriksen Chevrolet every time WQAD forecasts the high temperature within three degrees.",
+      "url": "https://www.wqad.com/article/news/community/bettendorf-rotary-acre-of-warmth-blanket-drive-has-been-selected-as-the-october-2026-recipient-of-eriksen-chevrolets-three-degree-guarantee/526-a98b1280-9d6a-4123-a51f-41d2430a369e",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c809d992-4bba-4513-8353-cb37d194c5eb/20261008T201533/c809d992-4bba-4513-8353-cb37d194c5eb_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Thursday's public hearing on Clinton's data center ordinance postponed",
+      "summary": "The Special Council meeting will continue as scheduled for an item on the agenda that's unrelated to the data center ordinance.",
+      "url": "https://www.wqad.com/article/news/community/clinton-iowa-data-center-proposed-development-ordinance-public-hearing-postponed/526-0edad934-93ea-40f0-a7f6-834a4459c9cb",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fcb22c9c-7831-49ec-8cda-40e3772287ee/20261008T184204/fcb22c9c-7831-49ec-8cda-40e3772287ee_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WQAD",
@@ -74,63 +129,8 @@
       "headline": "11-year-old reported missing from Silvis found safe",
       "summary": "The Silvis Police Department provided an update Thursday afternoon that a missing girl has been found.",
       "url": "https://www.wqad.com/article/news/local/missing-child-silvis-illinois/526-615e326c-fb7d-4b40-8b5f-9ce3dfdc3325",
-      "time": "2 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WTLV/images/bce1837d-cdae-4abc-9d48-5000c1b579e6/20260121T024230/bce1837d-cdae-4abc-9d48-5000c1b579e6_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere Classic's Birdies for Charity raises record-breaking $20.1M",
-      "summary": "The John Deere Classic announced this year's tournament generated $20.1 million for 492 local and regional charities.",
-      "url": "https://www.wqad.com/article/sports/john-deere-classic/john-deere-classic-birdies-for-charity-record-breaking-year/526-7085201e-9e9e-49e9-904c-17fdd6dcd03b",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/51d1ef36-d672-452a-8299-128e49b567df/20261008T164341/51d1ef36-d672-452a-8299-128e49b567df_750x422.jpg",
-      "category": "john-deere-classic"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Clinton postponing data center zoning public hearing",
-      "summary": "Clinton is postponing tonight’s scheduled public hearing about the proposed data center zoning ordinance, according to a news release from the city. The city pr…",
-      "url": "https://www.ourquadcities.com/news/local-news/clinton-postponing-data-center-zoning-public-hearing/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Birdies for Charity raises record $20.1 million",
-      "summary": "The 2026 Birdies for Charity program has reached a new fundraising milestone. The John Deere Classic announced that it generated a historic $20.1 million for 49…",
-      "url": "https://www.ourquadcities.com/news/local-news/birdies-for-charity-raises-record-20-1-million/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/04/Birdies-for-Charity.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad Cities hosting 2027 Small Market Meetings Conference",
-      "summary": "The Quad Cities will host the 2027 Small Market Meetings Conference (SMMC) on September 21-23, 2027, at Bend XPO in East Moline. The announcement was made at th…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-hosting-2027-small-market-meetings-conference/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_c46cbc.png?w=444",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Vehicle crashes into Bettendorf hospital emergency room",
-      "summary": "The vehicle had become lodged in a window near the emergency room entrance.",
-      "url": "https://www.wqad.com/article/news/local/vehicle-crashes-bettendorf-hospital-emergency-room-unity-point-health-trinity/526-fd5ae98c-afdc-4e04-ad0b-683bbcdf8c36",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/e191d1e0-5451-48fc-9a13-2f8a66772f42/20241208T171058/e191d1e0-5451-48fc-9a13-2f8a66772f42_750x422.jpg",
       "category": "local"
     }
   ]
