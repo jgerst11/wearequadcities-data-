@@ -1,27 +1,104 @@
 {
-  "updated": "2026-10-09T15:02:18.939112+00:00",
+  "updated": "2026-10-09T20:36:03.979192+00:00",
   "items": [
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport man sentenced to federal prison for possession of a firearm as a felon",
-      "summary": "A Davenport man was sentenced on October 8, 2026, to five years in federal prison for possessing a firearm as a felon. Public court documents and evidence prese…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-sentenced-to-federal-prison-for-possession-of-a-firearm-as-a-felon/",
-      "time": "50 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/01/gettyimages-925013506-2-e1697068242675.jpg?w=800",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Little York man killed in Galesburg Amtrak collision was an advocate for Illinois' rural schools",
+      "summary": "John M. Glasgow was known for his work advocating for rural schools in Illinois.",
+      "url": "https://www.wqad.com/article/news/community/fatal-amtrak-collision-galesburg-victim-identified/526-82df6d8e-39bd-4f58-b189-1bba36bff4f9",
+      "time": "0 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f28bbf7c-754a-4d4d-8b8b-f4449627294f/20261009T200115/f28bbf7c-754a-4d4d-8b8b-f4449627294f_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Stay Covered Stay Healthy QC launches new resource to help residents navigate Medicaid changes",
+      "summary": "The coalition brings together more than two dozen health care agencies across the Quad Cities to coordinate resources.",
+      "url": "https://www.wqad.com/article/news/health/stay-covered-stay-healthy-qc-united-way-medicaid-changes-resource/526-36cbf014-6dec-439a-a9d1-06ce2e141950",
+      "time": "39 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cd6110ad-07e9-42ec-a478-b1ea1255e412/20261009T195037/cd6110ad-07e9-42ec-a478-b1ea1255e412_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Nominate someone for 'Pay It Forward'",
+      "summary": "Do you know someone giving back to our communities?  Nominate someone and Pay It Forward with WQAD News 8 and Ascentra Credit Union.",
+      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/wqad-pay-it-forward-nomination-form/526-d87c7fd5-5765-470b-9a91-b8f8f9580148",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ebd08613-55c5-4ee9-9b9b-a2cd089a4f8b/ebd08613-55c5-4ee9-9b9b-a2cd089a4f8b_750x422.png",
+      "category": "pay-it-forward"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa State Fair shares results from 2026 visitor survey",
+      "summary": "4,341 fairgoers completed surveys after the 2026 Iowa State Fair, with the fair earning 4.53 out of 5 stars for overall experience.",
+      "url": "https://www.wqad.com/article/news/state/iowa-state-fair-visitor-survey-results-affordability-capacity/524-15b596b0-b664-421b-8852-6ca74c4e3c2b",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/cc351165-b188-488f-a28e-9800faa27a89/20260814T012239/cc351165-b188-488f-a28e-9800faa27a89_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "USDA investing more than $12.9 million in Iowa economic growth projects",
+      "summary": "Multiple projects in the state of Iowa have received funding to improve health care, support manufacturing and further economic expansion for communities.",
+      "url": "https://www.wqad.com/article/money/economy/us-department-of-agriculture-rural-development-investment-iowa-economic-growth/524-68364059-abb8-445c-bd64-d18e0229dcd8",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KARE/images/b29e2550-38c0-4153-b814-43a823828efa/b29e2550-38c0-4153-b814-43a823828efa_750x422.jpg",
+      "category": "economy"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Great Pumpkin Fest will be in downtown Clinton",
-      "summary": "Downtown Clinton will be filled with fall fun on Sunday, Oct. 11, during the annual Great Pumpkin Fest, a family-friendly celebration hosted by downtown Clinton…",
-      "url": "https://www.ourquadcities.com/news/local-news/great-pumpkin-fest-will-be-in-downtown-clinton/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Great-Pumpkin-Fest-.jpg?w=584",
+      "headline": "QCSportsNet Week 8 football preview: Rock Island, Moline & United Township",
+      "summary": "QCSportsNet’s play-by-play voices Ken Jacoby, Joe Winkel and Grant Dahlstrom provide your breakdown of Rock Island, Moline and United Township before Week 8 of …",
+      "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-week-8-football-preview-rock-island-moline-united-township/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Screenshot-2026-10-09-120834.png?w=709",
+      "category": "High School Sports"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Stay Covered, Stay Healthy' helps Medicaid recipients manage changes",
+      "summary": "United Way Quad Cities is launching a new effort to protect access to Medicaid for QCA recipients. Ryan Sempf, Chief Impact Officer at United Way Quad Cities, s…",
+      "url": "https://www.ourquadcities.com/news/local-news/stay-covered-stay-healthy-helps-medicaid-recipients-manage-changes/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/01/United-Way-Quad-Cities.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker says 'so much more to do' in Illinois as he seeks rare 3rd term",
+      "summary": "Governor will visit first primary state of South Carolina, fueling speculation he'll seek presidency",
+      "url": "https://www.wqad.com/article/news/politics/elections/pritzker-says-so-much-more-to-do-in-illinois-as-he-seeks-rare-3rd-term/526-aac2bcaa-febb-4d95-9db1-d35d85ffba05",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d4460c37-e1cc-4939-aeaa-2a3d133070b1/20261009T164806/d4460c37-e1cc-4939-aeaa-2a3d133070b1_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island man who jumped into Mississippi River in attempt to evade police gets 17-year prison sentence",
+      "summary": "Darryl Benard Shears III was sentenced Thursday to 204 months in federal prison for his role in a drug-trafficking operation.",
+      "url": "https://www.wqad.com/article/news/crime/rock-island-men-sentenced-federal-prison/526-dfb90866-5895-421b-9d09-50fad6068b96",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/c45a64fb-260e-4a38-9a3f-82b8e7bb535a/c45a64fb-260e-4a38-9a3f-82b8e7bb535a_750x422.jpg",
+      "category": "crime"
     },
     {
       "source": "WQAD",
@@ -30,7 +107,7 @@
       "headline": "Steel and Sears Dams on Rock River won't be removed",
       "summary": "The Illinois DNR studied safety modifications after a 5-year-old girl drowned in 2018. But it recommended to remove both dams.",
       "url": "https://www.wqad.com/article/news/local/public-safety/steel-sears-dams-rock-river-wont-be-removed/526-02269b39-b3ad-4dae-9ecf-a0551f051b35",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/27f82592-99ea-44ad-b9d4-f694b311f2b1/20261009T030502/27f82592-99ea-44ad-b9d4-f694b311f2b1_750x422.jpg",
       "category": "public-safety"
     },
@@ -41,7 +118,7 @@
       "headline": "Facade of Muscatine Masonic Temple partially collapses",
       "summary": "Fire officials aren't concerned about public safety, but the alley surrounding the facade is blocked off as a precautionary measure.",
       "url": "https://www.wqad.com/article/news/local/muscatine-masonic-temple-facade-partial-collapse/526-39bf2379-c4b1-40b5-b1d8-b45e734940be",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e994c0a3-dac2-4680-8734-41fc23e4e38b/20261009T021246/e994c0a3-dac2-4680-8734-41fc23e4e38b_750x422.jpg",
       "category": "local"
     },
@@ -52,86 +129,9 @@
       "headline": "Illinois expands restaurant meals program to give eligible SNAP customers more options",
       "summary": "Illinois is expanding its restaurant meals program statewide, giving eligible SNAP customers more options for prepared meals. The program now includes 50 restau…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-expands-restaurant-meals-program-to-give-eligible-snap-customers-more-options/",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2244377466-e1789412956835.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere Classic's Birdies for Charity raises record-breaking $20.1M",
-      "summary": "The John Deere Classic announced this year's tournament generated $20.1 million for 492 local and regional charities.",
-      "url": "https://www.wqad.com/article/sports/john-deere-classic/john-deere-classic-birdies-for-charity-record-breaking-year/526-7085201e-9e9e-49e9-904c-17fdd6dcd03b",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/51d1ef36-d672-452a-8299-128e49b567df/20261008T164341/51d1ef36-d672-452a-8299-128e49b567df_750x422.jpg",
-      "category": "john-deere-classic"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: A fawn named Peaches",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-a-fawn-named-peaches/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_35c623.png?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Davenport program gives teens tools to navigate emotions and mental health",
-      "summary": "\"STRONG Minds\" is accepting applications for its fall session. The goal is to help local teens better understand and work through their emotions.",
-      "url": "https://www.wqad.com/article/news/local/the-current/strong-minds-davenport-americorps-mental-health-teen-program-toolbox-emotions-feelings-work-through/526-04c12f08-febd-49c8-9b31-ecd89666550a",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f246d1d3-5623-4545-abdb-ae20e6587e50/20250807T212010/f246d1d3-5623-4545-abdb-ae20e6587e50_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Scott County election officials test voting machines ahead of midterm elections",
-      "summary": "Iowa Secretary of State Paul Pate was present for the testing, in which election workers processed multiple ballot styles through tabulation machines.",
-      "url": "https://www.wqad.com/article/news/local/scott-county-election-officials-test-voting-machines-ahead-midterms/526-ea880886-2089-47a5-af49-410269fb3681",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bae97a13-0ca7-4506-8662-426e65dd5e07/20261008T195500/bae97a13-0ca7-4506-8662-426e65dd5e07_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport house fire under investigation",
-      "summary": "No injuries were reported after a Wednesday night house fire in Davenport.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/davenport-house-fire-1000-scott-street-under-investigation/526-3f9a8672-b767-4f8d-944d-5851aae3dc2f",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Report: Illinois tax revenue from gambling increased 19% last year",
-      "summary": "Sports betting, video gambling continue to drive increase",
-      "url": "https://www.wqad.com/article/news/politics/report-illinois-tax-revenue-from-gambling-increased-19-last-year/526-e3de49e3-b020-4797-ae60-8d0a43bcccea",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cdc0edb1-a0c2-4238-b662-970add1f0538/20261008T190701/cdc0edb1-a0c2-4238-b662-970add1f0538_750x422.jpg",
-      "category": "politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf Rotary Acre of Warmth Blanket Drive  has been selected as the October 2026 recipient of Eriksen Chevrolet’s Three Degree Guarantee",
-      "summary": "Bettendorf Rotary Acre of Warmth Blanket Drive will receive $20 from Eriksen Chevrolet every time WQAD forecasts the high temperature within three degrees.",
-      "url": "https://www.wqad.com/article/news/community/bettendorf-rotary-acre-of-warmth-blanket-drive-has-been-selected-as-the-october-2026-recipient-of-eriksen-chevrolets-three-degree-guarantee/526-a98b1280-9d6a-4123-a51f-41d2430a369e",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c809d992-4bba-4513-8353-cb37d194c5eb/20261008T201533/c809d992-4bba-4513-8353-cb37d194c5eb_750x422.jpg",
-      "category": "community"
     }
   ]
 }
