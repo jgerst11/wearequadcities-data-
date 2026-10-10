@@ -52,6 +52,27 @@ def is_future(start_str):
 
 # ── Visit QC ──────────────────────────────────────────────────────────────────
 
+# State comes from the city: Visit QC pages sometimes list the wrong one (e.g. "Rock Island, Iowa").
+IL_CITIES = {"rock island","moline","east moline","milan","silvis","carbon cliff","coal valley","port byron","geneseo","colona","orion","aledo","cordova"}
+
+def visitqc_location(url):
+    """Read the 'Event Location:' block (venue | street | City, State ZIP) from a Visit QC event page."""
+    html = fetch_url(url, html=True) if url else None
+    if not html: return {}
+    text = re.sub(r'<script.*?</script>|<style.*?</style>', '', html, flags=re.S)
+    text = re.sub(r'<[^>]+>', '\n', text).replace('&amp;', '&').replace('&#39;', "'").replace('&rsquo;', "'")
+    lines = [l.strip() for l in text.split('\n') if l.strip()]
+    try: i = lines.index('Event Location:')
+    except ValueError: return {}
+    block = lines[i+1:i+5]
+    for j, line in enumerate(block):
+        m = re.match(r'^([A-Za-z .]+?),\s*(Iowa|Illinois|IA|IL)\b', line, re.I)
+        if m:
+            city = m.group(1).strip().title()
+            state = "IL" if city.lower() in IL_CITIES else "IA"
+            return {"venue": block[0] if j >= 1 else "", "address": block[1] if j >= 2 else "", "city": city, "state": state}
+    return {}
+
 def fetch_visitqc():
     xml = fetch_url(VISITQC_RSS_URL)
     if not xml: return []
@@ -63,7 +84,8 @@ def fetch_visitqc():
         guid  = (item.findtext("guid")  or link or title).strip()
         name, start = parse_title(title)
         if not name or name.lower() in ("read more","") or not start or not is_future(start): continue
-        events.append({"id":"vqc_"+hashlib.md5(guid.encode()).hexdigest()[:12],"name":name,"start":start[:10],"end":"","venue":"","address":"","city":"Quad Cities","state":"","category":"Events","description":"","url":link,"image":"","is_free":False,"source":"visitquadcities.com"})
+        loc = visitqc_location(link)
+        events.append({"id":"vqc_"+hashlib.md5(guid.encode()).hexdigest()[:12],"name":name,"start":start[:10],"end":"","venue":loc.get("venue",""),"address":loc.get("address",""),"city":loc.get("city","Quad Cities"),"state":loc.get("state",""),"category":"Events","description":"","url":link,"image":"","is_free":False,"source":"visitquadcities.com"})
     return events
 
 # ── Eventbrite ────────────────────────────────────────────────────────────────
