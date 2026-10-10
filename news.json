@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-10T19:51:14.435912+00:00",
+  "updated": "2026-10-10T23:18:26.132606+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "117 cars compete in first night of Dirt Stars at Davenport Speedway",
+      "summary": "Night one of the Davenport Dirt Stars is in the books. But it was not easy. Morning showers made the racetrack fast and gave it a whole lot of character through…",
+      "url": "https://www.ourquadcities.com/news/local-news/117-cars-compete-in-first-night-of-dirt-stars-at-davenport-speedway/",
+      "time": "25 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/davenport-speedway-featured-image.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UnityPoint Health - Trinity Rock Island addresses bacteria found in cooling towers",
+      "summary": "After bacteria that causes Legionnaires Disease was found in cooling towers at UnityPoint Trinity Rock Island, the medical center is working with the state to c…",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-trinity-rock-island-addresses-bacteria-found-in-cooling-towers/",
+      "time": "55 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/UnityPoint-Health.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities standings, scores and schedules",
+      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
+      "url": "https://qctimes.com/sports/high-school/article_bd3df6d8-4c83-40ab-98ce-561fc9670622.html",
+      "time": "4 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
+      "category": ""
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +41,7 @@
       "headline": "Students can visit with representatives from dozens of colleges at College Night, Moline",
       "summary": "Black Hawk College will host its annual College Night from 5:30-7:30 p.m. Thursday, Oct. 22, at the Quad-Cities Campus, 6600 34th Ave., Moline, in Building 3 in…",
       "url": "https://www.ourquadcities.com/news/local-news/students-can-visit-with-representatives-from-dozens-of-colleges-at-college-night-moline/",
-      "time": "4 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/684aebc9a50323.63049495.jpeg?w=900",
       "category": "Local News"
     },
@@ -19,20 +52,31 @@
       "headline": "'Something to prove': Kamari Moulton runs for career-best 208 yards and 2 TDs as the Hawkeyes win out west",
       "summary": "Kamari Moulton ran for a career-high 208 yards on 26 carries and the Iowa defense held Washington to minus-3 yards rushing as the 20th-ranked Hawkeyes rolled to…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/something-to-prove-kamari-moulton-runs-for-career-best-208-yards-and-2-tds-as-the-hawkeyes-win-out-west/",
-      "time": "5 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26283176718496.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Find deals at Antique Spectacular Vintage Market",
-      "summary": "Find deals on antiques and other vintage items at the Antique Spectacular Vintage Market at the QCCA Expo Center, 2621 4th Avenue in Rock Island, on November 6 …",
-      "url": "https://www.ourquadcities.com/news/local-news/find-deals-at-antique-spectacular-vintage-market/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/Antique-Spectacular-Vintage-Market.jpg?w=900",
-      "category": "Local News"
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Homelessness plan weighed",
+      "summary": "The Davenport city council is considering committing up to $1 million in funding toward efforts to reduce homelessness in the Quad-Cities.",
+      "url": "https://qctimes.com/article_c17c63e7-1ca2-56a9-b070-652704ce0cf2.html",
+      "time": "12 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/bc/ebc1fa56-7d8d-5423-8493-2d720921ef7b/6aca1d20d2070.image.jpg?resize=300%2C235",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "QC local government recap: Davenport city administrator resigns, council appoints replacement alderman",
+      "summary": "Davenport city administrator resigns, replacement 2nd Ward alderman appointed, Eldridge votes to establish a city fire department, Moline breaks ground on a div…",
+      "url": "https://qctimes.com/news/local/government-politics/article_0acb9864-e6f8-4662-b000-9a6ba276aff3.html",
+      "time": "12 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/76/1761591c-8203-4412-9196-947c0977d355/6981349eee54e.image.jpg?resize=300%2C200",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,9 +85,20 @@
       "headline": "Major rebuild underway at I-74 and John Deere Road Interchange, Moline",
       "summary": "A major rebuild is underway at the I-74 and John Deere Road interchange in Moline. On Friday, the Illinois DOT, along with some elected officials, marked a majo…",
       "url": "https://www.ourquadcities.com/news/local-news/major-rebuild-underway-at-i-74-and-john-deere-road-interchange-moline/",
-      "time": "14 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/20261010_102008.jpg?w=405",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Play of the night: UT's 90-yard kickoff return",
+      "summary": "Friday's play of the night comes from the United Township - Moline rivalry game. Rewatch Jayvon McDowell go 90 yards on the kickoff return for a United Township…",
+      "url": "https://www.ourquadcities.com/sports/local-sports/play-of-the-night-uts-90-yard-kickoff-return/",
+      "time": "19 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/united-township-football.png?w=591",
+      "category": "Local Sports"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -52,7 +107,7 @@
       "headline": "Part of façade of Masonic Temple, Muscatine, collapses",
       "summary": "Part of the Muscatine Masonic Temple’s façade collapsed Thursday night. City officials say a section of bricks near the roofline came down into an alley along T…",
       "url": "https://www.ourquadcities.com/news/local-news/part-of-facade-of-masonic-temple-muscatine-collapses/",
-      "time": "16 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_ad16ec.png?w=900",
       "category": "Local News"
     },
@@ -63,7 +118,7 @@
       "headline": "Stay Covered Stay Healthy QC launches new resource to help residents navigate Medicaid changes",
       "summary": "The coalition brings together more than two dozen health care agencies across the Quad Cities to coordinate resources.",
       "url": "https://www.wqad.com/article/news/health/stay-covered-stay-healthy-qc-united-way-medicaid-changes-resource/526-36cbf014-6dec-439a-a9d1-06ce2e141950",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cd6110ad-07e9-42ec-a478-b1ea1255e412/20261009T195037/cd6110ad-07e9-42ec-a478-b1ea1255e412_750x422.jpg",
       "category": "health"
     },
@@ -74,64 +129,9 @@
       "headline": "Little York man killed in Galesburg Amtrak collision was an advocate for rural schools",
       "summary": "John M. Glasgow was known for his work advocating for rural schools in Illinois and also nationwide.",
       "url": "https://www.wqad.com/article/news/community/fatal-amtrak-collision-galesburg-victim-identified/526-82df6d8e-39bd-4f58-b189-1bba36bff4f9",
-      "time": "16 h ago",
+      "time": "20 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f28bbf7c-754a-4d4d-8b8b-f4449627294f/20261009T200115/f28bbf7c-754a-4d4d-8b8b-f4449627294f_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "LeClaire man faces 10 counts of child pornography: Court records",
-      "summary": "During the execution of a signed search warrant on Oct. 2, officers found a LeClaire man with more than 100 videos of child pornography on an electronic device,…",
-      "url": "https://www.ourquadcities.com/news/local-news/leclaire-man-faces-10-counts-of-child-pornography-court-records/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Austin-Dana-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa fully commits $209 million funding from Rural Health Transformation Program",
-      "summary": "Iowa was awarded $209 million in December to go towards the Healthy Hometowns initiative.",
-      "url": "https://www.wqad.com/article/news/health/iowa-healthy-hometowns-rural-health-transformation-program-funding-209-million/524-39cddcae-bf81-4de4-b0eb-4c8b4f9e0e3f",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/537d6943-7de2-4f24-b942-9a0710a654db/20260725T234132/537d6943-7de2-4f24-b942-9a0710a654db_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois DOT says new design for Moline's I-74, John Deere Road interchange is safer",
-      "summary": "While construction has already started, city and state leaders gathered in Moline on Friday for an official groundbreaking on the project.",
-      "url": "https://www.wqad.com/article/news/community/transportation/john-deere-road-i-74-interchange-moline-construction-project/526-ee99ec5d-f76c-43dc-8e1b-0da8443cc03b",
-      "time": "19 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e78541eb-a1cb-40e3-a662-f833dc919131/20261009T230913/e78541eb-a1cb-40e3-a662-f833dc919131_750x422.jpg",
-      "category": "transportation"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Nearly 12,000 students participate in Iowa Youth Straw Poll",
-      "summary": "Secretary of State Paul Pate said the results of the straw pull often \"closely mirror official results,\" signaling a tight race for governor and other key seats…",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-youth-straw-poll-results-2026-midterm-election/524-5a006b4d-39cf-4289-8974-adbe142e5fa2",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WCNC/images/63bf9f3f-d2a8-4978-a83f-b9fa1b886323/63bf9f3f-d2a8-4978-a83f-b9fa1b886323_750x422.jpeg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Building's facade partially collapses in downtown Muscatine",
-      "summary": "It happened late Thursday night. City officials said moisture appears to have built up behind the facade.",
-      "url": "https://www.wqad.com/article/news/local/infrastructure/downtown-muscatine-collapse-partial-facade/526-9f5a8f20-f97e-488a-b24c-ec378f828180",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a315f658-9620-4f73-923b-5e9fd1bf0e3d/20261009T223425/a315f658-9620-4f73-923b-5e9fd1bf0e3d_750x422.jpg",
-      "category": "infrastructure"
     }
   ]
 }
