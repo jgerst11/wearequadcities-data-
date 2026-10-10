@@ -1,15 +1,26 @@
 {
-  "updated": "2026-10-10T04:47:57.179635+00:00",
+  "updated": "2026-10-10T14:17:44.204747+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Bettendorf Middle School students wrap up week of challenges with burst of color",
-      "summary": "Bettendorf Middle School students wrapped up weeks of school-wide challenges with a burst of color on Friday. The BMS Color Run had students running, tossing co…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-middle-school-students-wrap-up-week-of-challenges-with-burst-of-color/",
-      "time": "40 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/BMS-color-run-.jpg?w=572",
+      "headline": "Cancer Support Community to hold free creative art workshop in Moline",
+      "summary": "Cancer Support Community Iowa and NW Illinois will host a creative art session workshop offered free at 6-8 p.m. Monday, Oct. 19, at Gilda’s Club Moline, 600 Jo…",
+      "url": "https://www.ourquadcities.com/news/local-news/cancer-support-community-to-hold-free-creative-art-workshop-in-moline/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/Cancer-Support-Community-Iowa-and-NW-Illinois-at-Gildas-Club.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Major rebuild underway at I-74 and John Deere Road Interchange, Moline",
+      "summary": "A major rebuild is underway at the I-74 and John Deere Road interchange in Moline. On Friday, the Illinois DOT, along with some elected officials, marked a majo…",
+      "url": "https://www.ourquadcities.com/news/local-news/major-rebuild-underway-at-i-74-and-john-deere-road-interchange-moline/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,7 +30,7 @@
       "headline": "Part of façade of Masonic Temple, Muscatine, collapses",
       "summary": "Part of the Muscatine Masonic Temple’s façade collapsed Thursday night. City officials say a section of bricks near the roofline came down into an alley along T…",
       "url": "https://www.ourquadcities.com/news/local-news/part-of-facade-of-masonic-temple-muscatine-collapses/",
-      "time": "1 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/bricks-come-off-Masonic-Temple-.jpg?w=568",
       "category": "Local News"
     },
@@ -30,7 +41,7 @@
       "headline": "Stay Covered Stay Healthy QC launches new resource to help residents navigate Medicaid changes",
       "summary": "The coalition brings together more than two dozen health care agencies across the Quad Cities to coordinate resources.",
       "url": "https://www.wqad.com/article/news/health/stay-covered-stay-healthy-qc-united-way-medicaid-changes-resource/526-36cbf014-6dec-439a-a9d1-06ce2e141950",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cd6110ad-07e9-42ec-a478-b1ea1255e412/20261009T195037/cd6110ad-07e9-42ec-a478-b1ea1255e412_750x422.jpg",
       "category": "health"
     },
@@ -41,7 +52,7 @@
       "headline": "Little York man killed in Galesburg Amtrak collision was an advocate for rural schools",
       "summary": "John M. Glasgow was known for his work advocating for rural schools in Illinois and also nationwide.",
       "url": "https://www.wqad.com/article/news/community/fatal-amtrak-collision-galesburg-victim-identified/526-82df6d8e-39bd-4f58-b189-1bba36bff4f9",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f28bbf7c-754a-4d4d-8b8b-f4449627294f/20261009T200115/f28bbf7c-754a-4d4d-8b8b-f4449627294f_750x422.jpg",
       "category": "community"
     },
@@ -52,7 +63,7 @@
       "headline": "LeClaire man faces 10 counts of child pornography: Court records",
       "summary": "During the execution of a signed search warrant on Oct. 2, officers found a LeClaire man with more than 100 videos of child pornography on an electronic device,…",
       "url": "https://www.ourquadcities.com/news/local-news/leclaire-man-faces-10-counts-of-child-pornography-court-records/",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Austin-Dana-mug-shot.jpg?w=900",
       "category": "Local News"
     },
@@ -63,7 +74,7 @@
       "headline": "Iowa fully commits $209 million funding from Rural Health Transformation Program",
       "summary": "Iowa was awarded $209 million in December to go towards the Healthy Hometowns initiative.",
       "url": "https://www.wqad.com/article/news/health/iowa-healthy-hometowns-rural-health-transformation-program-funding-209-million/524-39cddcae-bf81-4de4-b0eb-4c8b4f9e0e3f",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/537d6943-7de2-4f24-b942-9a0710a654db/20260725T234132/537d6943-7de2-4f24-b942-9a0710a654db_750x422.jpg",
       "category": "health"
     },
@@ -74,20 +85,9 @@
       "headline": "Illinois DOT says new design for Moline's I-74, John Deere Road interchange is safer",
       "summary": "While construction has already started, city and state leaders gathered in Moline on Friday for an official groundbreaking on the project.",
       "url": "https://www.wqad.com/article/news/community/transportation/john-deere-road-i-74-interchange-moline-construction-project/526-ee99ec5d-f76c-43dc-8e1b-0da8443cc03b",
-      "time": "4 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e78541eb-a1cb-40e3-a662-f833dc919131/20261009T230913/e78541eb-a1cb-40e3-a662-f833dc919131_750x422.jpg",
       "category": "transportation"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "HNI volunteers partner with City of Muscatine to plant trees",
-      "summary": "More than two dozen community-minded employees from HNI Corporation rolled up their sleeves on Friday, Oct. 2, partnering with the City of Muscatine Parks and R…",
-      "url": "https://www.ourquadcities.com/news/local-news/hni-volunteers-partner-with-city-of-muscatine-to-plant-trees/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/HNI-volunteers-.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,7 +96,7 @@
       "headline": "Nearly 12,000 students participate in Iowa Youth Straw Poll",
       "summary": "Secretary of State Paul Pate said the results of the straw pull often \"closely mirror official results,\" signaling a tight race for governor and other key seats…",
       "url": "https://www.wqad.com/article/news/politics/elections/iowa-youth-straw-poll-results-2026-midterm-election/524-5a006b4d-39cf-4289-8974-adbe142e5fa2",
-      "time": "6 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WCNC/images/63bf9f3f-d2a8-4978-a83f-b9fa1b886323/63bf9f3f-d2a8-4978-a83f-b9fa1b886323_750x422.jpeg",
       "category": "elections"
     },
@@ -107,7 +107,7 @@
       "headline": "Building's facade partially collapses in downtown Muscatine",
       "summary": "It happened late Thursday night. City officials said moisture appears to have built up behind the facade.",
       "url": "https://www.wqad.com/article/news/local/infrastructure/downtown-muscatine-collapse-partial-facade/526-9f5a8f20-f97e-488a-b24c-ec378f828180",
-      "time": "6 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a315f658-9620-4f73-923b-5e9fd1bf0e3d/20261009T223425/a315f658-9620-4f73-923b-5e9fd1bf0e3d_750x422.jpg",
       "category": "infrastructure"
     },
@@ -118,7 +118,7 @@
       "headline": "Sheriff: Man awaiting murder trial assaults Knox County correctional officer",
       "summary": "David Nicholson-Klingerman Jr. is charged with murder after a woman was found dead in Galesburg last October.",
       "url": "https://www.wqad.com/article/news/crime/knox-county-jail-illinois-correctional-officer-assault/526-1b73bca1-6a0d-494c-aaf7-4afdb474b1b9",
-      "time": "6 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b1ecc7cd-3496-4e33-ab7c-22a58262d01d/20251028T162734/b1ecc7cd-3496-4e33-ab7c-22a58262d01d_750x422.jpg",
       "category": "crime"
     },
@@ -129,7 +129,7 @@
       "headline": "United Way, community partners to offer free Halloween costumes for children in Muscatine",
       "summary": "The program is guided by the belief that every child should have the opportunity to enjoy Halloween.",
       "url": "https://www.wqad.com/article/news/local/united-way-free-halloween-costumes-children-muscatine/526-9416e053-ae01-4e21-91a0-6376d7186b0f",
-      "time": "7 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WTHR/images/f1889233-40b5-48e3-b919-3caab2a6d8db/20251028T120454/f1889233-40b5-48e3-b919-3caab2a6d8db_750x422.jpg",
       "category": "local"
     }
