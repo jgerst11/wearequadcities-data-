@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-12T04:48:30.482761+00:00",
+  "updated": "2026-10-12T09:31:04.013673+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Davenport appoints acting administrator",
+      "summary": "QC GOVERNMENT RECAP",
+      "url": "https://qctimes.com/article_88ddec09-b41a-5cb6-a024-ff1c79224fc6.html",
+      "time": "1 h ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "OQC Crime Watch: Gunfire rings out near Roger Craig stadium: Episode 84",
+      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
+      "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-gunfire-rings-out-near-roger-craig-stadium-episode-84/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Jeramiah-Rivera-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Enter the Holiday Lights Sweepstakes for a Chance to Win a Year-Round Lighting Display!",
+      "summary": "Enter for a chance to transform your home with a permanent holiday lighting display, courtesy of WQAD and Electric Doctor. Deadline is November 15th!",
+      "url": "https://www.wqad.com/article/news/local/contests/enter-the-holiday-lights-sweepstakes-for-a-chance-to-win-a-year-round-lighting-display/526-6ebc040a-0e68-47f1-b7af-da86bf9a02f9",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ddd7d3a2-a909-4b02-8dc7-93ccdb2f824b/20260929T145449/ddd7d3a2-a909-4b02-8dc7-93ccdb2f824b_750x422.jpg",
+      "category": "contests"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +41,7 @@
       "headline": "State grants available for Illinois fire departments",
       "summary": "Applications are now being accepted for Illinois fire departments to receive grants to help pay for small tools and equipment they may not be able to afford. Th…",
       "url": "https://www.ourquadcities.com/news/local-news/state-grants-available-for-illinois-fire-departments/",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/fire-department-GENERIC-departments-truck-trucks.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +52,7 @@
       "headline": "Temporary closure ahead at Muscatine's Riverside Park",
       "summary": "A temporary closure is scheduled at Riverside Park in Muscatine. According to a release from the City of Muscatine, the downriver boat launch and adjacent parki…",
       "url": "https://www.ourquadcities.com/news/local-news/temporary-closure-ahead-at-muscatines-riverside-park/",
-      "time": "3 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/Muscatine-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -30,9 +63,20 @@
       "headline": "Iowa Ghostbusters turn fandom into fundraising at Nerdtober Con",
       "summary": "Comic book fans gathered at Nerdtober Con in the Quad Cities Sunday, where Iowa Ghostbusters raised funds for a local children's hospital.",
       "url": "https://www.wqad.com/article/entertainment/events/iowa-ghostbusters-turn-fandom-into-fundraising-at-nerdtober-con/526-d07987c0-7ba4-4734-b56b-b6de48d1a682",
-      "time": "5 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fe835a98-e3f5-4783-a0c9-31f3f37da535/20261011T232925/fe835a98-e3f5-4783-a0c9-31f3f37da535_750x422.jpg",
       "category": "events"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Biz Bytes: IMEG expands Florida presence, new leadership at Marriage and Family counseling service and more Quad-Cities economic news",
+      "summary": "IMEG expands Florida presence, new leadership at Marriage and Family counseling service and more Quad-Cities economic news.",
+      "url": "https://qctimes.com/news/local/business/article_712da8d3-c042-4618-8125-4699fa3097b5.html",
+      "time": "21 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/7a/27a89796-fdc4-56aa-a034-8043e203fabd/65d7d0ddc2a16.image.jpg?resize=300%2C336",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,19 +85,8 @@
       "headline": "Dustin Smith scores breakout win at Davenport Dirt Stars finale",
       "summary": "Night Two of the Davenport Dirt Stars played out as rough and tumble as Night One. The action kept the safety crew and tow truck operators busy. When it was all…",
       "url": "https://www.ourquadcities.com/news/local-news/dustin-smith-scores-breakout-win-at-davenport-dirt-stars-finale/",
-      "time": "20 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Dustin-Smith-in-victory-lane-.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois cannabis sales are on the rise",
-      "summary": "Cannabis sales across Illinois are on the rise. The Illinois Department of Financial and Professional Regulation (IDFPR) and the Cannabis Regulation Oversight O…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-cannabis-sales-are-on-the-rise/",
       "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/cannabis-GENERIC.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Dustin-Smith-in-victory-lane-.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -98,39 +131,6 @@
       "url": "https://www.wqad.com/article/news/community/empower-house-davenport-5k-supports-brain-injury-survivors/526-fc81a2ef-8a2a-4c95-98e0-b59c50923d0c",
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a520f7f3-4514-4da6-9058-c5a3ed4cc335/20261011T000315/a520f7f3-4514-4da6-9058-c5a3ed4cc335_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'Something to prove': Kamari Moulton runs for career-best 208 yards and 2 TDs as the Hawkeyes win out west",
-      "summary": "Kamari Moulton ran for a career-high 208 yards on 26 carries and the Iowa defense held Washington to minus-3 yards rushing as the 20th-ranked Hawkeyes rolled to…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/something-to-prove-kamari-moulton-runs-for-career-best-208-yards-and-2-tds-as-the-hawkeyes-win-out-west/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26283176718496.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Stay Covered Stay Healthy QC launches new resource to help residents navigate Medicaid changes",
-      "summary": "The coalition brings together more than two dozen health care agencies across the Quad Cities to coordinate resources.",
-      "url": "https://www.wqad.com/article/news/health/stay-covered-stay-healthy-qc-united-way-medicaid-changes-resource/526-36cbf014-6dec-439a-a9d1-06ce2e141950",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cd6110ad-07e9-42ec-a478-b1ea1255e412/20261009T195037/cd6110ad-07e9-42ec-a478-b1ea1255e412_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Little York man killed in Galesburg Amtrak collision was an advocate for rural schools",
-      "summary": "John M. Glasgow was known for his work advocating for rural schools in Illinois and also nationwide.",
-      "url": "https://www.wqad.com/article/news/community/fatal-amtrak-collision-galesburg-victim-identified/526-82df6d8e-39bd-4f58-b189-1bba36bff4f9",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f28bbf7c-754a-4d4d-8b8b-f4449627294f/20261009T200115/f28bbf7c-754a-4d4d-8b8b-f4449627294f_750x422.jpg",
       "category": "community"
     }
   ]
