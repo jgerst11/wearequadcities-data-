@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T13:07:28.584735+00:00",
-  "total": 28,
+  "generated": "2026-10-13T22:03:52.760940+00:00",
+  "total": 30,
   "events": [
     {
       "id": "vqc_77244570418b",
@@ -158,6 +158,38 @@
       "category": "Events",
       "description": "",
       "url": "https://visitquadcities.com/calendarembed/event?eventid=11779&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_a87e012cb6f9",
+      "name": "Rock Island County Historical Society Membership Dinner",
+      "start": "2026-10-15",
+      "end": "",
+      "venue": "Rock Island Holiday Inn",
+      "address": "226-17th Street",
+      "city": "Rock Island",
+      "state": "IL",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13587&sort_cat=",
+      "image": "",
+      "is_free": false,
+      "source": "visitquadcities.com"
+    },
+    {
+      "id": "vqc_ac69599eb222",
+      "name": "Bettendorf Parks and Recreation Halloween Cake Decorating Workshop",
+      "start": "2026-10-15",
+      "end": "",
+      "venue": "Bettendorf Community Center",
+      "address": "2204 Grant St",
+      "city": "Bettendorf",
+      "state": "IA",
+      "category": "Events",
+      "description": "",
+      "url": "https://visitquadcities.com/calendarembed/event?eventid=13473&sort_cat=",
       "image": "",
       "is_free": false,
       "source": "visitquadcities.com"
