@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-13T01:52:08.657321+00:00",
+  "updated": "2026-10-13T11:28:56.831171+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa ranks #3 for states loving candy corn",
+      "summary": "While it's traditionally known as part of the Corn Belt region, Iowa can now lay claim to coming in at number three in states loving candy corn! Producing nearl…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-ranks-3-for-states-loving-candy-corn/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_4ecad7.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois Red Cross chapters looking for more volunteers after busy summer",
+      "summary": "Recruiting volunteers has been more difficult since the pandemic, but the Quad Cities chapter leader says it's rewarding work.",
+      "url": "https://www.wqad.com/article/news/local/illinois-red-cross-chapters-looking-volunteers-busy-summer/526-e6d18e59-db1d-4c8c-959b-95cc2b04208f",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cb077f7b-935b-442d-8acb-dfa4c8c411e6/20261013T014845/cb077f7b-935b-442d-8acb-dfa4c8c411e6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa voters can cast early ballots soon: Scott County auditor discusses process",
+      "summary": "Early voting is already underway in Illinois, and Iowa voters can join in starting Wednesday. Scott County Auditor Kerri Tompkins says starting then, voters can…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-voters-can-cast-early-ballots-soon-scott-county-auditor-discusses-process/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Kerri-Tompkins-.jpg?w=566",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,8 +41,8 @@
       "headline": "Muscatine mayor works with IDOT to minimize disruption from bridge closure",
       "summary": "Muscatine’s mayor is working with the Iowa DOT to minimize disruptions from a planned closure of the Interstate 80 Bridge next year. The Norbert F. Beckey Bridg…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-mayor-works-with-idot-to-minimize-disruption-from-bridge-closure/",
-      "time": "34 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Muscatine-bridge-.jpg?w=569",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_d7f8da.png?w=900",
       "category": "Local News"
     },
     {
@@ -19,19 +52,8 @@
       "headline": "Fire severely damages longtime restaurant in Princeton",
       "summary": "Crews responded to the Big Apple on Main Street around 7:45 p.m. Saturday in Princeton, Illinois. Firefighters found flames in the dining area that caused heavy…",
       "url": "https://www.ourquadcities.com/news/local-news/fire-severely-damages-longtime-restaurant-in-princeton/",
-      "time": "43 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Princeton-fire-.jpg?w=575",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Record high temperature set Monday in Quad Cities",
-      "summary": "We did it! We hit 88° for the first time ever on October 12th in the Quad Cities. This breaks the old record of 87° from the 1940s. Tuesday looks warm too, but …",
-      "url": "https://www.ourquadcities.com/news/local-news/record-high-temperature-set-monday-in-quad-cities/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/hot-weather-GENERIC.jpg?w=900",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_22bf15.png?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +63,7 @@
       "headline": "Iowa sees 3rd consecutive year of above-average precipitation",
       "summary": "The state's climatologist says this won't erase Iowa's years of drought. Plus, the increased rainfall has not been evenly spread in area or timing.",
       "url": "https://www.wqad.com/article/news/local/the-current/iowa-3rd-year-above-average-precipitation-rain-drough-dr-glisan/526-c768ff37-d78c-411b-bf21-d587e605325b",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/77b7d7ba-91a9-4f0a-bbcc-3360340b8193/20261002T030648/77b7d7ba-91a9-4f0a-bbcc-3360340b8193_750x422.jpg",
       "category": "the-current"
     },
@@ -52,8 +74,8 @@
       "headline": "Injured man taken from Rock Island scene after reports of gunfire",
       "summary": "An injured man was removed from the scene after gunfire was reported about 5 p.m. Monday in Rock Island. Police put up crime scene tape at the Corner View conve…",
       "url": "https://www.ourquadcities.com/news/local-news/injured-man-taken-from-rock-island-scene-after-reports-of-gunfire/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Corner-View-East-Moline-.png?w=900",
+      "time": "11 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_a559c2.png?w=900",
       "category": "Local News"
     },
     {
@@ -63,20 +85,9 @@
       "headline": "Davenport woman allegedly withdraws over $28k under 7 bank accounts including 6 deceased members",
       "summary": "Amanda Tincher of Davenport faces five felony charges. The IH Mississippi Valley Credit Union employee is accused of making multiple suspicious transactions.",
       "url": "https://www.wqad.com/article/news/crime/davenport-woman-ih-mississippi-credit-union-suspicious-transfers-arrested-withdraws-bank-accounts-deceased-members/526-e96ac893-7d82-438a-8793-531f0d3ce95a",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/c4dacb41-6f70-4df0-b051-0ab37e4258b5/c4dacb41-6f70-4df0-b051-0ab37e4258b5_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_7ba8099e-d6b9-4d33-b8b6-2a85372fb5d9.html",
-      "time": "7 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
     },
     {
       "source": "WQAD",
@@ -85,53 +96,9 @@
       "headline": "Boil orders in the Quad Cities region",
       "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
       "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "8 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Tattoo studio opens in NorthPark, new thrift store, Miss Kate's Creations opens, and more Quad-Cities business news",
-      "summary": "The Spicy Brain Tattoo studio opens in NorthPark, new thrift store opens, Miss Kate's Creations opens, and more Quad-Cities business news.",
-      "url": "https://qctimes.com/exclusive/insight/article_ea5f59c1-1fce-452a-93cc-15d7e01595f5.html",
-      "time": "14 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/08/008410dc-0c32-4d7a-bfcf-308b600eea2e/682220b0de501.image.jpg",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Davenport appoints acting administrator",
-      "summary": "QC GOVERNMENT RECAP",
-      "url": "https://qctimes.com/article_88ddec09-b41a-5cb6-a024-ff1c79224fc6.html",
-      "time": "17 h ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "OQC Crime Watch: Gunfire rings out near Roger Craig stadium: Episode 84",
-      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
-      "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-gunfire-rings-out-near-roger-craig-stadium-episode-84/",
-      "time": "19 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Jeramiah-Rivera-mug-shot.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Enter the Holiday Lights Sweepstakes for a Chance to Win a Year-Round Lighting Display!",
-      "summary": "Enter for a chance to transform your home with a permanent holiday lighting display, courtesy of WQAD and Electric Doctor. Deadline is November 15th!",
-      "url": "https://www.wqad.com/article/news/local/contests/enter-the-holiday-lights-sweepstakes-for-a-chance-to-win-a-year-round-lighting-display/526-6ebc040a-0e68-47f1-b7af-da86bf9a02f9",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ddd7d3a2-a909-4b02-8dc7-93ccdb2f824b/20260929T145449/ddd7d3a2-a909-4b02-8dc7-93ccdb2f824b_750x422.jpg",
-      "category": "contests"
     }
   ]
 }
