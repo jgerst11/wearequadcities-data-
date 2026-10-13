@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-13T18:59:17.392117+00:00",
+  "updated": "2026-10-13T23:37:52.757359+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Stay Covered Stay Healthy QC launches new resource to help residents navigate Medicaid changes",
+      "summary": "The coalition brings together more than two dozen health care agencies across the Quad Cities to coordinate resources.",
+      "url": "https://www.wqad.com/article/news/health/stay-covered-stay-healthy-qc-united-way-medicaid-changes-resource/526-36cbf014-6dec-439a-a9d1-06ce2e141950",
+      "time": "6 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cd6110ad-07e9-42ec-a478-b1ea1255e412/20261009T195037/cd6110ad-07e9-42ec-a478-b1ea1255e412_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "New Scott County animal rescue and sanctuary under development",
+      "summary": "An animal rescue and sanctuary in rural Scott County is currently under development. Nonprofit Precious Acres Animal Rescue &#38; Sanctuary completed a major fe…",
+      "url": "https://www.ourquadcities.com/news/local-news/new-scott-county-animal-rescue-and-sanctuary-under-development/",
+      "time": "13 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_136183.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island County NAACP hosting candidate forum Tuesday night",
+      "summary": "Candidates from six contested races were invited to attend. It starts at 5:30 p.m. at the MLK Center in Rock Island.",
+      "url": "https://www.wqad.com/article/news/politics/elections/rock-island-county-naacp-candidate-forum-illinois-races-midterm-election/526-413061a9-b273-447f-9545-f550b0bb0b33",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ae903951-a0ff-4957-b38d-7de1bf338a62/20261013T184427/ae903951-a0ff-4957-b38d-7de1bf338a62_750x422.jpg",
+      "category": "elections"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,20 +41,9 @@
       "headline": "Person injured after Monday night shooting in Clinton",
       "summary": "Officers were called to the 500 block of Second Avenue South just before 11 p.m. on Oct. 12.",
       "url": "https://www.wqad.com/article/news/crime/clinton-iowa-shooting-monday-night-october-12/526-2cb25ac7-708e-49d0-9d9f-692b9cfbe884",
-      "time": "46 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island among top counties for deer crashes: IDOT",
-      "summary": "Fall can be a dangerous time for drivers as crashes between vehicles and deer become more common. According to statistics from Illinois Department of Transporta…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-among-top-counties-for-deer-crashes-idot/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Illinois-Department-of-Transportation-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +52,7 @@
       "headline": "Man shot in the neck in Rock Island",
       "summary": "Rock Island police responded to the 2400 block of 7th Avenue for reports of shots fired and an injured victim.",
       "url": "https://www.wqad.com/article/news/crime/man-shot-in-the-neck-in-rock-island/526-77f74de6-5a97-4e16-a8a3-34075397e73e",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa90f313-af64-4c54-8330-b9964f04dfb8/fa90f313-af64-4c54-8330-b9964f04dfb8_750x422.jpg",
       "category": "crime"
     },
@@ -41,7 +63,7 @@
       "headline": "Leftover Halloween candy? Bettendorf financial group to collect candy for soldiers and veterans",
       "summary": "The goal is to gather 600 pounds of candy to donate to Soldiers' Angels, in addition to donating $3 for every pound collected.",
       "url": "https://www.wqad.com/article/life/holidays/bettendorf-financial-group-leftover-halloween-candy-collection/526-8a54a255-c3d8-4766-b933-880f375641d5",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f489fda6-ff9f-48e0-8876-2f63bd3df3cd/f489fda6-ff9f-48e0-8876-2f63bd3df3cd_750x422.jpg",
       "category": "holidays"
     },
@@ -52,7 +74,7 @@
       "headline": "Muscatine garage fire causes $50,000 in damages",
       "summary": "Crews responded Sunday evening to the 1200 block of Dale Street for a garage fire.",
       "url": "https://www.wqad.com/article/news/local/muscatine-garage-fire-sunday-afternoon/526-4e0efdd3-2473-4fc2-88ac-6f4512d01787",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e9e8d51f-c110-46fa-b361-fc961a516761/20260202T174812/e9e8d51f-c110-46fa-b361-fc961a516761_750x422.jpg",
       "category": "local"
     },
@@ -63,7 +85,7 @@
       "headline": "Illinois Red Cross chapters looking for more volunteers after busy summer",
       "summary": "Recruiting volunteers has been more difficult since the pandemic, but the Quad Cities chapter leader says it's rewarding work.",
       "url": "https://www.wqad.com/article/news/local/illinois-red-cross-chapters-looking-volunteers-busy-summer/526-e6d18e59-db1d-4c8c-959b-95cc2b04208f",
-      "time": "14 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cb077f7b-935b-442d-8acb-dfa4c8c411e6/20261013T014845/cb077f7b-935b-442d-8acb-dfa4c8c411e6_750x422.jpg",
       "category": "local"
     },
@@ -74,7 +96,7 @@
       "headline": "Iowa voters can cast early ballots soon: Scott County auditor discusses process",
       "summary": "Early voting is already underway in Illinois, and Iowa voters can join in starting Wednesday. Scott County Auditor Kerri Tompkins says starting then, voters can…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-voters-can-cast-early-ballots-soon-scott-county-auditor-discusses-process/",
-      "time": "16 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Kerri-Tompkins-.jpg?w=566",
       "category": "Local News"
     },
@@ -85,7 +107,7 @@
       "headline": "Muscatine mayor works with IDOT to minimize disruption from bridge closure",
       "summary": "Muscatine’s mayor is working with the Iowa DOT to minimize disruptions from a planned closure of the Interstate 80 Bridge next year. The Norbert F. Beckey Bridg…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-mayor-works-with-idot-to-minimize-disruption-from-bridge-closure/",
-      "time": "17 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_d7f8da.png?w=900",
       "category": "Local News"
     },
@@ -93,32 +115,10 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Fire severely damages longtime restaurant in Princeton",
-      "summary": "Crews responded to the Big Apple on Main Street around 7:45 p.m. Saturday in Princeton, Illinois. Firefighters found flames in the dining area that caused heavy…",
-      "url": "https://www.ourquadcities.com/news/local-news/fire-severely-damages-longtime-restaurant-in-princeton/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_22bf15.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa sees 3rd consecutive year of above-average precipitation",
-      "summary": "The state's climatologist says this won't erase Iowa's years of drought. Plus, the increased rainfall has not been evenly spread in area or timing.",
-      "url": "https://www.wqad.com/article/news/local/the-current/iowa-3rd-year-above-average-precipitation-rain-drough-dr-glisan/526-c768ff37-d78c-411b-bf21-d587e605325b",
-      "time": "19 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/77b7d7ba-91a9-4f0a-bbcc-3360340b8193/20261002T030648/77b7d7ba-91a9-4f0a-bbcc-3360340b8193_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
       "headline": "Injured man taken from Rock Island scene after reports of gunfire",
-      "summary": "UPDATE: A news release from the Rock Island Police Department has more information on yesterday's shooting incident. Officers were called to Cornerview Gas Stat…",
+      "summary": "UPDATE: A news release from the Rock Island Police Department has more information on Monday's shooting incident. Officers were called to Cornerview Gas Station…",
       "url": "https://www.ourquadcities.com/news/local-news/injured-man-taken-from-rock-island-scene-after-reports-of-gunfire/",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_a559c2.png?w=900",
       "category": "Local News"
     }
