@@ -9601,9 +9601,9 @@
       "name": "John Deere Harvester Works",
       "slug": "john-deere-harvester-works",
       "category": "things",
-      "entity_type": "Restaurant",
+      "entity_type": "Attraction",
       "tags": [
-        "restaurants"
+        "attractions"
       ],
       "attributes": [],
       "address": "1100 13th Avenue",
