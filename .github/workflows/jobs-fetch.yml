@@ -1,0 +1,35 @@
+name: Fetch Jobs
+
+on:
+  schedule:
+    - cron: "15 11 * * *"  # daily, ~6:15 am Central — QC Jobs pilot (employer feeds; links out to apply)
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch employer job feeds and write jobs.json
+        run: python jobs_fetch.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          git diff --cached --quiet && echo "No changes." || (
+            git commit -m "chore: update jobs.json [skip ci]"
+            git push
+          )
