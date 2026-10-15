@@ -1,164 +1,7 @@
 {
-  "generated": "2026-10-15T10:54:37.372983",
+  "generated": "2026-10-15T12:55:03.880706",
   "total": 423,
   "entities": [
-    {
-      "id": "adler_theatre",
-      "type": "place",
-      "name": "Adler Theatre",
-      "slug": "adler-theatre",
-      "category": "things",
-      "entity_type": "Theater",
-      "tags": [
-        "arts & culture"
-      ],
-      "attributes": [],
-      "address": "136 East 3rd Street",
-      "city": "Davenport",
-      "neighborhood": "Downtown Davenport",
-      "state": "IA",
-      "zip": "52801",
-      "phone": "(563) 326-8500",
-      "website": "https://davenportlive.com/the-adler-theatre/",
-      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
-      "lat": "41.522532",
-      "lng": "-90.5733436",
-      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
-      "rating": {
-        "google": "4.5",
-        "google_count": "531",
-        "yelp": "2.7",
-        "yelp_count": "23"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=16529854215580948733",
-        "yelp": "https://www.yelp.com/biz/adler-theatre-davenport",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\adler_theatre_photo_1.jpg",
-        "all": [
-          "entity_photos\\adler_theatre_photo_1.jpg",
-          "entity_photos\\adler_theatre_photo_2.jpg",
-          "entity_photos\\adler_theatre_photo_3.jpg",
-          "entity_photos\\adler_theatre_photo_4.jpg",
-          "entity_photos\\adler_theatre_photo_5.jpg"
-        ]
-      },
-      "guides": [],
-      "seasonal": [],
-      "featured": true,
-      "sponsor_tier": "none"
-    },
-    {
-      "id": "float_quad_cities",
-      "type": "business",
-      "name": "Float Quad Cities",
-      "slug": "float-quad-cities",
-      "category": "wellness",
-      "entity_type": "Fitness Center",
-      "tags": [
-        "health",
-        "fitness"
-      ],
-      "attributes": [],
-      "address": "911 16th Avenue",
-      "city": "Moline",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61265",
-      "phone": "(309) 517-3426",
-      "website": "http://floatqc.com/",
-      "hours": "Monday: 9:45 AM – 7:35 PM | Tuesday: 9:45 AM – 7:35 PM | Wednesday: Closed | Thursday: Closed | Friday: 9:45 AM – 7:35 PM | Saturday: 9:45 AM – 7:35 PM | Sunday: 9:45 AM – 7:35 PM",
-      "lat": "41.4969531",
-      "lng": "-90.5244498",
-      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
-      "rating": {
-        "google": "4.9",
-        "google_count": "276",
-        "yelp": "5.0",
-        "yelp_count": "4"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=3508672546548182614",
-        "yelp": "https://www.yelp.com/biz/float-quad-cities-moline",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\float_quad_cities_photo_1.jpg",
-        "all": [
-          "entity_photos\\float_quad_cities_photo_1.jpg",
-          "entity_photos\\float_quad_cities_photo_2.jpg",
-          "entity_photos\\float_quad_cities_photo_3.jpg"
-        ]
-      },
-      "guides": [
-        "hidden-gems"
-      ],
-      "seasonal": [],
-      "featured": true,
-      "sponsor_tier": "homepage"
-    },
-    {
-      "id": "quad_city_botanical_center",
-      "type": "place",
-      "name": "Quad City Botanical Center",
-      "slug": "quad-city-botanical-center",
-      "category": "things",
-      "entity_type": "Attraction",
-      "tags": [
-        "other"
-      ],
-      "attributes": [
-        "Kid Friendly",
-        "Educational",
-        "Seasonal"
-      ],
-      "address": "2525 4th Avenue",
-      "city": "Rock Island",
-      "neighborhood": "",
-      "state": "IL",
-      "zip": "61201",
-      "phone": "(309) 794-0991",
-      "website": "http://www.qcgardens.com/",
-      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 5:00 PM",
-      "lat": "41.509826",
-      "lng": "-90.56398700000001",
-      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.\n\nThe Botanical Center sprawls across Rock Island like an open secret—indoor tropical rooms that smell like soil and humidity, outdoor gardens that shift with the seasons, and in winter, a miniature train that loops through poinsettias and twinkling lights. It's the kind of place where you can spend an hour wandering through a teaching greenhouse or sit on a bench and watch families hunt for hidden corners. The gift shop and library add layers; locals come back because there's always something blooming, even in February.\n\nThe Quad City Botanical Center sits on the Illinois side of the river in Rock Island, anchoring a quieter neighborhood that feels separate from downtown bustle but still accessible. It's the rare destination in the QC that works for everyone—a peaceful solo afternoon, a family outing, a place to reset when you need green and growing things around you. Once you know it's there, you'll find yourself returning with visiting friends.",
-      "rating": {
-        "google": "4.7",
-        "google_count": "957",
-        "yelp": "4.2",
-        "yelp_count": "17"
-      },
-      "social": {
-        "google": "https://maps.google.com/?cid=15433177206008878431",
-        "yelp": "https://www.yelp.com/biz/quad-city-botanical-center-rock-island",
-        "facebook": "",
-        "instagram": "",
-        "tripadvisor": ""
-      },
-      "photos": {
-        "primary": "entity_photos\\quad_city_botanical_center_photo_1.jpg",
-        "all": [
-          "entity_photos\\quad_city_botanical_center_photo_1.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_2.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_3.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_4.jpg",
-          "entity_photos\\quad_city_botanical_center_photo_5.jpg"
-        ]
-      },
-      "guides": [
-        "visitors"
-      ],
-      "seasonal": [],
-      "featured": true,
-      "sponsor_tier": "none"
-    },
     {
       "id": "11th_hour_bar_grill",
       "type": "business",
@@ -448,6 +291,56 @@
           "entity_photos\\abernathys_photo_1.jpg",
           "entity_photos\\abernathys_photo_2.jpg",
           "entity_photos\\abernathys_photo_3.jpg"
+        ]
+      },
+      "guides": [],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "adler_theatre",
+      "type": "place",
+      "name": "Adler Theatre",
+      "slug": "adler-theatre",
+      "category": "things",
+      "entity_type": "Theater",
+      "tags": [
+        "arts & culture"
+      ],
+      "attributes": [],
+      "address": "136 East 3rd Street",
+      "city": "Davenport",
+      "neighborhood": "Downtown Davenport",
+      "state": "IA",
+      "zip": "52801",
+      "phone": "(563) 326-8500",
+      "website": "https://davenportlive.com/the-adler-theatre/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: Closed | Sunday: Closed",
+      "lat": "41.522532",
+      "lng": "-90.5733436",
+      "description": "A restored Art Deco jewel hosting Broadway tours, comedians, and live music.\n\nThe Adler's lobby stops you cold—soaring ceilings, geometric tile work, and that particular hush that old theaters hold. The main stage books the touring shows that skip smaller markets: Broadway productions, stand-up headliners, touring bands. It's the kind of venue where the bones of the building matter as much as what's on stage; you're sitting in 1927 craftsmanship while watching something made last year.\n\nThe Adler anchors Downtown Davenport's riverfront corridor, steps from the Mississippi and a natural pairing with dinner before or drinks after. It's one of those institutions that gets better the more you use it—locals know the sightlines from certain sections, which restaurants are worth the pre-show timing, how to actually get parking. Once you've caught a show here, it becomes part of how you think about the QC.",
+      "rating": {
+        "google": "4.5",
+        "google_count": "531",
+        "yelp": "2.7",
+        "yelp_count": "23"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=16529854215580948733",
+        "yelp": "https://www.yelp.com/biz/adler-theatre-davenport",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\adler_theatre_photo_1.jpg",
+        "all": [
+          "entity_photos\\adler_theatre_photo_1.jpg",
+          "entity_photos\\adler_theatre_photo_2.jpg",
+          "entity_photos\\adler_theatre_photo_3.jpg",
+          "entity_photos\\adler_theatre_photo_4.jpg",
+          "entity_photos\\adler_theatre_photo_5.jpg"
         ]
       },
       "guides": [],
@@ -7157,6 +7050,57 @@
       "sponsor_tier": "none"
     },
     {
+      "id": "float_quad_cities",
+      "type": "business",
+      "name": "Float Quad Cities",
+      "slug": "float-quad-cities",
+      "category": "wellness",
+      "entity_type": "Fitness Center",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "attributes": [],
+      "address": "911 16th Avenue",
+      "city": "Moline",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61265",
+      "phone": "(309) 517-3426",
+      "website": "http://floatqc.com/",
+      "hours": "Monday: 9:45 AM – 7:35 PM | Tuesday: 9:45 AM – 7:35 PM | Wednesday: Closed | Thursday: Closed | Friday: 9:45 AM – 7:35 PM | Saturday: 9:45 AM – 7:35 PM | Sunday: 9:45 AM – 7:35 PM",
+      "lat": "41.4969531",
+      "lng": "-90.5244498",
+      "description": "Sensory deprivation tanks where an hour feels like a reset button.\n\nFloat Quad Cities sits quiet and intentional in Moline, offering what sounds abstract until you're actually floating—ninety minutes in body-temperature saltwater, no light, no sound, just you and the drift. The tanks themselves are clean and private, the staff unfussy about the whole experience, and regulars come back because something genuinely shifts after an hour alone with your thoughts. First-timers often emerge a little dazed, talking about how their shoulders didn't know they could relax like that.\n\nFloat sits in Moline, just far enough from downtown to feel like its own destination—the kind of place you go on purpose, not by accident. It's become a quiet cornerstone for anyone serious about stress relief or recovery, and the ratings speak to real, consistent care. Once you've floated here, you understand why it keeps showing up on the radar of people looking for something genuinely restorative in the QC.",
+      "rating": {
+        "google": "4.9",
+        "google_count": "276",
+        "yelp": "5.0",
+        "yelp_count": "4"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=3508672546548182614",
+        "yelp": "https://www.yelp.com/biz/float-quad-cities-moline",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\float_quad_cities_photo_1.jpg",
+        "all": [
+          "entity_photos\\float_quad_cities_photo_1.jpg",
+          "entity_photos\\float_quad_cities_photo_2.jpg",
+          "entity_photos\\float_quad_cities_photo_3.jpg"
+        ]
+      },
+      "guides": [
+        "hidden-gems"
+      ],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
       "id": "fred_ethels_50s_antiques",
       "type": "business",
       "name": "Fred & Ethel's 50's Antiques",
@@ -13707,6 +13651,62 @@
         ]
       },
       "guides": [],
+      "seasonal": [],
+      "featured": false,
+      "sponsor_tier": "none"
+    },
+    {
+      "id": "quad_city_botanical_center",
+      "type": "place",
+      "name": "Quad City Botanical Center",
+      "slug": "quad-city-botanical-center",
+      "category": "things",
+      "entity_type": "Attraction",
+      "tags": [
+        "other"
+      ],
+      "attributes": [
+        "Kid Friendly",
+        "Educational",
+        "Seasonal"
+      ],
+      "address": "2525 4th Avenue",
+      "city": "Rock Island",
+      "neighborhood": "",
+      "state": "IL",
+      "zip": "61201",
+      "phone": "(309) 794-0991",
+      "website": "http://www.qcgardens.com/",
+      "hours": "Monday: 10:00 AM – 5:00 PM | Tuesday: 10:00 AM – 5:00 PM | Wednesday: 10:00 AM – 5:00 PM | Thursday: 10:00 AM – 5:00 PM | Friday: 10:00 AM – 5:00 PM | Saturday: 10:00 AM – 5:00 PM | Sunday: 11:00 AM – 5:00 PM",
+      "lat": "41.509826",
+      "lng": "-90.56398700000001",
+      "description": "Forty acres of green space where the Mississippi Valley grows things year-round.\n\nThe Botanical Center sprawls across Rock Island like an open secret—indoor tropical rooms that smell like soil and humidity, outdoor gardens that shift with the seasons, and in winter, a miniature train that loops through poinsettias and twinkling lights. It's the kind of place where you can spend an hour wandering through a teaching greenhouse or sit on a bench and watch families hunt for hidden corners. The gift shop and library add layers; locals come back because there's always something blooming, even in February.\n\nThe Quad City Botanical Center sits on the Illinois side of the river in Rock Island, anchoring a quieter neighborhood that feels separate from downtown bustle but still accessible. It's the rare destination in the QC that works for everyone—a peaceful solo afternoon, a family outing, a place to reset when you need green and growing things around you. Once you know it's there, you'll find yourself returning with visiting friends.",
+      "rating": {
+        "google": "4.7",
+        "google_count": "957",
+        "yelp": "4.2",
+        "yelp_count": "17"
+      },
+      "social": {
+        "google": "https://maps.google.com/?cid=15433177206008878431",
+        "yelp": "https://www.yelp.com/biz/quad-city-botanical-center-rock-island",
+        "facebook": "",
+        "instagram": "",
+        "tripadvisor": ""
+      },
+      "photos": {
+        "primary": "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+        "all": [
+          "entity_photos\\quad_city_botanical_center_photo_1.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_2.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_3.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_4.jpg",
+          "entity_photos\\quad_city_botanical_center_photo_5.jpg"
+        ]
+      },
+      "guides": [
+        "visitors"
+      ],
       "seasonal": [],
       "featured": false,
       "sponsor_tier": "none"
