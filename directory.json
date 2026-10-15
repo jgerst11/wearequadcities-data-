@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T10:48:12.874825",
+  "generated": "2026-10-15T10:53:25.464857",
   "total": 423,
   "entities": [
     {
@@ -9620,12 +9620,12 @@
       "rating": {
         "google": "4.3",
         "google_count": "342",
-        "yelp": "0.0",
-        "yelp_count": "0"
+        "yelp": "",
+        "yelp_count": ""
       },
       "social": {
         "google": "https://maps.google.com/?cid=440626321915629664",
-        "yelp": "https://www.yelp.com/biz/pillar-equipment-silvis",
+        "yelp": "",
         "facebook": "",
         "instagram": "",
         "tripadvisor": ""
