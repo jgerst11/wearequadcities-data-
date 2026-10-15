@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-14T23:00:55.134083+00:00",
+  "updated": "2026-10-15T03:36:48.266647+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa Attorney General Brenna Bird sues over ChatGPT",
+      "summary": "Iowa Attorney General Brenna Bird is suing the company behind ChatGPT. Bird accuses OpenAI of hurting Iowa children and deceiving parents. Bird says the company…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-attorney-general-brenna-bird-sues-over-chatgpt/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_9d1be8.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Holocaust survivor will appear in two QC presentations",
+      "summary": "A Holocaust survivor will make two appearances in the Quad Cities, according to a news release from the Jewish Federation of the Quad Cities. Sol Nayman will sp…",
+      "url": "https://www.ourquadcities.com/news/local-news/holocaust-survivor-will-appear-in-two-qc-presentations/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_72fb62.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Muscatine Cultural Alliance brings arts, history groups together",
+      "summary": "The alliance hopes to strengthen live performances & events across the region. It all kicks off with an inaugural celebration at the Pearl Button Museum on Oct.…",
+      "url": "https://www.wqad.com/article/news/local/the-current/new-muscatine-cultural-alliance-art-performance-history-inaugural-celebration-pearl-button-museum/526-ef3095e2-6dec-49fe-8dc6-abf97e3ef931",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d995304a-bd6c-4af0-9700-d33e79e35685/20261014T222231/d995304a-bd6c-4af0-9700-d33e79e35685_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa and Illinois give update on future of I-80 bridge",
+      "summary": "The Iowa and Illinois departments of transportation gave an update on the future of the I-80 bridge. The I-80 Mississippi River Bridge project is expected to sp…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-and-illinois-give-update-on-future-of-i-80-bridge/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_7df2b1.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Dolly Parton’s Imagination Library returning to Rock Island County",
+      "summary": "A new fundraising campaign will bring the Imagination Library back to the community, ensuring over 8,000 children receive the gift of reading.",
+      "url": "https://www.wqad.com/article/news/education/dolly-partons-imagination-library-rock-island-county/526-25f95c9b-f8df-4372-9f41-cccbb83c8e3e",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d48cf2e9-91c5-4214-a1c6-48659908c6f0/20261014T223959/d48cf2e9-91c5-4214-a1c6-48659908c6f0_750x422.jpg",
+      "category": "education"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Orpheum Theatre, Galesburg, will present 'The Dolly Show'",
+      "summary": "The Orpheum Theatre Presents 2026-2027 season continues with The Dolly Show starring Kelly O'Brien at 7:30 p.m. Thursday, Oct. 22. The show will be a tribute ho…",
+      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-will-present-the-dolly-show/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_dbf8ad.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Country star Ella Langley and Vibrant Arena donate $2,500 to Quad City Animal Welfare Center",
       "summary": "The donation will help the shelter's efforts to care for animals in need.",
       "url": "https://www.wqad.com/article/news/community/quad-city-animal-welfare-donation-ella-langley-vibrant-arena/526-0970675f-6bcf-4da1-901e-4c7370eeb248",
-      "time": "21 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/eb407818-ce64-4003-a094-9c3430d21436/20261014T184205/eb407818-ce64-4003-a094-9c3430d21436_750x422.jpg",
       "category": "community"
     },
@@ -19,19 +85,8 @@
       "headline": "Rock Island Library plans final quarterly book sale of the year",
       "summary": "The Rock Island Public Library’s last quarterly book sale of 2026 will be 10 a.m.-1 p.m. Friday, Oct. 23 and Saturday, Oct. 24, a news release says. \"Savvy shop…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-library-plans-final-quarterly-book-sale-of-the-year/",
-      "time": "26 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/02/Rock-Island-Public-Library.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Annual Riverview Bacon and Brew Fest Returning to Clinton",
-      "summary": "The 8th annual Riverview Bacon &#38; Brew Fest is taking place Saturday, October 17th in Clinton. It will run from 3p.m. to 7p.m. at the Riverview Bandshell, 25…",
-      "url": "https://www.ourquadcities.com/news/local-news/annual-riverview-bacon-and-brew-fest-returning-to-clinton/",
-      "time": "28 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/bacon-and-brew-fest-fsg.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,31 +96,9 @@
       "headline": "2026 midterm voting guide: What Iowans should know",
       "summary": "Election Day for the 2026 midterm election is Tuesday, Nov. 3.",
       "url": "https://www.wqad.com/article/news/politics/elections/iowa-voter-guide-elections-polls-voter-id-absentee-ballots-2026-midterms/524-9cf0b054-32c0-4414-9e79-704efb8bc292",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d/20240917T170336/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d_750x422.jpg",
       "category": "elections"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Music superstar Ella Langley makes donation to Quad City Animal Welfare Center",
-      "summary": "Music superstar Ella Langley teamed up with Vibrant Arena at The MARK to help animals in need here in the QCA. In a Facebook post, the Quad City Animal Welfare …",
-      "url": "https://www.ourquadcities.com/news/local-news/music-superstar-ella-langley-makes-donation-to-quad-city-animal-welfare-center/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_4632be.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Getting to Know the Our Quad Cities News Morning Team: Anthony Peoples and Riley Hemmer",
-      "summary": "Chief Meteorologist Andy McCray talks with familiar faces around the Quad Cities in the Getting to Know Podcast. Learn more about important people around our ar…",
-      "url": "https://www.ourquadcities.com/news/local-news/getting-to-know-the-our-quad-cities-news-morning-team-anthony-peoples-and-riley-hemmer/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/getting-to-know-anthony-and-riley.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,7 +107,7 @@
       "headline": "CPKC Holiday Train bringing cheer through the Quad Cities",
       "summary": "You'll be able to catch the train in Byron, Muscatine, Clinton and Davenport this November.",
       "url": "https://www.wqad.com/article/news/local/cpkc-holiday-train-quad-cities-2026/526-c4fe1759-dd46-41a8-a106-196b4dc659bd",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fbcd5062-eff0-49dc-9fdd-761458308ce4/fbcd5062-eff0-49dc-9fdd-761458308ce4_750x422.jpg",
       "category": "local"
     },
@@ -85,7 +118,7 @@
       "headline": "Davenport Fire Department holds open houses this Saturday",
       "summary": "The Davenport Fire Department is hosting open houses from 9 a.m. to 11 a.m. on Saturday, Oct 17.",
       "url": "https://www.wqad.com/article/life/local-life/davenport-fire-department-open-houses-saturday/526-9800ecbf-79f8-42bd-ba91-7e211b1cd1a5",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/04f60d48-1c9d-4a7a-994a-48934be9b25c/04f60d48-1c9d-4a7a-994a-48934be9b25c_750x422.jpg",
       "category": "local-life"
     },
@@ -96,42 +129,9 @@
       "headline": "Bettendorf Rotary Acre of Warmth Blanket Drive  has been selected as the October 2026 recipient of Eriksen Chevrolet’s Three Degree Guarantee",
       "summary": "Bettendorf Rotary Acre of Warmth Blanket Drive will receive $20 from Eriksen Chevrolet every time WQAD forecasts the high temperature within three degrees.",
       "url": "https://www.wqad.com/article/news/community/bettendorf-rotary-acre-of-warmth-blanket-drive-has-been-selected-as-the-october-2026-recipient-of-eriksen-chevrolets-three-degree-guarantee/526-a98b1280-9d6a-4123-a51f-41d2430a369e",
-      "time": "5 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c809d992-4bba-4513-8353-cb37d194c5eb/20261008T201533/c809d992-4bba-4513-8353-cb37d194c5eb_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa DOT to receive $24.5 million as part of national investment in truck parking expansion",
-      "summary": "Six public rest areas along Interstate 80 in Iowa will see expanded and modernized truck parking, the U.S. Department of Transportation announced.",
-      "url": "https://www.wqad.com/article/news/community/transportation/department-of-transportation-200-million-investment-truck-parking-iowa-rest-stop/524-824ad970-c93a-45fd-98a7-448e628f72a5",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WXIA/images/d49b64e9-41fb-42bb-af9b-05961c36ddca/20260617T144142/d49b64e9-41fb-42bb-af9b-05961c36ddca_750x422.jpg",
-      "category": "transportation"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-229/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Crime-Stoppers-David-Ellermets-Michael-Schram-Mug-Shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cooler weather with rain likely",
-      "summary": "After starting the week with record warmth, cooler weather is settling in across the Quad Cities. A few showers are possible Wednesday, but rain is likely tomor…",
-      "url": "https://www.ourquadcities.com/news/local-news/cooler-weather-with-rain-likely/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-cooler-GENERIC.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
