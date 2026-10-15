@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 update_scheduled.bat
+.tmp.driveupload/
