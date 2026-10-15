@@ -1,38 +1,115 @@
 {
-  "updated": "2026-10-15T16:28:52.340786+00:00",
+  "updated": "2026-10-15T22:55:40.042638+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Brothers Bettendorf: Learn about scandal, legacy at 'Kaffee und Kuchen' program",
-      "summary": "When William and Joseph Bettendorf came to Davenport, they had a few patents for popular inventions and a dream of making their own business, a news release say…",
-      "url": "https://www.ourquadcities.com/news/local-news/brothers-bettendorf-learn-about-scandal-legacy-at-kaffee-und-kuchen-program/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/Bettendorf-Parks-and-Recreation.jpg?w=900",
+      "headline": "Davenport father faces charges in connection with death of his 6-month-old son",
+      "summary": "A 22-year-old Davenport man was in custody Thursday in Scott County Jail after his baby died from injuries including a skull fracture and brain bleed, according…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-father-faces-charges-in-connection-with-death-of-his-6-month-old-son/",
+      "time": "27 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bryan-Wayne-Jr.jpg?w=870",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Davenport man charged with murder in infant's death",
+      "summary": "The six-month-old child was hospitalized on Sept. 29 and later died on Oct. 1 from head injuries.",
+      "url": "https://www.wqad.com/article/news/crime/davenport-murder-charges-infant-death/526-a76dc645-ca6c-44c6-8204-f2adf8025ddc",
+      "time": "42 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9d186f1-aefa-4015-a366-a3dcd368c1e6/20261015T215719/c9d186f1-aefa-4015-a366-a3dcd368c1e6_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Single game tickets on sale for Quad City Storm hockey",
+      "summary": "The Quad City Storm has released its promotional schedule for the 2026-2027 season. Tickets are on sale now.",
+      "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-tickets-promotional-schedule/526-f550f10d-5132-4766-89f6-676b7afb9a44",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/efa878c0-d7be-4d38-96dd-f18b090792b1/20260921T184754/efa878c0-d7be-4d38-96dd-f18b090792b1_750x422.jpg",
+      "category": "hockey"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Popular drive-thru coffee chain 7 Brew will open in Silvis",
+      "summary": "It will be the chain's second location in the Quad Cities metro.",
+      "url": "https://www.wqad.com/article/news/local/7-brew-silvis-opening-stand-placed/526-42a364a6-5b99-4836-a58b-339592470735",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cd63c6ba-31a7-454f-a8c1-3f926a61b671/20261015T212551/cd63c6ba-31a7-454f-a8c1-3f926a61b671_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rotary Club of Bettendorf hosts 6th annual blanket drive",
+      "summary": "The Rotary Club of Bettendorf is kicking off its 6th annual Rotary Blanket Drive, which runs from October 23 through December 18. The goal is to collect 4,000 n…",
+      "url": "https://www.ourquadcities.com/news/local-news/rotary-club-of-bettendorf-hosts-6th-annual-blanket-drive/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/Blanket-Drive.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "'Lion King' live in concert to be presented by Quad City Symphony at Adler Theatre",
-      "summary": "The Quad City Symphony will bring Disney's \"The Lion King\" to life on the big screen at 2 p.m. Oct. 24. Return to Pride Rock as the Quad City Symphony Orchestra…",
-      "url": "https://www.ourquadcities.com/news/local-news/lion-king-live-in-concert-to-be-presented-by-quad-city-symphony-at-adler-theatre/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/The-Lion-King-live-in-concert.jpg?w=900",
+      "headline": "Quad Cities Chamber, Grow Quad Cities, launch two new websites",
+      "summary": "The Quad Cities Chamber and Grow Quad Cities have launched two new websites that reflect the distinct focus of each organization, a news release says. The websi…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-chamber-grow-quad-cities-launch-two-new-websites/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/Quad-Cities-Chamber-Boomerang-QC.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Haunted Island returns to Credit Island for Halloween fun and fright",
-      "summary": "Davenport Parks and Recreation invites the community to celebrate spooky season at Haunted Island on Saturday, Oct. 24, at Credit Island Park, 2200 W. River Dri…",
-      "url": "https://www.ourquadcities.com/news/local-news/haunted-island-returns-to-credit-island-for-halloween-fun-and-fright/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_941afa.png?w=900",
+      "headline": "7 Brew to open new location in Silvis",
+      "summary": "7 Brew is coming to Silvis! The company is working to open its second location 1626 18th Street. 7 Brew, a drive-thru beverage stand, offers over 20,000 unique …",
+      "url": "https://www.ourquadcities.com/news/local-news/7-brew-to-open-new-location-in-silvis/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/7-Brew-featured-image.png?w=448",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Ethics complaint alleges Iowa Sen. Scott Webster resides in Illinois",
+      "summary": "Webster calls the complaint a \"cheap political stunt.\"",
+      "url": "https://www.wqad.com/article/news/local/complaint-alleges-iowa-sen-scott-webster-lives-in-illinois/526-dc86e37e-8c5a-4d35-9a79-a19e275e556e",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b69162ec-444a-4542-8e7e-d4ab51cdca63/20261015T172343/b69162ec-444a-4542-8e7e-d4ab51cdca63_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Things to do in the Quad-Cities: Car show, “Night of the Creeps” screening and other weekend events",
+      "summary": "Events this weekend include the Concourse d’Quad Cities Car Show at the Palmer Hills Golf Course, Here Come the Mummies at the Rust Belt and more.",
+      "url": "https://qctimes.com/life-entertainment/local/events/article_b90110f4-7815-470d-862f-d053f66af935.html",
+      "time": "11 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/fc/7fc9e9fa-e9b0-4009-8b30-ff066ca8df8a/6acd2b285d441.image.jpg?resize=300%2C111",
+      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -41,20 +118,9 @@
       "headline": "Holocaust survivor will appear in two QC presentations",
       "summary": "A Holocaust survivor will make two appearances in the Quad Cities, according to a news release from the Jewish Federation of the Quad Cities. Sol Nayman will sp…",
       "url": "https://www.ourquadcities.com/news/local-news/holocaust-survivor-will-appear-in-two-qc-presentations/",
-      "time": "14 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_72fb62.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Muscatine Cultural Alliance brings arts, history groups together",
-      "summary": "The alliance hopes to strengthen live performances & events across the region. It all kicks off with an inaugural celebration at the Pearl Button Museum on Oct.…",
-      "url": "https://www.wqad.com/article/news/local/the-current/new-muscatine-cultural-alliance-art-performance-history-inaugural-celebration-pearl-button-museum/526-ef3095e2-6dec-49fe-8dc6-abf97e3ef931",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d995304a-bd6c-4af0-9700-d33e79e35685/20261014T222231/d995304a-bd6c-4af0-9700-d33e79e35685_750x422.jpg",
-      "category": "the-current"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -63,75 +129,9 @@
       "headline": "Iowa and Illinois give update on future of I-80 bridge",
       "summary": "The Iowa and Illinois departments of transportation gave an update on the future of the I-80 bridge. The I-80 Mississippi River Bridge project is expected to sp…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-and-illinois-give-update-on-future-of-i-80-bridge/",
-      "time": "17 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_7df2b1.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Dolly Parton’s Imagination Library returning to Rock Island County",
-      "summary": "A new fundraising campaign will bring the Imagination Library back to the community, ensuring over 8,000 children receive the gift of reading.",
-      "url": "https://www.wqad.com/article/news/education/dolly-partons-imagination-library-rock-island-county/526-25f95c9b-f8df-4372-9f41-cccbb83c8e3e",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d48cf2e9-91c5-4214-a1c6-48659908c6f0/20261014T223959/d48cf2e9-91c5-4214-a1c6-48659908c6f0_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Orpheum Theatre, Galesburg, will present 'The Dolly Show'",
-      "summary": "The Orpheum Theatre Presents 2026-2027 season continues with The Dolly Show starring Kelly O'Brien at 7:30 p.m. Thursday, Oct. 22. The show will be a tribute ho…",
-      "url": "https://www.ourquadcities.com/news/local-news/orpheum-theatre-galesburg-will-present-the-dolly-show/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_dbf8ad.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Country star Ella Langley and Vibrant Arena donate $2,500 to Quad City Animal Welfare Center",
-      "summary": "The donation will help the shelter's efforts to care for animals in need.",
-      "url": "https://www.wqad.com/article/news/community/quad-city-animal-welfare-donation-ella-langley-vibrant-arena/526-0970675f-6bcf-4da1-901e-4c7370eeb248",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/eb407818-ce64-4003-a094-9c3430d21436/20261014T184205/eb407818-ce64-4003-a094-9c3430d21436_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island Library plans final quarterly book sale of the year",
-      "summary": "The Rock Island Public Library’s last quarterly book sale of 2026 will be 10 a.m.-1 p.m. Friday, Oct. 23 and Saturday, Oct. 24, a news release says. \"Savvy shop…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-library-plans-final-quarterly-book-sale-of-the-year/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/02/Rock-Island-Public-Library.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2026 midterm voting guide: What Iowans should know",
-      "summary": "Election Day for the 2026 midterm election is Tuesday, Nov. 3.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-voter-guide-elections-polls-voter-id-absentee-ballots-2026-midterms/524-9cf0b054-32c0-4414-9e79-704efb8bc292",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d/20240917T170336/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-229/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Crime-Stoppers-David-Ellermets-Michael-Schram-Mug-Shot.jpg?w=900",
-      "category": "Crime"
     }
   ]
 }
