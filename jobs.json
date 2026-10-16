@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T15:21:51+00:00",
+ "generated": "2026-10-16T15:55:52+00:00",
  "sources": [
   {
    "employer": "John Deere",
@@ -10,7 +10,7 @@
   {
    "employer": "Hy-Vee",
    "careers": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers",
-   "count": 60,
+   "count": 50,
    "ok": true
   },
   {
@@ -313,28 +313,6 @@
    "collected": "2026-10-16"
   },
   {
-   "title": "Bakery Clerk",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Bakery-Clerk_R255780-1",
-   "posted": "Posted 9 Days Ago",
-   "id": "6710997729d2",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Bakery Department Manager",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Bakery-Department-Manager_R255781",
-   "posted": "Posted 9 Days Ago",
-   "id": "8094aaa731a4",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
    "title": "Breakfast Cook",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Breakfast-Cook_R253918",
@@ -379,17 +357,6 @@
    "collected": "2026-10-16"
   },
   {
-   "title": "Certified Pharmacy Technician",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Certified-Pharmacy-Technician_R252150-1",
-   "posted": "Posted 30 Days Ago",
-   "id": "e7de59adf8d6",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
    "title": "Checker",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Checker_R255956",
@@ -419,17 +386,6 @@
    "id": "87ae1b828086",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Checker",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Checker_R255892",
-   "posted": "Posted 9 Days Ago",
-   "id": "d7f7d3662a07",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -528,7 +484,7 @@
    "posted": "Posted 11 Days Ago",
    "id": "e0f2471081d9",
    "employer": "Hy-Vee",
-   "city": "Le Claire",
+   "city": "Eldridge",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -654,17 +610,6 @@
    "collected": "2026-10-16"
   },
   {
-   "title": "Market Grille Cook",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Market-Grille-Cook_R257320",
-   "posted": "Posted Yesterday",
-   "id": "a410c98d0347",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
    "title": "Market Grille Express Clerk",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Market-Grille-Express-Clerk_R253208",
@@ -676,17 +621,6 @@
    "collected": "2026-10-16"
   },
   {
-   "title": "Market Market Grille Assistant Department ManagerGrille Cook",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Market-Market-Grille-Assistant-Department-ManagerGrille-Cook_R257321-1",
-   "posted": "Posted Yesterday",
-   "id": "76bc542b987f",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
    "title": "Meat Assistant Department Manager",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Meat-Assistant-Department-Manager_R255779",
@@ -694,17 +628,6 @@
    "id": "7cec31350808",
    "employer": "Hy-Vee",
    "city": "Davenport",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Meat Assistant Department Manager",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Meat-Assistant-Department-Manager_R253799",
-   "posted": "Posted 19 Days Ago",
-   "id": "0d7f3e6f47b3",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -748,7 +671,7 @@
    "posted": "Posted 9 Days Ago",
    "id": "1e201a12c229",
    "employer": "Hy-Vee",
-   "city": "Le Claire",
+   "city": "Eldridge",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -759,7 +682,7 @@
    "posted": "Posted 10 Days Ago",
    "id": "e506a3e8e792",
    "employer": "Hy-Vee",
-   "city": "Le Claire",
+   "city": "Eldridge",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -771,17 +694,6 @@
    "id": "4ac7b097708d",
    "employer": "Hy-Vee",
    "city": "Davenport",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Produce Assistant Department Manager",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Produce-Assistant-Department-Manager_R255783",
-   "posted": "Posted 9 Days Ago",
-   "id": "a78485aa38ee",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -798,34 +710,12 @@
   },
   {
    "title": "Produce Clerk",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Produce-Clerk_R255787",
-   "posted": "Posted 9 Days Ago",
-   "id": "a3f4296c9baf",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Produce Clerk",
-   "location": "Knoxville, W Rock Island St, Knoxville, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Knoxville-W-Rock-Island-St-Knoxville-IA/Produce-Clerk_R255884",
-   "posted": "Posted 9 Days Ago",
-   "id": "aeb00d8e74f0",
-   "employer": "Hy-Vee",
-   "city": "Rock Island",
-   "source": "workday",
-   "collected": "2026-10-16"
-  },
-  {
-   "title": "Produce Clerk",
    "location": "Eldridge, 425 E Le Claire Rd., Eldridge, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Eldridge-425-E-Le-Claire-Rd-Eldridge-IA/Produce-Clerk_R255457",
    "posted": "Posted 11 Days Ago",
    "id": "65ff01d115f8",
    "employer": "Hy-Vee",
-   "city": "Le Claire",
+   "city": "Eldridge",
    "source": "workday",
    "collected": "2026-10-16"
   },
@@ -1194,7 +1084,7 @@
   },
   {
    "title": "Contract Specialist",
-   "location": "Moline area (2 Locations)",
+   "location": "Moline + other locations",
    "url": "https://kone.wd3.myworkdayjobs.com/Careers/job/Lisle-IL/Contract-Specialist_R0665220",
    "posted": "Posted 8 Days Ago",
    "id": "7bacd1b269a7",

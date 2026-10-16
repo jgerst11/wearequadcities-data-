@@ -43,8 +43,18 @@ def get(url, data=None, headers=None, timeout=40):
 
 
 def town_of(loc):
-    for t in sorted(QC_TOWNS, key=len, reverse=True):
-        if t.lower() in (loc or "").lower():
+    """The QC town a location is in, or "" if it's elsewhere. Reads the town right before the state
+    ("..., Bettendorf, IA"), so street names like "W Rock Island St, Knoxville, IA" don't count (10/16/26)."""
+    loc = loc or ""
+    m = re.findall(r"([A-Za-z .']+?),\s*(?:IA|IL|Iowa|Illinois)\b", loc)
+    if m:
+        town = m[-1].strip()
+        for t in QC_TOWNS:
+            if town.lower() == t.lower():
+                return "Le Claire" if t == "LeClaire" else t
+        return ""
+    for t in sorted(QC_TOWNS, key=len, reverse=True):   # no state given (e.g. "Moline IL Main Office")
+        if re.search(r"\b" + re.escape(t) + r"\b", loc, re.I):
             return "Le Claire" if t == "LeClaire" else t
     return ""
 
@@ -84,10 +94,11 @@ def fetch_workday(src):
             posts = j.get("jobPostings", [])
             for p in posts:
                 loc = p.get("locationsText", "")
-                if not town_of(loc) and not town_of(q):
+                multi = re.match(r"\d+ Locations", loc)
+                if not town_of(loc) and not multi:   # outside the QC (e.g. Knoxville, IA): skip
                     continue
                 url = f"{base}/{src['site']}{p.get('externalPath', '')}"
-                out[url] = {"title": p.get("title", "").strip(), "location": loc if town_of(loc) else f"{q} area ({loc})",
+                out[url] = {"title": p.get("title", "").strip(), "location": f"{q} + other locations" if multi else loc,
                             "url": url, "posted": p.get("postedOn", "")}
             offset += 20
             if offset >= j.get("total", 0) or not posts:
