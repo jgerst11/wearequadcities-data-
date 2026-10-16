@@ -1,15 +1,70 @@
 {
-  "updated": "2026-10-15T22:55:40.042638+00:00",
+  "updated": "2026-10-16T03:32:56.309867+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island's public libraries will open earlier starting Nov. 2",
+      "summary": "All locations will open at 9 a.m. on weekdays.",
+      "url": "https://www.wqad.com/article/news/community/rock-island-public-library-new-hours-monday-november-2/526-87cad80e-b2eb-4a54-8d53-4f82013498ce",
+      "time": "1 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ffd65732-9213-43ab-ad2f-3b7feca86297/20260713T195856/ffd65732-9213-43ab-ad2f-3b7feca86297_750x422.jpg",
+      "category": "community"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Davenport father faces charges in connection with death of his 6-month-old son",
-      "summary": "A 22-year-old Davenport man was in custody Thursday in Scott County Jail after his baby died from injuries including a skull fracture and brain bleed, according…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-father-faces-charges-in-connection-with-death-of-his-6-month-old-son/",
+      "headline": "Community, environmental leaders meet at Credit Island, Davenport",
+      "summary": "Community and environmental leaders got together Thursday at Credit Island, Davenport, for a morning of learning and outdoor exploration. The Bi-State Conservat…",
+      "url": "https://www.ourquadcities.com/news/local-news/community-environmental-leaders-meet-at-credit-island-davenport/",
       "time": "27 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bryan-Wayne-Jr.jpg?w=870",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bi-CAN-.jpg?w=573",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "New Iowa map connects farmers, landowners with conservation experts",
+      "summary": "You can enter your address or just click around the map to see which experts serve your area and how to contact them. Try it out for yourself here.",
+      "url": "https://www.wqad.com/article/news/local/the-current/iowa-conservation-resource-map-farmers-landowners-experts-water-quality-cover-crops-runoff/526-c3d0e82b-2b14-49bc-8963-b0848bd24b43",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dd91f869-78d1-433a-ab2d-e42ee654e179/20250331T221911/dd91f869-78d1-433a-ab2d-e42ee654e179_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine Booster Club makes changes to its leadership roles",
+      "summary": "The Muscatine Booster Club is about to make some big changes to its leadership roles. The club helps the school operate concessions and fundraising for student …",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-booster-club-makes-changes-to-its-leadership-roles/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Muscatine-Booster-Club-changes.jpg?w=566",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Limited preseason ice time, international paperwork issues and more takeaways from Quad City Storm's media day",
+      "summary": "The Quad City Storm open the season on home ice on Oct. 17 against Peoria. This year, fans will notice upgrades to the rink at the Vibrant Arena.",
+      "url": "https://www.wqad.com/article/news/local/the-current/quad-city-storm-hockey-season-opener-media-day-preseason-international-players-head-coach-vibrant-ice-upgrades-preview/526-08999cbc-2208-44b1-beee-3e45109f7c30",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/319154de-2c92-4da0-af8f-3e3ed2210e45/20260714T232922/319154de-2c92-4da0-af8f-3e3ed2210e45_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Traffic pattern will change on two Muscatine city streets",
+      "summary": "Traffic on two Muscatine streets will be restricted to one-way travel beginning Friday, Oct. 16, as part of a two-week pilot project approved by the City of Mus…",
+      "url": "https://www.ourquadcities.com/news/local-news/traffic-pattern-will-change-on-two-muscatine-city-streets/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/traffic-pattern-.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,9 +74,20 @@
       "headline": "Davenport man charged with murder in infant's death",
       "summary": "The six-month-old child was hospitalized on Sept. 29 and later died on Oct. 1 from head injuries.",
       "url": "https://www.wqad.com/article/news/crime/davenport-murder-charges-infant-death/526-a76dc645-ca6c-44c6-8204-f2adf8025ddc",
-      "time": "42 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9d186f1-aefa-4015-a366-a3dcd368c1e6/20261015T215719/c9d186f1-aefa-4015-a366-a3dcd368c1e6_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport father faces charges in connection with death of his 6-month-old son",
+      "summary": "A 22-year-old Davenport man was in custody Thursday in Scott County Jail after his baby died from injuries including a skull fracture and brain bleed, according…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-father-faces-charges-in-connection-with-death-of-his-6-month-old-son/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bryan-Wayne-Jr.jpg?w=870",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -30,7 +96,7 @@
       "headline": "Single game tickets on sale for Quad City Storm hockey",
       "summary": "The Quad City Storm has released its promotional schedule for the 2026-2027 season. Tickets are on sale now.",
       "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-tickets-promotional-schedule/526-f550f10d-5132-4766-89f6-676b7afb9a44",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/efa878c0-d7be-4d38-96dd-f18b090792b1/20260921T184754/efa878c0-d7be-4d38-96dd-f18b090792b1_750x422.jpg",
       "category": "hockey"
     },
@@ -41,31 +107,9 @@
       "headline": "Popular drive-thru coffee chain 7 Brew will open in Silvis",
       "summary": "It will be the chain's second location in the Quad Cities metro.",
       "url": "https://www.wqad.com/article/news/local/7-brew-silvis-opening-stand-placed/526-42a364a6-5b99-4836-a58b-339592470735",
-      "time": "1 h ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cd63c6ba-31a7-454f-a8c1-3f926a61b671/20261015T212551/cd63c6ba-31a7-454f-a8c1-3f926a61b671_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rotary Club of Bettendorf hosts 6th annual blanket drive",
-      "summary": "The Rotary Club of Bettendorf is kicking off its 6th annual Rotary Blanket Drive, which runs from October 23 through December 18. The goal is to collect 4,000 n…",
-      "url": "https://www.ourquadcities.com/news/local-news/rotary-club-of-bettendorf-hosts-6th-annual-blanket-drive/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/Blanket-Drive.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad Cities Chamber, Grow Quad Cities, launch two new websites",
-      "summary": "The Quad Cities Chamber and Grow Quad Cities have launched two new websites that reflect the distinct focus of each organization, a news release says. The websi…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-chamber-grow-quad-cities-launch-two-new-websites/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/Quad-Cities-Chamber-Boomerang-QC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,20 +118,9 @@
       "headline": "Boil orders in the Quad Cities region",
       "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
       "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "7 Brew to open new location in Silvis",
-      "summary": "7 Brew is coming to Silvis! The company is working to open its second location 1626 18th Street. 7 Brew, a drive-thru beverage stand, offers over 20,000 unique …",
-      "url": "https://www.ourquadcities.com/news/local-news/7-brew-to-open-new-location-in-silvis/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/7-Brew-featured-image.png?w=448",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,42 +129,9 @@
       "headline": "Ethics complaint alleges Iowa Sen. Scott Webster resides in Illinois",
       "summary": "Webster calls the complaint a \"cheap political stunt.\"",
       "url": "https://www.wqad.com/article/news/local/complaint-alleges-iowa-sen-scott-webster-lives-in-illinois/526-dc86e37e-8c5a-4d35-9a79-a19e275e556e",
-      "time": "3 h ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b69162ec-444a-4542-8e7e-d4ab51cdca63/20261015T172343/b69162ec-444a-4542-8e7e-d4ab51cdca63_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Things to do in the Quad-Cities: Car show, “Night of the Creeps” screening and other weekend events",
-      "summary": "Events this weekend include the Concourse d’Quad Cities Car Show at the Palmer Hills Golf Course, Here Come the Mummies at the Rust Belt and more.",
-      "url": "https://qctimes.com/life-entertainment/local/events/article_b90110f4-7815-470d-862f-d053f66af935.html",
-      "time": "11 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/fc/7fc9e9fa-e9b0-4009-8b30-ff066ca8df8a/6acd2b285d441.image.jpg?resize=300%2C111",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Holocaust survivor will appear in two QC presentations",
-      "summary": "A Holocaust survivor will make two appearances in the Quad Cities, according to a news release from the Jewish Federation of the Quad Cities. Sol Nayman will sp…",
-      "url": "https://www.ourquadcities.com/news/local-news/holocaust-survivor-will-appear-in-two-qc-presentations/",
-      "time": "21 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_72fb62.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa and Illinois give update on future of I-80 bridge",
-      "summary": "The Iowa and Illinois departments of transportation gave an update on the future of the I-80 bridge. The I-80 Mississippi River Bridge project is expected to sp…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-and-illinois-give-update-on-future-of-i-80-bridge/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_7df2b1.png?w=900",
-      "category": "Local News"
     }
   ]
 }
