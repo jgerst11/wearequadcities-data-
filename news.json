@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-16T03:32:56.309867+00:00",
+  "updated": "2026-10-16T08:48:26.031135+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Popular drive-thru coffee chain 7 Brew will open in Silvis",
+      "summary": "It will be the chain's second location in the Quad Cities metro.",
+      "url": "https://www.wqad.com/article/news/local/7-brew-silvis-opening-stand-placed/526-42a364a6-5b99-4836-a58b-339592470735",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cd63c6ba-31a7-454f-a8c1-3f926a61b671/20261015T212551/cd63c6ba-31a7-454f-a8c1-3f926a61b671_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois medical debt relief program surpasses $1B goal in two years",
+      "summary": "Over $1.4 billion in medical debt has been erased for nearly 700,000 Illinoisans across all counties.",
+      "url": "https://www.wqad.com/article/news/state/illinois-medical-debt-relief-program-surpasses-goal-one-billion-two-years/526-d6817dbd-f8ff-4ad6-a685-42ca49a5db1c",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ca62f798-4969-4cc9-8283-27f14946ee6e/20261016T062416/ca62f798-4969-4cc9-8283-27f14946ee6e_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pritzker reports more than $9M in income on 2025 tax returns, not including blind trust",
+      "summary": "The governor’s wealth topped $4 billion within the last year.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/pritzker-reports-more-than-9m-in-income-on-2025-tax-returns-not-including-blind-trust/526-fe0942a7-c017-4e3e-a63f-180a154b4213",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe33315b-87eb-45cd-bd69-20ffe680e44e/20261016T064440/fe33315b-87eb-45cd-bd69-20ffe680e44e_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘Partial win for customers’: Illinois Commerce Commission approves $82 million rate hike for Nicor",
+      "summary": "The amount was negotiated through an earlier settlement with the attorney general’s office.",
+      "url": "https://www.wqad.com/article/money/consumer/nicor-gas-rate-hike-illinois-commerce-commision/526-85d1f6ba-67bd-4dab-b69b-41def048b6ef",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9f49b84-3da9-4bc5-9ba0-a1ceacb61a6f/20261016T063051/c9f49b84-3da9-4bc5-9ba0-a1ceacb61a6f_750x422.jpg",
+      "category": "consumer"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Roger Craig night in Davenport",
+      "summary": "Pro Football Hall of Famer and former Davenport Central player Roger Craig was honored as they renamed Brady Street Stadium, Roger Craig Stadium on October 15, …",
+      "url": "https://www.ourquadcities.com/sports/high-school-sports/roger-craig-night-in-davenport/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/rcnight.jpg?w=900",
+      "category": "High School Sports"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Boston Everitt, the next Hawkeye punting star molded through \"footy\"",
+      "summary": "Far away from Iowa City and the University of Iowa campus, kids in the \"Down Under\" are playing 'footy,' or Australian football. Just the same as kids in Americ…",
+      "url": "https://www.ourquadcities.com/uncategorized/boston-everitt-the-next-hawkeye-punting-star-molded-through-footy/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/punter.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,9 +74,20 @@
       "headline": "Rock Island's public libraries will open earlier starting Nov. 2",
       "summary": "All locations will open at 9 a.m. on weekdays.",
       "url": "https://www.wqad.com/article/news/community/rock-island-public-library-new-hours-monday-november-2/526-87cad80e-b2eb-4a54-8d53-4f82013498ce",
-      "time": "1 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ffd65732-9213-43ab-ad2f-3b7feca86297/20260713T195856/ffd65732-9213-43ab-ad2f-3b7feca86297_750x422.jpg",
       "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "7 Brew will expand to new Silvis location",
+      "summary": "7 Brew is expanding in the Quad Cities. The drive-through drink stand is adding a second location in Silvis at 1626 18th St. The new location will offer coffee,…",
+      "url": "https://www.ourquadcities.com/news/local-news/7-brew-will-expand-to-new-silvis-location/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/7-Brew.jpg?w=566",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +96,7 @@
       "headline": "Community, environmental leaders meet at Credit Island, Davenport",
       "summary": "Community and environmental leaders got together Thursday at Credit Island, Davenport, for a morning of learning and outdoor exploration. The Bi-State Conservat…",
       "url": "https://www.ourquadcities.com/news/local-news/community-environmental-leaders-meet-at-credit-island-davenport/",
-      "time": "27 min ago",
+      "time": "5 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bi-CAN-.jpg?w=573",
       "category": "Local News"
     },
@@ -30,20 +107,9 @@
       "headline": "New Iowa map connects farmers, landowners with conservation experts",
       "summary": "You can enter your address or just click around the map to see which experts serve your area and how to contact them. Try it out for yourself here.",
       "url": "https://www.wqad.com/article/news/local/the-current/iowa-conservation-resource-map-farmers-landowners-experts-water-quality-cover-crops-runoff/526-c3d0e82b-2b14-49bc-8963-b0848bd24b43",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dd91f869-78d1-433a-ab2d-e42ee654e179/20250331T221911/dd91f869-78d1-433a-ab2d-e42ee654e179_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine Booster Club makes changes to its leadership roles",
-      "summary": "The Muscatine Booster Club is about to make some big changes to its leadership roles. The club helps the school operate concessions and fundraising for student …",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-booster-club-makes-changes-to-its-leadership-roles/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Muscatine-Booster-Club-changes.jpg?w=566",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,20 +118,9 @@
       "headline": "Limited preseason ice time, international paperwork issues and more takeaways from Quad City Storm's media day",
       "summary": "The Quad City Storm open the season on home ice on Oct. 17 against Peoria. This year, fans will notice upgrades to the rink at the Vibrant Arena.",
       "url": "https://www.wqad.com/article/news/local/the-current/quad-city-storm-hockey-season-opener-media-day-preseason-international-players-head-coach-vibrant-ice-upgrades-preview/526-08999cbc-2208-44b1-beee-3e45109f7c30",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/319154de-2c92-4da0-af8f-3e3ed2210e45/20260714T232922/319154de-2c92-4da0-af8f-3e3ed2210e45_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Traffic pattern will change on two Muscatine city streets",
-      "summary": "Traffic on two Muscatine streets will be restricted to one-way travel beginning Friday, Oct. 16, as part of a two-week pilot project approved by the City of Mus…",
-      "url": "https://www.ourquadcities.com/news/local-news/traffic-pattern-will-change-on-two-muscatine-city-streets/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/traffic-pattern-.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -74,64 +129,9 @@
       "headline": "Davenport man charged with murder in infant's death",
       "summary": "The six-month-old child was hospitalized on Sept. 29 and later died on Oct. 1 from head injuries.",
       "url": "https://www.wqad.com/article/news/crime/davenport-murder-charges-infant-death/526-a76dc645-ca6c-44c6-8204-f2adf8025ddc",
-      "time": "4 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9d186f1-aefa-4015-a366-a3dcd368c1e6/20261015T215719/c9d186f1-aefa-4015-a366-a3dcd368c1e6_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport father faces charges in connection with death of his 6-month-old son",
-      "summary": "A 22-year-old Davenport man was in custody Thursday in Scott County Jail after his baby died from injuries including a skull fracture and brain bleed, according…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-father-faces-charges-in-connection-with-death-of-his-6-month-old-son/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Bryan-Wayne-Jr.jpg?w=870",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Single game tickets on sale for Quad City Storm hockey",
-      "summary": "The Quad City Storm has released its promotional schedule for the 2026-2027 season. Tickets are on sale now.",
-      "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-tickets-promotional-schedule/526-f550f10d-5132-4766-89f6-676b7afb9a44",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/efa878c0-d7be-4d38-96dd-f18b090792b1/20260921T184754/efa878c0-d7be-4d38-96dd-f18b090792b1_750x422.jpg",
-      "category": "hockey"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Popular drive-thru coffee chain 7 Brew will open in Silvis",
-      "summary": "It will be the chain's second location in the Quad Cities metro.",
-      "url": "https://www.wqad.com/article/news/local/7-brew-silvis-opening-stand-placed/526-42a364a6-5b99-4836-a58b-339592470735",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cd63c6ba-31a7-454f-a8c1-3f926a61b671/20261015T212551/cd63c6ba-31a7-454f-a8c1-3f926a61b671_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Boil orders in the Quad Cities region",
-      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
-      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Ethics complaint alleges Iowa Sen. Scott Webster resides in Illinois",
-      "summary": "Webster calls the complaint a \"cheap political stunt.\"",
-      "url": "https://www.wqad.com/article/news/local/complaint-alleges-iowa-sen-scott-webster-lives-in-illinois/526-dc86e37e-8c5a-4d35-9a79-a19e275e556e",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b69162ec-444a-4542-8e7e-d4ab51cdca63/20261015T172343/b69162ec-444a-4542-8e7e-d4ab51cdca63_750x422.jpg",
-      "category": "local"
     }
   ]
 }
