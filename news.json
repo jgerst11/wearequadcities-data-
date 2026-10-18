@@ -1,16 +1,38 @@
 {
-  "updated": "2026-10-17T21:59:36.691263+00:00",
+  "updated": "2026-10-18T03:29:07.540531+00:00",
   "items": [
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_9660e670-de2a-4749-80d8-b00b47b6e30f.html",
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities open houses teach children fire safety, build trust with first responders",
+      "summary": "Families in Davenport and Bettendorf explored fire stations during open houses, learning safety tips.",
+      "url": "https://www.wqad.com/article/news/community/quad-cities-open-houses-teach-children-fire-safety-build-trust-with-first-responders/526-dece71a9-5bcc-43f6-ae94-a96a25cc0d2c",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/de21a9d6-557f-43fd-81fe-a6a717df7d90/20261018T014922/de21a9d6-557f-43fd-81fe-a6a717df7d90_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Noogiefest brings Halloween fun to MercyOne Genesis in Davenport",
+      "summary": "Gilda’s Club hosted its annual Noogiefest at MercyOne Genesis in Davenport, offering families free Halloween fun, trick-or-treating and community resources.",
+      "url": "https://www.wqad.com/article/life/holidays/noogiefest-brings-halloween-fun-to-mercyone-genesis-in-davenport/526-75ae4546-1bd2-487c-9cf9-dbd61e027d45",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1/20261018T013829/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1_750x422.jpg",
+      "category": "holidays"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Indivisible QC holds 'No Kings' rally to promote early voting",
+      "summary": "Hundreds gathered at Vander Veer Park for Indivisible QC's \"No Kings: Vote Early\" rally, urging residents to cast ballots ahead of Election Day.",
+      "url": "https://www.wqad.com/article/news/politics/elections/indivisible-qc-holds-no-kings-rally-to-promote-early-voting/526-82d2a467-6216-4ae3-8d26-6bd67bdc156d",
       "time": "3 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
+      "image": "https://media.tegna-media.com/assets/WQAD/images/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5/20261017T234913/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5_750x422.jpg",
+      "category": "elections"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +41,7 @@
       "headline": "Otium Ceramics center opens in Rock Island",
       "summary": "A new pottery business just opened in Rock Island, where Otium Ceramics celebrated with a ribbon cutting on Friday. The business is focused on instructional pot…",
       "url": "https://www.ourquadcities.com/news/local-news/otium-ceramics-center-opens-in-rock-island/",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Lori-Roderick-.jpg?w=552",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "Geneseo family opens farm for third annual Farm Fest",
       "summary": "The Haars family is preparing for its third annual farm fest, providing free combine rides to celebrate the harvest season.",
       "url": "https://www.wqad.com/article/news/community/geneseo-family-haars-third-annual-farm-fest/526-b6e8cb94-bc14-40af-87c9-0df2bf509c35",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/6dc9f756-5d50-44e9-9112-8ff0b6041e6e/20261017T031054/6dc9f756-5d50-44e9-9112-8ff0b6041e6e_750x422.jpg",
       "category": "community"
     },
@@ -41,7 +63,7 @@
       "headline": "Illinois Quad Cities communities planning temporary winter shelter in Moline",
       "summary": "The project is part of broader discussions among local governments and service providers about addressing homelessness.",
       "url": "https://www.wqad.com/article/news/community/illinois-quad-cities-communities-planning-temporary-winter-shelter-in-moline/526-4e602c17-047e-461a-a1ba-1fe1188e23cf",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/f4ca4478-b461-4cc2-be43-17227057c8a9/f4ca4478-b461-4cc2-be43-17227057c8a9_750x422.jpg",
       "category": "community"
     },
@@ -52,7 +74,7 @@
       "headline": "Becca Niles to serve as Davenport's new Parks and Recreation director",
       "summary": "The City of Davenport has announced that Becca Niles will serve as the new Parks and Recreation director, a news release says. Niles will continue to lead and o…",
       "url": "https://www.ourquadcities.com/news/local-news/becca-niles-to-serve-as-davenports-new-parks-and-recreation-director/",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Becca-Niles-.jpg?w=859",
       "category": "Local News"
     },
@@ -63,7 +85,7 @@
       "headline": "Quad City Botanical Center, Rock Island, will host special Halloween-themed events",
       "summary": "The Quad City Botanical Center will host some special Halloween-themed events for both kids and adults. On Saturday, visitors can enjoy a \"not so scary\" Hallowe…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-city-botanical-center-rock-island-will-host-special-halloween-themed-events/",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Nocturnal-.jpg?w=577",
       "category": "Local News"
     },
@@ -74,7 +96,7 @@
       "headline": "Muscatine initiative provides free Halloween costumes to children",
       "summary": "As rising costs turn seasonal celebrations into financial burdens, a local initiative is working to ensure that the magic of Halloween remains accessible to all…",
       "url": "https://www.wqad.com/article/news/community/free-halloween-costumes-muscatine-iowa-united-way-initiative/526-87e78e8a-de6a-4ade-8dc9-2668ae27f9ff",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3/20261017T021545/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3_750x422.jpg",
       "category": "community"
     },
@@ -85,7 +107,7 @@
       "headline": "Rock Island County NAACP hosts candidate forum Tuesday night",
       "summary": "Candidates from six contested races were invited to attend. It started at 5:30 p.m. at the MLK Center in Rock Island.",
       "url": "https://www.wqad.com/article/news/politics/elections/rock-island-county-naacp-candidate-forum-illinois-races-midterm-election/526-413061a9-b273-447f-9545-f550b0bb0b33",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae903951-a0ff-4957-b38d-7de1bf338a62/20261013T184427/ae903951-a0ff-4957-b38d-7de1bf338a62_750x422.jpg",
       "category": "elections"
     },
@@ -96,7 +118,7 @@
       "headline": "New Safe Haven Baby Box is first in Iowa Quad Cities",
       "summary": "A new Safe Haven Baby Box has come to Davenport. The box will give mothers in crisis a safe, anonymous way to surrender their newborns. It's at MercyOne Genesis…",
       "url": "https://www.ourquadcities.com/news/local-news/new-safe-haven-baby-box-is-first-in-iowa-quad-cities/",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Safe-Haven-.jpg?w=553",
       "category": "Local News"
     },
@@ -107,31 +129,9 @@
       "headline": "'He could have walked away': Mother of Davenport woman killed last year speaks out after suspect pleads guilty",
       "summary": "Alexis Roelandt was just 19 years old when her life was cut short. Her mom reflects on her grief after her daughter's killer pleaded guilty days before trial.",
       "url": "https://www.wqad.com/article/news/crime/davenport-woman-killed-april-2025-alexis-roelandt-suspect-guilty-plea/526-f29dc2f6-1a4c-4436-a700-615b110e5000",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c1459fcd-dfbd-4432-a099-bcc8654e149a/20261017T002028/c1459fcd-dfbd-4432-a099-bcc8654e149a_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport's 'Stunning' Stephen Edwards will compete in \"Fists of Fury 13\" in Florida",
-      "summary": "According to fightnews.com, Davenport's \"Stunning\" Stephen Edwards is scheduled to be part of the \"Fists of Fury 13\" event in Florida. Kris Lawrence and Kelly B…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenports-stunning-stephen-edwards-will-compete-in-fists-of-fury-13-in-florida/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2019/01/Part_one___Stunning__Stephen_Edwards_on__1_67324420_ver1.0.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_de25f693-36a9-47fd-967f-283d3dd27396.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
     }
   ]
 }
