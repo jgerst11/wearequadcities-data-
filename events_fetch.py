@@ -89,7 +89,7 @@ def visitqc_location(url):
 
 def visitqc_event(eid, start, name, link, image, known):
     """One Visit QC event dict. Page details (location, description) are reused from the last run when we have them."""
-    ev = {"id": "vqc_" + hashlib.md5(f"{eid}|{start}".encode()).hexdigest()[:12], "name": name, "start": start, "end": "",
+    ev = {"id": "vqc_" + hashlib.md5((f"{eid}|{start[:10]}" + (f"|{start[11:16]}" if len(start) > 10 else "")).encode()).hexdigest()[:12], "name": name, "start": start, "end": "",
           "venue": "", "address": "", "city": "Quad Cities", "state": "", "category": "Events", "description": "",
           "url": link, "image": image, "is_free": False, "source": "visitquadcities.com"}
     loc = known.get(eid)
@@ -110,17 +110,19 @@ def fetch_visitqc_calendar(known):
         if not html: break
         slides = re.findall(r'href="(https://visitquadcities\.com/calendarembed/event\?eventid=(\d+)[^"]*)".*?'
                             r'background-image: url\(([^)]*)\).*?class="month"[^>]*>(\w+)<.*?class="day">(\d+)<.*?'
-                            r'class="year">(\d{4})<.*?<h3>(.*?)</h3>', html, re.S)
-        new = [s for s in slides if (s[1], s[3], s[4]) not in seen]
+                            r'class="year">(\d{4})<(.*?)<h3>(.*?)</h3>', html, re.S)
+        new = [s for s in slides if (s[1], s[3], s[4], s[6]) not in seen]
         if not new: break
         past_window = False
-        for link, eid, image, mon, day, year, name in new:
-            seen.add((eid, mon, day))
+        for link, eid, image, mon, day, year, between, name in new:
+            seen.add((eid, mon, day, between))   # same event twice on a day = two showtimes
             m = MONTH_MAP.get(mon[:3].lower())
             if not m: continue
-            start = f"{year}-{m:02d}-{int(day):02d}"
-            if datetime.fromisoformat(start).date().toordinal() > limit: past_window = True; continue
-            if not is_future(start): continue
+            date = f"{year}-{m:02d}-{int(day):02d}"
+            if datetime.fromisoformat(date).date().toordinal() > limit: past_window = True; continue
+            if not is_future(date): continue
+            t = re.search(r'class="time">\s*(\d{1,2}):(\d{2})\s*([AP]M)', between, re.I)
+            start = date + (f"T{int(t.group(1)) % 12 + (12 if t.group(3).upper() == 'PM' else 0):02d}:{t.group(2)}:00" if t else "")
             image = unescape(image).strip().strip("'\"")   # the markup is url('...')
             if "VQC_Logo" in image: image = ""             # Visit QC's logo stand-in, not an event photo
             events.append(visitqc_event(eid, start, unescape(name).strip(), unescape(link), image, known))
