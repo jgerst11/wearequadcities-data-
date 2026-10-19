@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-18T22:16:17.893880+00:00",
+  "updated": "2026-10-19T03:40:20.012221+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Breast cancer survivors come together at Gather for the Cure",
+      "summary": "Breast cancer survivors and families celebrated resilience at Gather for the Cure in Scott County Park.",
+      "url": "https://www.wqad.com/article/news/health/breast-cancer-survivors-come-together-at-gather-for-the-cure/526-5b8e659c-87e4-42d3-864c-709249636afd",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/eadf2aee-d6d2-4756-ac6e-dc32fb716d07/20261019T011620/eadf2aee-d6d2-4756-ac6e-dc32fb716d07_750x422.jpg",
+      "category": "health"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "'No Kings' rally at Davenport park encourages voter turnout",
       "summary": "Another no kings protest, this one geared toward making sure people cast their ballots across the Quad Cities area, was held Saturday at Vander Veer Park, Daven…",
       "url": "https://www.ourquadcities.com/news/local-news/no-kings-rally-at-davenport-park-encourages-voter-turnout/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/No-Kings-.jpg?w=397",
       "category": "Local News"
     },
@@ -19,7 +30,7 @@
       "headline": "Davenport names new Parks and Recreation director",
       "summary": "The City of Davenport announced Becca Niles will serve as the new Parks and Recreation Director after Chad Dyson's departure in June of 2026.",
       "url": "https://www.wqad.com/article/news/community/davenport-names-new-parks-and-recreation-director/526-5a3da1c0-d29c-43ff-b8d0-e538c01775b9",
-      "time": "7 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d/20261018T132909/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d_750x422.jpg",
       "category": "community"
     },
@@ -30,7 +41,7 @@
       "headline": "OQC Crime Watch: QC credit union thefts; French fridge hackers spoil food: Episode 85",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
       "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-qc-credit-union-thefts-french-fridge-hackers-spoil-food-episode-85/",
-      "time": "14 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/Edward-McNanna-mug-shot-1.jpg?w=900",
       "category": "Local News"
     },
@@ -41,7 +52,7 @@
       "headline": "Iowa women's basketball begins new era",
       "summary": "All of the players from Iowa's back-to-back Final Four runs are gone. That means Jan Jensen and her team are looking for new leaders to emerge. Going into the 2…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/iowa-womens-basketball-begins-new-era/",
-      "time": "18 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/iowa-womens-basketball.png?w=590",
       "category": "Hawkeye Headquarters"
     },
@@ -52,7 +63,7 @@
       "headline": "Quad Cities open houses teach children fire safety, build trust with first responders",
       "summary": "Families in Davenport and Bettendorf explored fire stations during open houses, learning safety tips.",
       "url": "https://www.wqad.com/article/news/community/quad-cities-open-houses-teach-children-fire-safety-build-trust-with-first-responders/526-dece71a9-5bcc-43f6-ae94-a96a25cc0d2c",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/de21a9d6-557f-43fd-81fe-a6a717df7d90/20261018T014922/de21a9d6-557f-43fd-81fe-a6a717df7d90_750x422.jpg",
       "category": "community"
     },
@@ -63,7 +74,7 @@
       "headline": "Noogiefest brings Halloween fun to MercyOne Genesis in Davenport",
       "summary": "Gilda’s Club hosted its annual Noogiefest at MercyOne Genesis in Davenport, offering families free Halloween fun, trick-or-treating and community resources.",
       "url": "https://www.wqad.com/article/life/holidays/noogiefest-brings-halloween-fun-to-mercyone-genesis-in-davenport/526-75ae4546-1bd2-487c-9cf9-dbd61e027d45",
-      "time": "20 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1/20261018T013829/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1_750x422.jpg",
       "category": "holidays"
     },
@@ -74,20 +85,9 @@
       "headline": "Indivisible QC holds 'No Kings' rally to promote early voting",
       "summary": "Hundreds gathered at Vander Veer Park for Indivisible QC's \"No Kings: Vote Early\" rally, urging residents to cast ballots ahead of Election Day.",
       "url": "https://www.wqad.com/article/news/politics/elections/indivisible-qc-holds-no-kings-rally-to-promote-early-voting/526-82d2a467-6216-4ae3-8d26-6bd67bdc156d",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5/20261017T234913/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5_750x422.jpg",
       "category": "elections"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA welcomes competitive pool players in Iowa ACS State Championships",
-      "summary": "The Quad Cities will welcome competitive pool players for the 2026 Iowa ACS State Championships, taking place Oct. 21-25 at the RiverCenter in Davenport, accord…",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-welcomes-competitive-pool-players-in-iowa-acs-state-championships/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2016/07/Pool20players20from20across20the20country20begin20tournament20in20the_9420959_ver1.0.jpg?w=854",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,7 +96,7 @@
       "headline": "Geneseo family opens farm for third annual Farm Fest",
       "summary": "The Haars family is preparing for its third annual farm fest, providing free combine rides to celebrate the harvest season.",
       "url": "https://www.wqad.com/article/news/community/geneseo-family-haars-third-annual-farm-fest/526-b6e8cb94-bc14-40af-87c9-0df2bf509c35",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/6dc9f756-5d50-44e9-9112-8ff0b6041e6e/20261017T031054/6dc9f756-5d50-44e9-9112-8ff0b6041e6e_750x422.jpg",
       "category": "community"
     },
@@ -107,7 +107,7 @@
       "headline": "Illinois Quad Cities communities planning temporary winter shelter in Moline",
       "summary": "The project is part of broader discussions among local governments and service providers about addressing homelessness.",
       "url": "https://www.wqad.com/article/news/community/illinois-quad-cities-communities-planning-temporary-winter-shelter-in-moline/526-4e602c17-047e-461a-a1ba-1fe1188e23cf",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/KSDK/images/f4ca4478-b461-4cc2-be43-17227057c8a9/f4ca4478-b461-4cc2-be43-17227057c8a9_750x422.jpg",
       "category": "community"
     },
@@ -118,7 +118,7 @@
       "headline": "Quad City Botanical Center, Rock Island, will host special Halloween-themed events",
       "summary": "The Quad City Botanical Center will host some special Halloween-themed events for both kids and adults. On Saturday, visitors can enjoy a \"not so scary\" Hallowe…",
       "url": "https://www.ourquadcities.com/news/local-news/quad-city-botanical-center-rock-island-will-host-special-halloween-themed-events/",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Nocturnal-.jpg?w=577",
       "category": "Local News"
     },
@@ -129,7 +129,7 @@
       "headline": "Muscatine initiative provides free Halloween costumes to children",
       "summary": "As rising costs turn seasonal celebrations into financial burdens, a local initiative is working to ensure that the magic of Halloween remains accessible to all…",
       "url": "https://www.wqad.com/article/news/community/free-halloween-costumes-muscatine-iowa-united-way-initiative/526-87e78e8a-de6a-4ade-8dc9-2668ae27f9ff",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3/20261017T021545/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3_750x422.jpg",
       "category": "community"
     }
