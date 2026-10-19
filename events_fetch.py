@@ -121,6 +121,8 @@ def fetch_visitqc_calendar(known):
             start = f"{year}-{m:02d}-{int(day):02d}"
             if datetime.fromisoformat(start).date().toordinal() > limit: past_window = True; continue
             if not is_future(start): continue
+            image = unescape(image).strip().strip("'\"")   # the markup is url('...')
+            if "VQC_Logo" in image: image = ""             # Visit QC's logo stand-in, not an event photo
             events.append(visitqc_event(eid, start, unescape(name).strip(), unescape(link), image, known))
         if past_window: break
     return events
