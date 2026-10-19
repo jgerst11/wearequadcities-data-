@@ -1,16 +1,27 @@
 {
-  "updated": "2026-10-19T18:27:05.224188+00:00",
+  "updated": "2026-10-19T23:23:42.850036+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "More and more fall color showing up around Quad Cities this week",
+      "summary": "It's that time of year - leaves are changing colors and looking pretty good around the Quad Cities. According to explorefall.com our fall color is now in the mo…",
+      "url": "https://www.ourquadcities.com/news/local-news/more-and-more-fall-color-showing-up-around-quad-cities-this-week/",
+      "time": "1 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/fall-colors-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Government Bridge to close on Saturday, Oct. 24",
-      "summary": "A Rock Island Arsenal spokesperson said the bridge will be closed to vehicular and pedestrian traffic from 6 a.m. to 4 p.m. for cleaning.",
-      "url": "https://www.wqad.com/article/traffic/bridges/government-bridge-rock-island-arsenal-closed-saturday-october-24/526-23ca07b0-63ef-4017-a0ea-1027d550d0c9",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d8f36e5d-bd9d-4299-8051-312b0b962fa5/20240810T031519/d8f36e5d-bd9d-4299-8051-312b0b962fa5_750x422.jpg",
-      "category": "bridges"
+      "headline": "MercyOne Genesis in Davenport becomes site of Iowa's newest Safe Haven Baby Box",
+      "summary": "The boxes allow parents to anonymously surrender custody of infant children. MercyOne's box is the fifth in Iowa.",
+      "url": "https://www.wqad.com/article/news/local/mercyone-genesis-davenport-safe-haven-baby-box-iowa-fifth/526-9b655e30-4ab9-47e9-920b-205d3fc62ab2",
+      "time": "56 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d37e5db7-920e-4aa5-8dd3-d76d4f2c5963/20261019T193350/d37e5db7-920e-4aa5-8dd3-d76d4f2c5963_750x422.jpg",
+      "category": "local"
     },
     {
       "source": "WQAD",
@@ -27,11 +38,33 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "South Rock Island Township hosting giveaway Oct. 20",
-      "summary": "South Rock Island Township wants to make sure residents are ready for colder weather. The township has free jackets, coats, long pants, blankets, shoes, househo…",
-      "url": "https://www.ourquadcities.com/news/local-news/south-rock-island-township-hosting-giveaway-oct-20/",
+      "headline": "Learn how to stay safe from common scams at Davenport session",
+      "summary": "Murphy Simms, Property Crimes Unit supervisor/ Criminal Investigations Division with the Davenport Police Department, will discuss how to recognize, avoid, and …",
+      "url": "https://www.ourquadcities.com/news/local-news/learn-how-to-stay-safe-from-common-scams-at-davenport-session/",
       "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/south-rock-island-township-giveaway.jpg?w=900",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_837002.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Study finds Illinois’ Displaced Energy Workers Bill of Rights falls short",
+      "summary": "Non-union workers at a southern Illinois coal mine didn’t receive the same benefits as unionized workers, the study found.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-displaced-energy-workers-bill-rights-falls-short-study-finds-capitol-news/526-d1126729-1ded-49c8-8d43-07ca2aa0ea7d",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f09265c4-6f6a-419a-a096-fa8296841d5a/20261019T210856/f09265c4-6f6a-419a-a096-fa8296841d5a_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Augustana hosting fall open house at John Deere Planetarium, Fryxell Geology Museum",
+      "summary": "Augustana College is hosting its annual fall open house at the John Deere Planetarium and Fryxell Geology Museum on Saturday, Oct. 24 from 7 – 8:30 p.m. on Augu…",
+      "url": "https://www.ourquadcities.com/news/local-news/augustana-hosting-fall-open-house-at-john-deere-planetarium-fryxell-geology-museum/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/Dr.-Lee-Carkner.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,9 +74,42 @@
       "headline": "Police: Man shot in the chest in Rock Island",
       "summary": "Rock Island police responded to the area of 12th Street and 18th Avenue after the city's Raven Gun Shot Detection system alerted to shots fired.",
       "url": "https://www.wqad.com/article/news/crime/rock-island-shooting-investigation-man-shot-chest/526-f7a8791d-2db9-440a-9fa5-d605b4c37744",
-      "time": "2 h ago",
+      "time": "3 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "UnityPoint Health brings Project SEARCH to Trinity, Rock Island; helps special needs students prepare for careers",
+      "summary": "A workforce training program that prepares people with special needs for employment is expanding to UnityPoint Health – Trinity. Project SEARCH is now being off…",
+      "url": "https://www.ourquadcities.com/news/local-news/unitypoint-health-brings-project-search-to-trinity-rock-island-helps-special-needs-students-prepare-for-careers/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/UnityPoint-Health-Trinity.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Government Bridge to close on Saturday, Oct. 24",
+      "summary": "A Rock Island Arsenal spokesperson said the bridge will be closed to vehicular and pedestrian traffic from 6 a.m. to 4 p.m. for cleaning.",
+      "url": "https://www.wqad.com/article/traffic/bridges/government-bridge-rock-island-arsenal-closed-saturday-october-24/526-23ca07b0-63ef-4017-a0ea-1027d550d0c9",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d8f36e5d-bd9d-4299-8051-312b0b962fa5/20240810T031519/d8f36e5d-bd9d-4299-8051-312b0b962fa5_750x422.jpg",
+      "category": "bridges"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "South Rock Island Township hosting giveaway Oct. 20",
+      "summary": "South Rock Island Township wants to make sure residents are ready for colder weather. The township has free jackets, coats, long pants, blankets, shoes, househo…",
+      "url": "https://www.ourquadcities.com/news/local-news/south-rock-island-township-hosting-giveaway-oct-20/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/south-rock-island-township-giveaway.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -52,7 +118,7 @@
       "headline": "River's Edge reopens after remediation",
       "summary": "The River’s Edge is reopening today! Remediation at the facility in Davenport is complete and will start a phased reopening on Monday, October 19. The facility …",
       "url": "https://www.ourquadcities.com/news/local-news/rivers-edge-reopens-after-remediation/",
-      "time": "2 h ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
       "category": "Local News"
     },
@@ -63,75 +129,9 @@
       "headline": "One injured in Rock Island shooting",
       "summary": "Police in Rock Island are investigating a shooting in the city this morning that left one person in stable condition. A news release from the Rock Island Police…",
       "url": "https://www.ourquadcities.com/news/local-news/one-injured-in-rock-island-shooting/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Screenshot-2026-10-19-171956.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Greenvalley Sports Complex hosts Spooktacular Trunk or Treat",
-      "summary": "Kick off Halloween celebrations early at the 7th annual Spooktacular Trunk or Treat at Greenvalley Sports Complex, 5920 52nd Avenue in Moline! The family-friend…",
-      "url": "https://www.ourquadcities.com/news/local-news/greenvalley-sports-complex-hosts-spooktacular-trunk-or-treat/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Trunk-or-Treat-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Breast cancer survivors come together at Gather for the Cure",
-      "summary": "Breast cancer survivors and families celebrated resilience at Gather for the Cure in Scott County Park.",
-      "url": "https://www.wqad.com/article/news/health/breast-cancer-survivors-come-together-at-gather-for-the-cure/526-5b8e659c-87e4-42d3-864c-709249636afd",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/eadf2aee-d6d2-4756-ac6e-dc32fb716d07/20261019T011620/eadf2aee-d6d2-4756-ac6e-dc32fb716d07_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "'No Kings' rally at Davenport park encourages voter turnout",
-      "summary": "Another no kings protest, this one geared toward making sure people cast their ballots across the Quad Cities area, was held Saturday at Vander Veer Park, Daven…",
-      "url": "https://www.ourquadcities.com/news/local-news/no-kings-rally-at-davenport-park-encourages-voter-turnout/",
-      "time": "22 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/No-Kings-.jpg?w=397",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport names new Parks and Recreation director",
-      "summary": "The City of Davenport announced Becca Niles will serve as the new Parks and Recreation Director after Chad Dyson's departure in June of 2026.",
-      "url": "https://www.wqad.com/article/news/community/davenport-names-new-parks-and-recreation-director/526-5a3da1c0-d29c-43ff-b8d0-e538c01775b9",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d/20261018T132909/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "OQC Crime Watch: QC credit union thefts; French fridge hackers spoil food: Episode 85",
-      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
-      "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-qc-credit-union-thefts-french-fridge-hackers-spoil-food-episode-85/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/Edward-McNanna-mug-shot-1.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa women's basketball begins new era",
-      "summary": "All of the players from Iowa's back-to-back Final Four runs are gone. That means Jan Jensen and her team are looking for new leaders to emerge. Going into the 2…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/iowa-womens-basketball-begins-new-era/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/iowa-womens-basketball.png?w=590",
-      "category": "Hawkeye Headquarters"
     }
   ]
 }
