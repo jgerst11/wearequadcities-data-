@@ -6,7 +6,8 @@ Fetches Quad Cities events from:
 Writes combined events.json for GitHub Pages.
 """
 
-import json, re, hashlib, urllib.request
+import json, re, hashlib, time, urllib.request
+from html import unescape
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
@@ -55,25 +56,77 @@ def is_future(start_str):
 # State comes from the city: Visit QC pages sometimes list the wrong one (e.g. "Rock Island, Iowa").
 IL_CITIES = {"rock island","moline","east moline","milan","silvis","carbon cliff","coal valley","port byron","geneseo","colona","orion","aledo","cordova"}
 
+VISITQC_LIST_URL = "https://visitquadcities.com/calendarembed?&page={}"
+LIST_DAYS, LIST_PAGES = 45, 40   # calendar pages run ~20 events each, soonest first
+
 def visitqc_location(url):
-    """Read the 'Event Location:' block (venue | street | City, State ZIP) from a Visit QC event page."""
+    """Read a Visit QC event page: the 'Event Location:' block (venue | street | City, State ZIP), plus the
+    description (the text between the add-to-calendar links and the location block), category and admission."""
+    time.sleep(0.4)   # Visit QC answers 429 to rapid-fire page requests
     html = fetch_url(url, html=True) if url else None
     if not html: return {}
     text = re.sub(r'<script.*?</script>|<style.*?</style>', '', html, flags=re.S)
-    text = re.sub(r'<[^>]+>', '\n', text).replace('&amp;', '&').replace('&#39;', "'").replace('&rsquo;', "'")
-    lines = [l.strip() for l in text.split('\n') if l.strip()]
+    text = unescape(re.sub(r'<[^>]+>', '\n', text))
+    lines = [l.strip() for l in text.split('\n') if l.strip() and l.strip() != '\xa0']
     try: i = lines.index('Event Location:')
     except ValueError: return {}
+    out = {}
+    if 'iCal / Outlook Calendar' in lines[:i]:
+        d = lines[lines.index('iCal / Outlook Calendar') + 1:i]
+        d = [l for l in d if l != 'Opens in new window' and not l.endswith(' Download')]
+        out["description"] = " ".join(d)[:700]
+    for label, key in (("Event Category:", "category"), ("Admission Fee:", "admission")):
+        if label in lines and lines.index(label) + 1 < len(lines): out[key] = lines[lines.index(label) + 1]
     block = lines[i+1:i+5]
     for j, line in enumerate(block):
         m = re.match(r'^([A-Za-z .]+?),\s*(Iowa|Illinois|IA|IL)\b', line, re.I)
         if m:
             city = m.group(1).strip().title()
             state = "IL" if city.lower() in IL_CITIES else "IA"
-            return {"venue": block[0] if j >= 1 else "", "address": block[1] if j >= 2 else "", "city": city, "state": state}
-    return {}
+            out.update({"venue": block[0] if j >= 1 else "", "address": block[1] if j >= 2 else "", "city": city, "state": state})
+            break
+    return out
 
-def fetch_visitqc():
+def visitqc_event(eid, start, name, link, image, known):
+    """One Visit QC event dict. Page details (location, description) are reused from the last run when we have them."""
+    ev = {"id": "vqc_" + hashlib.md5(f"{eid}|{start}".encode()).hexdigest()[:12], "name": name, "start": start, "end": "",
+          "venue": "", "address": "", "city": "Quad Cities", "state": "", "category": "Events", "description": "",
+          "url": link, "image": image, "is_free": False, "source": "visitquadcities.com"}
+    loc = known.get(eid)
+    if loc is None:
+        loc = visitqc_location(link)
+        if loc: known[eid] = loc
+    ev.update({k: v for k, v in (loc or {}).items() if k in ev and v})
+    if (loc or {}).get("category"): ev["category"] = loc["category"]
+    if (loc or {}).get("admission", "").lower().startswith("free"): ev["is_free"] = True
+    return ev
+
+def fetch_visitqc_calendar(known):
+    """Page through the Visit QC calendar (the RSS feed only carries its first ~25 events) up to LIST_DAYS out."""
+    events, seen = [], set()
+    limit = datetime.now().date().toordinal() + LIST_DAYS
+    for page in range(1, LIST_PAGES + 1):
+        html = fetch_url(VISITQC_LIST_URL.format(page), html=True)
+        if not html: break
+        slides = re.findall(r'href="(https://visitquadcities\.com/calendarembed/event\?eventid=(\d+)[^"]*)".*?'
+                            r'background-image: url\(([^)]*)\).*?class="month"[^>]*>(\w+)<.*?class="day">(\d+)<.*?'
+                            r'class="year">(\d{4})<.*?<h3>(.*?)</h3>', html, re.S)
+        new = [s for s in slides if (s[1], s[3], s[4]) not in seen]
+        if not new: break
+        past_window = False
+        for link, eid, image, mon, day, year, name in new:
+            seen.add((eid, mon, day))
+            m = MONTH_MAP.get(mon[:3].lower())
+            if not m: continue
+            start = f"{year}-{m:02d}-{int(day):02d}"
+            if datetime.fromisoformat(start).date().toordinal() > limit: past_window = True; continue
+            if not is_future(start): continue
+            events.append(visitqc_event(eid, start, unescape(name).strip(), unescape(link), image, known))
+        if past_window: break
+    return events
+
+def fetch_visitqc(known):
+    """Backup: the rss.app feed (first ~25 calendar events only)."""
     xml = fetch_url(VISITQC_RSS_URL)
     if not xml: return []
     root = ET.fromstring(xml)
@@ -81,12 +134,23 @@ def fetch_visitqc():
     for item in root.iter("item"):
         title = (item.findtext("title") or "").strip()
         link  = (item.findtext("link")  or "").strip()
-        guid  = (item.findtext("guid")  or link or title).strip()
         name, start = parse_title(title)
         if not name or name.lower() in ("read more","") or not start or not is_future(start): continue
-        loc = visitqc_location(link)
-        events.append({"id":"vqc_"+hashlib.md5(guid.encode()).hexdigest()[:12],"name":name,"start":start[:10],"end":"","venue":loc.get("venue",""),"address":loc.get("address",""),"city":loc.get("city","Quad Cities"),"state":loc.get("state",""),"category":"Events","description":"","url":link,"image":"","is_free":False,"source":"visitquadcities.com"})
+        m = re.search(r'eventid=(\d+)', link)
+        events.append(visitqc_event(m.group(1) if m else link, start[:10], name, link, "", known))
     return events
+
+def known_visitqc_details():
+    """eventid -> page details already in events.json, so each run only opens pages for new events."""
+    try: data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+    except Exception: return {}
+    known = {}
+    for e in data.get("events", []):
+        m = re.search(r'eventid=(\d+)', e.get("url", ""))
+        if e.get("source") == "visitquadcities.com" and m and e.get("venue") and e.get("description"):
+            known[m.group(1)] = {k: e[k] for k in ("venue", "address", "city", "state", "description", "category") if e.get(k)}
+            if e.get("is_free"): known[m.group(1)]["admission"] = "Free"
+    return known
 
 # ── Eventbrite ────────────────────────────────────────────────────────────────
 
@@ -167,8 +231,12 @@ def load_existing_vqc():
 def main():
     all_events, seen = [], set()
 
-    print("Fetching Visit QC events RSS...")
-    vqc = fetch_visitqc()
+    print("Fetching Visit QC calendar...")
+    known = known_visitqc_details()
+    vqc = fetch_visitqc_calendar(known)
+    if not vqc:
+        print("  Calendar pages failed; trying the RSS feed.")
+        vqc = fetch_visitqc(known)
     if not vqc:
         vqc = load_existing_vqc()
     for e in vqc:
