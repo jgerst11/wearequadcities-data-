@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-19T09:40:21.680590+00:00",
+  "updated": "2026-10-19T18:27:05.224188+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Government Bridge to close on Saturday, Oct. 24",
+      "summary": "A Rock Island Arsenal spokesperson said the bridge will be closed to vehicular and pedestrian traffic from 6 a.m. to 4 p.m. for cleaning.",
+      "url": "https://www.wqad.com/article/traffic/bridges/government-bridge-rock-island-arsenal-closed-saturday-october-24/526-23ca07b0-63ef-4017-a0ea-1027d550d0c9",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d8f36e5d-bd9d-4299-8051-312b0b962fa5/20240810T031519/d8f36e5d-bd9d-4299-8051-312b0b962fa5_750x422.jpg",
+      "category": "bridges"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "The River's Edge reopens after mold prompts temporary closure",
+      "summary": "The Davenport ice skating rink had been closed after mold was found in two locker rooms.",
+      "url": "https://www.wqad.com/article/news/community/the-rivers-edge-davenport-iowa-reopening/526-a47155b2-39d7-4ee8-a05c-1fe616e86484",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/60c41006-afae-42eb-a7ed-ef05fe86fd9c/20260928T233526/60c41006-afae-42eb-a7ed-ef05fe86fd9c_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "South Rock Island Township hosting giveaway Oct. 20",
+      "summary": "South Rock Island Township wants to make sure residents are ready for colder weather. The township has free jackets, coats, long pants, blankets, shoes, househo…",
+      "url": "https://www.ourquadcities.com/news/local-news/south-rock-island-township-hosting-giveaway-oct-20/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/south-rock-island-township-giveaway.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Police: Man shot in the chest in Rock Island",
+      "summary": "Rock Island police responded to the area of 12th Street and 18th Avenue after the city's Raven Gun Shot Detection system alerted to shots fired.",
+      "url": "https://www.wqad.com/article/news/crime/rock-island-shooting-investigation-man-shot-chest/526-f7a8791d-2db9-440a-9fa5-d605b4c37744",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "River's Edge reopens after remediation",
+      "summary": "The River’s Edge is reopening today! Remediation at the facility in Davenport is complete and will start a phased reopening on Monday, October 19. The facility …",
+      "url": "https://www.ourquadcities.com/news/local-news/rivers-edge-reopens-after-remediation/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Davenport-Parks-and-Recreation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "One injured in Rock Island shooting",
+      "summary": "Police in Rock Island are investigating a shooting in the city this morning that left one person in stable condition. A news release from the Rock Island Police…",
+      "url": "https://www.ourquadcities.com/news/local-news/one-injured-in-rock-island-shooting/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/04/Rock-Island-Police-Department.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Greenvalley Sports Complex hosts Spooktacular Trunk or Treat",
+      "summary": "Kick off Halloween celebrations early at the 7th annual Spooktacular Trunk or Treat at Greenvalley Sports Complex, 5920 52nd Avenue in Moline! The family-friend…",
+      "url": "https://www.ourquadcities.com/news/local-news/greenvalley-sports-complex-hosts-spooktacular-trunk-or-treat/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/Trunk-or-Treat-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "Breast cancer survivors come together at Gather for the Cure",
       "summary": "Breast cancer survivors and families celebrated resilience at Gather for the Cure in Scott County Park.",
       "url": "https://www.wqad.com/article/news/health/breast-cancer-survivors-come-together-at-gather-for-the-cure/526-5b8e659c-87e4-42d3-864c-709249636afd",
-      "time": "8 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/eadf2aee-d6d2-4756-ac6e-dc32fb716d07/20261019T011620/eadf2aee-d6d2-4756-ac6e-dc32fb716d07_750x422.jpg",
       "category": "health"
     },
@@ -19,7 +96,7 @@
       "headline": "'No Kings' rally at Davenport park encourages voter turnout",
       "summary": "Another no kings protest, this one geared toward making sure people cast their ballots across the Quad Cities area, was held Saturday at Vander Veer Park, Daven…",
       "url": "https://www.ourquadcities.com/news/local-news/no-kings-rally-at-davenport-park-encourages-voter-turnout/",
-      "time": "13 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/No-Kings-.jpg?w=397",
       "category": "Local News"
     },
@@ -30,7 +107,7 @@
       "headline": "Davenport names new Parks and Recreation director",
       "summary": "The City of Davenport announced Becca Niles will serve as the new Parks and Recreation Director after Chad Dyson's departure in June of 2026.",
       "url": "https://www.wqad.com/article/news/community/davenport-names-new-parks-and-recreation-director/526-5a3da1c0-d29c-43ff-b8d0-e538c01775b9",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d/20261018T132909/f0bb6ef0-bf1a-48f9-a92c-39a1a37a422d_750x422.jpg",
       "category": "community"
     },
@@ -55,83 +132,6 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/iowa-womens-basketball.png?w=590",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities open houses teach children fire safety, build trust with first responders",
-      "summary": "Families in Davenport and Bettendorf explored fire stations during open houses, learning safety tips.",
-      "url": "https://www.wqad.com/article/news/community/quad-cities-open-houses-teach-children-fire-safety-build-trust-with-first-responders/526-dece71a9-5bcc-43f6-ae94-a96a25cc0d2c",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/de21a9d6-557f-43fd-81fe-a6a717df7d90/20261018T014922/de21a9d6-557f-43fd-81fe-a6a717df7d90_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Noogiefest brings Halloween fun to MercyOne Genesis in Davenport",
-      "summary": "Gilda’s Club hosted its annual Noogiefest at MercyOne Genesis in Davenport, offering families free Halloween fun, trick-or-treating and community resources.",
-      "url": "https://www.wqad.com/article/life/holidays/noogiefest-brings-halloween-fun-to-mercyone-genesis-in-davenport/526-75ae4546-1bd2-487c-9cf9-dbd61e027d45",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1/20261018T013829/bcfc0757-9a8d-4b1d-8dc4-0f66ea59dab1_750x422.jpg",
-      "category": "holidays"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Indivisible QC holds 'No Kings' rally to promote early voting",
-      "summary": "Hundreds gathered at Vander Veer Park for Indivisible QC's \"No Kings: Vote Early\" rally, urging residents to cast ballots ahead of Election Day.",
-      "url": "https://www.wqad.com/article/news/politics/elections/indivisible-qc-holds-no-kings-rally-to-promote-early-voting/526-82d2a467-6216-4ae3-8d26-6bd67bdc156d",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5/20261017T234913/aff44b18-7d9e-4c8b-8c46-3b814d3cd3a5_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Geneseo family opens farm for third annual Farm Fest",
-      "summary": "The Haars family is preparing for its third annual farm fest, providing free combine rides to celebrate the harvest season.",
-      "url": "https://www.wqad.com/article/news/community/geneseo-family-haars-third-annual-farm-fest/526-b6e8cb94-bc14-40af-87c9-0df2bf509c35",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/6dc9f756-5d50-44e9-9112-8ff0b6041e6e/20261017T031054/6dc9f756-5d50-44e9-9112-8ff0b6041e6e_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois Quad Cities communities planning temporary winter shelter in Moline",
-      "summary": "The project is part of broader discussions among local governments and service providers about addressing homelessness.",
-      "url": "https://www.wqad.com/article/news/community/illinois-quad-cities-communities-planning-temporary-winter-shelter-in-moline/526-4e602c17-047e-461a-a1ba-1fe1188e23cf",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/KSDK/images/f4ca4478-b461-4cc2-be43-17227057c8a9/f4ca4478-b461-4cc2-be43-17227057c8a9_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad City Botanical Center, Rock Island, will host special Halloween-themed events",
-      "summary": "The Quad City Botanical Center will host some special Halloween-themed events for both kids and adults. On Saturday, visitors can enjoy a \"not so scary\" Hallowe…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-city-botanical-center-rock-island-will-host-special-halloween-themed-events/",
-      "time": "2d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Nocturnal-.jpg?w=577",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine initiative provides free Halloween costumes to children",
-      "summary": "As rising costs turn seasonal celebrations into financial burdens, a local initiative is working to ensure that the magic of Halloween remains accessible to all…",
-      "url": "https://www.wqad.com/article/news/community/free-halloween-costumes-muscatine-iowa-united-way-initiative/526-87e78e8a-de6a-4ade-8dc9-2668ae27f9ff",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3/20261017T021545/4d7202d2-c3a8-4cd6-b07d-612b02fea2c3_750x422.jpg",
-      "category": "community"
     }
   ]
 }
