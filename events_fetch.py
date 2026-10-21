@@ -10,6 +10,7 @@ import json, re, hashlib, time, urllib.request
 from html import unescape
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 VISITQC_RSS_URL = "https://rss.app/feeds/0uJSRhvj2HVUSPBw.xml"
@@ -43,12 +44,16 @@ def fetch_url(url, html=False):
     except Exception as e:
         print(f"  ERROR: {e}"); return None
 
+QC_TZ = ZoneInfo("America/Chicago")
+
+def qc_today():
+    """Today's date in the Quad Cities (Actions runs in UTC, which turns over at 7 PM Central)."""
+    return datetime.now(QC_TZ).date()
+
 def is_future(start_str):
-    now = datetime.now(timezone.utc).replace(hour=0,minute=0,second=0,microsecond=0)
     try:
-        s = start_str[:10] if len(start_str) > 10 else start_str
-        dt = datetime.fromisoformat(s).replace(tzinfo=timezone.utc)
-        return 0 <= (dt - now).days <= MAX_DAYS
+        days = (datetime.fromisoformat(start_str[:10]).date() - qc_today()).days
+        return 0 <= days <= MAX_DAYS
     except: return False
 
 # ── Visit QC ──────────────────────────────────────────────────────────────────
@@ -104,7 +109,7 @@ def visitqc_event(eid, start, name, link, image, known):
 def fetch_visitqc_calendar(known):
     """Page through the Visit QC calendar (the RSS feed only carries its first ~25 events) up to LIST_DAYS out."""
     events, seen = [], set()
-    limit = datetime.now().date().toordinal() + LIST_DAYS
+    limit = qc_today().toordinal() + LIST_DAYS
     for page in range(1, LIST_PAGES + 1):
         html = fetch_url(VISITQC_LIST_URL.format(page), html=True)
         if not html: break
@@ -222,12 +227,12 @@ def load_existing_eb():
     except Exception:
         return []
 
-def load_existing_vqc():
+def load_existing_vqc(quiet=False):
     """Return Visit QC events from the last written events.json, filtered to future dates."""
     try:
         data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
         kept = [e for e in data.get("events", []) if e.get("source") == "visitquadcities.com" and is_future(e.get("start", ""))]
-        print(f"  Keeping {len(kept)} existing Visit QC events from last run.")
+        if not quiet: print(f"  Keeping {len(kept)} existing Visit QC events from last run.")
         return kept
     except Exception:
         return []
@@ -246,6 +251,10 @@ def main():
     for e in vqc:
         if e["id"] not in seen: all_events.append(e); seen.add(e["id"])
     print(f"  {len(vqc)} events from visitquadcities.com")
+    # Visit QC's calendar drops a day's events once that day starts, so keep today's from the last run.
+    carried = [e for e in load_existing_vqc(quiet=True) if e["start"][:10] == qc_today().isoformat() and e["id"] not in seen]
+    for e in carried: all_events.append(e); seen.add(e["id"])
+    if carried: print(f"  Kept {len(carried)} of today's Visit QC events from the last run.")
 
     print("Scraping Eventbrite events...")
     eb = fetch_eventbrite()
