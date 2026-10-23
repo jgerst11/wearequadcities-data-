@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-23T16:37:38.414750+00:00",
+  "updated": "2026-10-23T22:56:13.485470+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "‘Partial win for customers’: Illinois Commerce Commission approves $82 million rate hike for Nicor",
+      "summary": "The amount was negotiated through an earlier settlement with the attorney general’s office.",
+      "url": "https://www.wqad.com/article/money/consumer/nicor-gas-rate-hike-illinois-commerce-commision/526-85d1f6ba-67bd-4dab-b69b-41def048b6ef",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9f49b84-3da9-4bc5-9ba0-a1ceacb61a6f/20261016T063051/c9f49b84-3da9-4bc5-9ba0-a1ceacb61a6f_750x422.jpg",
+      "category": "consumer"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "YWCA Quad Cities seeking winter clothing for youth at Alan's House",
+      "summary": "The organization is collecting new or gently used winter clothing in boys’ and girls’ sizes medium, large and extra-large.",
+      "url": "https://www.wqad.com/article/news/community/ywmc-quad-cities-seeking-winter-clothing-for-youth-at-alans-house/526-4d1ec039-3c4e-46bc-9cbf-111f7c85c345",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/94d44be7-8766-4de8-aafc-0348fdb809f1/20240828T230553/94d44be7-8766-4de8-aafc-0348fdb809f1_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bettendorf sets public workshop on future of I-80, Middle Road area",
+      "summary": "The city is developing a master plan to guide future land use, transportation, infrastructure and development.",
+      "url": "https://www.wqad.com/article/news/community/bettendorf-i-80-middle-road-public-workshop/526-9c07e865-c411-4208-96b6-0239b7d0cf84",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/121e6a04-b2cf-41e3-a879-39a5168bf994/20260819T232043/121e6a04-b2cf-41e3-a879-39a5168bf994_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf hosting workshop on I-80, Middle Road area",
+      "summary": "The City of Bettendorf and its planning consultant, IMEG, invite residents, business owners, property owners and others to help shape the future of the I-80/Mid…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-hosting-workshop-on-i-80-middle-road-area/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Bettendorf.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cancer Support Community Iowa & NW Illinois at Gilda’s Club hosts free survivorship retreat",
+      "summary": "Cancer Support Community Iowa and NW Illinois at Gilda’s Club (CSCIAIL) is hosting a free cancer survivorship retreat on Friday, November 6, from 9 a.m. – 4 p.m…",
+      "url": "https://www.ourquadcities.com/news/local-news/cancer-support-community-iowa-nw-illinois-at-gildas-club-hosts-free-survivorship-retreat/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois statewide races: Little-known GOP slate faces uphill battle against mostly incumbent Dems",
+      "summary": "Democrats have held all statewide offices since 2019.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-statewide-races-midterm-election-secretary-of-state-attorney-general-treasurer/526-b37ad165-0133-44cf-b041-0a2142b96f27",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/acbc8f48-8ef0-4930-98c5-910540c34f92/20261023T171542/acbc8f48-8ef0-4930-98c5-910540c34f92_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Dispose of old medication safely at Drug Take Back Day",
+      "summary": "QCA residents can safely dispose of old medications at the next DEA National Prescription Drug Take Back Day on Oct. 24 between 10 a.m. – 2 p.m. Drop off sites …",
+      "url": "https://www.ourquadcities.com/news/local-news/dispose-of-old-medication-safely-at-drug-take-back-day/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/National-Prescription-Drug-Take-Back-Day-e1698284200991.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "USDA invests over $550M in domestic fertilizer manufacturing across 16 states, including Iowa",
       "summary": "The USDA's estimated investment of $573 million is reportedly part of the $1.34 billion in total proposed investment into domestic fertilizer manufacturing.",
       "url": "https://www.wqad.com/article/news/agriculture/usda-fields-program-fertilizer-manufacturing-iowa/524-b003e30c-dfd2-4b39-85b5-f36a25966c67",
-      "time": "9 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/afa62e05-8479-4053-8081-b0e9d534744b/20261022T200002/afa62e05-8479-4053-8081-b0e9d534744b_750x422.jpg",
       "category": "agriculture"
     },
@@ -19,7 +96,7 @@
       "headline": "Super PACs ramp up attack ads, risk alienating undecided Iowa voters",
       "summary": "In a high-stakes midterm election, political groups are escalating their use of aggressive attack ads, risking voter backlash that could impact turnout.",
       "url": "https://www.wqad.com/article/news/politics/elections/super-pacs-ramp-up-attack-ads-risk-alienating-undecided-iowa-voters/524-c05ee705-61a3-4aca-bc02-915feeddae4a",
-      "time": "10 min ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/adce6bd8-3114-4742-ad17-1d2afe65faf3/20261013T232431/adce6bd8-3114-4742-ad17-1d2afe65faf3_750x422.jpg",
       "category": "elections"
     },
@@ -30,7 +107,7 @@
       "headline": "QCSportsNet playoff football preview: Moline & United Township",
       "summary": "QCSportsNet’s play-by-play voices Joe Winkel and Grant Dahlstrom provide your breakdown of Moline and United Township before the first week of the Illinois high…",
       "url": "https://www.ourquadcities.com/sports/high-school-sports/qcsportsnet-playoff-football-preview-moline-united-township/",
-      "time": "15 min ago",
+      "time": "6 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/62D243EB6F7547E8D250045BD140DB42_5.jpg?w=900",
       "category": "High School Sports"
     },
@@ -38,22 +115,11 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Menopause The Musical is a hot time in Davenport",
+      "headline": "\"Menopause The Musical\" is a hot time in Davenport",
       "summary": "Grab your portable fans and dress in layers as the international hit show Menopause The Musical comes to the Adler Theatre in Davenport for one performance on M…",
       "url": "https://www.ourquadcities.com/news/local-news/menopause-the-musical-is-a-hot-time-in-davenport/",
-      "time": "21 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Menopause-the-Musical-featured-image.png?w=448",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois State Police squad struck near Rock Falls",
-      "summary": "There's been a Move Over Law -related crash involving an Illinois State Police (ISP) squad car on a QCA roadway. A news release from ISP said a trooper assigned…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-state-police-squad-struck-near-rock-falls/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/03/Illinois-State-Police.jpg?w=900",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_335f4b.png?w=900",
       "category": "Local News"
     },
     {
@@ -63,74 +129,8 @@
       "headline": "$120 million South Slope Wastewater Treatment Plant upgrade underway in Moline",
       "summary": "The renovation will replace outdated facilities, equipment and systems to improve wastewater services and protect the environment.",
       "url": "https://www.wqad.com/article/news/local/south-slope-wastewater-treatment-plant-upgrades-underway/526-9a0dc7a3-d172-4833-8bfc-d28ebe5d0883",
-      "time": "13 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/924101b8-3ba1-4116-87e6-527036576601/20261023T030448/924101b8-3ba1-4116-87e6-527036576601_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island film studio project moves forward with $2.85 million in city support",
-      "summary": "The nonprofit studio Fresh Films says once complete, the new Rock Line Studios will have huge economic impacts for the city and broader region.",
-      "url": "https://www.wqad.com/article/news/local/the-current/fresh-films-tif-property-tax-incentives-city-money-rock-island-line-studios-movies-tv/526-277694ee-c18a-47d6-8022-31bd9c3c4494",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fa17117c-367e-4ba6-8116-f0af5ffe0f78/20261023T022102/fa17117c-367e-4ba6-8116-f0af5ffe0f78_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois State Police car struck in Whiteside County",
-      "summary": "The trooper who drove the car was not injured, and neither was the driver who struck his vehicle.",
-      "url": "https://www.wqad.com/article/news/local/illinois-state-police-car-struck-whiteside-county/526-4d185d26-6bd3-4b38-a222-022f8fe9150e",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Skip-a-Long childcare center opens soon in Rock Island",
-      "summary": "The new campus will expand SAL Community Services' childcare services, along with intergenerational programming and resources for immigrants and refugees.",
-      "url": "https://www.wqad.com/article/news/community/skip-a-long-sal-community-services-childcare-campus-rock-island-illinois/526-15abca0f-ac58-4e7c-bcca-6f417f1c92a5",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/082010e4-06fd-4133-bd3f-c551e6fa8a81/20261022T224839/082010e4-06fd-4133-bd3f-c551e6fa8a81_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Suspect arrested after 19-year-old shot in Rock Island",
-      "summary": "Jackson Mukuta was arrested and faces charges of aggravated battery with a firearm and aggravated discharge of a firearm.",
-      "url": "https://www.wqad.com/article/news/crime/rock-island-shooting-october-19-victim-shot-chest-suspect-arrested/526-69980795-8e00-43b1-971b-3f0253d3d0ec",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WNEP/images/b7cea421-f0b2-4db5-8884-a4be5c7dad0d/b7cea421-f0b2-4db5-8884-a4be5c7dad0d_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Music is his 'bag'",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-music-is-his-bag/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_909f25.png?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Small plane crashes near Geneseo, pilot injured",
-      "summary": "The plane appears to have been burned in the crash.",
-      "url": "https://www.wqad.com/article/news/local/small-plane-crash-geneseo-pilot-injured/526-eac0659e-04e9-4a12-bc9c-a474f6726ea2",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b06939fe-bfe3-4260-af7f-bad7223653f9/20261021T215507/b06939fe-bfe3-4260-af7f-bad7223653f9_750x422.jpg",
       "category": "local"
     }
   ]
