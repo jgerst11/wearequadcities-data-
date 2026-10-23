@@ -1,0 +1,45 @@
+name: Instagram Carousel
+
+on:
+  schedule:
+    - cron: "20 13-23 * * 4"  # Thursdays, hourly ~8:20 am-6:20 pm Central: builds once the week's QC Currents issue is sent
+    - cron: "20 13 * * 5"     # Friday morning catch-up for a late send
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if this issue already has slides"
+        type: boolean
+        default: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow==12.2.0
+
+      - name: Build slides for the latest sent issue
+        run: python instagram_carousel.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add instagram/
+          git diff --cached --quiet && echo "No changes." || (
+            git commit -m "chore: Instagram carousel for the latest QC Currents issue [skip ci]"
+            git pull --rebase
+            git push
+          )
