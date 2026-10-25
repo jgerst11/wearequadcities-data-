@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-24T22:16:47.872160+00:00",
+  "updated": "2026-10-25T03:37:52.260278+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Five QCA subways close; franchisee says he 'just ran out of time'",
+      "summary": "The franchisee of five Illinois Quad Cities Subways has closed all five of the stores. Gerold Shelton told Our Quad Cities News on Saturday that he has a store …",
+      "url": "https://www.ourquadcities.com/news/local-news/five-qca-subways-close-franchisee-says-he-just-ran-out-of-time/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Subway-preparation.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes stumble at Minnesota",
+      "summary": "Luke Drzewiecki kicked a 46-yard field goal as time expired, and Minnesota beat No. 15 Iowa 13-10 Saturday to claim the Floyd of Rosedale trophy for the first t…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-stumble-at-minnesota/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26297775131566.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "None injured after Quaker Oats building in Iowa explodes and catches fire, officials say",
+      "summary": "A Quaker Oats building in Cedar Rapids, Iowa, exploded and caught fire Saturday afternoon, fire officials said.",
+      "url": "https://www.wqad.com/article/news/nation-world/quaker-oats-iowa-explode-fire/507-74c36e43-7b24-40b0-80d4-514b31e05c3b",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/fade98f8-7b0d-4b45-b455-b159bbd60efe/20261024T225009/fade98f8-7b0d-4b45-b455-b159bbd60efe_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine closes road due to instability",
+      "summary": "It's an Our Quad Cities News traffic alert. Muscatine has implemented an emergency road closure. According to a release from the City of Muscatine, W. Mississip…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-closes-road-due-to-instability/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Bluff instability, safety concerns close stretch of West Mississippi Drive in Muscatine indefinitely",
       "summary": "A section of West Mississippi Drive in Muscatine has been closed indefinitely as officials assess safety risks from unstable bluff conditions.",
       "url": "https://www.wqad.com/article/traffic/bluff-instability-safety-concerns-close-stretch-of-west-mississippi-drive/526-388dfe22-71df-4e59-b64d-9ed191fb4669",
-      "time": "1 h ago",
+      "time": "6 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/f9d4846c-034f-42c8-9ac8-122da7f084c4/f9d4846c-034f-42c8-9ac8-122da7f084c4_750x422.jpg",
       "category": "traffic"
     },
@@ -19,7 +63,7 @@
       "headline": "Police: 65-year-old man charged with murder after deadly Davenport shooting",
       "summary": "Davenport police say a 30-year-old man died after a shooting inside a home on Wisconsin Avenue Friday night.",
       "url": "https://www.wqad.com/article/news/crime/police-65-year-old-man-charged-with-murder-after-deadly-davenport-shooting/526-ee2bca2a-cb1a-4993-a0ed-268b7ecc68e9",
-      "time": "8 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/KVUE/images/584065506/584065506_750x422.jpg",
       "category": "crime"
     },
@@ -27,11 +71,11 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Man arrested on murder charges in Davenport shooting incident",
-      "summary": "A man was arrested on murder charges following a Davenport shots-fired incident. According to a release from the Davenport Police Department, Davenport Police, …",
+      "headline": "Man faces murder charge in Davenport shooting incident",
+      "summary": "A man was arrested on murder charges after gunfire in Davenport, according to a news release from Davenport Police Department and arrest affidavits. According t…",
       "url": "https://www.ourquadcities.com/news/local-news/man-arrested-on-murder-charges-in-davenport-shooting-incident/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/shooting-GENERIC.jpg?w=900",
+      "time": "15 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_c6febd.png?w=900",
       "category": "Local News"
     },
     {
@@ -41,30 +85,8 @@
       "headline": "Bettendorf again earns Yearbook of the Year from Iowa High School Press Association",
       "summary": "For the third year in a row, the Bettendorf yearbook staff's yearbook has been named Yearbook of the Year by the Iowa High School Press Association. \"The Days a…",
       "url": "https://www.ourquadcities.com/news/local-news/bettendorf-again-earns-yearbook-of-the-year-from-iowa-high-school-press-association/",
-      "time": "10 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/yearbook-.jpg?w=614",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Special Olympics teams will compete in Fall Classic fundraiser",
-      "summary": "The Moline High School Special Olympics Basketball team will host a Fall Classic Tournament from 9 a.m. until noon Saturday, Oct. 31, at Wharton Field House. Sp…",
-      "url": "https://www.ourquadcities.com/news/local-news/special-olympics-teams-will-compete-in-fall-classic-fundraiser/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Special-Olympics.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Families affected by cancer can carve, paint pumpkins at free Moline event",
-      "summary": "Cancer Support Community Iowa &#38; NW Illinois will offer pumpkin carving as a family program. Anyone impacted by cancer can enjoy pumpkin carving or painting …",
-      "url": "https://www.ourquadcities.com/news/local-news/families-affected-by-cancer-can-carve-paint-pumpkins-at-free-moline-event/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/pumpkins-GENERIC-1.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -74,7 +96,7 @@
       "headline": "YWCA Quad Cities seeking winter clothing for youth at Alan's House",
       "summary": "The organization is collecting new or gently used winter clothing in boys’ and girls’ sizes medium, large and extra-large.",
       "url": "https://www.wqad.com/article/news/community/ywmc-quad-cities-seeking-winter-clothing-for-youth-at-alans-house/526-4d1ec039-3c4e-46bc-9cbf-111f7c85c345",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/94d44be7-8766-4de8-aafc-0348fdb809f1/20240828T230553/94d44be7-8766-4de8-aafc-0348fdb809f1_750x422.jpg",
       "category": "community"
     },
@@ -85,7 +107,7 @@
       "headline": "East 2nd and Sycamore intersection reopening in Muscatine after months of closure",
       "summary": "The area has had several road closures in the past year due to structural concerns, and the eventual collapse, of buildings on the 200 block of East 2nd Street.",
       "url": "https://www.wqad.com/article/news/local/east-2nd-sycamore-intersection-muscatine-reopening-after-closure/526-9b62d0ce-7281-4118-824e-b9fdf1a64739",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/950ec37b-fffc-4c32-ab72-3b826a395e45/20261023T225358/950ec37b-fffc-4c32-ab72-3b826a395e45_750x422.jpg",
       "category": "local"
     },
@@ -110,28 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/121e6a04-b2cf-41e3-a879-39a5168bf994/20260819T232043/121e6a04-b2cf-41e3-a879-39a5168bf994_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois statewide races: Little-known GOP slate faces uphill battle against mostly incumbent Dems",
-      "summary": "Democrats have held all statewide offices since 2019.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-statewide-races-midterm-election-secretary-of-state-attorney-general-treasurer/526-b37ad165-0133-44cf-b041-0a2142b96f27",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/acbc8f48-8ef0-4930-98c5-910540c34f92/20261023T171542/acbc8f48-8ef0-4930-98c5-910540c34f92_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "USDA invests over $550M in domestic fertilizer manufacturing across 16 states, including Iowa",
-      "summary": "The USDA's estimated investment of $573 million is reportedly part of the $1.34 billion in total proposed investment into domestic fertilizer manufacturing.",
-      "url": "https://www.wqad.com/article/news/agriculture/usda-fields-program-fertilizer-manufacturing-iowa/524-b003e30c-dfd2-4b39-85b5-f36a25966c67",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/afa62e05-8479-4053-8081-b0e9d534744b/20261022T200002/afa62e05-8479-4053-8081-b0e9d534744b_750x422.jpg",
-      "category": "agriculture"
     }
   ]
 }
