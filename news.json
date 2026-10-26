@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:21:09.158104+00:00",
+  "updated": "2026-10-26T03:40:25.231662+00:00",
   "items": [
     {
       "source": "WQAD",
@@ -8,9 +8,31 @@
       "headline": "Rock Island police investigate overnight shooting that injured 18-year-old",
       "summary": "An 18-year-old man suffered a non-life-threatening gunshot wound in a Rock Island shooting early Sunday. Police are investigating.",
       "url": "https://www.wqad.com/article/news/crime/rock-island-police-investigate-overnight-shooting/526-8251d818-e6f0-49ba-b2ae-942781043bda",
-      "time": "2 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/c701fb53-4bb0-498c-bc0c-728dba96489a/c701fb53-4bb0-498c-bc0c-728dba96489a_750x422.jpg",
       "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Above average weather continues this week",
+      "summary": "After just this past week with temperatures staying above normal in the Quad Cities, more of that weather is on the way. Temperatures for the final week of Octo…",
+      "url": "https://www.ourquadcities.com/news/local-news/above-average-weather-continues-this-week/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/warm-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Man transported for gunshot wound in Rock Island shots-fired incident",
+      "summary": "A man was transported to the hospital following a shots-fired incident in Rock Island. According to a release, the Rock Island Police Department received an ale…",
+      "url": "https://www.ourquadcities.com/news/local-news/man-transported-for-gunshot-wound-in-rock-island-shots-fired-incident/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/shots-fired-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +41,7 @@
       "headline": "How much have home prices increased in Illinois over 5 years?",
       "summary": "If you're looking to buy a home in Missouri or Illinois, chances are you'll pay quite a bit more than you would have five years ago.",
       "url": "https://www.ourquadcities.com/news/local-news/how-much-have-home-prices-increased-in-illinois-over-5-years/",
-      "time": "9 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/GettyImages-1470006282-e1784308631542.jpg?w=473",
       "category": "Local News"
     },
@@ -30,7 +52,7 @@
       "headline": "‘Back from the Dead’ Halloween experience returns to downtown Rock Island",
       "summary": "Downtown Rock Island's annual ‘Back from the Dead’ Halloween experience brings together local businesses for family-friendly activities, with a free trolley rid…",
       "url": "https://www.wqad.com/article/life/holidays/back-from-the-dead-halloween-experience-returns-to-downtown-rock-island/526-ff276b3e-18f4-493c-945d-5f8988ea998e",
-      "time": "17 h ago",
+      "time": "23 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c006e8fa-ba0a-4a3f-9226-a684e8e0a671/20261025T042403/c006e8fa-ba0a-4a3f-9226-a684e8e0a671_750x422.jpg",
       "category": "holidays"
     },
@@ -41,7 +63,7 @@
       "headline": "Five QCA subways close; franchisee says he 'just ran out of time'",
       "summary": "The franchisee of five Illinois Quad Cities Subways has closed all five of the stores. Gerold Shelton told Our Quad Cities News on Saturday that he has a store …",
       "url": "https://www.ourquadcities.com/news/local-news/five-qca-subways-close-franchisee-says-he-just-ran-out-of-time/",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Subway-preparation.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +74,7 @@
       "headline": "Hawkeyes stumble at Minnesota",
       "summary": "Luke Drzewiecki kicked a 46-yard field goal as time expired, and Minnesota beat No. 15 Iowa 13-10 Saturday to claim the Floyd of Rosedale trophy for the first t…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-stumble-at-minnesota/",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26297775131566.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -63,7 +85,7 @@
       "headline": "None injured after Quaker Oats building in Iowa explodes and catches fire, officials say",
       "summary": "A Quaker Oats building in Cedar Rapids, Iowa, exploded and caught fire Saturday afternoon, fire officials said.",
       "url": "https://www.wqad.com/article/news/nation-world/quaker-oats-iowa-explode-fire/507-74c36e43-7b24-40b0-80d4-514b31e05c3b",
-      "time": "22 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/CCT/images/fade98f8-7b0d-4b45-b455-b159bbd60efe/20261024T225009/fade98f8-7b0d-4b45-b455-b159bbd60efe_750x422.jpg",
       "category": "nation-world"
     },
@@ -74,7 +96,7 @@
       "headline": "Muscatine closes road due to instability",
       "summary": "It's an Our Quad Cities News traffic alert. Muscatine has implemented an emergency road closure. According to a release from the City of Muscatine, W. Mississip…",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-closes-road-due-to-instability/",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/01/traffic-alert-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -110,28 +132,6 @@
       "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_c6febd.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "YWCA Quad Cities seeking winter clothing for youth at Alan's House",
-      "summary": "The organization is collecting new or gently used winter clothing in boys’ and girls’ sizes medium, large and extra-large.",
-      "url": "https://www.wqad.com/article/news/community/ywmc-quad-cities-seeking-winter-clothing-for-youth-at-alans-house/526-4d1ec039-3c4e-46bc-9cbf-111f7c85c345",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/94d44be7-8766-4de8-aafc-0348fdb809f1/20240828T230553/94d44be7-8766-4de8-aafc-0348fdb809f1_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "East 2nd and Sycamore intersection reopening in Muscatine after months of closure",
-      "summary": "The area has had several road closures in the past year due to structural concerns, and the eventual collapse, of buildings on the 200 block of East 2nd Street.",
-      "url": "https://www.wqad.com/article/news/local/east-2nd-sycamore-intersection-muscatine-reopening-after-closure/526-9b62d0ce-7281-4118-824e-b9fdf1a64739",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/950ec37b-fffc-4c32-ab72-3b826a395e45/20261023T225358/950ec37b-fffc-4c32-ab72-3b826a395e45_750x422.jpg",
-      "category": "local"
     }
   ]
 }
