@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T15:31:15.395289",
+  "generated": "2026-10-27T14:18:15.679000",
   "total": 423,
   "entities": [
     {
@@ -2207,7 +2207,7 @@
       "hours": "Monday: 7:00 AM – 9:00 PM | Tuesday: 7:00 AM – 9:00 PM | Wednesday: 7:00 AM – 9:00 PM | Thursday: 7:00 AM – 9:00 PM | Friday: 7:00 AM – 10:00 PM | Saturday: 7:00 AM – 10:00 PM | Sunday: 7:00 AM – 9:00 PM",
       "lat": "41.5225277",
       "lng": "-90.57208840000001",
-      "description": "Stylish, contemporary restaurant with modern American cuisine, plus a cocktail lounge.",
+      "description": "Contemporary dining and cocktails inside the historic Hotel Blackhawk.\n\nNamed for Davenport-born jazz great Bix Beiderbecke, Bix Bistro sits on the first floor of the Hotel Blackhawk, which opened in 1915 and is listed on the National Register of Historic Places. The restaurant calls itself Davenport's dining room: a contemporary space serving dishes made with local, fresh ingredients, backed by a large selection of beer, wine and spirits. Its wine program has earned four Wine Spectator awards, the restaurant carries AAA and Forbes ratings, and the hotel hosts a Sunday jazz brunch. The adjoining lounge is made for appetizers and cocktails after a day downtown.\n\nWhether you're staying at the Blackhawk, a hotel whose guest list has included Cary Grant and Carl Sandburg, or heading to a show nearby, Bix is the polished, sit-down choice in the middle of downtown Davenport.",
       "rating": {
         "google": "4.1",
         "google_count": "254",
@@ -2752,7 +2752,7 @@
       "hours": "Monday: 10:00 AM – 4:00 PM | Tuesday: 10:00 AM – 4:00 PM | Wednesday: 10:00 AM – 4:00 PM | Thursday: 10:00 AM – 4:00 PM | Friday: 10:00 AM – 4:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: 12:00 – 4:00 PM",
       "lat": "41.5985251",
       "lng": "-90.34252959999999",
-      "description": "Exhibits about Buffalo Bill's life & Mississippi River heritage, including an 1800s stern wheeler.",
+      "description": "The hometown museum of William F. \"Buffalo Bill\" Cody, on the Mississippi in LeClaire.\n\nCody was born near LeClaire in 1846, and the Buffalo Bill Museum preserves memorabilia from his life alongside the stories of Mississippi River pilots and the area's farm and home pioneers. The star outside is the Lone Star, a wooden-hulled sternwheel towboat built in 1867 that towed sand barges between Davenport and Camanche for decades before retiring in 1967. Today it sits in its own enclosure, and visitors can climb to the Texas Deck, see the crew's tiny cabins and watch a film the crew shot aboard in 1963. The grounds also include a replica one-room schoolhouse.\n\nRun as a nonprofit just minutes off Interstate 80, with modest admission (kids 3 and under and active military always free), it's an easy add to a day among LeClaire's riverfront shops and restaurants.",
       "rating": {
         "google": "4.6",
         "google_count": "728",
@@ -4549,7 +4549,7 @@
       "hours": "Monday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM | Tuesday: Closed | Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM | Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM | Friday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM | Saturday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM | Sunday: Closed",
       "lat": "41.5968043",
       "lng": "-90.3446568",
-      "description": "Locally sourced American comfort food served in a 19th-century house with Mississippi River views.",
+      "description": "Full-service dining in an 1851 riverboat captain's mansion in LeClaire.\n\nThe Crane & Pelican Cafe fills the Dawley House, a brick Italianate home built in 1851 for riverboat captain Daniel Dawley and listed on the National Register of Historic Places. Owner Mandy Harvey bought the long-empty house in 2009 and restored it into a restaurant serving classy, locally sourced comfort food, with a menu that changes with the seasons, a gluten-free menu, homemade desserts and local beer, wine and spirits at the full bar. There's a private room for small receptions, with no room charge, and live jazz has been part of the calendar since 2021.\n\nIn January through March it runs on winter hours, adding weekday lunch again in April. Named the most adorable small-town restaurant in Iowa in 2021, it's a natural stop on a day in LeClaire.",
       "rating": {
         "google": "4.6",
         "google_count": "662",
@@ -8668,7 +8668,7 @@
       "hours": "Monday: Closed | Tuesday: Closed | Wednesday: 4:00 – 8:00 PM | Thursday: 4:00 – 8:00 PM | Friday: 4:00 – 9:00 PM | Saturday: 4:00 – 9:00 PM | Sunday: 4:00 – 8:00 PM",
       "lat": "41.5103561",
       "lng": "-90.57443909999999",
-      "description": "Cozy storefront hub with pies, spaghetti & other Italian classics plus beer & wine amid brick walls.",
+      "description": "Hand-spun pizza, \"Old Rock Island Style\" deep dish and calzones in downtown Rock Island since 1992.\n\nHuckleberry's has been at 223 18th Street since 1992, serving traditional hand-spun dough pizza alongside its own Old Rock Island Style deep dish. Calzones share top billing, with pasta, sandwiches and fresh salads rounding out the menu. The room is warm and family-friendly with brick walls, there's wine and craft beer, and a banquet room handles parties and groups. On Fridays a grab-and-go lunch serves pizza by the slice, lunch calzones and hot subs from 11 to 1, for takeout or a quick bite in.\n\nIn the heart of downtown Rock Island, it's a longtime local favorite before a show or a night out, and an easy pick for family dinner.",
       "rating": {
         "google": "4.6",
         "google_count": "341",
@@ -10842,7 +10842,7 @@
       "hours": "Monday: 7:00 AM – 9:00 PM | Tuesday: 7:00 AM – 9:00 PM | Wednesday: 7:00 AM – 9:00 PM | Thursday: 7:00 AM – 9:00 PM | Friday: 7:00 AM – 10:00 PM | Saturday: 7:00 AM – 10:00 PM | Sunday: 7:00 AM – 9:00 PM",
       "lat": "41.5947558",
       "lng": "-90.61449940000001",
-      "description": "Easygoing farm-themed operation offering traditional American dishes & a full bar.",
+      "description": "The original Machine Shed, serving farm-style comfort food in Davenport since 1978.\n\nThis is where it started: the Davenport Machine Shed opened in 1978 as a 100-seat restaurant and became the first of the Heart of America Group's restaurants. The dining room carries a country farm theme, and the menu is built on Midwestern staples: thick Iowa pork chops (pork has been on the menu since day one), steaks, chicken pot pie, real fruit pies and the Shed's famous oversized cinnamon rolls, baked fresh daily. There's a full bar, holiday meals and pies to go, and every October the kitchen celebrates Iowa pork with Pork Month specials.\n\nRight off I-80 at exit 292 on Northwest Boulevard, with on-site parking, it's an easy stop for travelers and a long-standing favorite for family dinners and celebrations.",
       "rating": {
         "google": "4.5",
         "google_count": "6508",
@@ -11540,7 +11540,7 @@
       "hours": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Tuesday: Closed | Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM | Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM | Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM | Sunday: 11:00 AM – 8:00 PM",
       "lat": "41.5249673",
       "lng": "-90.5743758",
-      "description": "Relaxed space with exposed-brick walls & a menu featuring Thai & Vietnamese recipes.",
+      "description": "Bold Thai, Vietnamese and Chinese flavors in Davenport.\n\nMiss Phay Cafe is inspired by the story of an imagined woman from Bangkok with roots across China, Vietnam and Thailand, and the menu brings those traditions together: bold curries, fresh herbs, noodles and house-made sauces. The room has exposed-brick walls and a relaxed feel, and the kitchen is set up for dine-in, takeout, lunch, dinner and catering.\n\nIt's a welcome addition to the Quad Cities' Asian food scene, and the kind of spot that turns into a regular order once you've found your favorite dish.",
       "rating": {
         "google": "4.7",
         "google_count": "781",
@@ -14383,7 +14383,7 @@
       "hours": "Monday: Closed | Tuesday: 4:00 PM – 12:00 AM | Wednesday: 4:00 PM – 12:00 AM | Thursday: 4:00 PM – 12:00 AM | Friday: 4:00 PM – 12:00 AM | Saturday: 4:00 PM – 12:00 AM | Sunday: Closed",
       "lat": "41.522542",
       "lng": "-90.5734791",
-      "description": "Urbane bar with sleek decor offering specialty cocktails & refined appetizers/charcuterie boards.",
+      "description": "Craft cocktails and charcuterie boards in the heart of downtown Davenport.\n\nRAW is a sleek, grown-up cocktail bar on East 3rd Street, built around specialty drinks and shareable plates: charcuterie boards, bruschetta and other refined small bites. Reviewers keep coming back to the cocktails, and it's a go-to for date nights and a first stop before a downtown evening.\n\nRAW is part of the walkable stretch of bars and restaurants that makes downtown Davenport a night out on its own. Pair it with dinner nearby or a show, and settle in for a drink made with care.",
       "rating": {
         "google": "4.6",
         "google_count": "233",
@@ -14626,7 +14626,7 @@
       "hours": "Monday: Closed | Tuesday: 11:00 AM – 9:00 PM | Wednesday: 11:00 AM – 9:00 PM | Thursday: 11:00 AM – 9:00 PM | Friday: 11:00 AM – 9:00 PM | Saturday: 11:00 AM – 9:00 PM | Sunday: 10:00 AM – 8:00 PM",
       "lat": "41.49881999999999",
       "lng": "-90.5158564",
-      "description": "Mexican spot offering familiar fare & margaritas in low-key surrounds with an old-school vibe.",
+      "description": "Family-friendly Mexican food in Moline, from taco-bar lunches to weekend buffets.\n\nRestaurante El Mariachi serves authentic Mexican food for dine-in, takeout and curbside pickup. Its buffets are a draw: an authentic Mexican buffet on Friday nights and Saturdays, Sunday brunch, and a weekday lunch taco bar. Family packs bundle tamales, enchiladas or tacos with chips, salsa, rice and beans, and the restaurant also caters and runs a food truck.\n\nIt's an easy choice for feeding a group in Moline, whether you're eating in or picking up for the whole family.",
       "rating": {
         "google": "4.4",
         "google_count": "743",
@@ -15270,7 +15270,7 @@
       "hours": "Monday: Closed | Tuesday: 10:00 AM – 4:00 PM | Wednesday: 10:00 AM – 4:00 PM | Thursday: 10:00 AM – 4:00 PM | Friday: 10:00 AM – 4:00 PM | Saturday: 10:00 AM – 4:00 PM | Sunday: Closed",
       "lat": "41.5189881",
       "lng": "-90.54632959999999",
-      "description": "Long-running Army museum devoted to the history of Arsenal Island, featuring Civil War artifacts.",
+      "description": "Two centuries of Arsenal Island history, inside an active Army installation.\n\nThe Rock Island Arsenal Museum tells the story of Arsenal Island, from its Civil War years onward, through artifacts and exhibits on the people and work that shaped it. The museum reopened after a renovation in 2023, admission is free, and it's open Tuesday through Saturday.\n\nBecause the Arsenal is an active military installation, visitors enter through the Moline Gate and should check current gate hours and visitor-access rules before heading over. It's one of the most distinctive history stops in the Quad Cities, on an island in the middle of the Mississippi.",
       "rating": {
         "google": "4.7",
         "google_count": "359",
@@ -20105,7 +20105,7 @@
       "hours": "Monday: 10:00 AM – 2:00 PM | Tuesday: 10:00 AM – 2:00 PM | Wednesday: 10:00 AM – 2:00 PM | Thursday: 10:00 AM – 2:00 PM | Friday: 10:00 AM – 2:00 PM | Saturday: 10:00 AM – 2:00 PM | Sunday: Closed",
       "lat": "41.5076897",
       "lng": "-90.5203188",
-      "description": "12,000-seat venue showcasing local sports teams, live concerts, musicals & other events.",
+      "description": "The Quad Cities' 12,000-seat home for hockey, football, concerts and big-ticket shows.\n\nVibrant Arena at The MARK opened on the Moline riverfront in 1993 with two sold-out Neil Diamond concerts, and it has been the region's big stage ever since. It's home ice for the Quad City Storm of the SPHL, which recently signed a 10-year lease extension, and home field for the Quad City Steamwheelers indoor football team. Between games, the calendar fills with concerts, bull riding, Monster Jam, family shows and touring productions, with luxury suites, the Vibrant Club Lounge and an on-site conference center for weddings and banquets.\n\nKnown over the years as The MARK, the iWireless Center and the TaxSlayer Center, it's where many Quad Citizens saw their first concert or hockey game. Check the event calendar, then make an evening of it in downtown Moline.",
       "rating": {
         "google": "4.5",
         "google_count": "3752",
