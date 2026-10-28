@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-27T20:28:43.826268+00:00",
+  "updated": "2026-10-28T04:31:24.948869+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine artist's painting included in digital juried exhibition about cancer",
+      "summary": "\"The Wait,\" by Muscatine artist Jim Elias, is included in the art show \"Cancer 2026: Never Give Up, For the Lives We Hold Close.\" Presented by Gallerium, this s…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-artists-painting-included-in-digital-juried-exhibition-about-cancer/",
+      "time": "55 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_c9eabf.png?w=540",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Clinton, Iowa City Council approves first reading of data center ordinance",
+      "summary": "A petition that would put an ordinance in another part of city code was rejected after the city attorney said it was inadmissible because it impacted zoning law…",
+      "url": "https://www.wqad.com/article/news/local/clinton-iowa-city-council-center-ordinance-public-hearing/526-aab9aeda-7476-41b4-86ec-1024c3054df2",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ec6a6d27-c4b4-443b-b144-ef72f6a16819/20261028T030516/ec6a6d27-c4b4-443b-b144-ef72f6a16819_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Coal Valley Fareway store brings closer-to-home options for village shoppers",
+      "summary": "People in Coal Valley can now shop at the only grocery store in the village. Managers cut the ribbon on the new Fareway store Tuesday. \"I've been with the compa…",
+      "url": "https://www.ourquadcities.com/news/local-news/coal-valley-fareway-store-brings-closer-to-home-options-for-village-shoppers/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/FAREWAY.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Black Box Theatre to present 'The Minutes' by Tracy Letts",
+      "summary": "Tracy Letts’ dark comedy “The Minutes” will premiere Nov. 6 at The Black Box Theatre, 1623 5th Ave., Moline, according to a news release. The play asks the ques…",
+      "url": "https://www.ourquadcities.com/news/local-news/black-box-theatre-to-present-the-minutes-by-tracy-letts/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/The-Minutes-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Two QCA sites will be among Iowa landmarks to shine teal for Alzheimer's awareness",
+      "summary": "Two Quad Cities-area landmarks will be among some of Iowa’s most well-known sites - including the Wells Fargo Arena and the Greater Des Moines Botanical Garden …",
+      "url": "https://www.ourquadcities.com/news/local-news/two-qca-sites-will-be-among-iowa-landmarks-to-shine-teal-for-alzheimers-awareness/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/I-74-Bridge-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Truck stolen by escaped Tennessee murderer found in Illinois, investigators say",
+      "summary": "Authorities say an escaped Tennessee inmate convicted of murder stole a truck from a nearby farm and apparently made it to southern Illinois before abandoning i…",
+      "url": "https://www.wqad.com/article/news/nation-world/truck-stolen-escaped-tennessee-murderer-found-illinois/507-0505f416-700f-4797-9bbc-86e62305246e",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WBIR/images/8bdf7a69-482a-4a6e-a491-c1a98902654e/20261026T204845/8bdf7a69-482a-4a6e-a491-c1a98902654e_750x422.jpg",
+      "category": "nation-world"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Police, U. S. Marshals arrest man in connection with Rock Island gunfire",
+      "summary": "An 18-year-old man has been arrested in connection with a Rock Island gunfire incident in September, according to a news release from the Rock Island Police Dep…",
+      "url": "https://www.ourquadcities.com/news/local-news/police-u-s-marshals-arrest-man-in-connection-with-rock-island-gunfire/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Mark-Jackson-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "30-year-old killed in Davenport shooting identified as suspect's son",
       "summary": "Arrest records show 65-year-old Eric Logsdon is charged with first-degree murder and going armed with intent.",
       "url": "https://www.wqad.com/article/news/crime/davenport-murder-friday-victim-identified/526-cde79e83-dbd9-40d3-bbcf-427f5a4c897f",
-      "time": "4 min ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d16f2402-5b8a-412e-bc00-e3cd340b0d4c/20261027T201319/d16f2402-5b8a-412e-bc00-e3cd340b0d4c_750x422.jpg",
       "category": "crime"
     },
@@ -16,100 +93,45 @@
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Beyond the Badge: Maquoketa couple dedicate livelihood to public service in and out of workplace",
-      "summary": "Sgt. Tracey and Bailiff Andy Friederichsen began 3D-printing mobility trainers for children and so far have given 50 chairs for free.",
-      "url": "https://www.wqad.com/article/life/people/beyond-the-badge-maquoketa-jackson-county-iowa-tracey-andy-friederichsen/526-b4031509-76e8-41e2-928b-90d9d4309c06",
-      "time": "37 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/216f9009-3ce8-49ca-b9b1-d39d4381d403/20261027T180803/216f9009-3ce8-49ca-b9b1-d39d4381d403_750x422.jpg",
-      "category": "people"
+      "headline": "River Action hosting 20th annual Upper Mississippi River Conference in Davenport",
+      "summary": "This year's conference is Nov. 4-5. The theme is the future of the river, with speakers, student opportunities and even field trips for attendees.",
+      "url": "https://www.wqad.com/article/news/local/the-current/upper-mississippi-river-conference-action-nonprofit-water-quality-speakers-tickets-chris-jones/526-3347afc3-d53f-406f-962c-caadb0042c0f",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a2a68121-3ebc-474a-8705-db7ce1224493/20261027T233359/a2a68121-3ebc-474a-8705-db7ce1224493_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Illinois says it will keep 25 mental health beds at Choate, expand regional jobs",
-      "summary": "While IDHS backs off full closure, Southern Illinois lawmakers call the plan 'inadequate.'",
-      "url": "https://www.wqad.com/article/news/state/illinois-will-keep-25-mental-health-beds-choate-developmental-center-capitol-news/526-b0abcfd4-cc5d-4ffc-b553-0d9408000483",
-      "time": "50 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d5f84780-c64a-4278-a016-73dbb3a85ce2/20260917T224605/d5f84780-c64a-4278-a016-73dbb3a85ce2_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hawkeyes running back Kamari Moulton is out for the season",
-      "summary": "Iowa head coach Kirk Ferentz said Tuesday in his weekly news conference that running back Kamari Moulton is out for the season. It's a tough blow for a running …",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-running-back-kamari-moulton-is-out-for-the-season/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/GettyImages-2300425291.jpg?w=900",
-      "category": "Hawkeye Headquarters"
+      "headline": "Scarecrow display brings community together at Heritage Woods of Moline",
+      "summary": "Heritage Woods of Moline showcases over 75 scarecrows, created by residents and community partners.",
+      "url": "https://www.wqad.com/article/news/community/scarecrow-display-heritage-woods-of-moline-illinois/526-c91ef432-d748-4441-b618-dfd755c2c9a3",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/42ecb924-ad12-4e75-9e45-f30ff5bfc0ad/20261028T000246/42ecb924-ad12-4e75-9e45-f30ff5bfc0ad_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Trick-or-treat times for towns in and around the Quad Cities area",
-      "summary": "Grab your costumes and candy buckets! Halloween is coming up this Saturday, Oct. 31.",
-      "url": "https://www.wqad.com/article/life/holidays/trick-or-treat-times-iowa-illinois-quad-cities-davenport-bettendorf-moline-rock-island/526-260d83a3-fa19-4533-b150-fc2828ca3dc9",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/ad059076-27e1-4c0b-a489-60a95defb2e6/ad059076-27e1-4c0b-a489-60a95defb2e6_750x422.jpg",
-      "category": "holidays"
+      "headline": "County board races on both sides of the river offer voters different choices",
+      "summary": "Voters will choose county board members in the Nov. 3 election next week. Contested races vary between Scott and Rock Island Counties.",
+      "url": "https://www.wqad.com/article/news/politics/elections/scott-county-iowa-rock-island-county-illinois-board-races-midterm-elections-quad-cities/526-eaf18484-b172-4b34-8263-c806a6867584",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c0cf5638-35f7-4ab6-ad44-856c5c6b65dc/c0cf5638-35f7-4ab6-ad44-856c5c6b65dc_750x422.jpg",
+      "category": "elections"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Joseph Goetz named COO at Quad Cities International Airport",
-      "summary": "The Quad Cities International Airport has its first chief operating officer (COO). Joseph Goetz, A.A.E., A.C.E. has been named to the newly created position of …",
-      "url": "https://www.ourquadcities.com/news/local-news/joseph-goetz-named-coo-at-quad-cities-international-airport/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Joseph-Goetz.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "New SAFER program helps seniors during emergencies",
-      "summary": "A new pilot program starting in Davenport will help first responders access older adults’ homes and obtain health information during emergencies. Senior Resourc…",
-      "url": "https://www.ourquadcities.com/news/local-news/new-safer-program-helps-seniors-during-emergencies/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/Senior-Resource-Partners.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "NAACP B-4019 hosting 'Party to the Poll' event",
-      "summary": "The Davenport Branch #4019 B Metrocom NAACP will host a public, nonpartisan “Party to the Poll” event on Saturday, October 31 from 12 – 3 p.m. at the Friends of…",
-      "url": "https://www.ourquadcities.com/news/local-news/naacp-b-4019-hosting-party-to-the-poll-event/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Metrocom-NAACP-of-Davenport.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Care for Sylvan Island; share ideas for healthier river communities",
-      "summary": "The “Care for Sylvan Island: Community Cleanup &#38; Nature-Based Solutions Event,” organized in collaboration with Fem Scouts QC, will take place from 1-3 p.m.…",
-      "url": "https://www.ourquadcities.com/news/local-news/care-for-sylvan-island-share-ideas-for-healthier-river-communities/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2015/03/uzonpnossxkkgwcragmg_345045_ver1.0.jpg?w=533",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Ill. State Treasurer: Don't be afraid to check for missing money waiting to be claimed",
-      "summary": "Ahead of Halloween, Illinois State Treasurer Michael Frerichs asks residents to check the I-CASH website to see if there’s missing money waiting for you to clai…",
-      "url": "https://www.ourquadcities.com/news/local-news/ill-state-treasurer-dont-be-afraid-to-check-for-missing-money-waiting-to-be-claimed/",
-      "time": "19 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/I.jpg?w=900",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Local Alpha-1 support group hosting Galesburg fundraiser",
+      "summary": "Alpha-1 is a genetic condition of the lungs and/or liver. There is no cure. You're invited to raise money and awareness at the Galesburg Pizza Ranch on Nov. 9.",
+      "url": "https://www.wqad.com/article/news/local/the-current/alpha-1-open-arms-support-group-galesburg-fundraiser-pizza-ranch/526-973696bb-f443-4384-8539-d90a113c71b2",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/daba4abd-f61d-4752-9a51-7dece1834513/20261027T231921/daba4abd-f61d-4752-9a51-7dece1834513_750x422.jpg",
+      "category": "the-current"
     }
   ]
 }
