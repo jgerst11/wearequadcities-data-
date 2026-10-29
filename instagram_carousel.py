@@ -81,8 +81,10 @@ def parse(issue):
     lines = [htmlmod.unescape(l).strip() for l in re.sub(r"<[^>]+>", "\n", h).split("\n")]
     lines = [l for l in lines if l]
     out = {"hero": None, "hero_cap": "", "span": "", "five": []}
-    m = re.search(r'<img[^>]+src="([^"]+)"', h)
-    out["hero"] = htmlmod.unescape(m.group(1)) if m else issue.get("img")
+    # Hero = first image after the date line; the masthead banner sits above it (pasted in since Issue 2, 10/29/26)
+    dl = re.search(r"[A-Z]+DAY, [A-Z]+ \d", h)
+    m = re.search(r'<img[^>]+src="([^"]+)"', h[dl.end():] if dl else h)
+    out["hero"] = htmlmod.unescape(m.group(1)) if m else (issue.get("img") or None)
     # Hero caption = the two lines after the date line: "Shady Knoll Farm" + "· East Moline, IL — A working…"
     k = next((i for i, l in enumerate(lines) if re.match(r"^[A-Z]+DAY, ", l)), None)
     if k is not None and k + 2 < len(lines):
