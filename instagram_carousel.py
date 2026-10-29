@@ -128,7 +128,8 @@ def slide_cover(p):
     if p["hero"]:
         im.paste(cover(photo(p["hero"]), W, 860), (0, 0))
         if p["hero_cap"]:
-            d.text((W - 24, 836), p["hero_cap"], font=SANS(22), fill=(255, 255, 255), anchor="rs", stroke_width=2, stroke_fill=(0, 0, 0))
+            # 60px in: the profile grid's 3:4 crop trims ~34px per side
+            d.text((W - 60, 836), p["hero_cap"], font=SANS(22), fill=(255, 255, 255), anchor="rs", stroke_width=2, stroke_fill=(0, 0, 0))
     d.text((60, 900), "THE QC FIVE", font=SANS_B(40), fill=GOLD)
     d.text((60, 960), "Five things worth", font=SERIF_B(78), fill=NAVY)
     d.text((60, 1050), "getting out for", font=SERIF_B(78), fill=NAVY)
