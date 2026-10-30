@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-30T06:00:08.149187+00:00",
+  "updated": "2026-10-30T14:53:24.635530+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Trees planted at West Lake Park to help restore tree canopy",
+      "summary": "Thirty trees were planted at West Lake Park in Davenport to help restore the park's tree canopy. Trees Forever partnered with volunteers to diversify the tree p…",
+      "url": "https://www.ourquadcities.com/news/local-news/trees-planted-at-west-lake-park-to-help-restore-tree-canopy/",
+      "time": "12 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_ffbf5f.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Deere calling back, hiring hundreds of employees across facilities",
+      "summary": "John Deere is calling back employees and hiring hundreds more across several facilities, according to a company news release. Deere expects to hire over 400 peo…",
+      "url": "https://www.ourquadcities.com/news/local-news/deere-calling-back-hiring-hundreds-of-employees-across-facilities/",
+      "time": "16 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/GettyImages-2002918904.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline native Kevin McAdams named Vice Chairman of National Chicken Council",
+      "summary": "Kevin McAdams, Chief Executive Officer and President of Perdue Farms, has been named the Vice-Chairman of the National Chicken Council. The Moline native joined…",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-native-kevin-mcadams-named-vice-chairman-of-national-chicken-council/",
+      "time": "34 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Kevin-McAdams-featured-image.png?w=466",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "1 man dead after house fire in rural East Moline",
+      "summary": "A man was found dead inside a home after an early morning fire in rural East Moline. Multiple agencies are investigating the cause.",
+      "url": "https://www.wqad.com/article/news/local/1-man-dead-after-house-fire-in-rural-east-moline/526-0b8a9321-7482-42f3-b7ad-d0ffb4f5d4bb",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f730c602-411c-4a9a-a152-a51b4ff1ff75/20261030T131326/f730c602-411c-4a9a-a152-a51b4ff1ff75_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,19 +52,8 @@
       "headline": "Illinois invests $156 million for affordable housing",
       "summary": "Illinois is investing $156 million in an affordable housing program. Gov. JB Pritzker and the Illinois Housing Development Authority (IHDA) announced a $156 mil…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-invests-156-million-for-affordable-housing/",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/homes-GENERIC-home-house-houses.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Visit Quad Cities hosts annual Destination QC! event; names award recipients",
-      "summary": "Visit Quad Cities hosted its annual Destination QC! event on Thursday, Oct. 29, at Rhythm City Casino Resort, a news release says. The event brought together co…",
-      "url": "https://www.ourquadcities.com/news/local-news/visit-quad-cities-hosts-annual-destination-qc-event-names-award-recipients/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2016/11/CIRCA20272120B_1478018540917_12565724_ver1.0.jpg?w=720",
       "category": "Local News"
     },
     {
@@ -30,19 +63,8 @@
       "headline": "East Moline celebrates opening of revitalized Main Street",
       "summary": "After over a year of construction, the Main Street of East Moline has reopened with its many upgrades. \"Look at the roadways, look at the tiles, look at the ...…",
       "url": "https://www.ourquadcities.com/news/local-news/east-moline-celebrates-opening-of-revitalized-main-street/",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/EAST-MOLINE-MAIN-STREET.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Robert Deitch will bring songs shaped by small-town life to Bishop Hill concert",
-      "summary": "Iowa Americana songwriter Robert Deitch will perform Sunday, Nov. 1, at Bishop Hill Creative Commons, 309 N. Bishop Hill St., bringing songs shaped by small-tow…",
-      "url": "https://www.ourquadcities.com/news/local-news/robert-deitch-will-bring-songs-shaped-by-small-town-life-to-bishop-hill-concert/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Robert-Deitch.png?w=469",
       "category": "Local News"
     },
     {
@@ -52,7 +74,7 @@
       "headline": "East Moline cuts the ribbon on 15th Avenue's multi-million-dollar renovations",
       "summary": "The city said the $33 million investment aims to make downtown more accessible and better serve business owners.",
       "url": "https://www.wqad.com/article/news/community/east-moline-15th-avenues-renovated-reopens-ribbon-cutting/526-d07b8cc4-30dc-4719-a95f-ef795e13205b",
-      "time": "5 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/aa69c0dc-ac87-4cea-a843-179361e93e0b/20261029T235439/aa69c0dc-ac87-4cea-a843-179361e93e0b_750x422.jpg",
       "category": "community"
     },
@@ -63,7 +85,7 @@
       "headline": "Three-peat: Bettendorf High School yearbook earns another statewide honor",
       "summary": "The Iowa High School Press Association named the Bettendorf yearbook the best in Iowa for the third year in a row. Why the students behind it are so passionate:",
       "url": "https://www.wqad.com/article/news/local/the-current/bettendorf-high-school-yearbook-best-in-iowa-third-time-press-association-students/526-192648a7-af00-4a46-aa18-b5070aecc2e5",
-      "time": "5 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d12fb26e-a293-44fc-8824-af2bd62b8c91/20261029T233528/d12fb26e-a293-44fc-8824-af2bd62b8c91_750x422.jpg",
       "category": "the-current"
     },
@@ -74,7 +96,7 @@
       "headline": "November is Epilepsy Awareness Month: How a local nonprofit is making a difference",
       "summary": "You're invited to The Rock in Coal Valley on Saturday, Nov. 7 for a music bingo night. Proceeds will pay for epilepsy trainings in local businesses and schools.",
       "url": "https://www.wqad.com/article/news/local/the-current/epilepsy-awareness-month-advocacy-network-music-bingo-night-event-nonprofit-health/526-dd87c4ef-3887-4a6e-a784-024ef6c3a360",
-      "time": "6 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e4b1c52d-56b2-4ea4-a822-4a0b49259a13/20261029T233102/e4b1c52d-56b2-4ea4-a822-4a0b49259a13_750x422.jpg",
       "category": "the-current"
     },
@@ -85,7 +107,7 @@
       "headline": "Clinton police chief transitions to city administrator role",
       "summary": "Clinton Police Chief Kevin Gyrion will become the city's administrator on Nov. 1 after more than 40 years in law enforcement. Two former police chiefs share adv…",
       "url": "https://www.wqad.com/article/news/local/clinton-police-chief-city-administrator-kevin-gyrion/526-de98c987-4013-4651-a4dd-f7712a5496be",
-      "time": "6 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/085e630a-a0ef-4d4c-adaf-ef541b25b73d/20261029T232044/085e630a-a0ef-4d4c-adaf-ef541b25b73d_750x422.jpg",
       "category": "local"
     },
@@ -96,7 +118,7 @@
       "headline": "Rock Island Port District to receive boost from $9 million federal grant to Alter Logistics",
       "summary": "The grant will help fund a series of upgrades to Alter Logistics' facilities.",
       "url": "https://www.wqad.com/article/money/economy/rock-island-port-district-receive-9-million-federal-grant/526-c804f46e-dab7-4542-851d-2d9f9e32d7cd",
-      "time": "7 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ed18c351-7eee-449d-a427-9e0118022e70/20261029T204426/ed18c351-7eee-449d-a427-9e0118022e70_750x422.jpg",
       "category": "economy"
     },
@@ -107,31 +129,9 @@
       "headline": "2 pedestrians injured in Silvis hit-and-run, suspect arrested",
       "summary": "63-year-old Patrick Meyer has been charged with aggravated driving under the influence, driving with a suspended license and leaving the scene of an accident.",
       "url": "https://www.wqad.com/article/news/local/2-pedestrians-injured-silvis-hit-and-run-suspect-arrested/526-ee103c65-0a10-46f8-a1e0-e02fa776e2f8",
-      "time": "7 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "East Moline man arrested after hit-and-run crash involving two pedestrians",
-      "summary": "An East Moline driver was in custody Thursday after police say he struck two pedestrians and hit a building, according to a news release from the Silvis Police …",
-      "url": "https://www.ourquadcities.com/news/local-news/east-moline-man-arrested-after-hit-and-run-crash-involving-two-pedestrians/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/07/crash-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "'Incompetence:' Illinois DCFS director found in contempt for noncompliance with judge's order",
-      "summary": "The agency blamed filing errors on months of missed court dates.",
-      "url": "https://www.wqad.com/article/news/state/incompetence-illinois-dcfs-director-found-contempt-noncompliance-judge-order-capitol-news/526-ef1d1b6c-2b35-4757-9c27-f06e43b50ce5",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b782d042-e521-45e0-913e-6cc0c4773b6c/20261029T214656/b782d042-e521-45e0-913e-6cc0c4773b6c_750x422.jpg",
-      "category": "state"
     }
   ]
 }
