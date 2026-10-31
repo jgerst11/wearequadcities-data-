@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-30T16:59:58+00:00",
+ "generated": "2026-10-31T16:03:41+00:00",
  "sources": [
   {
    "employer": "John Deere",
    "careers": "https://jobs.deere.com/",
-   "count": 26,
+   "count": 25,
    "ok": true
   },
   {
    "employer": "Hy-Vee",
    "careers": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers",
-   "count": 35,
+   "count": 34,
    "ok": true
   },
   {
@@ -49,7 +49,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Citibus Transit Driver | Part-Time",
@@ -61,7 +61,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Civil Rights Housing Analyst",
@@ -73,7 +73,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Civil Rights Intake Specialist",
@@ -85,7 +85,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Code Enforcement Officer I",
@@ -97,7 +97,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Golf Course Seasonal Staff | 2026",
@@ -109,7 +109,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Library Youth Services Supervisor",
@@ -121,7 +121,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "POLICE OFFICER - SPRING 2027",
@@ -133,7 +133,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Police Intern (Unpaid)",
@@ -145,7 +145,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Senior Civil Rights Analyst | Part-Time/On-Call",
@@ -157,7 +157,7 @@
    "employer": "City of Davenport",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "ASP Tutor",
@@ -169,7 +169,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Administrative Records Management Intern",
@@ -181,7 +181,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Family Advocate",
@@ -193,7 +193,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Fire Chief",
@@ -205,7 +205,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Greenskeeper",
@@ -217,7 +217,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "MLK After-School Program Van Driver",
@@ -229,7 +229,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Seasonal Laborer",
@@ -241,7 +241,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Seasonal Parks Maintenance",
@@ -253,7 +253,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Telecommunicator - Lateral Transfers",
@@ -265,7 +265,7 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "WWJ/RIFAC Lifeguard",
@@ -277,392 +277,381 @@
    "employer": "City of Rock Island",
    "city": "Rock Island",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Aisles Online Shopper",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Aisles-Online-Shopper_R258658",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "id": "2ce404846e42",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
+  },
+  {
+   "title": "Assistant Manager of Health Wellness Home",
+   "location": "Moline #1, Ave of the Cities, Moline, IL",
+   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Moline-1-Ave-of-the-Cities-Moline-IL/Assistant-Manager-of-Health-Wellness-Home_R259818",
+   "posted": "Posted Yesterday",
+   "id": "e163a21c97e0",
+   "employer": "Hy-Vee",
+   "city": "Moline",
+   "source": "workday",
+   "collected": "2026-10-31"
   },
   {
    "title": "Bakery Clerk",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Bakery-Clerk_R258659",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "id": "8b16e7ae862a",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Bakery Clerk",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Bakery-Clerk_R259513",
-   "posted": "Posted Yesterday",
+   "posted": "Posted 2 Days Ago",
    "id": "dfd997ae4f42",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Certified Pharmacy Technician",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Certified-Pharmacy-Technician_R258468",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "id": "ec4b668eb4bc",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
-  },
-  {
-   "title": "Certified Pharmacy Technician",
-   "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Certified-Pharmacy-Technician_R253481",
-   "posted": "Posted 30+ Days Ago",
-   "id": "dd9ad2aea749",
-   "employer": "Hy-Vee",
-   "city": "Bettendorf",
-   "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Checker",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Checker_R256733",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "id": "304937f16828",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Checker",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Checker_R259616",
-   "posted": "Posted Yesterday",
+   "posted": "Posted 2 Days Ago",
    "id": "4d4c7db3be55",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Checker",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Checker_R257133",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "id": "87ae1b828086",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Checker",
    "location": "Milan, 10th Ave W, Milan, IL",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Milan-10th-Ave-W-Milan-IL/Checker_R259020",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "c09a630cf9a4",
    "employer": "Hy-Vee",
    "city": "Milan",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Checker/Stocker",
    "location": "Eldridge, 425 E Le Claire Rd., Eldridge, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Eldridge-425-E-Le-Claire-Rd-Eldridge-IA/Checker-Stocker_R258531-1",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "id": "38af3ad157da",
    "employer": "Hy-Vee",
    "city": "Eldridge",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Dairy Clerk",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Dairy-Clerk_R257577-1",
-   "posted": "Posted 13 Days Ago",
+   "posted": "Posted 14 Days Ago",
    "id": "f97c2132b534",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Delicatessen Clerk",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Delicatessen-Clerk_R258309",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "id": "9879cb78f794",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Delicatessen Clerk",
    "location": "Milan, 10th Ave W, Milan, IL",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Milan-10th-Ave-W-Milan-IL/Delicatessen-Clerk_R259010-1",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "51a4d1ab9aeb",
    "employer": "Hy-Vee",
    "city": "Milan",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Fast and Fresh Clerk",
    "location": "Rock Island, 18th Ave, Rock Island, IL",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Rock-Island-18th-Ave-Rock-Island-IL/Fast-and-Fresh-Clerk_R257931",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "id": "85c1fadf292b",
    "employer": "Hy-Vee",
    "city": "Rock Island",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Floral Department Manager",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Floral-Department-Manager_R255587",
-   "posted": "Posted 24 Days Ago",
+   "posted": "Posted 25 Days Ago",
    "id": "7b8be11cd9f5",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Floral Designer",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Floral-Designer_R258653",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "id": "6fe01bdcde88",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Floral Designer",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Floral-Designer_R259164",
-   "posted": "Posted 3 Days Ago",
+   "posted": "Posted 4 Days Ago",
    "id": "2bcb8eaa5be4",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Hy-Chi Cook",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Hy-Chi-Cook_R257839",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "id": "5e8ae7e163f2",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Market Grille Assistant Department Manager",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Market-Grille-Assistant-Department-Manager_R259493",
-   "posted": "Posted 2 Days Ago",
+   "posted": "Posted 3 Days Ago",
    "id": "c646a1dd8992",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Market Grille Clerk",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Market-Grille-Clerk_R258473",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "id": "351c689ce7c8",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Market Grille Clerk",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Market-Grille-Clerk_R258664",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "id": "34325e19d238",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Market Grille Express Clerk",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Market-Grille-Express-Clerk_R259612-1",
-   "posted": "Posted Yesterday",
+   "posted": "Posted 2 Days Ago",
    "id": "839e4e0cc12c",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Meat Assistant Department Manager",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Meat-Assistant-Department-Manager_R258662",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "id": "e7a105a320c2",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Meat Clerk",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Meat-Clerk_R259618",
-   "posted": "Posted Yesterday",
+   "posted": "Posted 2 Days Ago",
    "id": "b0662ad0caa4",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
-  },
-  {
-   "title": "Mia Italian Clerk",
-   "location": "Moline #1, Ave of the Cities, Moline, IL",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Moline-1-Ave-of-the-Cities-Moline-IL/Mia-Italian-Clerk_R256320",
-   "posted": "Posted 3 Days Ago",
-   "id": "bb2feaf39eda",
-   "employer": "Hy-Vee",
-   "city": "Moline",
-   "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Non-Certified Pharmacy Technician",
    "location": "Milan, 10th Ave W, Milan, IL",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Milan-10th-Ave-W-Milan-IL/Non-Certified-Pharmacy-Technician_R251532",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "6077b984a2a4",
    "employer": "Hy-Vee",
    "city": "Milan",
    "source": "workday",
-   "collected": "2026-10-30"
-  },
-  {
-   "title": "Pharmacy Fulfillment Support Packing",
-   "location": "Davenport Pharmacy Fulfillment Center, Elmore Ave., Davenport, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-Pharmacy-Fulfillment-Center-Elmore-Ave-Davenport-IA/Pharmacy-Fulfillment-Support-Packing_R258851",
-   "posted": "Posted 4 Days Ago",
-   "id": "2ae7099b72dd",
-   "employer": "Hy-Vee",
-   "city": "Davenport",
-   "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Produce Clerk",
    "location": "Davenport #5, W Locust Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-5-W-Locust-Street-Davenport-IA/Produce-Clerk_R258871",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "38955906d68a",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Produce Clerk",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Produce-Clerk_R255380",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "id": "24844d7fab02",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Produce Clerk",
    "location": "Eldridge, 425 E Le Claire Rd., Eldridge, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Eldridge-425-E-Le-Claire-Rd-Eldridge-IA/Produce-Clerk_R258864-1",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "92eb38617a65",
    "employer": "Hy-Vee",
    "city": "Eldridge",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Registered Pharmacist",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Registered-Pharmacist_R259562",
-   "posted": "Posted Yesterday",
+   "posted": "Posted 2 Days Ago",
    "id": "d59133d84463",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
+  },
+  {
+   "title": "Retail Product & Pricing Manager",
+   "location": "Moline #1, Ave of the Cities, Moline, IL",
+   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Moline-1-Ave-of-the-Cities-Moline-IL/Retail-Product---Pricing-Manager_R259817-1",
+   "posted": "Posted Yesterday",
+   "id": "03194e48059a",
+   "employer": "Hy-Vee",
+   "city": "Moline",
+   "source": "workday",
+   "collected": "2026-10-31"
   },
   {
    "title": "Seafood Service/Meat Manager",
    "location": "Davenport #4, E 53rd Street, Davenport, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Davenport-4-E-53rd-Street-Davenport-IA/Seafood-Service-Meat-Manager_R258663",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "67df6e5a2fcc",
    "employer": "Hy-Vee",
    "city": "Davenport",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Service Manager",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Service-Manager_R256287",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "id": "b34cbd33de7c",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Service Manager",
    "location": "Milan, 10th Ave W, Milan, IL",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Milan-10th-Ave-W-Milan-IL/Service-Manager_R259008",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "id": "923f0c780bd2",
    "employer": "Hy-Vee",
    "city": "Milan",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Sushi Clerk",
    "location": "Bettendorf, Devil's Glen Road, Bettendorf, IA",
    "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Bettendorf-Devils-Glen-Road-Bettendorf-IA/Sushi-Clerk_R257698",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "id": "a5a6e908d985",
    "employer": "Hy-Vee",
    "city": "Bettendorf",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "2027 Intern - A&T Marketing/Sales",
@@ -673,7 +662,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "2027 Intern - C&F Marketing/Sales",
@@ -684,7 +673,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "2027 Intern - Supply Management/Logistics",
@@ -695,18 +684,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
-  },
-  {
-   "title": "2nd Shift Department Coordinator",
-   "location": "MILAN, Illinois",
-   "url": "https://jobs.deere.com/eightfold/job/MILAN-2nd-Shift-Department-Coordinator-Illi-61264-2608/1441024900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-   "posted": "2026-10-16",
-   "id": "8094e916887a",
-   "employer": "John Deere",
-   "city": "Milan",
-   "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Assembly Engineer",
@@ -717,7 +695,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Deal Desk Manager",
@@ -728,7 +706,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Demand Generation Specialist",
@@ -739,7 +717,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Engineer, Software",
@@ -750,7 +728,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "IT Group Financial Analyst",
@@ -761,18 +739,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
-  },
-  {
-   "title": "Infrastructure Engineer",
-   "location": "Davenport, Iowa",
-   "url": "https://jobs.deere.com/eightfold/job/Davenport-Infrastructure-Engineer-Iowa/1443175100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-   "posted": "2026-10-23",
-   "id": "e02f986b6d21",
-   "employer": "John Deere",
-   "city": "Davenport",
-   "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "John Deere Cylinder Works - Electrical Machine Maintenance",
@@ -783,7 +750,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "John Deere Davenport Works - Production Assembly",
@@ -794,7 +761,7 @@
    "employer": "John Deere",
    "city": "Davenport",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "John Deere Harvester Works - Electrical Machine Maintenance",
@@ -805,7 +772,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "John Deere Parts Distribution - Supplemental Warehouse",
@@ -816,7 +783,7 @@
    "employer": "John Deere",
    "city": "Milan",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "John Deere Research & Development Center - Silvis: Engineering Technician",
@@ -827,7 +794,18 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
+  },
+  {
+   "title": "Loader Module Hydraulic Design Engineer",
+   "location": "Davenport, IA, Iowa",
+   "url": "https://jobs.deere.com/eightfold/job/Davenport%2C-IA-Loader-Module-Hydraulic-Design-Engineer-Iowa-52808-4918/1446461600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+   "posted": "2026-10-30",
+   "id": "5c860f7a43f2",
+   "employer": "John Deere",
+   "city": "Davenport",
+   "source": "rss",
+   "collected": "2026-10-31"
   },
   {
    "title": "Marketing Operations & Analytics Analyst",
@@ -838,7 +816,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "OFP Quality Engineer - Weld",
@@ -849,7 +827,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Part-Time Student - Engineering - East Moline, IL",
@@ -860,7 +838,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Part-Time Student - Factory Engineering - East Moline, IL",
@@ -871,7 +849,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Part-Time Student - Factory Engineering - East Moline,IL",
@@ -882,7 +860,7 @@
    "employer": "John Deere",
    "city": "East Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Part-Time Student - Warehouse Health Engineer - Milan, IL",
@@ -893,7 +871,7 @@
    "employer": "John Deere",
    "city": "Milan",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Product Consultant - Large Earthmoving Products",
@@ -904,7 +882,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Product Consultant - Large Earthmoving Products (Excavators)",
@@ -915,7 +893,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Senior Engineer, Product Development",
@@ -926,7 +904,7 @@
    "employer": "John Deere",
    "city": "Silvis",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Senior Manager, Corporate and Executive Communications",
@@ -937,7 +915,7 @@
    "employer": "John Deere",
    "city": "Moline",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Team Leader, Production",
@@ -948,29 +926,29 @@
    "employer": "John Deere",
    "city": "Davenport",
    "source": "rss",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Buyer - Spares",
    "location": "Moline IL",
    "url": "https://kone.wd3.myworkdayjobs.com/Careers/job/Moline-IL/Buyer---Spares_R0665588",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "id": "edad27d23b25",
    "employer": "KONE",
    "city": "Moline",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Contract Specialist",
    "location": "Moline + other locations",
    "url": "https://kone.wd3.myworkdayjobs.com/Careers/job/Lisle-IL/Contract-Specialist_R0665220",
-   "posted": "Posted 22 Days Ago",
+   "posted": "Posted 23 Days Ago",
    "id": "7bacd1b269a7",
    "employer": "KONE",
    "city": "Moline",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "KONE Business Services Agent",
@@ -981,18 +959,18 @@
    "employer": "KONE",
    "city": "Moline",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Mechanical Engineer I",
    "location": "Moline IL Main Office",
    "url": "https://kone.wd3.myworkdayjobs.com/Careers/job/Moline-IL-Main-Office/Mechanical-Engineer-I_R0665611",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "id": "1631c79d3169",
    "employer": "KONE",
    "city": "Moline",
    "source": "workday",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Administrative Billing Specialist",
@@ -1004,7 +982,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Assistant Attorney",
@@ -1016,7 +994,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Bailiff- P/T",
@@ -1028,7 +1006,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Building Inspector",
@@ -1040,7 +1018,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Network Infrastructure Manager",
@@ -1052,7 +1030,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   },
   {
    "title": "Public Health Nurse-Leading Immunizations & Childhood Lead Poisoning Programs",
@@ -1064,7 +1042,7 @@
    "employer": "Scott County",
    "city": "Davenport",
    "source": "neogov",
-   "collected": "2026-10-30"
+   "collected": "2026-10-31"
   }
  ]
 }
