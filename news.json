@@ -1,6 +1,39 @@
 {
-  "updated": "2026-10-31T06:00:09.412224+00:00",
+  "updated": "2026-10-31T14:22:16.327234+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "SPHL: a 'special' win on Friday for Quad City Storm over Rail Yard Dawgs",
+      "summary": "The Quad City Storm had a slow start in Friday's SPHL game at Vibrant Arena at The Mark. Were they able to overcome that against Roanoke?",
+      "url": "https://qctimes.com/sports/article_1310c16b-4f29-4dfa-980d-d2f5d690f311.html",
+      "time": "12 min ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/69/c698c131-51d0-4855-a009-8537dcba42a1/6ae55c24a394a.image.jpg?resize=300%2C200",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Witches Night Out brings spooky soirée to Moline",
+      "summary": "Halloween spirit took over downtown Moline, and you almost needed a scorecard to keep track of which witch was which. Our Quad Cities News photojournalist Mike …",
+      "url": "https://www.ourquadcities.com/news/local-news/witches-night-out-brings-spooky-soiree-to-moline/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Witches-Night-Out.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "High school sports: Quad-Cities standings, scores and schedules",
+      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
+      "url": "https://qctimes.com/sports/high-school/article_496717f9-0b7a-46b6-9bfc-d1df2b9a9e8d.html",
+      "time": "3 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
+      "category": ""
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +41,7 @@
       "headline": "East Moline haunted maze scaring up donations for people in need",
       "summary": "Greg's Landscaping and Much More has collected more than 1,700 pounds of non-perishable food for Christian Care and the River Bend Food Bank.",
       "url": "https://www.wqad.com/article/life/holidays/east-moline-haunted-maze-scaring-up-food-donations/526-1c9f3727-686d-4fc3-985d-26c531a3a41c",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/be7aeb50-5dd8-46b3-8422-d6034e9eb69e/20261031T024353/be7aeb50-5dd8-46b3-8422-d6034e9eb69e_750x422.jpg",
       "category": "holidays"
     },
@@ -16,11 +49,11 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Singer/songwriter Lewis Knudsen will be in concert in Bishop Hill",
-      "summary": "Lewis Knudsen writes and records in the basement of his church in the Quad Cities, but his songs have traveled well beyond the neighborhood, a news release says…",
-      "url": "https://www.ourquadcities.com/news/local-news/singer-songwriter-lewis-knudsen-will-be-in-concert-in-bishop-hill/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2020/09/Live-In-Studio-Lewis-Knudsen-Part-2.jpeg?w=900",
+      "headline": "Our QC Crime Watch: Domestic violence and the justice system: Episode 87",
+      "summary": "This week's crime watch features an interview with domestic-violence expert Nana Knight. Linda Cook and Sharon Wren interview Knight, an attorney and author, ab…",
+      "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-domestic-violence-and-the-justice-system-episode-87/",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Nana-Knight.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -30,7 +63,7 @@
       "headline": "Barbecue spot holds ribbon-cutting in downtown Moline",
       "summary": "A barbecue spot held a ribbon-cutting Friday in downtown Moline. Fatwoods Barbeque Smokehouse celebrated its grand opening with a ribbon cutting on Friday after…",
       "url": "https://www.ourquadcities.com/news/local-news/new-barbecue-spot-opens-in-downtown-moline/",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/New-barbecue-restaurant-in-Moline-1-1.jpg?w=572",
       "category": "Local News"
     },
@@ -41,7 +74,7 @@
       "headline": "Rob Sand brings campaign rally to Bettendorf",
       "summary": "Democratic gubernatorial candidate Rob Sand held a get-out-the-vote rally at Crawford Brew Works in Bettendorf on Friday afternoon. Sand faces Republican Zach L…",
       "url": "https://www.ourquadcities.com/news/local-news/rob-sand-brings-campaign-rally/",
-      "time": "6 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Rob-Sand-.jpg?w=478",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "John Deere hiring 400 workers, recalling 275 more at Iowa, Midwest facilities",
       "summary": "With the latest recalls, all employees previously laid off in the Quad Cities, Waterloo, Ottumwa and Dubuque have been asked to return to work, Deere said.",
       "url": "https://www.wqad.com/article/money/business/john-deere/john-deere-recall-iowa-illinois-facilities-hiring-400/526-a49486ea-29df-4bb3-b180-5f7b37d2d080",
-      "time": "6 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fc702ca5-431d-419d-9a85-9a4e75c011f8/20261030T154819/fc702ca5-431d-419d-9a85-9a4e75c011f8_750x422.jpg",
       "category": "john-deere"
     },
@@ -63,7 +96,7 @@
       "headline": "Tourism brings $1.35 billion to Quad Cities economy despite decline in visits",
       "summary": "The latest figures from Visit Quad Cities show that in FY 2026, 5.7 million visitors came to the region, resulting in $53 million in direct economic impact.",
       "url": "https://www.wqad.com/article/news/local/the-current/tourism-visit-quad-cities-destination-qc-findings-5-point-7-million-visitors-million-billion-economic-impact-region/526-25ff79f5-f4f8-4ab9-91f4-64dab29e031e",
-      "time": "7 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c64ad706-7c07-44a6-ac66-4594cb5d5b99/20260709T194019/c64ad706-7c07-44a6-ac66-4594cb5d5b99_750x422.jpg",
       "category": "the-current"
     },
@@ -74,7 +107,7 @@
       "headline": "Davenport holding special election for 2nd Ward council seat",
       "summary": "City Council appointed Bob Inghram to serve as 2nd Ward alderman. However, the city has received a qualifying petition requesting a special election.",
       "url": "https://www.wqad.com/article/news/politics/elections/davenport-2nd-ward-council-seat-special-election/526-86834e36-e5cf-4fc8-b90b-6f2488aeee06",
-      "time": "7 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3208cf6e-51e4-41fa-86f6-570f64bf14ad/20261030T215733/3208cf6e-51e4-41fa-86f6-570f64bf14ad_750x422.jpg",
       "category": "elections"
     },
@@ -85,7 +118,7 @@
       "headline": "2 sentenced in southern Illinois massage prostitution ring",
       "summary": "The defendants each received 24-month sentences for their role in operating illicit massage businesses in southern Illinois and Indiana.",
       "url": "https://www.wqad.com/article/news/crime/2-sentenced-southern-illinois-massage-prostitution-ring-capitol-news/526-2186ce9c-7d0c-4558-a3fe-ff7167738742",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9021038-d775-492e-a06c-9738619841b3/20261030T215438/c9021038-d775-492e-a06c-9738619841b3_750x422.jpg",
       "category": "crime"
     },
@@ -96,42 +129,9 @@
       "headline": "Illinois families save $11.4 million during back-to-school sales tax holiday",
       "summary": "The results outpaced the $10 million the state estimated consumers would save. It was the first such tax holiday in Illinois since 2022.",
       "url": "https://www.wqad.com/article/news/local/the-current/illinois-school-sales-tax-holiday-saves-11-point-4-million-dollars-pritzker/526-5d3b2f29-622f-4664-a766-ccfe35d0d79d",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0618e586-20f8-4b25-8ac2-ab2a0a4dd1e5/0618e586-20f8-4b25-8ac2-ab2a0a4dd1e5_750x422.jpeg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport receives petition for special election for Second Ward alderman",
-      "summary": "The City of Davenport has received a qualifying petition requesting a special election to fill the vacancy in the office of Second Ward alderman, according to a…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-receives-petition-for-special-election-for-second-ward-alderman/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/06/Davenport-City-Hall.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois medical debt relief program surpasses $1B goal in two years",
-      "summary": "Over $1.4 billion in medical debt has been erased for nearly 700,000 Illinoisans across all counties.",
-      "url": "https://www.wqad.com/article/news/state/illinois-medical-debt-relief-program-surpasses-goal-one-billion-two-years/526-d6817dbd-f8ff-4ad6-a685-42ca49a5db1c",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ca62f798-4969-4cc9-8283-27f14946ee6e/20261016T062416/ca62f798-4969-4cc9-8283-27f14946ee6e_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Resignation, hirings and transfers from Bettendorf School District for Oct. 21, 2026",
-      "summary": "The following personnel items are from the Oct. 21 agenda of the Bettendorf Community School District. The School Board met at the Administration Center in Bett…",
-      "url": "https://qctimes.com/news/local/education/article_665ca76d-083c-4f73-a71a-e00b27605021.html",
-      "time": "10 h ago",
-      "image": "",
-      "category": ""
     }
   ]
 }
