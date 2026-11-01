@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-01T14:47:45.338161+00:00",
+  "updated": "2026-11-01T20:17:25.276144+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "No injuries reported after multiple shots fired at victim at Rock Island convenience store",
+      "summary": "The Rock Island Police Department Criminal Investigations Division is investigating after multiple shots were fired at Cornerview convenience store Saturday eve…",
+      "url": "https://www.wqad.com/article/news/crime/no-injuries-reported-after-multiple-shots-fired-at-victim-at-rock-island-convenience-store/526-6ab18961-2a63-4551-a09d-75bbfacec138",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b9269dab-242d-4333-a45e-ce7b87fd858b/20261101T173521/b9269dab-242d-4333-a45e-ce7b87fd858b_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "Hawkeyes shut out Wisconsin",
       "summary": "Hank Brown threw for 222 yards and two touchdowns, and Iowa's defense shut out No. 25 Wisconsin for the second consecutive year in a 30-0 win Saturday. It was t…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-shut-out-wisconsin/",
-      "time": "18 h ago",
+      "time": "23 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26304644474028.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -19,7 +30,7 @@
       "headline": "Suspicious fire under investigation in downtown Davenport",
       "summary": "A vacant building on Gaines Street in Davenport was damaged in a suspicious fire Saturday morning.",
       "url": "https://www.wqad.com/article/news/local/suspicious-fire-under-investigation-in-davenport/526-162ff42a-c80a-4cc5-9a1f-5bce384ef188",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d7b38428-f079-4082-8bd1-d6784b6aa93f/20261031T191814/d7b38428-f079-4082-8bd1-d6784b6aa93f_750x422.jpg",
       "category": "local"
     },
@@ -121,17 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9021038-d775-492e-a06c-9738619841b3/20261030T215438/c9021038-d775-492e-a06c-9738619841b3_750x422.jpg",
       "category": "crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Illinois families save $11.4 million during back-to-school sales tax holiday",
-      "summary": "The results outpaced the $10 million the state estimated consumers would save. It was the first such tax holiday in Illinois since 2022.",
-      "url": "https://www.wqad.com/article/news/local/the-current/illinois-school-sales-tax-holiday-saves-11-point-4-million-dollars-pritzker/526-5d3b2f29-622f-4664-a766-ccfe35d0d79d",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0618e586-20f8-4b25-8ac2-ab2a0a4dd1e5/0618e586-20f8-4b25-8ac2-ab2a0a4dd1e5_750x422.jpeg",
-      "category": "the-current"
     }
   ]
 }
