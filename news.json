@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-01T20:17:25.276144+00:00",
+  "updated": "2026-11-02T04:52:54.608218+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois bill could help independent grocery stores and pharmacies",
+      "summary": "A new bill in Illinois could send financial help to pharmacies and grocery stores. House Bill 5828 creates the EDGE Essentials for Pharmacies and Grocery Stores…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-bill-could-help-independent-grocery-stores-and-pharmacies/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_030f7c.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "October 2026 was the 8th warmest ever in the Quad Cities",
+      "summary": "With 26 of 31 days seeing above average high temperatures in the Quad cities, it's not a big shock that this was one of the warmest Octobers we've ever had. Off…",
+      "url": "https://www.ourquadcities.com/news/local-news/october-2026-was-the-8th-warmest-ever-in-the-quad-cities/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Month-Review-October-2026.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island convenience store closes temporarily after gunfire",
+      "summary": "A Rock Island convenience store was closed temporarily after gunfire Saturday, Oct. 31, according to the Rock Island Police Department. Shortly after 2:45 p.m.,…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-convenience-store-closed-temporarily-after-gunfire/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/gunfire-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quad-City, Illinois nuclear plants receive federal funding to bolster the grid",
+      "summary": "The U.S. Department of Energy announced $5 billion in federal grants to modernize eight nuclear power plants, with the majority of the funding designated for si…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-city-illinois-nuclear-plants-receive-federal-funding-to-bolster-the-grid/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP21244567148012.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "No injuries reported after multiple shots fired at victim at Rock Island convenience store",
       "summary": "The Rock Island Police Department Criminal Investigations Division is investigating after multiple shots were fired at Cornerview convenience store Saturday eve…",
       "url": "https://www.wqad.com/article/news/crime/no-injuries-reported-after-multiple-shots-fired-at-victim-at-rock-island-convenience-store/526-6ab18961-2a63-4551-a09d-75bbfacec138",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b9269dab-242d-4333-a45e-ce7b87fd858b/20261101T173521/b9269dab-242d-4333-a45e-ce7b87fd858b_750x422.jpg",
       "category": "crime"
     },
@@ -19,7 +63,7 @@
       "headline": "Hawkeyes shut out Wisconsin",
       "summary": "Hank Brown threw for 222 yards and two touchdowns, and Iowa's defense shut out No. 25 Wisconsin for the second consecutive year in a 30-0 win Saturday. It was t…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-shut-out-wisconsin/",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26304644474028.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -46,48 +90,15 @@
       "category": "Local News"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Witches Night Out brings spooky soirée to Moline",
-      "summary": "Halloween spirit took over downtown Moline, and you almost needed a scorecard to keep track of which witch was which. Our Quad Cities News photojournalist Mike …",
-      "url": "https://www.ourquadcities.com/news/local-news/witches-night-out-brings-spooky-soiree-to-moline/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Witches-Night-Out.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Sandburg will recognize community leader, Korean War vet, at Veterans Day event",
-      "summary": "Sandburg will recognize a longtime community leader as part of a Veterans Day event. A Veterans Day tribute to Lomac Payton will take place at 6 p.m. Nov. 11 in…",
-      "url": "https://www.ourquadcities.com/news/local-news/sandburg-will-recognize-community-leader-korean-war-vet-at-veterans-day-event/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/11/GettyImages-1188704306.jpg?w=900",
-      "category": "Local News"
-    },
-    {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
       "headline": "East Moline haunted maze scaring up donations for people in need",
       "summary": "Greg's Landscaping and Much More has collected more than 1,700 pounds of non-perishable food for Christian Care and the River Bend Food Bank.",
       "url": "https://www.wqad.com/article/life/holidays/east-moline-haunted-maze-scaring-up-food-donations/526-1c9f3727-686d-4fc3-985d-26c531a3a41c",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/be7aeb50-5dd8-46b3-8422-d6034e9eb69e/20261031T024353/be7aeb50-5dd8-46b3-8422-d6034e9eb69e_750x422.jpg",
       "category": "holidays"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Our QC Crime Watch: Domestic violence and the justice system: Episode 87",
-      "summary": "This week's crime watch features an interview with domestic-violence expert Nana Knight. Linda Cook and Sharon Wren interview Knight, an attorney and author, ab…",
-      "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-domestic-violence-and-the-justice-system-episode-87/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Nana-Knight.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,7 +107,7 @@
       "headline": "John Deere hiring 400 workers, recalling 275 more at Iowa, Midwest facilities",
       "summary": "With the latest recalls, all employees previously laid off in the Quad Cities, Waterloo, Ottumwa and Dubuque have been asked to return to work, Deere said.",
       "url": "https://www.wqad.com/article/money/business/john-deere/john-deere-recall-iowa-illinois-facilities-hiring-400/526-a49486ea-29df-4bb3-b180-5f7b37d2d080",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fc702ca5-431d-419d-9a85-9a4e75c011f8/20261030T154819/fc702ca5-431d-419d-9a85-9a4e75c011f8_750x422.jpg",
       "category": "john-deere"
     },
@@ -107,7 +118,7 @@
       "headline": "Tourism brings $1.35 billion to Quad Cities economy despite decline in visits",
       "summary": "The latest figures from Visit Quad Cities show that in FY 2026, 5.7 million visitors came to the region, resulting in $53 million in direct economic impact.",
       "url": "https://www.wqad.com/article/news/local/the-current/tourism-visit-quad-cities-destination-qc-findings-5-point-7-million-visitors-million-billion-economic-impact-region/526-25ff79f5-f4f8-4ab9-91f4-64dab29e031e",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c64ad706-7c07-44a6-ac66-4594cb5d5b99/20260709T194019/c64ad706-7c07-44a6-ac66-4594cb5d5b99_750x422.jpg",
       "category": "the-current"
     },
@@ -118,20 +129,9 @@
       "headline": "Davenport holding special election for 2nd Ward council seat",
       "summary": "City Council appointed Bob Inghram to serve as 2nd Ward alderman. However, the city has received a qualifying petition requesting a special election.",
       "url": "https://www.wqad.com/article/news/politics/elections/davenport-2nd-ward-council-seat-special-election/526-86834e36-e5cf-4fc8-b90b-6f2488aeee06",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3208cf6e-51e4-41fa-86f6-570f64bf14ad/20261030T215733/3208cf6e-51e4-41fa-86f6-570f64bf14ad_750x422.jpg",
       "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 sentenced in southern Illinois massage prostitution ring",
-      "summary": "The defendants each received 24-month sentences for their role in operating illicit massage businesses in southern Illinois and Indiana.",
-      "url": "https://www.wqad.com/article/news/crime/2-sentenced-southern-illinois-massage-prostitution-ring-capitol-news/526-2186ce9c-7d0c-4558-a3fe-ff7167738742",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c9021038-d775-492e-a06c-9738619841b3/20261030T215438/c9021038-d775-492e-a06c-9738619841b3_750x422.jpg",
-      "category": "crime"
     }
   ]
 }
