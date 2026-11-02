@@ -1,71 +1,38 @@
 {
-  "updated": "2026-11-02T13:55:59.751865+00:00",
+  "updated": "2026-11-02T17:55:32.732883+00:00",
   "items": [
     {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline's 'Letters from Santa' program returns",
+      "summary": "Santa is eager to hear from children, and Moline Parks and Recreation is helping get those letters delivered to the North Pole!",
+      "url": "https://www.wqad.com/article/life/holidays/molines-letters-from-santa-program/526-fc29c16d-5c0e-48fc-a30b-90a06955528e",
+      "time": "8 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e8beaad7-07e7-4471-a328-ca321289ff0a/20261102T172551/e8beaad7-07e7-4471-a328-ca321289ff0a_750x422.jpg",
+      "category": "holidays"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Rock Island County Sheriff candidates address pressing issues before Election Day",
+      "summary": "Both Democrat candidate Marcus Herbert and Republican candidate Jamie Shoemaker spoke on homelessness and Flock cameras in the Quad Cities.",
+      "url": "https://www.wqad.com/article/news/politics/elections/rock-island-county-sheriff-candidates-address-pressing-issues-before-election-day/526-bccaf7d0-6844-4200-b04c-0c88a5b10b98",
+      "time": "26 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/56592ace-1630-4fc8-81a5-e80b06e3d52d/20261102T042229/56592ace-1630-4fc8-81a5-e80b06e3d52d_750x422.jpg",
+      "category": "elections"
+    },
+    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Quad-City, Illinois nuclear plants receive federal funding to bolster the grid",
-      "summary": "The U.S. Department of Energy announced $5 billion in federal grants to modernize eight nuclear power plants, with the majority of the funding designated for si…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-city-illinois-nuclear-plants-receive-federal-funding-to-bolster-the-grid/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP21244567148012.jpg?w=900",
+      "headline": "Drop off letters to Santa at Moline City Services Center",
+      "summary": "Kids in the Quad Cities can drop off letters to Santa in downtown Moline this month – and Santa will reply! Moline Parks and Recreation have made arrangements w…",
+      "url": "https://www.ourquadcities.com/news/local-news/drop-off-letters-to-santa-at-moline-city-services-center/",
+      "time": "58 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/1040x585-2021-1118-best-santa-claus-letter-dd8e6a.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Lead(h)er announces Girl on Fire award winners, WeAreQuadCities.com relaunches and more Quad-Cities economic news",
-      "summary": "Lead(h)er announces annual Girl on Fire award winners, WeAreQuadCities.com relaunches and more Quad-Cities economic news.",
-      "url": "https://qctimes.com/article_7f471ec9-7f78-4d74-ac38-aacd0357d739.html",
-      "time": "55 min ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/8/7c/87cfeb01-0ce7-4a97-b803-f914554b7ad7/6ae0eef926e13.image.jpg?resize=300%2C293",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island convenience store closes temporarily after gunfire",
-      "summary": "A Rock Island convenience store was closed temporarily after gunfire Saturday, Oct. 31, according to the Rock Island Police Department. Shortly after 2:45 p.m.,…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-convenience-store-closed-temporarily-after-gunfire/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/gunfire-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Fine dining restaurant closes, new coffee shops, Rudy's Tacos closes in Rock Island, and more Quad-Cities business news",
-      "summary": "Read about Brews Energy, a fine-dining restaurant closing, 7 Brews franchise coming to Silvis, Rudy's Tacos in Rock Island closure, and more.",
-      "url": "https://qctimes.com/exclusive/insight/article_6d9738d7-c0a5-4046-a830-bedab6100222.html",
-      "time": "1 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/08/008410dc-0c32-4d7a-bfcf-308b600eea2e/682220b0de501.image.jpg",
-      "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hawkeyes shut out Wisconsin",
-      "summary": "Hank Brown threw for 222 yards and two touchdowns, and Iowa's defense shut out No. 25 Wisconsin for the second consecutive year in a 30-0 win Saturday. It was t…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-shut-out-wisconsin/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/AP26304644474028.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Deere to hire 400 workers, call back 275 to Waterloo",
-      "summary": "JOHN DEERE",
-      "url": "https://qctimes.com/article_5790f52d-c0c0-52a8-bc40-14ae3c794af7.html",
-      "time": "5 h ago",
-      "image": "",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -74,20 +41,9 @@
       "headline": "Guest violinist will join Clinton Symphony Orchestra in concert",
       "summary": "Violinist Andrew Sords will be the guest artist with Clinton Symphony Orchestra on Saturday, Nov. 7, to perform the Violin Concerto by Johannes Brahms. Sords an…",
       "url": "https://www.ourquadcities.com/news/local-news/guest-violinist-will-join-clinton-symphony-orchestra-in-concert/",
-      "time": "6 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/03/GettyImages-1199875901-e1743101868304.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "High school sports: Quad-Cities standings, scores and schedules",
-      "summary": "Updated Quad-Cities area high school football, volleyball, and soccer standings, scores and schedules.",
-      "url": "https://qctimes.com/sports/high-school/article_d1f303ad-9b89-4736-9cf1-8924e24b1273.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/0/91/091f13f1-9413-40e7-a95c-4c9d7e3803c3/6aa9f7573f9d5.image.jpg?resize=300%2C288",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -96,42 +52,64 @@
       "headline": "Illinois bill could help independent grocery stores and pharmacies",
       "summary": "A new bill in Illinois could send financial help to pharmacies and grocery stores. House Bill 5828 creates the EDGE Essentials for Pharmacies and Grocery Stores…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-bill-could-help-independent-grocery-stores-and-pharmacies/",
-      "time": "10 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_030f7c.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Milestones Area Agency on Aging to host Quad Cities Caregiver Conference Nov. 14",
-      "summary": "Quad Cities Caregiver Conference event is designed to provide support and information to meet the diverse needs of area caregivers.",
-      "url": "https://qctimes.com/life-entertainment/local/events/article_3ade2721-6a9c-49b9-9c1b-77597f1f42ce.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/d3/3d30f804-261f-5305-98a7-2d9d34993a31/647a59426414a.image.jpg?resize=300%2C160",
-      "category": ""
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "October 2026 was the 8th warmest ever in the Quad Cities",
-      "summary": "With 26 of 31 days seeing above average high temperatures in the Quad cities, it's not a big shock that this was one of the warmest Octobers we've ever had. Off…",
-      "url": "https://www.ourquadcities.com/news/local-news/october-2026-was-the-8th-warmest-ever-in-the-quad-cities/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Month-Review-October-2026.png?w=900",
+      "headline": "Rock Island convenience store closes temporarily after gunfire",
+      "summary": "UPDATE: The Corner View Mart in Rock Island was back open Monday morning. EARLIER UPDATE: A Rock Island convenience store was closed temporarily after gunfire S…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-convenience-store-closed-temporarily-after-gunfire/",
+      "time": "19 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Screenshot-2026-11-02-092906.png?w=900",
       "category": "Local News"
     },
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Everyday People: Bettendorf icon pleads for people to hit the polls Tuesday",
-      "summary": "Karen Habenicht’s yard has a lot of signs, but she really has one message: Go vote.",
-      "url": "https://qctimes.com/life-entertainment/article_cfd5d43d-65ab-441f-9eb8-7f5de2c08210.html",
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quad-City, Illinois nuclear plants receive federal funding to bolster the grid",
+      "summary": "The U.S. Department of Energy announced $5 billion in federal grants to modernize eight nuclear power plants, with the majority of the funding designated for si…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-city-illinois-nuclear-plants-receive-federal-funding-to-bolster-the-grid/",
+      "time": "20 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP21244567148012.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "No injuries reported after multiple shots fired at victim at Rock Island convenience store",
+      "summary": "The Rock Island Police Department Criminal Investigations Division is investigating after multiple shots were fired at Cornerview convenience store Saturday eve…",
+      "url": "https://www.wqad.com/article/news/crime/no-injuries-reported-after-multiple-shots-fired-at-victim-at-rock-island-convenience-store/526-6ab18961-2a63-4551-a09d-75bbfacec138",
       "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/a5/6a598d32-f96c-4fd3-b6c4-8f42a18738a2/6ae36ae65a70d.image.jpg?resize=300%2C225",
-      "category": ""
+      "image": "https://media.tegna-media.com/assets/WQAD/images/b9269dab-242d-4333-a45e-ce7b87fd858b/20261101T173521/b9269dab-242d-4333-a45e-ce7b87fd858b_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC transit agencies offer free rides on Election Day",
+      "summary": "Residents who use transit agencies for transportation can ride to the polls for free on Election Day. Metro, Davenport CitiBus and Bettendorf Transit announced …",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-transit-agencies-offer-free-rides-on-election-day/",
+      "time": "4d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/AP20060495849330-e1730901649498.jpg?w=800",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "MuscaBus offers free polling place rides on Election Day",
+      "summary": "Muscatine wants to ensure residents can get to their polling locations on Election Day. The City of Muscatine Transit Division (MuscaBus) is offering free rides…",
+      "url": "https://www.ourquadcities.com/news/local-news/muscabus-offers-free-polling-place-rides-on-election-day/",
+      "time": "4d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/voting_va_091826gn02_w.jpg?w=900",
+      "category": "Local News"
     }
   ]
 }
