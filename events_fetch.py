@@ -237,6 +237,15 @@ def load_existing_vqc(quiet=False):
     except Exception:
         return []
 
+def load_manual():
+    """Events added by hand (approved site submissions), kept in manual_events.json so each fetch keeps them until they pass."""
+    try:
+        data = json.loads((Path(__file__).parent / "manual_events.json").read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"  No manual events: {e}")
+        return []
+    return [e for e in data if is_future(e.get("end") or e.get("start", ""))]
+
 def main():
     all_events, seen = [], set()
 
@@ -264,6 +273,11 @@ def main():
     for e in eb:
         if e["id"] not in seen: all_events.append(e); seen.add(e["id"]); added += 1
     print(f"  {added} events from eventbrite.com")
+
+    manual = load_manual()
+    for e in manual:
+        if e["id"] not in seen: all_events.append(e); seen.add(e["id"])
+    print(f"  {len(manual)} manual events")
 
     all_events.sort(key=lambda e: e["start"])
     print(f"  Total: {len(all_events)} combined.")
