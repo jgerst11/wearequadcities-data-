@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-03T02:02:21.513421+00:00",
+  "updated": "2026-11-03T10:45:06.371762+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Can you take a ballot selfie in Iowa or Illinois? What to know",
+      "summary": "Not every state supports taking a photo with your ballot.",
+      "url": "https://www.ourquadcities.com/your-local-election-headquarters/can-you-take-a-ballot-selfie-in-iowa-or-illinois-what-to-know/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/voting-GENERIC-voting-election-1.jpg?w=900",
+      "category": "Your Local Election Headquarters"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline's 'Letters from Santa' program returns",
+      "summary": "Santa is eager to hear from children, and Moline Parks and Recreation is helping get those letters delivered to the North Pole!",
+      "url": "https://www.wqad.com/article/life/holidays/molines-letters-from-santa-program/526-fc29c16d-5c0e-48fc-a30b-90a06955528e",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e8beaad7-07e7-4471-a328-ca321289ff0a/20261102T172551/e8beaad7-07e7-4471-a328-ca321289ff0a_750x422.jpg",
+      "category": "holidays"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "18-year-old arrested after Moline police recover gun at Halloween party",
+      "summary": "Police said more than 100 teens were at a party in the 1500 block of 19th Avenue on Saturday night when they received reports of a person with a gun.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/18-year-old-arrested-after-moline-police-recover-gun-at-halloween-party/526-66cef64f-8872-488c-99fa-1fffde04f1e5",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c3c614f2-819f-483f-95ee-2991d62801a0/20261102T212238/c3c614f2-819f-483f-95ee-2991d62801a0_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Candidates make their final pitches to voters in the Quad Cities ahead of Election Day",
+      "summary": "Rep. Ashley Hinson and Gov. JB Pritzker were among the candidates who stopped on both sides of the Mississippi River.",
+      "url": "https://www.wqad.com/article/news/politics/iowa-politics/candidates-final-pitches-voters-quad-cities-ahead-election-day/526-17adfeb4-bd65-418d-870a-f76886ef7252",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e2291aff-f9d9-419f-98d1-7228809c93cd/20261103T025833/e2291aff-f9d9-419f-98d1-7228809c93cd_750x422.jpg",
+      "category": "iowa-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Don’t get stuck in the snow this winter. Win a snowblower with WQAD and Premier Jewelry & Loan",
+      "summary": "Watch the Winter Weather Impact special on the 8+ app, get the code word and register to win!",
+      "url": "https://www.wqad.com/article/news/local/contests/dont-get-stuck-in-the-snow-this-winter-win-a-snowblower-with-wqad-and-premier-jewelry-loan/526-c7d8c429-cdcd-46c5-b9fa-b587d739beee",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c98fc622-7b76-46be-86b6-5dbf30b98c94/20261102T214740/c98fc622-7b76-46be-86b6-5dbf30b98c94_750x422.jpg",
+      "category": "contests"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes win 27th consecutive opener",
+      "summary": "Dani Carnegie scored 21 points as No. 10 Iowa pulled away in the second half to beat Towson 73-45 on Monday night in the season opener. Chazadi \"Chit-Chat\" Wrig…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-win-27th-consecutive-opener/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/GettyImages-2302830031.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Gov JB Pritzker, other Democratic candidates make final campaign stop in Rock Island",
+      "summary": "Several Democratic candidates gathered Monday at Roosters Sports Bar and Grill in one of their last stops before election day. Gov. JB Pritzker, who is running …",
+      "url": "https://www.ourquadcities.com/news/local-news/gov-jb-pritzker-other-democratic-candidates-make-final-campaign-stop-in-rock-island/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/pritzker.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "State of Iowa seeking nonprofits to disburse K-12 scholarships funded by federal tax credit",
       "summary": "The Education Freedom Tax Credit program allows taxpayers to claim a credit for contributing to student scholarships.",
       "url": "https://www.wqad.com/article/news/education/federal-education-freedom-tax-credit-iowa-k12-scholarships-nonprofit-application/524-056842f4-d099-499d-8209-358fea61c62f",
-      "time": "16 min ago",
+      "time": "8 h ago",
       "image": "https://media.tegna-media.com/assets/WGRZ/images/906cd52c-4a6f-4f5f-a716-8dfa7714e249/906cd52c-4a6f-4f5f-a716-8dfa7714e249_750x422.jpeg",
       "category": "education"
     },
@@ -19,7 +96,7 @@
       "headline": "Emergency winter shelter set to open in Moline this December",
       "summary": "The shelter will be located at 3906 25th St., the former location of Winnie's Place. Officials said it can accommodate at least 30 people.",
       "url": "https://www.wqad.com/article/news/community/emergency-winter-shelter-illinois-quad-cities-opening-december-moline/526-90cd8174-069a-4ca0-a102-ff404817e4e2",
-      "time": "27 min ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a9539e57-930e-47d9-a3ed-edbec36b9148/20261103T010125/a9539e57-930e-47d9-a3ed-edbec36b9148_750x422.jpg",
       "category": "community"
     },
@@ -30,7 +107,7 @@
       "headline": "What to know about the judges on Iowa ballots",
       "summary": "Three Court of Appeals judges will appear on all Iowans' ballots on Nov. 3. 84 trial judges are also standing for retention.",
       "url": "https://www.wqad.com/article/news/politics/elections/what-to-know-judges-judicial-ielection-iowa-midterms-ballot/524-aae066c5-2ba3-46e8-93c2-e23a77050326",
-      "time": "32 min ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/KTVB/images/272387080/272387080_750x422.jpg",
       "category": "elections"
     },
@@ -41,7 +118,7 @@
       "headline": "Ice painted with names of current and former military members ahead of Quad City Storm game",
       "summary": "Saturday's game is Salute to Military Night. Community members painted the names of those who currently serve or have served in the U.S. Armed Forces.",
       "url": "https://www.wqad.com/article/news/community/quad-city-storm-salute-to-military-night-evansville-thunderbolts-ice-painting-held/526-dae01eee-3ab2-4283-a770-7ce258acc93d",
-      "time": "1 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/d36fbb43-1b3d-410e-a211-9c4e2ba3512f/20261102T233146/d36fbb43-1b3d-410e-a211-9c4e2ba3512f_750x422.jpg",
       "category": "community"
     },
@@ -52,86 +129,9 @@
       "headline": "Dixon, Illinois police asking for help locating suspect in home invasion",
       "summary": "38-year-old Coty McCluskey is charged with home invasion, aggravated domestic battery and domestic battery stemming from an incident on Saturday night.",
       "url": "https://www.wqad.com/article/news/local/public-safety/dixon-illinois-police-asking-help-locating-suspect-home-invasion/526-122930dd-b640-41a7-bfa5-4eafbdc8f940",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c125ca2e-ccc8-403b-879e-978f8a7e2095/20261102T225903/c125ca2e-ccc8-403b-879e-978f8a7e2095_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa early voting surges 37% amid long lines and party efforts to sway independents",
-      "summary": "Early voting in Iowa has seen a 37% surge compared to four years ago, with more than 374,000 ballots already cast.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-early-voting-surges-long-lines-party-efforts-sway-independents/524-8ef620a9-af83-48fe-acf2-a381822ffeb5",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c30591c7-aa83-4558-b62d-fbefa487f8f0/20261015T165649/c30591c7-aa83-4558-b62d-fbefa487f8f0_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Federal court issues preliminary injunction in Satanic Temple Iowa lawsuit",
-      "summary": "The injunction will allow TST Iowa to host its planned holiday event at the state capitol in December.",
-      "url": "https://www.wqad.com/article/news/state/satanic-temple-iowa-lawsuit-preliminary-injunction-holiday-event/524-583ecffd-50d6-433b-8197-6617ba49c8a7",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ed4d0204-5731-498a-ad1e-c79e1665b25d/20261102T181737/ed4d0204-5731-498a-ad1e-c79e1665b25d_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "8 Iowa hospitals receive funding for opioid alternative program from attorney general's office",
-      "summary": "The Billion Pill Pledge supports community hospitals in best practice surgical protocols and educates providers on non-opiate pain management options.",
-      "url": "https://www.wqad.com/article/news/health/billion-pill-pledge-grant-funding-iowa-hospital-opioid-pain-management/524-4c60836f-92c8-48a1-a5cd-c0d0ec2f16b9",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/bfc89dec-3938-4f78-9f0d-e63dcf3c1be9/20260508T030716/bfc89dec-3938-4f78-9f0d-e63dcf3c1be9_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Republican Zach Lahn and Democrat Rob Sand clash in hopes of securing open Iowa governor's seat",
-      "summary": "The 2026 midterm election presents the first Iowa gubernatorial race since 2018 without Gov. Kim Reynolds as the incumbent.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-governors-race-rob-sand-zach-lahn-election-results/524-8a64e15c-a792-495b-9ec6-2c6d38470389",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a62da491-1b73-40d3-95e2-c080ef5adf9a/20261031T014049/a62da491-1b73-40d3-95e2-c080ef5adf9a_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "18-year-old arrested after Moline police recover gun at Halloween party",
-      "summary": "Police said more than 100 teens were at a party in the 1500 block of 19th Avenue on Saturday night when they received reports of a person with a gun.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/18-year-old-arrested-after-moline-police-recover-gun-at-halloween-party/526-66cef64f-8872-488c-99fa-1fffde04f1e5",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c3c614f2-819f-483f-95ee-2991d62801a0/20261102T212238/c3c614f2-819f-483f-95ee-2991d62801a0_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "On economic development, Pritzker, Bailey are miles apart",
-      "summary": "Gov. Pritzker touts progress, but Illinois still lags the nation in key economic metrics. Bailey sees lower taxes as the key.",
-      "url": "https://www.wqad.com/article/news/politics/elections/on-economic-development-pritzker-bailey-are-miles-apart/526-394a7f78-b5a9-4d6c-b1f9-333434227a64",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fb63480f-7b37-4fdc-8343-829e30d24f77/20261102T183622/fb63480f-7b37-4fdc-8343-829e30d24f77_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island County sheriff candidates address pressing issues before Election Day",
-      "summary": "Both Democrat candidate Marcus Herbert and Republican candidate Jamie Shoemaker spoke on homelessness and Flock cameras in the Quad Cities.",
-      "url": "https://www.wqad.com/article/news/politics/elections/rock-island-county-sheriff-candidates-address-pressing-issues-before-election-day/526-bccaf7d0-6844-4200-b04c-0c88a5b10b98",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a56b40f7-5e94-4bb1-8fc4-76ab2a14a2ba/20261102T185253/a56b40f7-5e94-4bb1-8fc4-76ab2a14a2ba_750x422.jpg",
-      "category": "elections"
     }
   ]
 }
