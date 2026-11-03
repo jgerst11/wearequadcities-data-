@@ -1,16 +1,71 @@
 {
-  "updated": "2026-11-03T11:41:04.852251+00:00",
+  "updated": "2026-11-03T19:15:57.538981+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "MetroLINK offering free bus rides on Election Day to help voters get to the polls",
+      "summary": "MetroLINK, Davenport CitiBus and Bettendorf transit are all offering free rides during Election Day with no verification needed.",
+      "url": "https://www.wqad.com/article/news/politics/elections/metrolink-offering-free-bus-rides-on-election-day-to-help-voters-get-to-the-polls/526-875aa926-7bbb-48a7-b5a4-10a69dad929e",
+      "time": "18 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/0d80fe5c-81ac-4550-9119-afd930efcd60/20261103T171832/0d80fe5c-81ac-4550-9119-afd930efcd60_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "When do polls close in Iowa?",
+      "summary": "If there is a line at your polling place, you are eligible to vote if you are in the line before the polls close.",
+      "url": "https://www.wqad.com/article/news/politics/elections/iowa-when-do-polls-close-on-election-day-what-time/524-83fe5ec0-f1f2-4d1c-9a02-78c464b9ef4c",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WFAA/images/805447d6-3869-4d2b-a485-e86e401b6a9a/20261013T221447/805447d6-3869-4d2b-a485-e86e401b6a9a_750x422.jpg",
+      "category": "elections"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Can you take a ballot selfie in Iowa or Illinois? What to know",
-      "summary": "Not every state supports taking a photo with your ballot.",
-      "url": "https://www.ourquadcities.com/your-local-election-headquarters/can-you-take-a-ballot-selfie-in-iowa-or-illinois-what-to-know/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/10/voting-GENERIC-voting-election-1.jpg?w=900",
-      "category": "Your Local Election Headquarters"
+      "headline": "Lighting on the Commons kicks off holidays in Moline",
+      "summary": "Downtown Moline officially lights up for the holidays with Lighting on the Commons on Saturday, November 21 from 3:30 – 6 p.m., returning to John Deere Commons …",
+      "url": "https://www.ourquadcities.com/news/local-news/lighting-on-the-commons-kicks-off-holidays-in-moline/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/11/lighting-on-the-commons-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "When to expect election results in Iowa",
+      "summary": "Tight races could push back the Associated Press’s election calls.",
+      "url": "https://www.wqad.com/article/news/politics/elections/election-results-iowa-when-will-races-be-called/524-f22c9694-a6d5-4ee8-bd1d-23057a4e6655",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/d4cdf0d1-0e55-460b-bd0b-cde536c354e0/20261006T215213/d4cdf0d1-0e55-460b-bd0b-cde536c354e0_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2026 midterm voting guide: What Iowans should know before heading to the polls",
+      "summary": "Election Day is Tuesday. Here's what to know about how to vote, what to bring with you and what to do with your absentee ballot.",
+      "url": "https://www.wqad.com/article/news/politics/elections/iowa-midterm-election-voter-guide-id-polls-absentee-ballot/524-a58b1515-94a5-4c0f-8560-0e960a1d6f3d",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d/20240917T170336/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d_750x422.jpg",
+      "category": "elections"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "When do polls close in Illinois?",
+      "summary": "Stay with WQAD News 8 all day for election coverage and tune in after the polls close for live results.",
+      "url": "https://www.wqad.com/article/news/politics/elections/2026-midterm-elections-illinois-when-do-polls-close/526-09434cb7-0600-444b-bc19-38360461462e",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WLTX/images/da1b876b-06d6-4db9-99a5-86a86e6e626f/20261020T161346/da1b876b-06d6-4db9-99a5-86a86e6e626f_750x422.jpg",
+      "category": "elections"
     },
     {
       "source": "WQAD",
@@ -19,7 +74,7 @@
       "headline": "Moline's 'Letters from Santa' program returns",
       "summary": "Santa is eager to hear from children, and Moline Parks and Recreation is helping get those letters delivered to the North Pole!",
       "url": "https://www.wqad.com/article/life/holidays/molines-letters-from-santa-program/526-fc29c16d-5c0e-48fc-a30b-90a06955528e",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e8beaad7-07e7-4471-a328-ca321289ff0a/20261102T172551/e8beaad7-07e7-4471-a328-ca321289ff0a_750x422.jpg",
       "category": "holidays"
     },
@@ -30,7 +85,7 @@
       "headline": "18-year-old arrested after Moline police recover gun at Halloween party",
       "summary": "Police said more than 100 teens were at a party in the 1500 block of 19th Avenue on Saturday night when they received reports of a person with a gun.",
       "url": "https://www.wqad.com/article/news/local/public-safety/18-year-old-arrested-after-moline-police-recover-gun-at-halloween-party/526-66cef64f-8872-488c-99fa-1fffde04f1e5",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c3c614f2-819f-483f-95ee-2991d62801a0/20261102T212238/c3c614f2-819f-483f-95ee-2991d62801a0_750x422.jpg",
       "category": "public-safety"
     },
@@ -41,7 +96,7 @@
       "headline": "Candidates make their final pitches to voters in the Quad Cities ahead of Election Day",
       "summary": "Rep. Ashley Hinson and Gov. JB Pritzker were among the candidates who stopped on both sides of the Mississippi River.",
       "url": "https://www.wqad.com/article/news/politics/iowa-politics/candidates-final-pitches-voters-quad-cities-ahead-election-day/526-17adfeb4-bd65-418d-870a-f76886ef7252",
-      "time": "7 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e2291aff-f9d9-419f-98d1-7228809c93cd/20261103T025833/e2291aff-f9d9-419f-98d1-7228809c93cd_750x422.jpg",
       "category": "iowa-politics"
     },
@@ -52,7 +107,7 @@
       "headline": "Don’t get stuck in the snow this winter. Win a snowblower with WQAD and Premier Jewelry & Loan",
       "summary": "Watch the Winter Weather Impact special on the 8+ app, get the code word and register to win!",
       "url": "https://www.wqad.com/article/news/local/contests/dont-get-stuck-in-the-snow-this-winter-win-a-snowblower-with-wqad-and-premier-jewelry-loan/526-c7d8c429-cdcd-46c5-b9fa-b587d739beee",
-      "time": "7 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c98fc622-7b76-46be-86b6-5dbf30b98c94/20261102T214740/c98fc622-7b76-46be-86b6-5dbf30b98c94_750x422.jpg",
       "category": "contests"
     },
@@ -63,20 +118,9 @@
       "headline": "Hawkeyes win 27th consecutive opener",
       "summary": "Dani Carnegie scored 21 points as No. 10 Iowa pulled away in the second half to beat Towson 73-45 on Monday night in the season opener. Chazadi \"Chit-Chat\" Wrig…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-win-27th-consecutive-opener/",
-      "time": "7 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/GettyImages-2302830031.jpg?w=900",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Gov JB Pritzker, other Democratic candidates make final campaign stop in Rock Island",
-      "summary": "Several Democratic candidates gathered Monday at Roosters Sports Bar and Grill in one of their last stops before election day. Gov. JB Pritzker, who is running …",
-      "url": "https://www.ourquadcities.com/news/local-news/gov-jb-pritzker-other-democratic-candidates-make-final-campaign-stop-in-rock-island/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/pritzker.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,53 +129,9 @@
       "headline": "State of Iowa seeking nonprofits to disburse K-12 scholarships funded by federal tax credit",
       "summary": "The Education Freedom Tax Credit program allows taxpayers to claim a credit for contributing to student scholarships.",
       "url": "https://www.wqad.com/article/news/education/federal-education-freedom-tax-credit-iowa-k12-scholarships-nonprofit-application/524-056842f4-d099-499d-8209-358fea61c62f",
-      "time": "9 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WGRZ/images/906cd52c-4a6f-4f5f-a716-8dfa7714e249/906cd52c-4a6f-4f5f-a716-8dfa7714e249_750x422.jpeg",
       "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Emergency winter shelter set to open in Moline this December",
-      "summary": "The shelter will be located at 3906 25th St., the former location of Winnie's Place. Officials said it can accommodate at least 30 people.",
-      "url": "https://www.wqad.com/article/news/community/emergency-winter-shelter-illinois-quad-cities-opening-december-moline/526-90cd8174-069a-4ca0-a102-ff404817e4e2",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/a9539e57-930e-47d9-a3ed-edbec36b9148/20261103T010125/a9539e57-930e-47d9-a3ed-edbec36b9148_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "What to know about the judges on Iowa ballots",
-      "summary": "Three Court of Appeals judges will appear on all Iowans' ballots on Nov. 3. 84 trial judges are also standing for retention.",
-      "url": "https://www.wqad.com/article/news/politics/elections/what-to-know-judges-judicial-ielection-iowa-midterms-ballot/524-aae066c5-2ba3-46e8-93c2-e23a77050326",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/KTVB/images/272387080/272387080_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Ice painted with names of current and former military members ahead of Quad City Storm game",
-      "summary": "Saturday's game is Salute to Military Night. Community members painted the names of those who currently serve or have served in the U.S. Armed Forces.",
-      "url": "https://www.wqad.com/article/news/community/quad-city-storm-salute-to-military-night-evansville-thunderbolts-ice-painting-held/526-dae01eee-3ab2-4283-a770-7ce258acc93d",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d36fbb43-1b3d-410e-a211-9c4e2ba3512f/20261102T233146/d36fbb43-1b3d-410e-a211-9c4e2ba3512f_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Dixon, Illinois police asking for help locating suspect in home invasion",
-      "summary": "38-year-old Coty McCluskey is charged with home invasion, aggravated domestic battery and domestic battery stemming from an incident on Saturday night.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/dixon-illinois-police-asking-help-locating-suspect-home-invasion/526-122930dd-b640-41a7-bfa5-4eafbdc8f940",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c125ca2e-ccc8-403b-879e-978f8a7e2095/20261102T225903/c125ca2e-ccc8-403b-879e-978f8a7e2095_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
