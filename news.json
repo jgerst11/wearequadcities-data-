@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-05T11:56:52.072741+00:00",
+  "updated": "2026-11-05T17:25:24.507751+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Sylvan Island cleanup, nature learning event planned for Nov. 7 in Moline",
+      "summary": "From 1 to 3 p.m., you're invited to join two local groups for an afternoon of cleaning, native planting and educational experiences with QCA experts.",
+      "url": "https://www.wqad.com/article/news/local/the-current/sylvan-island-cleanup-event-environmental-fem-scouts-clean-river-advisory-council/526-385e2974-224d-497f-8721-a1b94d7697dc",
+      "time": "8 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a48fbda7-8b55-41b9-947f-b592be5676cf/a48fbda7-8b55-41b9-947f-b592be5676cf_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa leaders react to shooting at Des Moines post office",
+      "summary": "Police said a shooter opened fire at the main Des Moines post office Thursday morning, injuring at least three people.",
+      "url": "https://www.wqad.com/article/news/iowa-leaders-politicians-react-shooting-des-moines-post-office/524-7a0d5dd7-7d26-42ef-8e1d-1923252903cc",
+      "time": "39 min ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/f5616921-8be8-407a-a06d-6434552bb905/20261105T170241/f5616921-8be8-407a-a06d-6434552bb905_750x422.jpg",
+      "category": "news"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "The Landing readies for season with new, returning events",
+      "summary": "The Landing Ice Rink, 2255 Middle Road in Bettendorf, is getting ready for its third season with special offerings, new events and a Zamboni naming contest. The…",
+      "url": "https://www.ourquadcities.com/news/local-news/the-landing-readies-for-season-with-new-returning-events/",
+      "time": "44 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/The-Landing-featured-image.png?w=464",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Don’t get stuck in the snow this winter. Win a snowblower with WQAD and Premier Jewelry & Loan",
+      "summary": "Watch the Winter Weather Impact special on the 8+ app, get the code word and register to win!",
+      "url": "https://www.wqad.com/article/news/local/contests/dont-get-stuck-in-the-snow-this-winter-win-a-snowblower-with-wqad-and-premier-jewelry-loan/526-c7d8c429-cdcd-46c5-b9fa-b587d739beee",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c98fc622-7b76-46be-86b6-5dbf30b98c94/20261102T214740/c98fc622-7b76-46be-86b6-5dbf30b98c94_750x422.jpg",
+      "category": "contests"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bronx Wanderers to bring music, comedy, to Adler Theatre",
+      "summary": "The Bronx Wanderers, a high-energy group featuring a father, his two sons, and their closest friends, will be in concert May 29, 2027, at The Adler Theatre, Dav…",
+      "url": "https://www.ourquadcities.com/news/local-news/bronx-wanderers-to-bring-music-comedy-to-adler-theatre/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_ae0d50.png?w=411",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Typical November weather",
+      "summary": "Cooler temperatures are expected for the next few days. After more showers today, it dries out across the Quad Cities Here's your complete 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/typical-november-weather/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-cooler-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Things to do in the Quad-Cities: Fall Harvest Festival, Fish Swap and more",
+      "summary": "Events this weekend include the Fall Harvest Festival at the Freight House Farmers’ Market, Downtown Muscatine’s Holiday Open House, the Quad City Fish Swap at …",
+      "url": "https://qctimes.com/life-entertainment/local/events/article_5dc63b63-bba5-4c70-b9cd-8a2de9eb2aa6.html",
+      "time": "5 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/c2/cc27cf36-f370-47be-a60f-6b93115487de/6ae8da866db89.image.png?resize=300%2C388",
+      "category": ""
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +85,7 @@
       "headline": "11-year-old hit by vehicle in Silvis",
       "summary": "Silvis Police Chief Gene Karzin said the child did not have any major injuries. It happened near George O. Barr Elementary School.",
       "url": "https://www.wqad.com/article/news/local/silvis-george-o-barr-elementary-school-crash-child-hit/526-c6a13483-1288-4e6f-9535-c2eb5bf24294",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a5c90e54-e558-4d08-98c7-4eaa897df65b/a5c90e54-e558-4d08-98c7-4eaa897df65b_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +96,7 @@
       "headline": "Moline house fire displaces resident, kills cat",
       "summary": "The fire broke out in the 2400 block of 45th Avenue on Wednesday afternoon.",
       "url": "https://www.wqad.com/article/news/local/public-safety/moline-house-fire-wednesday-afternoon-cat-killed/526-65ce4518-0878-4cd9-a5db-14400e433b8f",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bff1ba3a-c1ea-400b-8d21-21c157e6c83a/20261104T235057/bff1ba3a-c1ea-400b-8d21-21c157e6c83a_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,7 +107,7 @@
       "headline": "Scott County Auditor to hold administrative audits in 3 voting precincts",
       "summary": "Auditor Kerri Tompkins said voting machines at precincts D22, D54 and B53 had intermittent issues in getting a ballot reject code.",
       "url": "https://www.wqad.com/article/news/local/scott-county-audits-voting-precincts/526-057e774e-d753-4da0-bac3-a0805c5608cd",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8/20250922T132923/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8_750x422.jpg",
       "category": "local"
     },
@@ -41,19 +118,8 @@
       "headline": "Mississippi Drive closure remains in effect as engineers evaluate stabilization options",
       "summary": "Mississippi Drive will remain closed while the City of Muscatine continues to evaluate hillside failure along the bluff and determine the safest option to reope…",
       "url": "https://www.ourquadcities.com/news/local-news/mississippi-drive-closure-remains-in-effect-as-engineers-evaluate-stabilization-options/",
-      "time": "8 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Mississippi-Drive-Bluff-Slide-.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "City of Rock Island plans annual 'Snow Road-eo' training for snowplow drivers",
-      "summary": "The City’s Public Works Department holds a training every year to prepare snowplow drivers for navigating city roads during inclement weather. This year, the tr…",
-      "url": "https://www.ourquadcities.com/news/local-news/city-of-rock-island-plans-annual-snow-road-eo-training-for-snowplow-drivers/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/rock-island.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,75 +129,9 @@
       "headline": "Buyers gain breathing room as Quad Cities housing market shifts",
       "summary": "After several years of intense competition, the the team at Ruhl & Ruhl Realtors say our local market is starting to cool off to more 'normal' levels.",
       "url": "https://www.wqad.com/article/news/local/the-current/local-quad-cities-area-real-estate-market-shifts-changes-housing-availability-affordability-interest-rates-ruhl/526-aa6c3945-c6fd-4538-b0cd-cb462992ba21",
-      "time": "10 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ffdec1e4-d54f-4e03-88f0-a12a3eb22213/20250320T220816/ffdec1e4-d54f-4e03-88f0-a12a3eb22213_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA Sea Scouts enjoy canoe trip along Mississippi River to Towhead Island",
-      "summary": "Quad-City area Sea Scouts recently took a 13-mile canoe trip along the Mississippi River, camping overnight on Towhead Island while building outdoor skills, tea…",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-sea-scouts-enjoy-canoe-trip-along-mississippi-river-to-towhead-island/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sea-Scouts-.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Parents of individuals with disabilities invited to free learning series in Quad Cities",
-      "summary": "On Nov. 12 The Arc of the QCA is hosting its fall Parent Learning Series, diving into Medicaid changes, beneficiary designations and emotional regulation skills…",
-      "url": "https://www.wqad.com/article/news/local/the-current/parents-families-children-disabilities-free-speakers-presentation-fall-parent-learning-series-trivia-night-arc-quad-cities-area-sign-up-register/526-deb1216b-1457-4184-951f-012e7af2bfac",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cat dies in Moline house fire",
-      "summary": "A cat died in a house fire Wednesday afternoon, according to a news release from the Moline Fire Department. The fire started shortly before 4:15 p.m. to the st…",
-      "url": "https://www.ourquadcities.com/news/local-news/cat-dies-in-moline-house-fire/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Moline-fire-.jpg?w=785",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere planning to close 2 Iowa plants",
-      "summary": "Deere said it plans to close its factories in Ottumwa and Clarion.",
-      "url": "https://www.wqad.com/article/money/business/john-deere/john-deere-ottumwa-iowa-plant-closure-end-manufacturing-operations/526-a9479661-b744-4e11-8b46-ca9dcec6c7b4",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0e091339-b16e-445b-a7d1-f1af1719f91b/20251210T235531/0e091339-b16e-445b-a7d1-f1af1719f91b_750x422.jpg",
-      "category": "john-deere"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Juliana Stratton coasts to victory to become Illinois' newest U.S. senator",
-      "summary": "The race over Republican Don Tracy was called as soon as the polls closed.",
-      "url": "https://www.wqad.com/article/news/politics/elections/juliana-stratton-us-senate-illinois-midterm-election/526-c1467392-b617-41b5-8ea9-69ddfa2d347c",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ad600190-0593-44e7-a162-ac38004c76ac/20261104T040252/ad600190-0593-44e7-a162-ac38004c76ac_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-232/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Jeremiah-Daniels-Philip-Tate-Sr.-Crime-Stoppers-Mug-Shot.jpg?w=900",
-      "category": "Crime"
     }
   ]
 }
