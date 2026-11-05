@@ -1,17 +1,6 @@
 {
-  "updated": "2026-11-05T00:45:48.653654+00:00",
+  "updated": "2026-11-05T11:56:52.072741+00:00",
   "items": [
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cat dies in Moline house fire",
-      "summary": "A cat died in a house fire Wednesday afternoon, according to a news release from the Moline Fire Department. The fire started shortly before 4:15 p.m. to the st…",
-      "url": "https://www.ourquadcities.com/news/local-news/cat-dies-in-moline-house-fire/",
-      "time": "7 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Moline-fire-.jpg?w=785",
-      "category": "Local News"
-    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -19,20 +8,9 @@
       "headline": "11-year-old hit by vehicle in Silvis",
       "summary": "Silvis Police Chief Gene Karzin said the child did not have any major injuries. It happened near George O. Barr Elementary School.",
       "url": "https://www.wqad.com/article/news/local/silvis-george-o-barr-elementary-school-crash-child-hit/526-c6a13483-1288-4e6f-9535-c2eb5bf24294",
-      "time": "10 min ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a5c90e54-e558-4d08-98c7-4eaa897df65b/a5c90e54-e558-4d08-98c7-4eaa897df65b_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Six arrested in Kewanee on methamphetamine, other charges",
-      "summary": "Six people were arrested following in Kewanee following an investigation intomethamphetamine-related activity. According to a release from the Kewanee Police De…",
-      "url": "https://www.ourquadcities.com/news/local-news/six-arrested-in-kewanee-on-methamphetamine-other-charges/",
-      "time": "20 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Michael-Chayer-Kindra-Crane-Jason-Gaddis-mug-shot.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -41,9 +19,86 @@
       "headline": "Moline house fire displaces resident, kills cat",
       "summary": "The fire broke out in the 2400 block of 45th Avenue on Wednesday afternoon.",
       "url": "https://www.wqad.com/article/news/local/public-safety/moline-house-fire-wednesday-afternoon-cat-killed/526-65ce4518-0878-4cd9-a5db-14400e433b8f",
-      "time": "46 min ago",
+      "time": "7 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bff1ba3a-c1ea-400b-8d21-21c157e6c83a/20261104T235057/bff1ba3a-c1ea-400b-8d21-21c157e6c83a_750x422.jpg",
       "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Scott County Auditor to hold administrative audits in 3 voting precincts",
+      "summary": "Auditor Kerri Tompkins said voting machines at precincts D22, D54 and B53 had intermittent issues in getting a ballot reject code.",
+      "url": "https://www.wqad.com/article/news/local/scott-county-audits-voting-precincts/526-057e774e-d753-4da0-bac3-a0805c5608cd",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8/20250922T132923/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Mississippi Drive closure remains in effect as engineers evaluate stabilization options",
+      "summary": "Mississippi Drive will remain closed while the City of Muscatine continues to evaluate hillside failure along the bluff and determine the safest option to reope…",
+      "url": "https://www.ourquadcities.com/news/local-news/mississippi-drive-closure-remains-in-effect-as-engineers-evaluate-stabilization-options/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Mississippi-Drive-Bluff-Slide-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Rock Island plans annual 'Snow Road-eo' training for snowplow drivers",
+      "summary": "The City’s Public Works Department holds a training every year to prepare snowplow drivers for navigating city roads during inclement weather. This year, the tr…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-rock-island-plans-annual-snow-road-eo-training-for-snowplow-drivers/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/rock-island.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Buyers gain breathing room as Quad Cities housing market shifts",
+      "summary": "After several years of intense competition, the the team at Ruhl & Ruhl Realtors say our local market is starting to cool off to more 'normal' levels.",
+      "url": "https://www.wqad.com/article/news/local/the-current/local-quad-cities-area-real-estate-market-shifts-changes-housing-availability-affordability-interest-rates-ruhl/526-aa6c3945-c6fd-4538-b0cd-cb462992ba21",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ffdec1e4-d54f-4e03-88f0-a12a3eb22213/20250320T220816/ffdec1e4-d54f-4e03-88f0-a12a3eb22213_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA Sea Scouts enjoy canoe trip along Mississippi River to Towhead Island",
+      "summary": "Quad-City area Sea Scouts recently took a 13-mile canoe trip along the Mississippi River, camping overnight on Towhead Island while building outdoor skills, tea…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-sea-scouts-enjoy-canoe-trip-along-mississippi-river-to-towhead-island/",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sea-Scouts-.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Parents of individuals with disabilities invited to free learning series in Quad Cities",
+      "summary": "On Nov. 12 The Arc of the QCA is hosting its fall Parent Learning Series, diving into Medicaid changes, beneficiary designations and emotional regulation skills…",
+      "url": "https://www.wqad.com/article/news/local/the-current/parents-families-children-disabilities-free-speakers-presentation-fall-parent-learning-series-trivia-night-arc-quad-cities-area-sign-up-register/526-deb1216b-1457-4184-951f-012e7af2bfac",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cat dies in Moline house fire",
+      "summary": "A cat died in a house fire Wednesday afternoon, according to a news release from the Moline Fire Department. The fire started shortly before 4:15 p.m. to the st…",
+      "url": "https://www.ourquadcities.com/news/local-news/cat-dies-in-moline-house-fire/",
+      "time": "11 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Moline-fire-.jpg?w=785",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -52,7 +107,7 @@
       "headline": "John Deere planning to close 2 Iowa plants",
       "summary": "Deere said it plans to close its factories in Ottumwa and Clarion.",
       "url": "https://www.wqad.com/article/money/business/john-deere/john-deere-ottumwa-iowa-plant-closure-end-manufacturing-operations/526-a9479661-b744-4e11-8b46-ca9dcec6c7b4",
-      "time": "56 min ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0e091339-b16e-445b-a7d1-f1af1719f91b/20251210T235531/0e091339-b16e-445b-a7d1-f1af1719f91b_750x422.jpg",
       "category": "john-deere"
     },
@@ -63,7 +118,7 @@
       "headline": "Juliana Stratton coasts to victory to become Illinois' newest U.S. senator",
       "summary": "The race over Republican Don Tracy was called as soon as the polls closed.",
       "url": "https://www.wqad.com/article/news/politics/elections/juliana-stratton-us-senate-illinois-midterm-election/526-c1467392-b617-41b5-8ea9-69ddfa2d347c",
-      "time": "1 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ad600190-0593-44e7-a162-ac38004c76ac/20261104T040252/ad600190-0593-44e7-a162-ac38004c76ac_750x422.jpg",
       "category": "elections"
     },
@@ -74,64 +129,9 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-232/",
-      "time": "1 h ago",
-      "image": "",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Jeremiah-Daniels-Philip-Tate-Sr.-Crime-Stoppers-Mug-Shot.jpg?w=900",
       "category": "Crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "On 1st day since winning 3rd term as Illinois governor, Pritzker releases 200-point national agenda",
-      "summary": "The governor declined to give any timeline for considering a run for the presidency.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/on-1st-day-since-winning-3rd-term-pritzker-releases-national-agenda-capitol-news-illinois/526-0e928fd6-6060-4771-977b-422335fdd7a3",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c3b98568-7974-40af-acdd-844acdc87403/20261104T223229/c3b98568-7974-40af-acdd-844acdc87403_750x422.jpg",
-      "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Health officials identify additional measles cases, exposure locations in northern Iowa",
-      "summary": "The Iowa Department of Health and Human Services has confirmed 50 cases of measles in 2026.",
-      "url": "https://www.wqad.com/article/news/health/measles-cases-northern-iowa-mitchell-county-update/524-2773eb3d-be13-45b2-8bb0-18ffde34d94c",
-      "time": "3 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/548b65d6-5310-4ade-815a-b53c83143172/20260727T231625/548b65d6-5310-4ade-815a-b53c83143172_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Scott County Auditor to hold administrative audits in 3 voting precincts",
-      "summary": "Auditor Kerri Tompkins said voting machines at precincts D22, D54 and B53 had intermittent issues in getting a ballot reject code.",
-      "url": "https://www.wqad.com/article/news/local/scott-county-audits-voting-precincts/526-057e774e-d753-4da0-bac3-a0805c5608cd",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8/20250922T132923/c3752bc9-70cc-4c17-9ae6-d5c361dfbdd8_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Republican Chris Cournoyer concedes in Iowa Auditor's race",
-      "summary": "Democrat Taylor Wettach had claimed victory hours earlier.",
-      "url": "https://www.wqad.com/article/news/politics/elections/republican-chris-cournoyer-concedes-iowa-auditor-taylor-wettach/524-72f8bfcf-51bd-42ae-8e10-58663167e70a",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ae5f8327-6ffa-49c4-871e-5b9284526034/20260603T173030/ae5f8327-6ffa-49c4-871e-5b9284526034_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2026 midterm voting guide: What Iowans should know before heading to the polls",
-      "summary": "Election Day is Tuesday. Here's what to know about how to vote, what to bring with you and what to do with your absentee ballot.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-midterm-election-voter-guide-id-polls-absentee-ballot/524-a58b1515-94a5-4c0f-8560-0e960a1d6f3d",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d/20240917T170336/c2d8cf70-39cd-4bfd-97e9-a6531d0afc4d_750x422.jpg",
-      "category": "elections"
     }
   ]
 }
