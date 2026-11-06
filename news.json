@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-06T00:50:08.929838+00:00",
+  "updated": "2026-11-06T11:52:59.355199+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Muscatine Turkey Trot will return for all ages, abilities, of runners, walkers",
+      "summary": "The annual Muscatine Turkey Trot Fun Run/Walk will be held Saturday, Nov. 14, at the Muscatine Municipal Golf Course. Runners, joggers, and walkers of all ages …",
+      "url": "https://www.ourquadcities.com/news/local-news/muscatine-turkey-trot-will-return-for-all-ages-abilities-of-runners-walkers/",
+      "time": "22 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/Muscatine-Turkey-Trot.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA Salvation Army bells start ringing again",
+      "summary": "It's a common sight and sound of the holiday season as the Salvation Army begins its annual fundraising campaign. The familiar red kettles returned at the Hy-Ve…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-salvation-army-bells-start-ringing-again/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_1411c7.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA families become whole and celebrate National Adoption Day",
+      "summary": "Some Quad-City children in foster care now have permanent families after officially being adopted. Our Quad Cities News reporter Jazmyne Walker shows how judges…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-families-become-whole-and-celebrate-national-adoption-day/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_ff3c61.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Historic Velie Mansion in Moline listed for $3.25M",
+      "summary": "Built in 1912, the mansion has around 46 rooms. The current owners are looking to move, but they want to find the right owner who understands the property's his…",
+      "url": "https://www.wqad.com/article/news/history/velie-mansion-moline-illinois-history-listed-market/526-2a64c342-e1de-4191-8ab2-401f9893aeba",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/0d0f861f-1ba6-46ed-aff3-13d47c75a5e6/20261106T013700/0d0f861f-1ba6-46ed-aff3-13d47c75a5e6_750x422.jpg",
+      "category": "history"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Where to find a Thanksgiving meal in the greater Quad Cities region",
+      "summary": "Need Thanksgiving meal plans? Local organizations and restaurants will be serving up the classics this season. Here's where you can find a meal.",
+      "url": "https://www.wqad.com/article/life/food/thanksgiving-meals-available-iowa-illinois-quad-cities/526-e3dfd9eb-6e75-4e61-8729-7d0a23ac610e",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c06cea61-003b-42b3-853d-473365754e4d/20261105T215817/c06cea61-003b-42b3-853d-473365754e4d_750x422.jpg",
+      "category": "food"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "MLK Center Thanksgiving Meals returns for 37th year",
+      "summary": "The center is providing free Thanksgiving meals across the Quad Cities Nov. 20-22.",
+      "url": "https://www.wqad.com/article/life/holidays/mlk-center-thanksgiving-meals-37th-year/526-2daa1a9b-57db-4e70-bf74-dd8b05b20cee",
+      "time": "10 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c56d85cc-95ae-4895-93cb-8ed2a7b50c45/20251125T002351/c56d85cc-95ae-4895-93cb-8ed2a7b50c45_750x422.jpg",
+      "category": "holidays"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Moline couple donates city's Christmas tree in memory of late neighbor",
       "summary": "The 40-year-old Eastern white pine will be illuminated with more than 30,000 lights at the annual Lighting on the Commons on Saturday, Nov. 21.",
       "url": "https://www.wqad.com/article/life/holidays/moline-christmas-tree-vibrant-arena-lighting-on-the-commons-local-couple-donated-in-memory/526-56917efa-3bd1-46b6-8efd-f8c84d051ce6",
-      "time": "21 min ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a058eb9c-6ba7-4e5a-be9e-bc5faabf49ce/20261105T182045/a058eb9c-6ba7-4e5a-be9e-bc5faabf49ce_750x422.jpg",
       "category": "holidays"
     },
@@ -19,7 +85,7 @@
       "headline": "The Heart of the Story: Changing his focus",
       "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
       "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-changing-his-focus/",
-      "time": "26 min ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_52ea72.png?w=900",
       "category": "The Heart of the Story"
     },
@@ -30,7 +96,7 @@
       "headline": "Scott County auditor confirms ballots were counted correctly after intermittent issues at 3 precincts",
       "summary": "Intermittent ballot machine errors during the Nov. 3 election prompted the Scott County Auditor's Office to take a closer look at results from three precincts.",
       "url": "https://www.wqad.com/article/news/politics/elections/scott-county-auditor-administrative-audit-three-precincts/526-fe53d0ac-04d6-4e77-9ff8-3f48d957c668",
-      "time": "35 min ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/2e912d75-9e68-46b9-99c4-3f482b297c6f/20261105T233238/2e912d75-9e68-46b9-99c4-3f482b297c6f_750x422.jpg",
       "category": "elections"
     },
@@ -41,7 +107,7 @@
       "headline": "5th Ave. Flea opens in downtown Moline",
       "summary": "The market features affordable vintage finds, one-of-a-kind treasures and plenty of casual hangout opportunities.",
       "url": "https://www.wqad.com/article/news/local/fifth-avenue-flea-downtown-moline-opening/526-ab4de2ff-122b-422b-af10-449553e364ff",
-      "time": "52 min ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cbd74fa3-5816-46a1-8c9d-4bc20eb4f1ca/20261105T234903/cbd74fa3-5816-46a1-8c9d-4bc20eb4f1ca_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +118,7 @@
       "headline": "Iowa sees highest midterm turnout in the 21st century",
       "summary": "Iowa Secretary of State Paul Pate said 63% of eligible voters in Iowa participated in the 2026 midterms.",
       "url": "https://www.wqad.com/article/news/politics/elections/iowa-voter-turnout-2026-midterms-historic-63-percent/524-678e684e-a306-4c97-aa8a-700ce90de775",
-      "time": "1 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/f5f8c1b6-0d22-4028-be79-19010604b5e4/20261105T130240/f5f8c1b6-0d22-4028-be79-19010604b5e4_750x422.jpg",
       "category": "elections"
     },
@@ -63,75 +129,9 @@
       "headline": "Welch will not seek new term as speaker after 26 Illinois House Democrats call for change",
       "summary": "The move follows months of criticism over Welch's handling of sexual harassment allegations.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/welch-faces-rebellion-26-house-democrats-call-new-speaker-capitol-news-illinois/526-3438a404-cd59-463d-968e-b5a424ecef7c",
-      "time": "1 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f2f6961d-436d-4aac-8983-6c748cd2899c/20261105T215503/f2f6961d-436d-4aac-8983-6c748cd2899c_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island County celebrates National Adoption Month with courthouse adoptions",
-      "summary": "Rock Island County marked National Adoption Month by celebrating families finalizing adoptions, uniting children with their forever families.",
-      "url": "https://www.wqad.com/article/life/heartwarming/rock-island-county-celebrates-national-adoption-month/526-e6482149-fbad-42b5-9605-7599222d879c",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d93297e1-aae6-48a4-8e2c-8305aa59a503/20261105T232102/d93297e1-aae6-48a4-8e2c-8305aa59a503_750x422.jpg",
-      "category": "heartwarming"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine bluff continues to shift, sending debris onto Mississippi Drive as closure continues",
-      "summary": "The closure has been in place since late October, but now the city says recent rainfall has caused additional movement in the slide area.",
-      "url": "https://www.wqad.com/article/news/local/infrastructure/muscatine-bluff-slides-mississippi-drive-closed-debris-rainfall-road/526-5f0bd7df-f330-4ea6-8e44-02f320728a10",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cc66fe3b-a4a0-4c39-b9f7-483d96d5975d/20261105T182913/cc66fe3b-a4a0-4c39-b9f7-483d96d5975d_750x422.jpg",
-      "category": "infrastructure"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Enjoy a tasty evening with the Jaycees of the Quad Cities at the Wine and Chocolate Experience",
-      "summary": "You can enjoy a sweet and savory evening while helping the mission of the Jaycees of the Quad Cities! Charmaine Sibley and Samantha Sharp joined Our Quad Cities…",
-      "url": "https://www.ourquadcities.com/news/local-news/enjoy-a-tasty-evening-with-the-jaycees-of-the-quad-cities-at-the-wine-and-chocolate-experience/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_dafd62.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Mr. Thanksgiving to host Quad Cities community meal — a tradition for more than 5 decades",
-      "summary": "For more than half a century, Bob Vogelbaugh has welcomed hundreds of guests, including friends and strangers alike, to share a free holiday meal.",
-      "url": "https://www.wqad.com/article/life/holidays/mr-thanksgiving-returns-community-meal-mercado-on-fifth/526-43d94ba5-8294-41dd-9a7a-fe4bc79a7bd2",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/42d921c9-99b2-4607-9f6c-ce49ff300d3b/20261105T222401/42d921c9-99b2-4607-9f6c-ce49ff300d3b_750x422.jpg",
-      "category": "holidays"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "How do election recounts work in Iowa?",
-      "summary": "Candidates in Iowa must be the ones to submit a request for a recount. State law does not allow for it to be automatically ordered.",
-      "url": "https://www.wqad.com/article/news/politics/elections/iowa-recount-process-midterm-election/524-6c171ad9-1c0c-4b7d-b78e-c3e623c5818c",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a7e617ff-56e0-42ef-8d3d-e82744196152/20241106T221131/a7e617ff-56e0-42ef-8d3d-e82744196152_750x422.jpg",
-      "category": "elections"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "John Deere plant closure leaves 400 people in Ottumwa without a job",
-      "summary": "Ottumwa Mayor Benjamin Foote believes John Deere will work with the city to find a replacement employer.",
-      "url": "https://www.wqad.com/article/money/economy/john-deere-plant-closure-leaves-400-people-ottumwa-without-a-job/524-a76694e9-6c53-4f1a-958a-6ddc3951a719",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/91a3f773-e279-46d7-af1c-d3f804ec30d5/20260709T221451/91a3f773-e279-46d7-af1c-d3f804ec30d5_750x422.jpg",
-      "category": "economy"
     }
   ]
 }
