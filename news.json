@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-08T20:15:08.271633+00:00",
+  "updated": "2026-11-09T05:03:29.890659+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Experts at Davenport Home Expo offer tips for winter home projects",
+      "summary": "Experts at the Davenport Home Expo helped homeowners this weekend identify repairs, compare quotes and prepare their homes for colder weather.",
+      "url": "https://www.wqad.com/article/news/community/experts-at-davenport-home-expo-offer-tips-for-winter-home-projects/526-e5f67a4d-327b-48f2-9fc3-00a69550c7f9",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9177f22-8b0c-4fa8-a544-62bb49edecb2/20261109T021858/c9177f22-8b0c-4fa8-a544-62bb49edecb2_750x422.jpg",
+      "category": "community"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC earns Champion of Economic Impact in Sports Tourism recognition",
+      "summary": "The Quad Cities has earned national recognition for its role in hosting the 2026 National Intercollegiate (NIFA) SAFECON, hosted in partnership by the Quad Citi…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-earns-champion-of-economic-impact-in-sports-tourism-recognition/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/QC-airport3.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Auditions planned for 'Calendar Girls' at Playcrafters Barn Theatre, Moline",
+      "summary": "Playcrafters Barn Theatre seeks performers for its February performances of \"Calendar Girls,\" according to a news release. Auditions for \"Calendar Girls\" will b…",
+      "url": "https://www.ourquadcities.com/news/local-news/auditions-planned-for-calendar-girls-at-playcrafters-barn-theatre-moline/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/07/Playcrafters.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Village Collective Market brings vendors indoors after summer season",
+      "summary": "Vendors who previously held their stands at the farmers market in Coal Valley have moved into a new home indoors.",
+      "url": "https://www.wqad.com/article/news/local/village-collective-market-brings-vendors-indoors/526-8cdf7602-f907-4e89-8515-459b3e0c3de8",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fb3282a2-a4e7-431b-b109-5174643d7ea8/20261108T225948/fb3282a2-a4e7-431b-b109-5174643d7ea8_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +52,7 @@
       "headline": "Galesburg town hall to cover carbon sequestration pipelines, land rights",
       "summary": "Illinois State Senator Mike Halpin and Citizens Against Heartland Greenwashing Projects are hosting a town hall on farmer land rights and carbon sequestration p…",
       "url": "https://www.ourquadcities.com/news/local-news/galesburg-town-hall-to-cover-carbon-sequestration-pipelines-land-rights/",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/carbon-capture-pipeline.jpg?w=900",
       "category": "Local News"
     },
@@ -19,19 +63,8 @@
       "headline": "Leaf them be? How to prep your yard before winter",
       "summary": "DES MOINES, Iowa -- We're well past peak fall colors in central Iowa, and most trees are losing their leaves. But you may not need to get out the rakes just yet…",
       "url": "https://www.ourquadcities.com/news/local-news/leaf-them-be-how-to-prep-your-yard-before-winter/",
-      "time": "5 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/leaves.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Quad Cities area will honor military with Veterans Day events",
-      "summary": "As the nation commemorates America 250 this year, Hy-Vee will show its appreciation to all veterans and active-duty military members with a free breakfast on Ve…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-cities-area-will-honor-military-with-veterans-day-events/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/GettyImages-1188704306-e1731016440945.jpg?w=800",
       "category": "Local News"
     },
     {
@@ -41,7 +74,7 @@
       "headline": "Iowa harvest proclamation extended to December",
       "summary": "Harvest season may be winding down for some farmers, but a recent harvest proclamation extension is just what others need. Gov. Kim Reynolds extended the harves…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-harvest-proclamation-extended-to-december/",
-      "time": "16 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/09/How-dry-weather-affects-harvest-work-for-QCA-farmers.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "Family Museum brings back annual great pumpkin drop in Bettendorf",
       "summary": "More than 80 pumpkins and jack-o'-lanterns took a plunge at the Family Museum's annual Great Pumpkin Drop, bringing families together for a post-Halloween tradi…",
       "url": "https://www.wqad.com/article/entertainment/events/family-museum-brings-back-annual-great-pumpkin-drop-in-bettendorf/526-b55c3035-b457-4312-a633-819b926e5727",
-      "time": "17 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a97406aa-b318-4549-adf3-ee518e22c146/20261108T024155/a97406aa-b318-4549-adf3-ee518e22c146_750x422.jpg",
       "category": "events"
     },
@@ -63,20 +96,9 @@
       "headline": "Habitat for Humanity Quad Cities dedicates 145th home to Davenport family",
       "summary": "A Davenport mother of four received the keys to her new Habitat for Humanity home Saturday after completing volunteer hours and homeownership preparation classe…",
       "url": "https://www.wqad.com/article/news/community/habitat-for-humanity-quad-cities-dedicates-145th-home-to-davenport-family/526-d90021a3-063e-40f9-84e9-02b4aec4f7a4",
-      "time": "17 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b54d7521-12ea-4c38-b2ed-fd502fe01d70/20261108T023726/b54d7521-12ea-4c38-b2ed-fd502fe01d70_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Deer collisions rise across Iowa during peak mating season",
-      "summary": "DES MOINES, Iowa -- Recent increases in deer-related vehicle collisions in Iowa highlight the dangers of mating season, prompting safety warnings from authoriti…",
-      "url": "https://www.ourquadcities.com/news/local-news/deer-collisions-rise-across-iowa-during-peak-mating-season/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_61bcec.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +107,7 @@
       "headline": "Bettendorf Veterans Day ceremony to feature Rock Island Arsenal leader",
       "summary": "Col. Joe Parker will keynote Bettendorf's Veterans Day ceremony Wednesday, honoring local veterans and active-duty service members.",
       "url": "https://www.wqad.com/article/news/local/bettendorf-veterans-day-ceremony-to-feature-rock-island-arsenal-leader/526-ffbdd286-3290-4ba8-8840-2decbc081f36",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b563f694-e79c-4e84-a1f8-7dc70a07d324/20261107T203958/b563f694-e79c-4e84-a1f8-7dc70a07d324_750x422.jpg",
       "category": "local"
     },
@@ -96,7 +118,7 @@
       "headline": "Potential relief coming as city cleans up collapsed bluff on Muscatine's W Mississippi Drive",
       "summary": "The city is clearing loose dirt from the collapsed bluff. Once that's done, it will open a single lane for two-way traffic.",
       "url": "https://www.wqad.com/article/news/local/potential-relief-muscatine-cleaning-collapsed-bluff/526-f064d8e5-1c42-4ba7-9dfb-2257d2cf0ab7",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/082bedfe-c3a3-4a55-8609-ed977f2e6ba0/20261107T040411/082bedfe-c3a3-4a55-8609-ed977f2e6ba0_750x422.jpg",
       "category": "local"
     },
@@ -107,31 +129,9 @@
       "headline": "Davenport couple fulfills lifelong dream of serving in law enforcement together",
       "summary": "After raising seven children, Nathan and Rebecca Ramker are beginning a new chapter as Scott County reserve deputies.",
       "url": "https://www.wqad.com/article/life/people/scott-county-sheriffs-office-reserve-deputies-sworn-in-davenport-couple/526-3ab4aab2-185e-429f-89b5-3a59a960fa97",
-      "time": "1d ago",
+      "time": "2d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/10bbc40b-9e37-4d93-bf9c-2b08b9e61ab0/20261106T235154/10bbc40b-9e37-4d93-bf9c-2b08b9e61ab0_750x422.jpg",
       "category": "people"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Centennial Bridge project moves forward with recommendation for new location",
-      "summary": "Iowa and Illinois transportation officials recommend building a new Centennial Bridge west of the existing structure. The project still needs federal approval.",
-      "url": "https://www.wqad.com/article/traffic/bridges/centennial-bridge-corridor-project-us-67-iowa-illinois-departments-of-transporation/526-ad913f88-9f8c-4412-9190-e7d2ef5db44c",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/be6c9c1d-57bd-417a-9cfd-b66c38e38562/20261107T003521/be6c9c1d-57bd-417a-9cfd-b66c38e38562_750x422.jpg",
-      "category": "bridges"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline crossing guard retires after 54 years of keeping generations of students safe",
-      "summary": "For 54 years, Mary Schoeve has stood at the corner of 7th Street and 16th Avenue in Moline, helping generations of children safely make their way to school.",
-      "url": "https://www.wqad.com/article/life/heartwarming/moline-crossing-guard-retires-after-54-years/526-684758ea-1a98-43fa-a57d-681ae699cc50",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/73de06c3-5cf9-4cf7-8001-714a515afe71/20261107T000030/73de06c3-5cf9-4cf7-8001-714a515afe71_750x422.jpg",
-      "category": "heartwarming"
     }
   ]
 }
