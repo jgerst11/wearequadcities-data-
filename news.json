@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-09T05:03:29.890659+00:00",
+  "updated": "2026-11-09T18:26:15.719356+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Enjoy 'PAW Patrol Live: A Mighty Adventure\" at Vibrant Arena",
+      "summary": "PAW Patrol Live is bringing “A Mighty Adventure” to the Vibrant Arena in Moline on April 3 – 4. Showtimes on April 3 are 10 a.m. and 2 p.m. and showtime for Apr…",
+      "url": "https://www.ourquadcities.com/news/local-news/enjoy-paw-patrol-live-a-mighty-adventure-at-vibrant-arena/",
+      "time": "20 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Paw_Patrol_Live_Day_02_1101-Edit_wLegal.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Village Collective Market brings vendors indoors after summer season",
+      "summary": "Vendors who previously held their stands at the farmers market in Coal Valley have moved into a new home indoors.",
+      "url": "https://www.wqad.com/article/news/local/village-collective-market-brings-vendors-indoors/526-8cdf7602-f907-4e89-8515-459b3e0c3de8",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fb3282a2-a4e7-431b-b109-5174643d7ea8/20261108T225948/fb3282a2-a4e7-431b-b109-5174643d7ea8_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Car on roof after Rock Island crash",
+      "summary": "Our Quad Cities News is on the scene of a crash on 14th Avenue and 38th Street in Rock Island that left one vehicle on its roof. The west side of 14th Avenue is…",
+      "url": "https://www.ourquadcities.com/news/local-news/car-on-roof-after-rock-island-crash/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Media-18.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Part of Bluff Blvd closing for Clinton water main project",
+      "summary": "A news release from the City of Clinton says a water main project is leading to a temporary partial road closure. The city is closing the 200 block of Bluff Bou…",
+      "url": "https://www.ourquadcities.com/news/local-news/part-of-bluff-blvd-closing-for-clinton-water-main-project/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Clinton.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bettendorf Library will host award-winning young-adult author A.S. King",
+      "summary": "The Bettendorf Public Library will host a free event, \"Teen Literacy is the Solution to Everything,\" with young-adult (YA) author A.S. King at 6 p.m. Monday, No…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-library-will-host-award-winning-young-adult-author-a-s-king/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/A.S.-King.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +63,7 @@
       "headline": "Experts at Davenport Home Expo offer tips for winter home projects",
       "summary": "Experts at the Davenport Home Expo helped homeowners this weekend identify repairs, compare quotes and prepare their homes for colder weather.",
       "url": "https://www.wqad.com/article/news/community/experts-at-davenport-home-expo-offer-tips-for-winter-home-projects/526-e5f67a4d-327b-48f2-9fc3-00a69550c7f9",
-      "time": "2 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9177f22-8b0c-4fa8-a544-62bb49edecb2/20261109T021858/c9177f22-8b0c-4fa8-a544-62bb49edecb2_750x422.jpg",
       "category": "community"
     },
@@ -19,7 +74,7 @@
       "headline": "QC earns Champion of Economic Impact in Sports Tourism recognition",
       "summary": "The Quad Cities has earned national recognition for its role in hosting the 2026 National Intercollegiate (NIFA) SAFECON, hosted in partnership by the Quad Citi…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-earns-champion-of-economic-impact-in-sports-tourism-recognition/",
-      "time": "3 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/QC-airport3.jpg?w=900",
       "category": "Local News"
     },
@@ -30,30 +85,8 @@
       "headline": "Auditions planned for 'Calendar Girls' at Playcrafters Barn Theatre, Moline",
       "summary": "Playcrafters Barn Theatre seeks performers for its February performances of \"Calendar Girls,\" according to a news release. Auditions for \"Calendar Girls\" will b…",
       "url": "https://www.ourquadcities.com/news/local-news/auditions-planned-for-calendar-girls-at-playcrafters-barn-theatre-moline/",
-      "time": "4 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/07/Playcrafters.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Village Collective Market brings vendors indoors after summer season",
-      "summary": "Vendors who previously held their stands at the farmers market in Coal Valley have moved into a new home indoors.",
-      "url": "https://www.wqad.com/article/news/local/village-collective-market-brings-vendors-indoors/526-8cdf7602-f907-4e89-8515-459b3e0c3de8",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fb3282a2-a4e7-431b-b109-5174643d7ea8/20261108T225948/fb3282a2-a4e7-431b-b109-5174643d7ea8_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Galesburg town hall to cover carbon sequestration pipelines, land rights",
-      "summary": "Illinois State Senator Mike Halpin and Citizens Against Heartland Greenwashing Projects are hosting a town hall on farmer land rights and carbon sequestration p…",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-town-hall-to-cover-carbon-sequestration-pipelines-land-rights/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/04/carbon-capture-pipeline.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,7 +96,7 @@
       "headline": "Leaf them be? How to prep your yard before winter",
       "summary": "DES MOINES, Iowa -- We're well past peak fall colors in central Iowa, and most trees are losing their leaves. But you may not need to get out the rakes just yet…",
       "url": "https://www.ourquadcities.com/news/local-news/leaf-them-be-how-to-prep-your-yard-before-winter/",
-      "time": "14 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/leaves.jpg?w=900",
       "category": "Local News"
     },
@@ -99,39 +132,6 @@
       "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b54d7521-12ea-4c38-b2ed-fd502fe01d70/20261108T023726/b54d7521-12ea-4c38-b2ed-fd502fe01d70_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf Veterans Day ceremony to feature Rock Island Arsenal leader",
-      "summary": "Col. Joe Parker will keynote Bettendorf's Veterans Day ceremony Wednesday, honoring local veterans and active-duty service members.",
-      "url": "https://www.wqad.com/article/news/local/bettendorf-veterans-day-ceremony-to-feature-rock-island-arsenal-leader/526-ffbdd286-3290-4ba8-8840-2decbc081f36",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b563f694-e79c-4e84-a1f8-7dc70a07d324/20261107T203958/b563f694-e79c-4e84-a1f8-7dc70a07d324_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Potential relief coming as city cleans up collapsed bluff on Muscatine's W Mississippi Drive",
-      "summary": "The city is clearing loose dirt from the collapsed bluff. Once that's done, it will open a single lane for two-way traffic.",
-      "url": "https://www.wqad.com/article/news/local/potential-relief-muscatine-cleaning-collapsed-bluff/526-f064d8e5-1c42-4ba7-9dfb-2257d2cf0ab7",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/082bedfe-c3a3-4a55-8609-ed977f2e6ba0/20261107T040411/082bedfe-c3a3-4a55-8609-ed977f2e6ba0_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Davenport couple fulfills lifelong dream of serving in law enforcement together",
-      "summary": "After raising seven children, Nathan and Rebecca Ramker are beginning a new chapter as Scott County reserve deputies.",
-      "url": "https://www.wqad.com/article/life/people/scott-county-sheriffs-office-reserve-deputies-sworn-in-davenport-couple/526-3ab4aab2-185e-429f-89b5-3a59a960fa97",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/10bbc40b-9e37-4d93-bf9c-2b08b9e61ab0/20261106T235154/10bbc40b-9e37-4d93-bf9c-2b08b9e61ab0_750x422.jpg",
-      "category": "people"
     }
   ]
 }
