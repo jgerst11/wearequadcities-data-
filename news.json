@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-10T02:34:51.441940+00:00",
+  "updated": "2026-11-10T12:14:34.683302+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Colder weather follows Tuesday's warmth",
+      "summary": "Much colder weather is on the way to the Quad Cities this week. Our only chance of rain this week is tomorrow. Here's your full 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/colder-weather-follows-tuesdays-warmth/",
+      "time": "37 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/GettyImages-1323823418.jpg?w=724",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "City of Rock Island acquiring vacant downtown building on Second Avenue",
+      "summary": "The owner of 1720 Second Ave. is transferring the property to the city after months of code compliance issues.",
+      "url": "https://www.wqad.com/article/news/local/rock-island-acquiring-second-avenue-vacant-building/526-488d0e4c-64d3-4149-ba50-d39566db7074",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/7472b587-5325-489b-9fc4-f229414db2c3/20261110T044135/7472b587-5325-489b-9fc4-f229414db2c3_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +30,7 @@
       "headline": "MLK Jr. Reading Series will explore Davenport incident of injustice in 1943",
       "summary": "The Martin Luther King Jr. Committee's next Martin Luther King, Jr. Reading Series will explore the story of Charles and Ann Toney, who were denied service in D…",
       "url": "https://www.ourquadcities.com/news/local-news/mlk-jr-reading-series-will-explore-davenport-incident-of-injustice-in-1943/",
-      "time": "2 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/Grow-Clinton.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +41,7 @@
       "headline": "Muscatine residents advocate for sustaining community programs during budget talks",
       "summary": "With Muscatine County officials looking to cut spending, Muscatine residents advocate for why MCC programs shouldn't be on the chopping block.",
       "url": "https://www.wqad.com/article/news/community/muscatine-residents-advocate-for-sustaining-community-programs-during-budget-talks/526-7acb76c1-e966-4ead-b9e7-0fdc48590749",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e2cf9903-bfce-46ce-884c-f29c0013b931/20261109T232955/e2cf9903-bfce-46ce-884c-f29c0013b931_750x422.jpg",
       "category": "community"
     },
@@ -30,7 +52,7 @@
       "headline": "More than 101,000 pounds of pork headed to 8 Illinois food banks",
       "summary": "The Illinois Pork Producers Association, in partnership with local farmers and ag groups, announced that part of the annual donation will go to River Bend Food …",
       "url": "https://www.wqad.com/article/news/agriculture/illinois-pork-producers-association-donation-food-banks-101000-pounds-pigs-farmers-hogs/526-698dfd41-02c7-446c-bc8e-073ce9db2eb2",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/b0f2f328-774d-445b-883b-89ad0b801cd2/b0f2f328-774d-445b-883b-89ad0b801cd2_750x422.jpg",
       "category": "agriculture"
     },
@@ -41,7 +63,7 @@
       "headline": "Quad City Storm off to best start in franchise history",
       "summary": "After shutout and shootout wins this weekend, the Storm sits in third place in the SPHL with a 5-1-0-1 record. The team will be at home again on Nov. 13 and 14.",
       "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-best-start-season-franchise-history-wins-shootout-shutout-thunderbolts-ice-cats/526-2b5776ab-702a-47cf-8275-94c08a3e63c1",
-      "time": "3 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/891c2e09-0949-4bb0-8ec8-80c4e16399ed/20261108T045645/891c2e09-0949-4bb0-8ec8-80c4e16399ed_750x422.jpg",
       "category": "hockey"
     },
@@ -52,7 +74,7 @@
       "headline": "8 Quad Cities area schools earn inaugural Purple Star School designation",
       "summary": "The inaugural Illinois award recognizes schools that go above and beyond to support the academic and social acclimation of military-connected students.",
       "url": "https://www.wqad.com/article/news/education/inaugural-illinois-purple-star-school-award-local-galva-geneseo-united-township-military-students-families/526-69bcc153-4897-4327-b06d-0c7183623436",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/1c3b2a71-7764-411f-8fb6-f8a910dd43e9/20260817T230650/1c3b2a71-7764-411f-8fb6-f8a910dd43e9_750x422.jpg",
       "category": "education"
     },
@@ -63,7 +85,7 @@
       "headline": "Mississippi Drive in Muscatine reopens to alternating traffic following bluff instability",
       "summary": "Officials continue to encourage motorists to use the detour route.",
       "url": "https://www.wqad.com/article/traffic/mississippi-drive-muscatine-bluff-instability-closure-one-lane-open/526-d6ef97de-f521-427d-910d-efeda41784b6",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/082bedfe-c3a3-4a55-8609-ed977f2e6ba0/20261107T040411/082bedfe-c3a3-4a55-8609-ed977f2e6ba0_750x422.jpg",
       "category": "traffic"
     },
@@ -74,7 +96,7 @@
       "headline": "BJC HealthCare, Aetna agree to extend access for southern Illinois retirees",
       "summary": "A one year deal will allow state retirees who are TRAIL participants to maintain access to BJC providers.",
       "url": "https://www.wqad.com/article/news/state/bjc-healthcare-aetna-agree-extend-access-southern-illinois-retirees-capitol-news/526-73ef4b99-e482-49eb-a426-08f2f25ba91f",
-      "time": "4 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c7b360a8-df37-417f-b6bb-7ae9c165fc56/20261102T194501/c7b360a8-df37-417f-b6bb-7ae9c165fc56_750x422.jpg",
       "category": "state"
     },
@@ -85,7 +107,7 @@
       "headline": "Catch 'Elmo's Got the Moves' at Adler Theatre",
       "summary": "Get ready to dance with some of Sesame Street’s most beloved characters when “Elmo’s Got the Moves,” a Sesame Street Live production, makes a stop at Davenport'…",
       "url": "https://www.ourquadcities.com/news/local-news/catch-elmos-got-the-moves-at-adler-theatre/",
-      "time": "5 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Elmos-got-the-moves-featured-image.png?w=460",
       "category": "Local News"
     },
@@ -96,7 +118,7 @@
       "headline": "Iowa awards over $8.5M in grants to new, existing charter schools",
       "summary": "The Iowa Department of Education has awarded nine Iowa charter schools more than $8.5 million in state start-up and expansion grants.",
       "url": "https://www.wqad.com/article/news/education/iowa-charter-schools-grants-expansion-startup-85-million/524-2e8ad4db-c2c7-48bb-92e3-d5bb27ad403f",
-      "time": "6 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/d77af98b-d039-4167-ab3c-29b3e5b5785b/20260514T123412/d77af98b-d039-4167-ab3c-29b3e5b5785b_750x422.jpg",
       "category": "education"
     },
@@ -107,30 +129,8 @@
       "headline": "Muscatine reopens 1 lane of Mississippi Drive",
       "summary": "One lane of Mississippi Drive between Lynn Street and Broadway Street in Muscatine has reopened to traffic as the city evaluates the hillside failure along the …",
       "url": "https://www.ourquadcities.com/news/local-news/muscatine-reopens-1-lane-of-mississippi-drive/",
-      "time": "6 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Mississippi-Drive-featured-image.png?w=460",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Tiffin man charged with child endangerment after high-speed police chase in Bettendorf",
-      "summary": "Police said the 19-year-old suspect reached speeds of 100 mph in a 35 mph zone, running a red light. Two 15-year-olds were in the car at the time.",
-      "url": "https://www.wqad.com/article/news/crime/high-speed-police-chase-overnight-bettendorf-iowa-man-arrested/526-a338cf4a-8e9e-4aee-939f-7d1fea2c0601",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/NCM/images/e160f58e-7d72-4d25-8772-29850b23168a/20251127T211543/e160f58e-7d72-4d25-8772-29850b23168a_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cancer Support Community at Gilda's Club hosts end of life planning workshop",
-      "summary": "Cancer Support Community at Gilda’s Club is hosting a free workshop to discuss end of life planning on Nov. 23 from 11:30 a.m. - 12:30 p.m. at Gilda's Club Dave…",
-      "url": "https://www.ourquadcities.com/news/local-news/cancer-support-community-at-gildas-club-hosts-end-of-life-planning-workshop/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/Cancer-Support-Community-Iowa-NW-Illinois-at-Gildas-Club.jpg?w=900",
       "category": "Local News"
     }
   ]
