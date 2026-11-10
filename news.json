@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-10T12:14:34.683302+00:00",
+  "updated": "2026-11-10T21:40:42.614922+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "iLLUMINATE Holiday Light Show has new venue for 2026",
+      "summary": "Kick off the holiday season at the fourth annual iLLUMINATE Holiday Light Show, now at a new location, Kent-Stein Park, 2136 Oneida Avenue in Muscatine. This ye…",
+      "url": "https://www.ourquadcities.com/news/local-news/illuminate-holiday-light-show-has-new-venue-for-2026/",
+      "time": "16 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/iLLUMINATE-featured-image.png?w=462",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois Republicans assess damage from nationwide 'blue tsunami'",
+      "summary": "Party members offer different paths forward, highlighting internal divisions.",
+      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-republicans-assess-damage-nationwide-blue-tsunami-capitol-news/526-d7bc910f-60a9-441a-80e9-91d6b8c6df4c",
+      "time": "43 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c3d3a5d5-790a-4165-9fdf-45f9db99eb7e/20261110T205242/c3d3a5d5-790a-4165-9fdf-45f9db99eb7e_750x422.jpg",
+      "category": "illinois-politics"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Boil orders in the Quad Cities region",
+      "summary": "Boil orders warn residents that they should not drink or consume tap water without boiling it due to the risk of illness. Here's a look at active orders in the …",
+      "url": "https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "NAMI hosting Life is Beautiful concert at Raccoon Motel",
+      "summary": "NAMI (National Alliance on Mental Illness) Greater Mississippi Valley is hosting an afternoon of music, poetry and comedy to raise funds to provide free mental …",
+      "url": "https://www.ourquadcities.com/news/local-news/nami-hosting-life-is-beautiful-concert-at-raccoon-motel/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/NAMI.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "MLK Center prepares for 37th Thanksgiving meal, seeks volunteers and sponsors",
+      "summary": "We spoke with Jerry Jones, Executive Director at the Martin Luther King Center in Rock Island as staff there prepare for their 37th annual Thanksgiving meals pr…",
+      "url": "https://www.ourquadcities.com/news/local-news/mlk-center-prepares-for-37th-thanksgiving-meal-seeks-volunteers-and-sponsors/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/mlk-thanksgiving.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Veterans Day events and freebies for vets around the Quad Cities",
+      "summary": "Parades, ceremonies and free meals for veterans are planned to celebrate area military members this November.",
+      "url": "https://www.wqad.com/article/entertainment/events/veterans-day-events-freebies-iowa-illinois-quad-cities-parades-ceremonies/526-373d3070-df90-49a0-b91c-8f03bfb7eb1f",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/81765c80-0567-476d-89c8-272bf927713a/20261106T182532/81765c80-0567-476d-89c8-272bf927713a_750x422.jpg",
+      "category": "events"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "KENT awards $100K grant to Crossroads Inc. for day habilitation facility",
+      "summary": "A new grant will help Crossroads, Inc. renovate and furnish its new day habilitation facility. KENT WORLDWIDE has awarded Crossroads a $100,000 grant to support…",
+      "url": "https://www.ourquadcities.com/news/local-news/kent-awards-100k-grant-to-crossroads-inc-for-day-habilitation-facility/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_016278.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Win a family four pack of tickets to the Quad City Storm home games!",
+      "summary": "Register for a chance to win a family four-pack of tickets to a Quad City Storm home game.",
+      "url": "https://www.wqad.com/article/news/local/contests/win-a-family-four-pack-of-tickets-to-the-quad-city-storm-home-games/526-f380e5c1-39fb-4aa6-aa24-74512768b313",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe16947d-915c-46a8-b57f-fc424db8341b/20261110T045927/fe16947d-915c-46a8-b57f-fc424db8341b_750x422.jpg",
+      "category": "contests"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Official rules for Quad City Storm Ticket Giveaway Sweepstakes",
+      "summary": "Official rules for this sweepstakes",
+      "url": "https://www.wqad.com/article/news/local/contests/contest-rules/official-rules-for-quad-city-storm-ticket-giveaway-sweepstakes/526-a3ba880f-13e1-408b-b256-6cfa6dc6fd25",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe16947d-915c-46a8-b57f-fc424db8341b/20261110T045927/fe16947d-915c-46a8-b57f-fc424db8341b_750x422.jpg",
+      "category": "contest-rules"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +107,7 @@
       "headline": "Colder weather follows Tuesday's warmth",
       "summary": "Much colder weather is on the way to the Quad Cities this week. Our only chance of rain this week is tomorrow. Here's your full 7-day forecast.",
       "url": "https://www.ourquadcities.com/news/local-news/colder-weather-follows-tuesdays-warmth/",
-      "time": "37 min ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/06/GettyImages-1323823418.jpg?w=724",
       "category": "Local News"
     },
@@ -19,7 +118,7 @@
       "headline": "City of Rock Island acquiring vacant downtown building on Second Avenue",
       "summary": "The owner of 1720 Second Ave. is transferring the property to the city after months of code compliance issues.",
       "url": "https://www.wqad.com/article/news/local/rock-island-acquiring-second-avenue-vacant-building/526-488d0e4c-64d3-4149-ba50-d39566db7074",
-      "time": "7 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/7472b587-5325-489b-9fc4-f229414db2c3/20261110T044135/7472b587-5325-489b-9fc4-f229414db2c3_750x422.jpg",
       "category": "local"
     },
@@ -30,107 +129,8 @@
       "headline": "MLK Jr. Reading Series will explore Davenport incident of injustice in 1943",
       "summary": "The Martin Luther King Jr. Committee's next Martin Luther King, Jr. Reading Series will explore the story of Charles and Ann Toney, who were denied service in D…",
       "url": "https://www.ourquadcities.com/news/local-news/mlk-jr-reading-series-will-explore-davenport-incident-of-injustice-in-1943/",
-      "time": "11 h ago",
+      "time": "21 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/Grow-Clinton.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine residents advocate for sustaining community programs during budget talks",
-      "summary": "With Muscatine County officials looking to cut spending, Muscatine residents advocate for why MCC programs shouldn't be on the chopping block.",
-      "url": "https://www.wqad.com/article/news/community/muscatine-residents-advocate-for-sustaining-community-programs-during-budget-talks/526-7acb76c1-e966-4ead-b9e7-0fdc48590749",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e2cf9903-bfce-46ce-884c-f29c0013b931/20261109T232955/e2cf9903-bfce-46ce-884c-f29c0013b931_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "More than 101,000 pounds of pork headed to 8 Illinois food banks",
-      "summary": "The Illinois Pork Producers Association, in partnership with local farmers and ag groups, announced that part of the annual donation will go to River Bend Food …",
-      "url": "https://www.wqad.com/article/news/agriculture/illinois-pork-producers-association-donation-food-banks-101000-pounds-pigs-farmers-hogs/526-698dfd41-02c7-446c-bc8e-073ce9db2eb2",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/b0f2f328-774d-445b-883b-89ad0b801cd2/b0f2f328-774d-445b-883b-89ad0b801cd2_750x422.jpg",
-      "category": "agriculture"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad City Storm off to best start in franchise history",
-      "summary": "After shutout and shootout wins this weekend, the Storm sits in third place in the SPHL with a 5-1-0-1 record. The team will be at home again on Nov. 13 and 14.",
-      "url": "https://www.wqad.com/article/sports/hockey/quad-city-storm-hockey-best-start-season-franchise-history-wins-shootout-shutout-thunderbolts-ice-cats/526-2b5776ab-702a-47cf-8275-94c08a3e63c1",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/891c2e09-0949-4bb0-8ec8-80c4e16399ed/20261108T045645/891c2e09-0949-4bb0-8ec8-80c4e16399ed_750x422.jpg",
-      "category": "hockey"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "8 Quad Cities area schools earn inaugural Purple Star School designation",
-      "summary": "The inaugural Illinois award recognizes schools that go above and beyond to support the academic and social acclimation of military-connected students.",
-      "url": "https://www.wqad.com/article/news/education/inaugural-illinois-purple-star-school-award-local-galva-geneseo-united-township-military-students-families/526-69bcc153-4897-4327-b06d-0c7183623436",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/1c3b2a71-7764-411f-8fb6-f8a910dd43e9/20260817T230650/1c3b2a71-7764-411f-8fb6-f8a910dd43e9_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Mississippi Drive in Muscatine reopens to alternating traffic following bluff instability",
-      "summary": "Officials continue to encourage motorists to use the detour route.",
-      "url": "https://www.wqad.com/article/traffic/mississippi-drive-muscatine-bluff-instability-closure-one-lane-open/526-d6ef97de-f521-427d-910d-efeda41784b6",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/082bedfe-c3a3-4a55-8609-ed977f2e6ba0/20261107T040411/082bedfe-c3a3-4a55-8609-ed977f2e6ba0_750x422.jpg",
-      "category": "traffic"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "BJC HealthCare, Aetna agree to extend access for southern Illinois retirees",
-      "summary": "A one year deal will allow state retirees who are TRAIL participants to maintain access to BJC providers.",
-      "url": "https://www.wqad.com/article/news/state/bjc-healthcare-aetna-agree-extend-access-southern-illinois-retirees-capitol-news/526-73ef4b99-e482-49eb-a426-08f2f25ba91f",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c7b360a8-df37-417f-b6bb-7ae9c165fc56/20261102T194501/c7b360a8-df37-417f-b6bb-7ae9c165fc56_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Catch 'Elmo's Got the Moves' at Adler Theatre",
-      "summary": "Get ready to dance with some of Sesame Street’s most beloved characters when “Elmo’s Got the Moves,” a Sesame Street Live production, makes a stop at Davenport'…",
-      "url": "https://www.ourquadcities.com/news/local-news/catch-elmos-got-the-moves-at-adler-theatre/",
-      "time": "15 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Elmos-got-the-moves-featured-image.png?w=460",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa awards over $8.5M in grants to new, existing charter schools",
-      "summary": "The Iowa Department of Education has awarded nine Iowa charter schools more than $8.5 million in state start-up and expansion grants.",
-      "url": "https://www.wqad.com/article/news/education/iowa-charter-schools-grants-expansion-startup-85-million/524-2e8ad4db-c2c7-48bb-92e3-d5bb27ad403f",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/d77af98b-d039-4167-ab3c-29b3e5b5785b/20260514T123412/d77af98b-d039-4167-ab3c-29b3e5b5785b_750x422.jpg",
-      "category": "education"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine reopens 1 lane of Mississippi Drive",
-      "summary": "One lane of Mississippi Drive between Lynn Street and Broadway Street in Muscatine has reopened to traffic as the city evaluates the hillside failure along the …",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-reopens-1-lane-of-mississippi-drive/",
-      "time": "16 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Mississippi-Drive-featured-image.png?w=460",
       "category": "Local News"
     }
   ]
