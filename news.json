@@ -1,16 +1,115 @@
 {
-  "updated": "2026-11-11T15:54:34.991360+00:00",
+  "updated": "2026-11-11T22:30:39.787491+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Chilly weather returns to the Quad Cities",
-      "summary": "After highs in the 60s Monday and Tuesday, it turns much colder starting tomorrow. Showers and storms are likely for some of us today. Here's your full 7-day fo…",
-      "url": "https://www.ourquadcities.com/news/local-news/chilly-weather-returns-to-the-quad-cities/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-colder-GENERIC.jpg?w=900",
+      "headline": "QC Environmental Film Series to present free showing of 'Every Little Thing'",
+      "summary": "The QC Environmental Film Series’ eighth season begins with a free film event, the award-winning documentary, “Every Little Thing” on Sunday, Nov. 15, at the Ga…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-environmental-film-series-to-present-free-showing-of-every-little-thing/",
+      "time": "12 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/GettyImages-1344787633.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island crash sends 1 to hospital",
+      "summary": "Rock Island Police and Fire Departments were called to the intersection of 5th Avenue and 24th Street, near the BP station, on Nov. 11 between 8 – 8:30 a.m. for…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-crash-sends-1-to-hospital/",
+      "time": "28 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/1000031208.jpg?w=720",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Lee County, Iowa approves tax incentive framework for proposed $15B Mesabi steel plant",
+      "summary": "Lee County supervisors unanimously approved a tax incentive term sheet and resolution supporting Mesabi Metallics' proposed $15 billion steel complex.",
+      "url": "https://www.wqad.com/article/news/local/iowa-steel-plant-tax-incentive-framework-approved-lee-county/526-f078629a-1ded-40fc-b9e6-0b1d9a171c35",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/84ae1a0c-7c6e-4d79-8613-119af7e3e83c/20260929T032946/84ae1a0c-7c6e-4d79-8613-119af7e3e83c_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
+      "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
+      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-233/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Damilo-Bilbo-Stetson-Carter-Crime-Stoppers.jpg?w=900",
+      "category": "Crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Galesburg Community Schools names 1st woman superintendent",
+      "summary": "The Galesburg Community Unit School District is making history with its incoming superintendent. Sheila Coussens-Martin has been named superintendent of Galesbu…",
+      "url": "https://www.ourquadcities.com/news/local-news/galesburg-community-schools-names-1st-woman-superintendent/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_bf1c9d.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline, Silvis water partnership becomes permanent after 3 years of testing",
+      "summary": "Moline began supplying water to parts of Silvis in March of 2023 after years of low water pressure in Silvis and excess capacity at Moline's treatment plant.",
+      "url": "https://www.wqad.com/article/news/local/infrastructure/moline-silvis-water-partnership-permanent-epa-testing-low-pressure-excess-capacity-buy-share-drinking/526-c33eb431-4457-438c-8be1-54cd0a7ac503",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2e544f58-ff28-4d21-b87f-4795b575f260/2e544f58-ff28-4d21-b87f-4795b575f260_750x422.jpg",
+      "category": "infrastructure"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "2 residents and 4 dogs escape from East Moline house fire, displaced due to damage",
+      "summary": "East Moline fire crews responded to the 3800 block of 4th Avenue for a house fire on Tuesday morning.",
+      "url": "https://www.wqad.com/article/news/local/east-moline-house-fire-tuesday-morning-residents-displaced/526-c8b32bbe-709e-4033-8db2-6b25c98c4d07",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Lee County approves tax benefits for Mesabi steel plant",
+      "summary": "The $15 billion Iowa steel project planned by Mesabi Metallics got a boost this week after the Lee County Board of Supervisors unanimously approved a term sheet…",
+      "url": "https://www.ourquadcities.com/news/local-news/lee-county-approves-tax-benefits-for-mesabi-steel-plant/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_a4f06f.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Veterans Day events and freebies for vets around the Quad Cities",
+      "summary": "Parades, ceremonies and free meals for veterans are planned to celebrate area military members this November.",
+      "url": "https://www.wqad.com/article/entertainment/events/veterans-day-events-freebies-iowa-illinois-quad-cities-parades-ceremonies/526-373d3070-df90-49a0-b91c-8f03bfb7eb1f",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/81765c80-0567-476d-89c8-272bf927713a/20261106T182532/81765c80-0567-476d-89c8-272bf927713a_750x422.jpg",
+      "category": "events"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Some Veterans Day events canceled, postponed due to weather",
+      "summary": "Davenport's annual parade has been canceled due to lightning and pouring rain. Meanwhile, across the river in Silvis, the Hero Street ceremony has been delayed.",
+      "url": "https://www.wqad.com/article/news/community/veterans-day-events-quad-cities-cancellations-postponings-weather-morning-storms/526-9100e536-710f-4482-9423-1577e8686864",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/871a7e54-c686-4003-9b44-469a3c0a53c2/20261111T165059/871a7e54-c686-4003-9b44-469a3c0a53c2_750x422.jpg",
+      "category": "community"
     },
     {
       "source": "WQAD",
@@ -19,7 +118,7 @@
       "headline": "Date set for reopening of Captain’s Table in Moline",
       "summary": "The owners of Stumphy's Restaurant and Bar in Geneseo took over the restaurant and revived the Captain's Table name. It's set to reopen on Nov. 17.",
       "url": "https://www.wqad.com/article/news/local/captains-table-reopening-date-set-moline/526-56154a35-2b4d-4d35-a984-5409247a2fcf",
-      "time": "11 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/407d5d35-048c-414b-9171-f182af5a4ef4/20260924T032324/407d5d35-048c-414b-9171-f182af5a4ef4_750x422.jpg",
       "category": "local"
     },
@@ -30,108 +129,9 @@
       "headline": "Flip's Pancake House owners opening new restaurant at former Rudy's Tacos in Rock Island",
       "summary": "Owners say RockTown Diner will serve up homestyle cooking and classic comfort foods.",
       "url": "https://www.wqad.com/article/news/local/flips-pancake-house-new-restaurant-rocktown-diner-former-home-rudys-tacos-rock-island/526-4e079168-4164-47b5-b0b1-c500ffb16c92",
-      "time": "11 h ago",
+      "time": "18 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/afe330de-4915-46d0-a13d-bdbfc7a33ed4/20261111T005924/afe330de-4915-46d0-a13d-bdbfc7a33ed4_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Historic Spiegel Building in downtown Moline set for redevelopment",
-      "summary": "A vacant downtown Moline landmark could soon get new life as developers plan to turn the Spiegel Building into approximately 27 residential units.",
-      "url": "https://www.wqad.com/article/news/local/spiegel-building-downtown-moline-redevelopment-plans/526-db886f3a-7518-4df5-8586-0372d671e5fb",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2ed18007-e8be-4b5d-b73f-5cbb3c58c33c/20261111T040850/2ed18007-e8be-4b5d-b73f-5cbb3c58c33c_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Pedestrian killed after being hit by vehicle in Keokuk",
-      "summary": "According to Iowa State Patrol, 71-year-old Danny Howes was crossing Main Street in Keokuk when he was hit by a southbound Jeep. He ultimately died of his injur…",
-      "url": "https://www.wqad.com/article/news/local/pedestrian-killed-keokuk-struck-vehicle-crash/526-f602acac-0564-4eba-84bd-d1dbc6171cfe",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/b6b21f80-38a8-44af-92b4-9814b67b2596/20260830T153252/b6b21f80-38a8-44af-92b4-9814b67b2596_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Flip’s Pancake House to open new restaurant in old Rudy's location",
-      "summary": "A recently-closed Quad-City restaurant will find new life as a different eatery. Flip’s Pancake House announced on social media that it has purchased the buildi…",
-      "url": "https://www.ourquadcities.com/news/local-news/flips-pancake-house-to-opens-new-restaurant-in-old-rudys-location/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_f58aea.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Deck the Downtowns with tree lightings, other special events",
-      "summary": "Downtowns in the Quad Cities area will celebrate the holidays with several events, a news release says. Rock Island Celebrate the start of Deck the Downtowns wi…",
-      "url": "https://www.ourquadcities.com/news/local-news/deck-the-downtowns-with-tree-lightings-other-special-events/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/11/Christmas-Tree-Lighting-at-K-Square.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Army Sustainment Command's Hawley joins Senior Executive Service",
-      "summary": "Nathan Hawley, Army Sustainment Command’s executive director for ammunition, was appointed Tuesday on Rock Island Arsenal into the Senior Executive Service, joi…",
-      "url": "https://www.ourquadcities.com/news/local-news/army-sustainment-commands-hawley-joins-senior-executive-service/",
-      "time": "13 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Hawley.jpg?w=638",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Veterans Day events and freebies for vets around the Quad Cities",
-      "summary": "Parades, ceremonies and free meals for veterans are planned to celebrate area military members this November.",
-      "url": "https://www.wqad.com/article/entertainment/events/veterans-day-events-freebies-iowa-illinois-quad-cities-parades-ceremonies/526-373d3070-df90-49a0-b91c-8f03bfb7eb1f",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/81765c80-0567-476d-89c8-272bf927713a/20261106T182532/81765c80-0567-476d-89c8-272bf927713a_750x422.jpg",
-      "category": "events"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Firefighter not injured after falling through floor during Moline house fire response",
-      "summary": "Crews responded to the 3500 block of 12th Avenue around 12:13 p.m. on Tuesday.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/house-fire-moline-crews-responde-november-10/526-0d3f588b-cebd-4741-8e07-cfbc7cf70b8a",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f1461161-8417-4e0a-b5cd-d7c665691dc8/20261110T211026/f1461161-8417-4e0a-b5cd-d7c665691dc8_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island to take ownership of vacant building",
-      "summary": "The City of Rock Island is taking ownership of a vacant downtown building after months of code compliance issues. Rock Island leaders hope to rehabilitate the p…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-to-take-ownership-of-vacant-building/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_43df43.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "QCTrails launches enhanced website in honor of 10th anniversary",
-      "summary": "QCTrails, the Bi-State Regional Commission and the Quad City Health Initiative launched the newly enhanced site as part of Be Healthy QC.",
-      "url": "https://www.wqad.com/article/news/local/the-current/qctrails-launches-enhanced-website/526-15ab95ee-3d53-4188-8505-68324e1e15d2",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/81d4c3c2-fe63-4178-ac88-df19d6b63d10/20251115T003003/81d4c3c2-fe63-4178-ac88-df19d6b63d10_750x422.jpg",
-      "category": "the-current"
     }
   ]
 }
