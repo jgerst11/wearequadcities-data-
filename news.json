@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-11T22:30:39.787491+00:00",
+  "updated": "2026-11-12T06:09:44.045127+00:00",
   "items": [
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC Environmental Film Series to present free showing of 'Every Little Thing'",
-      "summary": "The QC Environmental Film Series’ eighth season begins with a free film event, the award-winning documentary, “Every Little Thing” on Sunday, Nov. 15, at the Ga…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-environmental-film-series-to-present-free-showing-of-every-little-thing/",
-      "time": "12 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/GettyImages-1344787633.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Rock Island crash sends 1 to hospital",
-      "summary": "Rock Island Police and Fire Departments were called to the intersection of 5th Avenue and 24th Street, near the BP station, on Nov. 11 between 8 – 8:30 a.m. for…",
-      "url": "https://www.ourquadcities.com/news/local-news/rock-island-crash-sends-1-to-hospital/",
-      "time": "28 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/1000031208.jpg?w=720",
-      "category": "Local News"
-    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -38,10 +16,76 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
+      "headline": "Moving car leaves flaming debris in its path before it burns up north of Coventry Place",
+      "summary": "Police and fire crews were on the scene Wednesday after a flaming Audi left burning debris in its wake until it reached the area north of Coventry Place. Firefi…",
+      "url": "https://www.ourquadcities.com/news/local-news/moving-car-leaves-flaming-debris-in-its-path-before-it-burns-up-north-of-coventry-place/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/firepic-1.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hero Street ceremony is among QC Veterans Day observances",
+      "summary": "People gathered Wednesday at Hero Street Memorial Park in Silvis for its annual ceremony to honor all who have served. Hero Street is famous for eight Mexican-A…",
+      "url": "https://www.ourquadcities.com/news/local-news/hero-street-ceremony-is-among-qc-veterans-day-observances/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Veterans-Day-.jpg?w=570",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QCA retirement community celebrates its veterans",
+      "summary": "A retirement community in Davenport celebrated its 41 veteran residents with a special program. Our Quad Cities News photojournalist Gabe Zwierzynski takes us t…",
+      "url": "https://www.ourquadcities.com/news/local-news/qca-retirement-community-celebrates-its-veterans/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_ef303a.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Moline, Silvis water partnership becomes permanent after 3 years of testing",
+      "summary": "Moline began supplying water to parts of Silvis in March of 2023 after years of low water pressure in Silvis and excess capacity at Moline's treatment plant.",
+      "url": "https://www.wqad.com/article/news/local/infrastructure/moline-silvis-water-partnership-permanent-epa-testing-low-pressure-excess-capacity-buy-share-drinking/526-c33eb431-4457-438c-8be1-54cd0a7ac503",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2e544f58-ff28-4d21-b87f-4795b575f260/2e544f58-ff28-4d21-b87f-4795b575f260_750x422.jpg",
+      "category": "infrastructure"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC Environmental Film Series to present free showing of 'Every Little Thing'",
+      "summary": "The QC Environmental Film Series’ eighth season begins with a free film event, the award-winning documentary, “Every Little Thing” on Sunday, Nov. 15, at the Ga…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-environmental-film-series-to-present-free-showing-of-every-little-thing/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/GettyImages-1344787633.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Rock Island crash sends 1 to hospital",
+      "summary": "Rock Island Police and Fire Departments were called to the intersection of 5th Avenue and 24th Street, near the BP station, on Nov. 11 between 8 – 8:30 a.m. for…",
+      "url": "https://www.ourquadcities.com/news/local-news/rock-island-crash-sends-1-to-hospital/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_b0bda3.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-233/",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Damilo-Bilbo-Stetson-Carter-Crime-Stoppers.jpg?w=900",
       "category": "Crime"
     },
@@ -52,20 +96,9 @@
       "headline": "Galesburg Community Schools names 1st woman superintendent",
       "summary": "The Galesburg Community Unit School District is making history with its incoming superintendent. Sheila Coussens-Martin has been named superintendent of Galesbu…",
       "url": "https://www.ourquadcities.com/news/local-news/galesburg-community-schools-names-1st-woman-superintendent/",
-      "time": "2 h ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_bf1c9d.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Moline, Silvis water partnership becomes permanent after 3 years of testing",
-      "summary": "Moline began supplying water to parts of Silvis in March of 2023 after years of low water pressure in Silvis and excess capacity at Moline's treatment plant.",
-      "url": "https://www.wqad.com/article/news/local/infrastructure/moline-silvis-water-partnership-permanent-epa-testing-low-pressure-excess-capacity-buy-share-drinking/526-c33eb431-4457-438c-8be1-54cd0a7ac503",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2e544f58-ff28-4d21-b87f-4795b575f260/2e544f58-ff28-4d21-b87f-4795b575f260_750x422.jpg",
-      "category": "infrastructure"
     },
     {
       "source": "WQAD",
@@ -74,20 +107,9 @@
       "headline": "2 residents and 4 dogs escape from East Moline house fire, displaced due to damage",
       "summary": "East Moline fire crews responded to the 3800 block of 4th Avenue for a house fire on Tuesday morning.",
       "url": "https://www.wqad.com/article/news/local/east-moline-house-fire-tuesday-morning-residents-displaced/526-c8b32bbe-709e-4033-8db2-6b25c98c4d07",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Lee County approves tax benefits for Mesabi steel plant",
-      "summary": "The $15 billion Iowa steel project planned by Mesabi Metallics got a boost this week after the Lee County Board of Supervisors unanimously approved a term sheet…",
-      "url": "https://www.ourquadcities.com/news/local-news/lee-county-approves-tax-benefits-for-mesabi-steel-plant/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/image_a4f06f.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -96,7 +118,7 @@
       "headline": "Veterans Day events and freebies for vets around the Quad Cities",
       "summary": "Parades, ceremonies and free meals for veterans are planned to celebrate area military members this November.",
       "url": "https://www.wqad.com/article/entertainment/events/veterans-day-events-freebies-iowa-illinois-quad-cities-parades-ceremonies/526-373d3070-df90-49a0-b91c-8f03bfb7eb1f",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/81765c80-0567-476d-89c8-272bf927713a/20261106T182532/81765c80-0567-476d-89c8-272bf927713a_750x422.jpg",
       "category": "events"
     },
@@ -107,31 +129,9 @@
       "headline": "Some Veterans Day events canceled, postponed due to weather",
       "summary": "Davenport's annual parade has been canceled due to lightning and pouring rain. Meanwhile, across the river in Silvis, the Hero Street ceremony has been delayed.",
       "url": "https://www.wqad.com/article/news/community/veterans-day-events-quad-cities-cancellations-postponings-weather-morning-storms/526-9100e536-710f-4482-9423-1577e8686864",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/871a7e54-c686-4003-9b44-469a3c0a53c2/20261111T165059/871a7e54-c686-4003-9b44-469a3c0a53c2_750x422.jpg",
       "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Date set for reopening of Captain’s Table in Moline",
-      "summary": "The owners of Stumphy's Restaurant and Bar in Geneseo took over the restaurant and revived the Captain's Table name. It's set to reopen on Nov. 17.",
-      "url": "https://www.wqad.com/article/news/local/captains-table-reopening-date-set-moline/526-56154a35-2b4d-4d35-a984-5409247a2fcf",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/407d5d35-048c-414b-9171-f182af5a4ef4/20260924T032324/407d5d35-048c-414b-9171-f182af5a4ef4_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Flip's Pancake House owners opening new restaurant at former Rudy's Tacos in Rock Island",
-      "summary": "Owners say RockTown Diner will serve up homestyle cooking and classic comfort foods.",
-      "url": "https://www.wqad.com/article/news/local/flips-pancake-house-new-restaurant-rocktown-diner-former-home-rudys-tacos-rock-island/526-4e079168-4164-47b5-b0b1-c500ffb16c92",
-      "time": "18 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/afe330de-4915-46d0-a13d-bdbfc7a33ed4/20261111T005924/afe330de-4915-46d0-a13d-bdbfc7a33ed4_750x422.jpg",
-      "category": "local"
     }
   ]
 }
