@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-12T06:09:44.045127+00:00",
+  "updated": "2026-11-12T16:38:06.721943+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Quad Cities figure skater Sydney Struss qualifies for fourth trip to sectionals",
+      "summary": "Sydney Struss, 19, will represent the Figure Skating Club of the Quad Cities at the senior level, the highest level of competition in figure skating.",
+      "url": "https://www.wqad.com/article/news/local/quad-cities-figure-skater-sydney-struss-qualifies-for-sectionals/526-43cd8b30-1367-42fe-a466-ee91d0111de9",
+      "time": "5 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/af8d0911-823d-4c54-a675-72f636858cf9/20261112T163120/af8d0911-823d-4c54-a675-72f636858cf9_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Community Foundation of Muscatine awards $162,400 in health-support grants",
+      "summary": "The Community Foundation of Greater Muscatine is pleased to announce the awarding of $162,400 in grants to support local charitable programs and projects throug…",
+      "url": "https://www.ourquadcities.com/news/local-news/community-foundation-of-muscatine-awards-162400-in-health-support-grants/",
+      "time": "38 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_b094a0.png?w=623",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "iLLUMINATE Holiday Light Show will move locations in Muscatine with new displays",
+      "summary": "A favorite holiday tradition will return with a whole new look, a news release says. The fourth annual iLLUMINATE Holiday Light Show is moving to Kent-Stein Par…",
+      "url": "https://www.ourquadcities.com/news/local-news/illuminate-holiday-light-show-will-move-locations-in-muscatine-with-new-displays/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/iLLUMINATE-Grinch-.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +41,7 @@
       "headline": "Lee County, Iowa approves tax incentive framework for proposed $15B Mesabi steel plant",
       "summary": "Lee County supervisors unanimously approved a tax incentive term sheet and resolution supporting Mesabi Metallics' proposed $15 billion steel complex.",
       "url": "https://www.wqad.com/article/news/local/iowa-steel-plant-tax-incentive-framework-approved-lee-county/526-f078629a-1ded-40fc-b9e6-0b1d9a171c35",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/84ae1a0c-7c6e-4d79-8613-119af7e3e83c/20260929T032946/84ae1a0c-7c6e-4d79-8613-119af7e3e83c_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +52,7 @@
       "headline": "Moving car leaves flaming debris in its path before it burns up north of Coventry Place",
       "summary": "Police and fire crews were on the scene Wednesday after a flaming Audi left burning debris in its wake until it reached the area north of Coventry Place. Firefi…",
       "url": "https://www.ourquadcities.com/news/local-news/moving-car-leaves-flaming-debris-in-its-path-before-it-burns-up-north-of-coventry-place/",
-      "time": "1 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/firepic-1.png?w=900",
       "category": "Local News"
     },
@@ -30,19 +63,8 @@
       "headline": "Hero Street ceremony is among QC Veterans Day observances",
       "summary": "People gathered Wednesday at Hero Street Memorial Park in Silvis for its annual ceremony to honor all who have served. Hero Street is famous for eight Mexican-A…",
       "url": "https://www.ourquadcities.com/news/local-news/hero-street-ceremony-is-among-qc-veterans-day-observances/",
-      "time": "2 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Veterans-Day-.jpg?w=570",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QCA retirement community celebrates its veterans",
-      "summary": "A retirement community in Davenport celebrated its 41 veteran residents with a special program. Our Quad Cities News photojournalist Gabe Zwierzynski takes us t…",
-      "url": "https://www.ourquadcities.com/news/local-news/qca-retirement-community-celebrates-its-veterans/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_ef303a.png?w=900",
       "category": "Local News"
     },
     {
@@ -52,7 +74,7 @@
       "headline": "Moline, Silvis water partnership becomes permanent after 3 years of testing",
       "summary": "Moline began supplying water to parts of Silvis in March of 2023 after years of low water pressure in Silvis and excess capacity at Moline's treatment plant.",
       "url": "https://www.wqad.com/article/news/local/infrastructure/moline-silvis-water-partnership-permanent-epa-testing-low-pressure-excess-capacity-buy-share-drinking/526-c33eb431-4457-438c-8be1-54cd0a7ac503",
-      "time": "6 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/2e544f58-ff28-4d21-b87f-4795b575f260/2e544f58-ff28-4d21-b87f-4795b575f260_750x422.jpg",
       "category": "infrastructure"
     },
@@ -63,7 +85,7 @@
       "headline": "QC Environmental Film Series to present free showing of 'Every Little Thing'",
       "summary": "The QC Environmental Film Series’ eighth season begins with a free film event, the award-winning documentary, “Every Little Thing” on Sunday, Nov. 15, at the Ga…",
       "url": "https://www.ourquadcities.com/news/local-news/qc-environmental-film-series-to-present-free-showing-of-every-little-thing/",
-      "time": "7 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/GettyImages-1344787633.jpg?w=900",
       "category": "Local News"
     },
@@ -74,7 +96,7 @@
       "headline": "Rock Island crash sends 1 to hospital",
       "summary": "Rock Island Police and Fire Departments were called to the intersection of 5th Avenue and 24th Street, near the BP station, on Nov. 11 between 8 – 8:30 a.m. for…",
       "url": "https://www.ourquadcities.com/news/local-news/rock-island-crash-sends-1-to-hospital/",
-      "time": "8 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_b0bda3.png?w=900",
       "category": "Local News"
     },
@@ -85,53 +107,9 @@
       "headline": "Have you seen these suspects? Crime Stoppers wants to know!",
       "summary": "Crime Stoppers of the Quad Cities wants your help catching two fugitives.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for informatio…",
       "url": "https://www.ourquadcities.com/news/crime/have-you-seen-these-suspects-crime-stoppers-wants-to-know-233/",
-      "time": "9 h ago",
+      "time": "20 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Damilo-Bilbo-Stetson-Carter-Crime-Stoppers.jpg?w=900",
       "category": "Crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Galesburg Community Schools names 1st woman superintendent",
-      "summary": "The Galesburg Community Unit School District is making history with its incoming superintendent. Sheila Coussens-Martin has been named superintendent of Galesbu…",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-community-schools-names-1st-woman-superintendent/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_bf1c9d.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "2 residents and 4 dogs escape from East Moline house fire, displaced due to damage",
-      "summary": "East Moline fire crews responded to the 3800 block of 4th Avenue for a house fire on Tuesday morning.",
-      "url": "https://www.wqad.com/article/news/local/east-moline-house-fire-tuesday-morning-residents-displaced/526-c8b32bbe-709e-4033-8db2-6b25c98c4d07",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd/20260201T210111/c17e355a-8f18-40d1-a1d1-72cc7e5c3fcd_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Veterans Day events and freebies for vets around the Quad Cities",
-      "summary": "Parades, ceremonies and free meals for veterans are planned to celebrate area military members this November.",
-      "url": "https://www.wqad.com/article/entertainment/events/veterans-day-events-freebies-iowa-illinois-quad-cities-parades-ceremonies/526-373d3070-df90-49a0-b91c-8f03bfb7eb1f",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/81765c80-0567-476d-89c8-272bf927713a/20261106T182532/81765c80-0567-476d-89c8-272bf927713a_750x422.jpg",
-      "category": "events"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Some Veterans Day events canceled, postponed due to weather",
-      "summary": "Davenport's annual parade has been canceled due to lightning and pouring rain. Meanwhile, across the river in Silvis, the Hero Street ceremony has been delayed.",
-      "url": "https://www.wqad.com/article/news/community/veterans-day-events-quad-cities-cancellations-postponings-weather-morning-storms/526-9100e536-710f-4482-9423-1577e8686864",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/871a7e54-c686-4003-9b44-469a3c0a53c2/20261111T165059/871a7e54-c686-4003-9b44-469a3c0a53c2_750x422.jpg",
-      "category": "community"
     }
   ]
 }
