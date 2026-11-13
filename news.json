@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-13T11:55:47.752205+00:00",
+  "updated": "2026-11-13T19:22:14.948893+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "1 dead, suspect arrested after fatal shooting in Galesburg",
-      "summary": "Officers responded to the 200 block of Cottage Avenue on Thursday for reports of shots fired. An adult man with gunshot wounds was declared dead at the scene.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/galesburg-police-response-pearl-east-south-street/526-c1347c43-773a-4674-9742-91d255745167",
-      "time": "7 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d03bcae3-0cae-4985-8db4-57110dffba02/20261113T020327/d03bcae3-0cae-4985-8db4-57110dffba02_750x422.jpg",
-      "category": "public-safety"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Cold weekend for the Quad Cities",
+      "summary": "The coldest air of the season is settling in this weekend.",
+      "url": "https://www.ourquadcities.com/news/local-news/cold-weekend-for-the-quad-cities/",
+      "time": "6 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,7 +19,7 @@
       "headline": "Wilton student earns scholarship to Iowa State University",
       "summary": "Dematic, a global leader in supply chain automation, has announced the recipients of its 2026 Dematic FIRST® Scholarship program after National STEM Day on Nov.…",
       "url": "https://www.ourquadcities.com/news/local-news/wilton-student-earns-scholarship-to-iowa-state-university/",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/02/STEM-generic.jpg?w=900",
       "category": "Local News"
     },
@@ -27,111 +27,23 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Jo Daviess County ranks first in 2026 turkey-harvest numbers",
-      "summary": "Jo Daviess County ranked first in 2026 turkey-harvest numbers for the state, according to a news release. Turkey hunters in Illinois harvested a preliminary tot…",
-      "url": "https://www.ourquadcities.com/news/local-news/jo-daviess-county-ranks-first-in-2026-turkey-harvest-numbers/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/69286548c9c683.32976207-e1777669559979.jpeg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Galesburg police investigate fatal shooting",
-      "summary": "Galesburg police are investigating a fatal shooting that happened shortly after 2:30 p.m. Thursday on the 200 block of Cottage Avenue, according to a news relea…",
+      "headline": "Man arrested after Galesburg fatal shooting",
+      "summary": "UPDATE: Galesburg Police have made an arrest in connection with yesterday’s fatal shooting in Galesburg and the victim has been identified, according to a news …",
       "url": "https://www.ourquadcities.com/news/local-news/galesburg-police-investigate-fatal-shooting/",
-      "time": "9 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/07/fatal-shooting.jpg?w=900",
+      "time": "16 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Joshua-Newburn-mug-shot-1.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine considers demolishing entire downtown block after buildings collapse",
-      "summary": "Muscatine city leaders are considering demolishing all buildings on the 200 block of East Second Street after stabilization costs came in higher than expected.",
-      "url": "https://www.wqad.com/article/news/local/infrastructure/downtown-muscatine-buildings-collapse-200-east-second-street-block-future-city-council-meeting/526-51924ecc-1982-4acb-af44-b8843f2af169",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c42b9c10-d414-4776-bb0f-9786de526ba4/20261113T002428/c42b9c10-d414-4776-bb0f-9786de526ba4_750x422.jpg",
-      "category": "infrastructure"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Iowa and Illinois work to cut down on robocalls",
-      "summary": "Illinois and Iowa are taking steps to cut down on robocalls. Attorneys general Kwame Raoul and Brenna Bird joined a coalition of 49 state attorneys general to p…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-and-illinois-work-to-cut-down-on-robocalls/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_4724b1.png?w=900",
+      "headline": "Arrest made after moving car leaves flaming debris in its path",
+      "summary": "UPDATE: An email from the Bettendorf Police Department has more information on the vehicle leaving flaming debris as it drove through the city. The defendant, i…",
+      "url": "https://www.ourquadcities.com/news/local-news/moving-car-leaves-flaming-debris-in-its-path-before-it-burns-up-north-of-coventry-place/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/firepic-1.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Officials working to curb any major disruptions to repair Highway 92 bridge in Muscatine",
-      "summary": "The bridge is scheduled for repairs next year that could take four to six weeks. The Iowa Department of Transportation is looking to limit any major disruption.",
-      "url": "https://www.wqad.com/article/traffic/bridges/highway-92-bridge-muscatine-iowa-repairs/526-694c8160-fcf8-4d49-8834-b701033269bd",
-      "time": "10 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/50afccc7-efbd-4604-8362-e16dc3537265/20261113T000822/50afccc7-efbd-4604-8362-e16dc3537265_750x422.jpg",
-      "category": "bridges"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois restrictions on THC product sales begin",
-      "summary": "Illinois has implemented stricter regulations on stores selling THC products containing over 0.4 milligrams to protect children and ensure consumer safety.",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-restrictions-on-thc-product-sales-begin/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_c2a297.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Quad Cities program helps first responders reach seniors faster during emergencies",
-      "summary": "Applications are now being accepted for the S.A.F.E.R. program, which gives seniors a kit to help first responders reach them faster when every second counts.",
-      "url": "https://www.wqad.com/article/news/local/the-current/quad-cities-seniors-safer-program-first-responders-emergencies-kit/526-4b194c14-3b69-42ab-b1f5-59e59a0c3b5b",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e1a7f43c-3359-4faf-8de0-7b04afdaedb6/20261113T000908/e1a7f43c-3359-4faf-8de0-7b04afdaedb6_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "The Heart of the Story: Sacrifice and service",
-      "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
-      "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-sacrifice-and-service/",
-      "time": "11 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/heart.jpg?w=900",
-      "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Man charged with arson following house fire in Galesburg",
-      "summary": "45-year-old Joshua Corcoran has been charged with residential arson.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/man-charged-arson-galesburg-house-fire/526-381520ae-2512-4895-8697-bbd0e7eb586b",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/09a027eb-50de-4a39-9930-7f3120057eed/09a027eb-50de-4a39-9930-7f3120057eed_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Phoebe Bridgers, Slayyyter and Billy Strings to headline Hinterland in 2027",
-      "summary": "Hinterland is bringing big names to central Iowa this summer as it returns to a three-day schedule.",
-      "url": "https://www.wqad.com/article/entertainment/music/hinterland-lineup-2027-phoebe-bridgers-slayyyter-billy-strings-headline-festival/524-9e376817-8368-4f44-9431-640463e9ed8e",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/b55414e6-4af8-4fd1-a9d8-0e758c87192f/20261111T224842/b55414e6-4af8-4fd1-a9d8-0e758c87192f_750x422.jpg",
-      "category": "music"
     }
   ]
 }
