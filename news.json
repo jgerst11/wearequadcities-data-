@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-14T11:15:00.638689+00:00",
+  "updated": "2026-11-14T17:44:20.198855+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois Pork Producers donate more than 100,000 pounds of pork to food banks",
+      "summary": "As part of the Pork Power: Partnering to Fight Hunger in Illinois campaign, the Illinois PorkProducers Association (IPPA), Feeding Illinois, Illinois Corn Marke…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-pork-producers-donate-more-than-100000-pounds-of-pork-to-food-banks/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Illinois-Pork-Producers-Association.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "WIU alumna Coussens-Martin becomes first woman to lead Galesburg school district",
+      "summary": "Western Illinois University three-time alumna Sheila Coussens-Martin has been named superintendent of Galesburg Community Unit School District 205, becoming the…",
+      "url": "https://www.ourquadcities.com/news/local-news/wiu-alumna-coussens-martin-becomes-first-woman-to-lead-galesburg-school-district/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sheila-Coussens-Martin-2.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +30,7 @@
       "headline": "Travelers at Quad Cities International Airport change plans after FAA ground stoppage on Friday night",
       "summary": "Though the stoppage has now been lifted, many passengers had to be flexible.",
       "url": "https://www.wqad.com/article/news/local/faa-ground-stoppage-quad-cities-travelers-change-plans-friday-night/526-37fff70c-d059-489a-b06b-ed2548512976",
-      "time": "6 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae/20261114T040527/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae_750x422.jpg",
       "category": "local"
     },
@@ -19,19 +41,8 @@
       "headline": "OQC Crime Watch: How to keep yourself safe from scams: Episode 89",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode t…",
       "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-how-to-keep-yourself-safe-from-scams-episode-89/",
-      "time": "7 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/scam-alert-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "QC Transportation Policy Committee awards over $30 million in grants to local projects",
-      "summary": "The Quad Cities Transportation Policy Committee awarded $30,621,411 of Surface Transportation Block Grant, Transportation Alternatives Set-Aside, &#38; Carbon R…",
-      "url": "https://www.ourquadcities.com/news/local-news/qc-transportation-policy-committee-awards-over-30-million-in-grants-to-local-projects/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/06/Bi-State-Regional-Commission.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +52,7 @@
       "headline": "Quad Cities International Airport among airports impacted by now-lifted FAA ground stoppage",
       "summary": "While the stoppage has now been lifted, QCIA officials said travelers should still reach out to their airlines for information on delays or cancellations.",
       "url": "https://www.wqad.com/article/news/local/faa-ground-stoppage-quad-cities-international-airport-impacts/526-5dfedfd6-6bd9-4331-b69c-f65c972d1c97",
-      "time": "9 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e8fdaab4-8139-4389-99b2-3d5164d50329/20261113T223346/e8fdaab4-8139-4389-99b2-3d5164d50329_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +63,7 @@
       "headline": "Captain's Table, Moline, set to reopen under new ownership",
       "summary": "Moline's Captain's Table restaurant will make a comeback under new ownership. Jason and Amy Stumphy, owners of Stumphy's in Geneseo, will reopen the restaurant …",
       "url": "https://www.ourquadcities.com/news/local-news/stumphys-captains-table-moline-set-to-reopen/",
-      "time": "10 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Stumphys-Captains-Table-Moline.jpg?w=720",
       "category": "Local News"
     },
@@ -63,7 +74,7 @@
       "headline": "What would be lost if Muscatine goes ahead with demolishing the 200 block of East Second Street?",
       "summary": "The block has 15 properties that include commercial, retail and residential spaces. In total, there's over 42,000 square feet of space at risk.",
       "url": "https://www.wqad.com/article/news/local/what-would-be-lost-muscatine-demolishes-200-block-east-second-street/526-e5438714-cd6a-4c4a-8b38-9f26ad672287",
-      "time": "11 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0a4de8b7-9f49-407b-8192-e7edd604ca1c/20261113T231148/0a4de8b7-9f49-407b-8192-e7edd604ca1c_750x422.jpg",
       "category": "local"
     },
@@ -74,20 +85,9 @@
       "headline": "Iowa vs Purdue under the lights Saturday, here's what you need to know",
       "summary": "While the Hawkeyes prepare to face the Purdue Boilermakers, College Football Playoff talk has taken up most of the dialogue this week. What is Iowa's chance of …",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/iowa-vs-purdue-under-the-lights-saturday-heres-what-you-need-to-know/",
-      "time": "11 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2253596332.jpg?w=900",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "How you can help make holiday magic with Toys for Tots Quad Cities",
-      "summary": "You can help make the holidays brighter for children across the QCA, one toy at a time! Sarah Decker joined Our Quad Cities News to talk about this year's Toys …",
-      "url": "https://www.ourquadcities.com/news/local-news/how-you-can-help-make-holiday-magic-with-toys-for-tots-quad-cities/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_62a88a.png?w=900",
-      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -96,7 +96,7 @@
       "headline": "UPDATE: FAA lifts nationwide ground stop for airports, including QC International",
       "summary": "UPDATE: The Federal Aviation Administration (FAA) ground stop has been lifted, according to Quad Cities International Airport, which says passengers should cont…",
       "url": "https://www.ourquadcities.com/news/local-news/federal-aviation-administration-issues-nationwide-ground-stop/",
-      "time": "13 h ago",
+      "time": "19 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_dc50e1.png?w=900",
       "category": "Local News"
     },
@@ -107,7 +107,7 @@
       "headline": "Rock Island police arrest suspect in October shooting at Cornerview Gas Station",
       "summary": "Rock Island police arrest suspect in Cornerview Gas Station shooting that critically injured man in October.",
       "url": "https://www.wqad.com/article/news/crime/rock-island-suspect-arrested-october-shooting-cornerview/526-07402b87-6c43-47ca-8478-0adfb7136204",
-      "time": "15 h ago",
+      "time": "21 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
       "category": "crime"
     },
@@ -118,7 +118,7 @@
       "headline": "Galesburg police identify suspect, victim in fatal shooting; murder charge filed",
       "summary": "Police identify a Galesburg murder suspect and victim after a Thursday shooting. The suspect is jailed on a first-degree murder charge.",
       "url": "https://www.wqad.com/article/news/local/public-safety/galesburg-police-response-pearl-east-south-street/526-c1347c43-773a-4674-9742-91d255745167",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e2e64b6a-6b8e-489b-a79a-2ccd3754388b/20261113T161116/e2e64b6a-6b8e-489b-a79a-2ccd3754388b_750x422.jpg",
       "category": "public-safety"
     },
