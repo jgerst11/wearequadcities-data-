@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-14T23:42:14.141303+00:00",
+  "updated": "2026-11-15T05:18:07.227622+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes roll past Purdue to improve to 8-2",
+      "summary": "Hank Brown threw for a touchdown and ran for another, LJ Phillips rushed for 123 yards and No. 16 Iowa beat Purdue 28-7 on Saturday night. The Hawkeyes (8-2, 5-…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-roll-past-purdue-to-improve-to-8-2/",
+      "time": "45 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Screenshot-2026-11-14-10.25.00-PM.png?w=764",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Evacuation order to remain in place in Illinois' Peoria, East Peoria after 'credible threat'",
+      "summary": "Peoria and East Peoria authorities ordered an immediate evacuation of a one-square-mile area near Biourja following the discovery of a suspicious package.",
+      "url": "https://www.ourquadcities.com/news/local-news/evacuation-order-to-remain-in-place-in-illinois-peoria-east-peoria-after-credible-threat/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/police-lights-crime-criminal-generic-2-1-1-1-e1743012814538_9ed1ee.jpg?w=800",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Crews battle fire at Allsteel plant in Muscatine",
+      "summary": "No injuries were reported following a fire at the Allsteel plant in Muscatine. According to a release from the Muscatine Fire Department, the Muscatine Joint Co…",
+      "url": "https://www.ourquadcities.com/news/local-news/crews-battle-fire-at-allsteel-plant-in-muscatine/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/09/fire-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Travelers return to the skies at Quad Cities International Airport after FAA ground stoppage",
+      "summary": "Travelers at Quad Cities International Airport are getting back on the move after a national FAA ground stoppage caused uncertainty and travel disruptions.",
+      "url": "https://www.wqad.com/article/news/community/travelers-return-to-the-skies-at-quad-cities-international-airport-after-faa-ground-stoppage/526-86e1c207-6b0c-4b28-8a75-aaa73c28c8a8",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/dd1b13e3-5dc0-4cd7-97e7-805d3dfb75e0/20261115T001837/dd1b13e3-5dc0-4cd7-97e7-805d3dfb75e0_750x422.jpg",
+      "category": "community"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Fire at Allsteel plant in Muscatine damages rooftop equipment; no injuries reported",
       "summary": "Firefighters brought a roof fire at Allsteel's Muscatine facility under control within minutes Saturday.",
       "url": "https://www.wqad.com/article/news/community/no-injuries-in-fire-at-allsteel-plant-in-muscatine/526-964a91dc-1d6d-48f8-acc2-8e376b7d4337",
-      "time": "49 min ago",
+      "time": "5 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ae6c6b21-56cd-4af5-8a4d-1df9b21a14ff/20261114T224729/ae6c6b21-56cd-4af5-8a4d-1df9b21a14ff_750x422.jpg",
       "category": "community"
     },
@@ -19,7 +63,7 @@
       "headline": "Illinois Pork Producers donate more than 100,000 pounds of pork to food banks",
       "summary": "As part of the Pork Power: Partnering to Fight Hunger in Illinois campaign, the Illinois PorkProducers Association (IPPA), Feeding Illinois, Illinois Corn Marke…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-pork-producers-donate-more-than-100000-pounds-of-pork-to-food-banks/",
-      "time": "8 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/Illinois-Pork-Producers-Association.jpg?w=900",
       "category": "Local News"
     },
@@ -30,8 +74,8 @@
       "headline": "WIU alumna Coussens-Martin becomes first woman to lead Galesburg school district",
       "summary": "Western Illinois University three-time alumna Sheila Coussens-Martin has been named superintendent of Galesburg Community Unit School District 205, becoming the…",
       "url": "https://www.ourquadcities.com/news/local-news/wiu-alumna-coussens-martin-becomes-first-woman-to-lead-galesburg-school-district/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sheila-Coussens-Martin-2.jpg?w=900",
+      "time": "14 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_bf1c9d.png?w=900",
       "category": "Local News"
     },
     {
@@ -41,7 +85,7 @@
       "headline": "Travelers at Quad Cities International Airport change plans after FAA ground stoppage on Friday night",
       "summary": "Though the stoppage has now been lifted, many passengers had to be flexible.",
       "url": "https://www.wqad.com/article/news/local/faa-ground-stoppage-quad-cities-travelers-change-plans-friday-night/526-37fff70c-d059-489a-b06b-ed2548512976",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae/20261114T040527/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae_750x422.jpg",
       "category": "local"
     },
@@ -52,8 +96,19 @@
       "headline": "OQC Crime Watch: How to keep yourself safe from scams: Episode 89",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode t…",
       "url": "https://www.ourquadcities.com/news/local-news/oqc-crime-watch-how-to-keep-yourself-safe-from-scams-episode-89/",
-      "time": "19 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/scam-alert-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "QC Transportation Policy Committee awards over $30 million in grants to local projects",
+      "summary": "The Quad Cities Transportation Policy Committee awarded $30,621,411 of Surface Transportation Block Grant, Transportation Alternatives Set-Aside, &#38; Carbon R…",
+      "url": "https://www.ourquadcities.com/news/local-news/qc-transportation-policy-committee-awards-over-30-million-in-grants-to-local-projects/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/06/Bi-State-Regional-Commission.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -63,20 +118,9 @@
       "headline": "Quad Cities International Airport among airports impacted by now-lifted FAA ground stoppage",
       "summary": "While the stoppage has now been lifted, QCIA officials said travelers should still reach out to their airlines for information on delays or cancellations.",
       "url": "https://www.wqad.com/article/news/local/faa-ground-stoppage-quad-cities-international-airport-impacts/526-5dfedfd6-6bd9-4331-b69c-f65c972d1c97",
-      "time": "21 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e8fdaab4-8139-4389-99b2-3d5164d50329/20261113T223346/e8fdaab4-8139-4389-99b2-3d5164d50329_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Captain's Table, Moline, set to reopen under new ownership",
-      "summary": "Moline's Captain's Table restaurant will make a comeback under new ownership. Jason and Amy Stumphy, owners of Stumphy's in Geneseo, will reopen the restaurant …",
-      "url": "https://www.ourquadcities.com/news/local-news/stumphys-captains-table-moline-set-to-reopen/",
-      "time": "23 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Stumphys-Captains-Table-Moline.jpg?w=720",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,53 +129,9 @@
       "headline": "What would be lost if Muscatine goes ahead with demolishing the 200 block of East Second Street?",
       "summary": "The block has 15 properties that include commercial, retail and residential spaces. In total, there's over 42,000 square feet of space at risk.",
       "url": "https://www.wqad.com/article/news/local/what-would-be-lost-muscatine-demolishes-200-block-east-second-street/526-e5438714-cd6a-4c4a-8b38-9f26ad672287",
-      "time": "23 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0a4de8b7-9f49-407b-8192-e7edd604ca1c/20261113T231148/0a4de8b7-9f49-407b-8192-e7edd604ca1c_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa vs Purdue under the lights Saturday, here's what you need to know",
-      "summary": "While the Hawkeyes prepare to face the Purdue Boilermakers, College Football Playoff talk has taken up most of the dialogue this week. What is Iowa's chance of …",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/iowa-vs-purdue-under-the-lights-saturday-heres-what-you-need-to-know/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/09/GettyImages-2253596332.jpg?w=900",
-      "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "UPDATE: FAA lifts nationwide ground stop for airports, including QC International",
-      "summary": "UPDATE: The Federal Aviation Administration (FAA) ground stop has been lifted, according to Quad Cities International Airport, which says passengers should cont…",
-      "url": "https://www.ourquadcities.com/news/local-news/federal-aviation-administration-issues-nationwide-ground-stop/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_dc50e1.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island police arrest suspect in October shooting at Cornerview Gas Station",
-      "summary": "Rock Island police arrest suspect in Cornerview Gas Station shooting that critically injured man in October.",
-      "url": "https://www.wqad.com/article/news/crime/rock-island-suspect-arrested-october-shooting-cornerview/526-07402b87-6c43-47ca-8478-0adfb7136204",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_750x422.jpg",
-      "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Man arrested after Galesburg fatal shooting",
-      "summary": "UPDATE: Galesburg Police have made an arrest in connection with yesterday’s fatal shooting in Galesburg and the victim has been identified, according to a news …",
-      "url": "https://www.ourquadcities.com/news/local-news/galesburg-police-investigate-fatal-shooting/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Joshua-Newburn-mug-shot-1.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
