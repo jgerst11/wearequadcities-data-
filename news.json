@@ -1,16 +1,38 @@
 {
-  "updated": "2026-11-16T05:15:44.055018+00:00",
+  "updated": "2026-11-16T18:01:37.066364+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad Cities Card Show unites collectors, families",
-      "summary": "The Quad Cities Card Show drew 140 dealers and hundreds of collectors to Rhythm City Casino on Sunday.",
-      "url": "https://www.wqad.com/article/news/local/quad-cities-card-show-unites-collectors-families/526-42fea47d-7f50-4189-b5fa-86b3cee35af9",
-      "time": "41 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/aa4c897c-2376-47ca-a5a1-ee09dc9f43c6/20261115T225125/aa4c897c-2376-47ca-a5a1-ee09dc9f43c6_750x422.jpg",
-      "category": "local"
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Tim McCloud retiring as Rock Island Police Chief",
+      "summary": "Rock Island Police Chief Tim McCloud is retiring from the police department after over 32 years, effective Dec. 30. Chief McCloud was appointed chief of police …",
+      "url": "https://www.ourquadcities.com/news/local-news/tim-mccloud-retiring-as-rock-island-police-chief/",
+      "time": "1 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_f7dec9.png?w=464",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline updates downtown construction projects",
+      "summary": "Moline is pausing one downtown road work project for the winter as it finishes up another. A post on the City of Moline’s Facebook page said construction on the…",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-updates-downtown-construction-projects/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton Fire deals with melted power lines during fire",
+      "summary": "Clinton firefighters had to deal with melted overhead power lines while battling a fire yesterday morning. A news release from the Clinton Fire Department said …",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-fire-deals-with-melted-power-lines-during-fire/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Clinton-Fire-Department.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -19,119 +41,20 @@
       "headline": "Iowa measles cases on the rise",
       "summary": "DES MOINES, Iowa -- Days after a new measles case was confirmed in Polk County, the Iowa HHS announced 53 measles cases have been identified. The Iowa Departmen…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-measles-cases-on-the-rise/",
-      "time": "1 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/GettyImages-1196157315-e1706646492255.jpg?w=800",
       "category": "Local News"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Army plans controlled explosions; some Middletown residents urged to evacuate",
-      "summary": "Residents near the Iowa Army Ammunition Plant are being asked to leave Nov. 20 during two controlled detonations that could cause window damage.",
-      "url": "https://www.wqad.com/article/news/local/army-plans-controlled-explosions-middletown/526-ca38d03f-6d1f-4f92-9c6c-abe2dcf67c94",
-      "time": "6 h ago",
-      "image": "https://media.tegna-media.com/assets/KING/images/1595ac3b-53c5-4184-b9ce-c6c7a3bc9aa0/1595ac3b-53c5-4184-b9ce-c6c7a3bc9aa0_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Pesky IceCats top Storm again; end Quad City's 6-game win streak",
-      "summary": "Taking four of six points over the weekend, but an overtime loss to visiting Pee Dee stings for QC Storm.",
-      "url": "https://qctimes.com/sports/professional/article_243275d4-88b4-4339-af56-f704fcb7e497.html",
-      "time": "7 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/12/c12f6926-d3aa-454e-b10a-5e73ca23f8a8/6af93c7ee01e8.image.jpg?resize=300%2C182",
-      "category": ""
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Halpin confident data center regulations will pass in Illinois veto session",
-      "summary": "Illinois state lawmakers will begin their short veto session soon. They are scheduled to be in session for three days next week and three days in early December…",
-      "url": "https://www.ourquadcities.com/news/4-the-record/halpin-confident-data-center-regulations-will-pass-in-illinois-veto-session/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/4TR-A-BLOCK-1.jpg?w=900",
-      "category": "4 The Record"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hawkeyes roll past Purdue to improve to 8-2",
-      "summary": "Hank Brown threw for a touchdown and ran for another, LJ Phillips rushed for 123 yards and No. 16 Iowa beat Purdue 28-7 on Saturday night. The Hawkeyes (8-2, 5-…",
-      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-roll-past-purdue-to-improve-to-8-2/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Screenshot-2026-11-14-10.25.00-PM.png?w=764",
+      "headline": "Hawkeyes' dynamic rushing attack powers offense yet again",
+      "summary": "Earlier in the 2020s, the Iowa Hawkeye offense seemed to be ultra predictable. Which led to a lot of uninspiring performances from the offense. With Tim Lester …",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-dynamic-rushing-attack-powers-offense-yet-again/",
+      "time": "15 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/iowa-running-backs.png?w=599",
       "category": "Hawkeye Headquarters"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Travelers return to the skies at Quad Cities International Airport after FAA ground stoppage",
-      "summary": "Travelers at Quad Cities International Airport are getting back on the move after a national FAA ground stoppage caused uncertainty and travel disruptions.",
-      "url": "https://www.wqad.com/article/news/community/travelers-return-to-the-skies-at-quad-cities-international-airport-after-faa-ground-stoppage/526-86e1c207-6b0c-4b28-8a75-aaa73c28c8a8",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dd1b13e3-5dc0-4cd7-97e7-805d3dfb75e0/20261115T001837/dd1b13e3-5dc0-4cd7-97e7-805d3dfb75e0_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Fire at Allsteel plant in Muscatine damages rooftop equipment; no injuries reported",
-      "summary": "Firefighters brought a roof fire at Allsteel's Muscatine facility under control within minutes Saturday.",
-      "url": "https://www.wqad.com/article/news/community/no-injuries-in-fire-at-allsteel-plant-in-muscatine/526-964a91dc-1d6d-48f8-acc2-8e376b7d4337",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/ae6c6b21-56cd-4af5-8a4d-1df9b21a14ff/20261114T224729/ae6c6b21-56cd-4af5-8a4d-1df9b21a14ff_750x422.jpg",
-      "category": "community"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Commission announces $30M in grants for Quad-City transportation projects",
-      "summary": "The Bi-State Regional Commission has announced $30 million in grants to support projects in both the Iowa and Illinois Quad-Cities.",
-      "url": "https://qctimes.com/news/local/article_a57b4513-f7d7-4aeb-9c00-06b782c72cbf.html",
-      "time": "1d ago",
-      "image": "",
-      "category": ""
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Plenty of optimism at Davenport Optimist MAC girls’ basketball luncheon",
-      "summary": "The luncheon unofficially opened the season with jokes, birthday shout-outs, a warm welcome and recognition of the Davenport Noon Optimist Club.",
-      "url": "https://qctimes.com/sports/high-school/basketball/girls/article_841c4e96-871e-48e8-a2d2-7e089be3c2ca.html",
-      "time": "1d ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/8b/f8b57153-8e2f-47c4-b8c4-b0fe5693329e/6af7a71a82470.image.jpg?resize=300%2C105",
-      "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Travelers at Quad Cities International Airport change plans after FAA ground stoppage on Friday night",
-      "summary": "Though the stoppage has now been lifted, many passengers had to be flexible.",
-      "url": "https://www.wqad.com/article/news/local/faa-ground-stoppage-quad-cities-travelers-change-plans-friday-night/526-37fff70c-d059-489a-b06b-ed2548512976",
-      "time": "2d ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae/20261114T040527/afd52de7-7f70-4cfd-b09a-4e9cbf09cbae_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "FAA lifts ground stop; Quad-Cities travelers face delays, cancellations",
-      "summary": "FAA’s ground stop was lifted Friday evening, but a Senegal-bound traveler’s flight, among others at the Quad Cities International Airport, had already been canc…",
-      "url": "https://qctimes.com/news/local/article_0dc32338-3bc1-49f9-8744-68edd01aa8fe.html",
-      "time": "2d ago",
-      "image": "",
-      "category": ""
     }
   ]
 }
