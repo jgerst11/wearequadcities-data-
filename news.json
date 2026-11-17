@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-17T02:48:03.819828+00:00",
+  "updated": "2026-11-17T12:50:30.746511+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Warming trend continues for the Quad Cities",
+      "summary": "Above average temperatures are on tap for the rest of the week. No rain is expected until we get to the weekend. Here's your full 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/warming-trend-continues-for-the-quad-cities/",
+      "time": "10 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/warm-weather-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Bettendorf wants your help naming its new Zamboni",
+      "summary": "After the city collected nearly 100 suggestions from the community, the top 10 now go to a public vote. The survey will be open through Sunday, Nov. 22.",
+      "url": "https://www.wqad.com/article/news/local/bettendorf-zamboni-name-vote-community/526-36ef5afd-d51e-4bde-8bd9-90b1097c20e5",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f3578b3c-2473-4543-97dc-ee264f6b96ba/20261116T232422/f3578b3c-2473-4543-97dc-ee264f6b96ba_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Eldridge swears in chief of new city-run fire department, authorizes audit of volunteer fire company",
+      "summary": "At the same meeting, city council approved paying property taxes and franchise fees to the Eldridge Volunteer Fire Company for the October-December period.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-swears-chief-city-run-fire-department-authorize-audit-volunteer-fire-company/526-75fb8c35-93a7-4a08-991e-14e007405cb0",
+      "time": "8 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/9c9af5c0-1d59-4a50-bd66-aafb5fe2913e/20261117T040416/9c9af5c0-1d59-4a50-bd66-aafb5fe2913e_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "First look at Festival of Trees parade forecast for the Quad Cities",
+      "summary": "The Quad Cities holiday staple, the Festival of Trees, is just around the corner! And one of the biggest events during Festival week, the parade, is this Saturd…",
+      "url": "https://www.ourquadcities.com/news/local-news/first-look-at-festival-of-trees-parade-forecast-for-the-quad-cities/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/6927ac20465344.93563183.jpeg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +52,7 @@
       "headline": "Whipped cream sold at Iowa, Illinois Costco recalled",
       "summary": "Alamance Foods, a North Carolina-based food manufacturer, issued the recall after customers noticed a an unfamiliar taste and smell coming from the product.",
       "url": "https://www.ourquadcities.com/news/local-news/whipped-cream-sold-at-iowa-illinois-costco-recalled/",
-      "time": "20 min ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_0dd734.png?w=900",
       "category": "Local News"
     },
@@ -19,41 +63,8 @@
       "headline": "Smooth Operator? Sled Zeppelin? Help name Bettendorf's Zamboni in online poll",
       "summary": "What should be the official name of The Landing Ice Rink’s Zamboni? After a successful nomination period, the City of Bettendorf invites the community to vote f…",
       "url": "https://www.ourquadcities.com/news/local-news/smooth-operator-sled-zeppelin-help-name-bettendorfs-zamboni-in-online-poll/",
-      "time": "29 min ago",
+      "time": "10 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Zamboni.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Bettendorf wants your help naming its new Zamboni",
-      "summary": "After the city collected nearly 100 suggestions from the community, the top 10 now go to a public vote. The survey will be open through Sunday, Nov. 22.",
-      "url": "https://www.wqad.com/article/news/local/bettendorf-zamboni-name-vote-community/526-36ef5afd-d51e-4bde-8bd9-90b1097c20e5",
-      "time": "39 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f3578b3c-2473-4543-97dc-ee264f6b96ba/20261116T232422/f3578b3c-2473-4543-97dc-ee264f6b96ba_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Third Place QC seeks winter coat donations",
-      "summary": "You can help a Quad-City nonprofit organization keep people warm this winter. Managers of the Third Place QC say they need men's coats. They say the group doesn…",
-      "url": "https://www.ourquadcities.com/news/local-news/third-place-qc-seeks-winter-coat-donations/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/GettyImages-1134408245.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Public invited to get a sneak peek at Davenport's Main Street Landing",
-      "summary": "The public is invited to get a sneak peek of Main Street Landing in Davenport at the Quad Cities Flood Resiliency Alliance meeting. The meeting, which is open t…",
-      "url": "https://www.ourquadcities.com/news/local-news/public-invited-to-get-a-sneak-peek-at-davenports-main-street-landing/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/05/20260529_050715-rotated.jpg?w=405",
       "category": "Local News"
     },
     {
@@ -63,20 +74,9 @@
       "headline": "Deck the Downtowns returns with holiday events, shopping and prizes",
       "summary": "Pickle hunts, tree lightings, window contests, and holiday events await in Davenport, Bettendorf and Rock Island! Here's what to look forward to starting Nov 18…",
       "url": "https://www.wqad.com/article/news/local/the-current/deck-downtowns-holiday-events-lineup-pickle-window-decorating-contests-prizes-shopping/526-9ac6c6f6-92b8-44d9-8b80-7fbaf7cf0fd2",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fc28925c-3e93-4b1d-8638-5bc774b76ace/20261116T201238/fc28925c-3e93-4b1d-8638-5bc774b76ace_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Illinois bill could help grocers and pharmacists stay in business",
-      "summary": "A proposal from independent grocers and pharmacists could help them stay in business. House Bill 5828 (EDGE Essentials for Pharmacies and Grocery Stores Act) cr…",
-      "url": "https://www.ourquadcities.com/news/local-news/illinois-bill-could-help-grocers-and-pharmacists-stay-in-business/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/08/prescription-drugs-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +85,7 @@
       "headline": "Fund IRL Iowa pushes for millions in Meta settlement to fund youth programs, mental health services",
       "summary": "Meta is paying hundreds of millions of dollars to states. United Way Muscatine Co. is leading a group that wants Iowa to spend most of that money on Iowa studen…",
       "url": "https://www.wqad.com/article/news/local/the-current/fund-irl-iowa-chapter-muscatine-county-united-way-teen-social-media-attorney-general-meta-settlement-lawsuit-millions-mental-health/526-6fc6cfd2-7ab9-416f-87f5-8d80ddb20b2e",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/417af823-eb27-4c31-a5c6-72742299d676/20260826T220617/417af823-eb27-4c31-a5c6-72742299d676_750x422.jpg",
       "category": "the-current"
     },
@@ -96,7 +96,7 @@
       "headline": "Van drives into business building in Davenport",
       "summary": "A van crashed into a building near the intersection of Brady Street and Locust Street in Davenport on Monday evening. At 6 p.m., Our Quad Cities News crew saw p…",
       "url": "https://www.ourquadcities.com/news/local-news/traffic-alert-van-hits-building-in-davenport/",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/C7AF4E70-61CC-4A48-9282-1A0FEBD267B5.jpeg?w=900",
       "category": "Local News"
     },
@@ -107,7 +107,7 @@
       "headline": "Quad City Storm continue historic start, sit just one point behind first place",
       "summary": "After a regulation win and OT loss this weekend, the Storm wrap up a month-long homestand with two games against the first place Knoxville Ice Bears on Nov. 20 …",
       "url": "https://www.wqad.com/article/sports/local-sports/quad-city-storm-pee-dee-icecats-knoxville-bears-historic-start-win-third-place-sphl-standings/526-961bd8b0-2269-4b8a-a968-ca2d06f0f2fb",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/df1dee80-8fb8-4515-88c2-a3343134eec2/20261116T172505/df1dee80-8fb8-4515-88c2-a3343134eec2_750x422.jpg",
       "category": "local-sports"
     },
@@ -118,7 +118,7 @@
       "headline": "Rock Island Police Chief Tim McCloud announces retirement after 32 years",
       "summary": "McCloud has served as police chief since May 2024. His last day with the department will be Dec. 30.",
       "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-police-chief-tim-mccloud-announces-retirement-after-32-years/526-c55aba39-ff13-4f40-8e28-c6a3c193475e",
-      "time": "3 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dbecda63-556c-4cda-8df0-9328e329c028/20261116T174537/dbecda63-556c-4cda-8df0-9328e329c028_750x422.jpg",
       "category": "public-safety"
     },
@@ -129,7 +129,7 @@
       "headline": "New Opportunity Zones announced across Illinois, Iowa, including several in the QCA",
       "summary": "Opportunity Zones are economically distressed areas where investors can receive federal tax incentives for projects such as housing, retail, manufacturing and m…",
       "url": "https://www.wqad.com/article/money/economy/opportunity-zones-iowa-illinois-qca-economic-development-invest-tax-incentives-federal-benefits-davenport-kewanee-galesburg-macomb-burlington-clinton/526-3c68cd2d-c6d4-4ca1-9598-0e1afefee3d9",
-      "time": "6 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/7cc40207-01bb-4d21-9cc4-4557ec3cd419/20261110T151801/7cc40207-01bb-4d21-9cc4-4557ec3cd419_750x422.jpg",
       "category": "economy"
     }
