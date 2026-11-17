@@ -1,15 +1,114 @@
 {
-  "updated": "2026-11-17T12:50:30.746511+00:00",
+  "updated": "2026-11-17T23:22:34.252840+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Warming trend continues for the Quad Cities",
-      "summary": "Above average temperatures are on tap for the rest of the week. No rain is expected until we get to the weekend. Here's your full 7-day forecast.",
-      "url": "https://www.ourquadcities.com/news/local-news/warming-trend-continues-for-the-quad-cities/",
-      "time": "10 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/05/warm-weather-GENERIC.jpg?w=900",
+      "headline": "Bettendorf police department, CASI team up for Senior Secret Santa program",
+      "summary": "The Bettendorf Police Department asks for help to make the holidays happier for seniors in the community, according to a news release. The Bettendorf Police Dep…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-police-department-casi-team-up-for-senior-secret-santa-program/",
+      "time": "41 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/11/Senior-Secret-Santa-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "West Carroll FFA Trap Shoot Team earns scholarship",
+      "summary": "House Minority Leader Tony McCombie recently visited West Carroll High School to present the FFA Trapshooting Team with a scholarship from the Illinois Legislat…",
+      "url": "https://www.ourquadcities.com/news/local-news/west-carroll-ffa-trap-shoot-team-earns-scholarship/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/National-FFA-Organization.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Davenport man sentenced on federal drug, firearm charges",
+      "summary": "On Nov. 12, a Davenport man was sentenced to 230 months (just over 19 years) in federal prison for possession with intent to distribute 28 grams or more of a mi…",
+      "url": "https://www.ourquadcities.com/news/local-news/davenport-man-sentenced-on-federal-drug-firearm-charges/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/12/gettyimages-925013506-2-e1697068242675.jpg?w=800",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Living Peace 365 hosts Clinton Creates Peace Art Contest",
+      "summary": "The Living Peace 365 and MLK, Jr. Committee invites the community to explore what peace means to them through creative expression with its #ClintonCreatesPeace …",
+      "url": "https://www.ourquadcities.com/news/local-news/living-peace-365-hosts-clinton-creates-peace-art-contest/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/Living-Peace-365.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Winter weather preparations underway as IDOT, state police urge caution on roads",
+      "summary": "Do you have an emergency kit in your car? Here's what Illinois State Police say you should have ready this winter, plus how you can help snowplow drivers.",
+      "url": "https://www.wqad.com/article/weather/local-weather/winter-weather-preparations-emergency-kits-list-illinois-state-police-snowplow-drivers-idot-dot-tips-safety/526-f564b949-1644-42ee-b32e-2ec3cc276138",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/6f3881f2-3525-4a61-8e46-9df32314f122/20260316T122915/6f3881f2-3525-4a61-8e46-9df32314f122_750x422.jpg",
+      "category": "local-weather"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Family Resources receives $50,000 grant from Leep Automotive Family Foundation",
+      "summary": "The Leep Automotive Family Foundation has awarded $50,000 in unrestricted funding to Family Resources to strengthen the organization's safety net of essential s…",
+      "url": "https://www.ourquadcities.com/news/local-news/family-resources-receives-50000-grant-from-leep-automotive-family-foundation/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/10/image_11ab5e.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Chronic absenteeism, workforce needs take center stage at State of Education",
+      "summary": "Across the Quad Cities, absenteeism numbers are up from 2019, while 4th grade reading and 8th grade math levels are down, according to the United Way Quad Citie…",
+      "url": "https://www.wqad.com/article/news/local/the-current/state-of-education-united-way-quad-cities-chronic-absenteeism-math-reading-levels-workforce-partnerships/526-cb28f43f-6ff8-4660-a26b-7614b18c1f8f",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fdbf6249-8a1f-448e-8062-dc65dab46965/20261117T174658/fdbf6249-8a1f-448e-8062-dc65dab46965_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "CPKC Holiday Train making stops in QCA",
+      "summary": "The holidays will be here soon, meaning the CPKC Holiday Train will visit the QCA on Tuesday, Nov. 24. The train will make stops in: Click here for the full sch…",
+      "url": "https://www.ourquadcities.com/news/local-news/cpkc-holiday-train-making-stops-in-qca/",
+      "time": "5 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/holiday-train-2.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Vehicle strikes building in Davenport",
+      "summary": "No injuries were reported after a vehicle struck a building on the corner of Locust and Brady Streets.",
+      "url": "https://www.wqad.com/article/traffic/incidents/vehicle-strikes-building-davenport/526-76b11a29-724f-4353-8fc3-61ca9ebb0755",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_750x422.jpg",
+      "category": "incidents"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Blue Violin to bring Retro Rock & Roll Christmas Tour to Moline",
+      "summary": "Internationally touring violinist Blue Violin will bring its fourth annual Retro Rock &#38; Roll Christmas Tour to Rochester and Moline, with a holiday producti…",
+      "url": "https://www.ourquadcities.com/news/local-news/blue-violin-to-bring-retro-rock-roll-christmas-tour-to-moline/",
+      "time": "8 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/08/000_best-violin-tuner-ed7aef.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -19,119 +118,20 @@
       "headline": "Bettendorf wants your help naming its new Zamboni",
       "summary": "After the city collected nearly 100 suggestions from the community, the top 10 now go to a public vote. The survey will be open through Sunday, Nov. 22.",
       "url": "https://www.wqad.com/article/news/local/bettendorf-zamboni-name-vote-community/526-36ef5afd-d51e-4bde-8bd9-90b1097c20e5",
-      "time": "8 h ago",
+      "time": "19 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/f3578b3c-2473-4543-97dc-ee264f6b96ba/20261116T232422/f3578b3c-2473-4543-97dc-ee264f6b96ba_750x422.jpg",
       "category": "local"
     },
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Eldridge swears in chief of new city-run fire department, authorizes audit of volunteer fire company",
-      "summary": "At the same meeting, city council approved paying property taxes and franchise fees to the Eldridge Volunteer Fire Company for the October-December period.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/eldridge-swears-chief-city-run-fire-department-authorize-audit-volunteer-fire-company/526-75fb8c35-93a7-4a08-991e-14e007405cb0",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/9c9af5c0-1d59-4a50-bd66-aafb5fe2913e/20261117T040416/9c9af5c0-1d59-4a50-bd66-aafb5fe2913e_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "First look at Festival of Trees parade forecast for the Quad Cities",
-      "summary": "The Quad Cities holiday staple, the Festival of Trees, is just around the corner! And one of the biggest events during Festival week, the parade, is this Saturd…",
-      "url": "https://www.ourquadcities.com/news/local-news/first-look-at-festival-of-trees-parade-forecast-for-the-quad-cities/",
-      "time": "8 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/11/6927ac20465344.93563183.jpeg?w=900",
+      "headline": "Controlled detonations scheduled at Iowa Army Ammunition Plant",
+      "summary": "The Iowa Army Ammunition Plant in Middleton, Iowa has scheduled two controlled detonations for Nov. 20 at about 12 p.m. and residents are asked to vacate the ar…",
+      "url": "https://www.ourquadcities.com/news/local-news/controlled-detonations-scheduled-at-iowa-army-ammunition-plant/",
+      "time": "1d ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_266acc.png?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Whipped cream sold at Iowa, Illinois Costco recalled",
-      "summary": "Alamance Foods, a North Carolina-based food manufacturer, issued the recall after customers noticed a an unfamiliar taste and smell coming from the product.",
-      "url": "https://www.ourquadcities.com/news/local-news/whipped-cream-sold-at-iowa-illinois-costco-recalled/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_0dd734.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Smooth Operator? Sled Zeppelin? Help name Bettendorf's Zamboni in online poll",
-      "summary": "What should be the official name of The Landing Ice Rink’s Zamboni? After a successful nomination period, the City of Bettendorf invites the community to vote f…",
-      "url": "https://www.ourquadcities.com/news/local-news/smooth-operator-sled-zeppelin-help-name-bettendorfs-zamboni-in-online-poll/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Zamboni.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Deck the Downtowns returns with holiday events, shopping and prizes",
-      "summary": "Pickle hunts, tree lightings, window contests, and holiday events await in Davenport, Bettendorf and Rock Island! Here's what to look forward to starting Nov 18…",
-      "url": "https://www.wqad.com/article/news/local/the-current/deck-downtowns-holiday-events-lineup-pickle-window-decorating-contests-prizes-shopping/526-9ac6c6f6-92b8-44d9-8b80-7fbaf7cf0fd2",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fc28925c-3e93-4b1d-8638-5bc774b76ace/20261116T201238/fc28925c-3e93-4b1d-8638-5bc774b76ace_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Fund IRL Iowa pushes for millions in Meta settlement to fund youth programs, mental health services",
-      "summary": "Meta is paying hundreds of millions of dollars to states. United Way Muscatine Co. is leading a group that wants Iowa to spend most of that money on Iowa studen…",
-      "url": "https://www.wqad.com/article/news/local/the-current/fund-irl-iowa-chapter-muscatine-county-united-way-teen-social-media-attorney-general-meta-settlement-lawsuit-millions-mental-health/526-6fc6cfd2-7ab9-416f-87f5-8d80ddb20b2e",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/417af823-eb27-4c31-a5c6-72742299d676/20260826T220617/417af823-eb27-4c31-a5c6-72742299d676_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Van drives into business building in Davenport",
-      "summary": "A van crashed into a building near the intersection of Brady Street and Locust Street in Davenport on Monday evening. At 6 p.m., Our Quad Cities News crew saw p…",
-      "url": "https://www.ourquadcities.com/news/local-news/traffic-alert-van-hits-building-in-davenport/",
-      "time": "12 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/C7AF4E70-61CC-4A48-9282-1A0FEBD267B5.jpeg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Quad City Storm continue historic start, sit just one point behind first place",
-      "summary": "After a regulation win and OT loss this weekend, the Storm wrap up a month-long homestand with two games against the first place Knoxville Ice Bears on Nov. 20 …",
-      "url": "https://www.wqad.com/article/sports/local-sports/quad-city-storm-pee-dee-icecats-knoxville-bears-historic-start-win-third-place-sphl-standings/526-961bd8b0-2269-4b8a-a968-ca2d06f0f2fb",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/df1dee80-8fb8-4515-88c2-a3343134eec2/20261116T172505/df1dee80-8fb8-4515-88c2-a3343134eec2_750x422.jpg",
-      "category": "local-sports"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Rock Island Police Chief Tim McCloud announces retirement after 32 years",
-      "summary": "McCloud has served as police chief since May 2024. His last day with the department will be Dec. 30.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/rock-island-police-chief-tim-mccloud-announces-retirement-after-32-years/526-c55aba39-ff13-4f40-8e28-c6a3c193475e",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dbecda63-556c-4cda-8df0-9328e329c028/20261116T174537/dbecda63-556c-4cda-8df0-9328e329c028_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "New Opportunity Zones announced across Illinois, Iowa, including several in the QCA",
-      "summary": "Opportunity Zones are economically distressed areas where investors can receive federal tax incentives for projects such as housing, retail, manufacturing and m…",
-      "url": "https://www.wqad.com/article/money/economy/opportunity-zones-iowa-illinois-qca-economic-development-invest-tax-incentives-federal-benefits-davenport-kewanee-galesburg-macomb-burlington-clinton/526-3c68cd2d-c6d4-4ca1-9598-0e1afefee3d9",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/7cc40207-01bb-4d21-9cc4-4557ec3cd419/20261110T151801/7cc40207-01bb-4d21-9cc4-4557ec3cd419_750x422.jpg",
-      "category": "economy"
     }
   ]
 }
