@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-18T06:20:35.019478+00:00",
+  "updated": "2026-11-18T16:59:19.469397+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "City of Moline hosts drive-through community donation collection",
+      "summary": "The City of Moline Employees Care Crew and Humility Homes &#38; Services will host a one-day community donation drive on Friday, Nov. 20, to support Toys for To…",
+      "url": "https://www.ourquadcities.com/news/local-news/city-of-moline-hosts-drive-through-community-donation-drive/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Moline Library names new Director of Library Services",
+      "summary": "The Moline Public Library has a new Director of Library Services. Jennifer Christiansen has been named the new director after serving the library for over 21 ye…",
+      "url": "https://www.ourquadcities.com/news/local-news/moline-library-names-new-director-of-library-services/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Jennifer-Christiansen-featured-image.png?w=460",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa Secretary of State warns of business fraud",
+      "summary": "Iowa businesses are being warned of misleading biennial report mailings being sent by third-party companies.",
+      "url": "https://www.wqad.com/article/money/business/small-business/iowa-secretary-of-state-warns-of-business-fraud/526-ab884f41-1eb7-4bf3-b20a-f98c18710ec1",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/c4dacb41-6f70-4df0-b051-0ab37e4258b5/c4dacb41-6f70-4df0-b051-0ab37e4258b5_750x422.jpg",
+      "category": "small-business"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Some Iowa schools closing Friday as Army plans detonation of lead azide",
+      "summary": "The blasts will produce loud noise, vibrations and a dust plume containing some lead. The Army expects the dust to linger for no more than an hour.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/iowa-school-closures-friday-army-detonation-lead-azide/526-803ac53e-69f6-4508-b5d7-1770e2ae676c",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
+      "category": "public-safety"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +52,7 @@
       "headline": "Wildlife rehab group raises concerns over planned Iowa Army Ammunition Plant detonations",
       "summary": "Two controlled detonations planned in Middleville on Friday are raising concerns from a local wildlife rehabilitation group about potential lead exposure.",
       "url": "https://www.wqad.com/article/news/local/iowa-army-ammunition-plant-detonation-wildlife-rehab-group-concerns/526-83445795-4a9b-4fee-8cb5-3b91e80f41b7",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/59734e36-04f3-431e-9750-c9569ac2f81d/20261118T040643/59734e36-04f3-431e-9750-c9569ac2f81d_750x422.jpg",
       "category": "local"
     },
@@ -19,7 +63,7 @@
       "headline": "Iowa sets new restrictions on vapes: What to know",
       "summary": "Restrictions on vapes will take effect soon in Iowa. State lawmakers approved restricting the sale of certain vape products in 2024, but a lawsuit blocked enfor…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-sets-new-restrictions-on-vapes-what-to-know/",
-      "time": "2 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/vaping-GENERIC-vape-3.jpg?w=900",
       "category": "Local News"
     },
@@ -30,7 +74,7 @@
       "headline": "Illinois drivers: Get ready for winter driving",
       "summary": "The Illinois Department of Transportation, Illinois State Police and Illinois Tollway are reminding the public to get ready for winter driving with the Winter W…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-drivers-get-ready-for-winter-driving/",
-      "time": "4 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_da635a.png?w=900",
       "category": "Local News"
     },
@@ -38,33 +82,11 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Schools respond to upcoming ammunition detonations at Iowa Army Ammunition Plant",
-      "summary": "Various school districts and communities are responding to the announcement about planned ammunition detonations scheduled for noon Friday, Nov. 20, at the Iowa…",
+      "headline": "Detonations at Iowa Army Ammunition Plant: What you need to know",
+      "summary": "School districts, homeowners and communities are responding to the announcement about planned ammunition detonations scheduled for noon Friday, Nov. 20, at the …",
       "url": "https://www.ourquadcities.com/news/local-news/schools-respond-to-upcoming-ammunition-detonations-at-iowa-army-ammunition-plant/",
-      "time": "5 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/school-closings-GENERIC.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Some Iowa schools closing Friday as Army plans detonation of lead azide",
-      "summary": "The blasts will produce loud noise, vibrations and a dust plume containing some lead. The Army expects the dust to linger for no more than an hour.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/iowa-school-closures-friday-army-detonation-lead-azide/526-803ac53e-69f6-4508-b5d7-1770e2ae676c",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
-      "category": "public-safety"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "$1.6 million in grants given to Scott County projects",
-      "summary": "Scott County's Regional Authority announced which projects in the area will get a share of more than $1.5 million worth of grants. The money will benefit 56 pro…",
-      "url": "https://www.ourquadcities.com/news/local-news/1-6-million-in-grants-given-to-scott-county-projects/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Scott-County-Regional-Authority.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -74,7 +96,7 @@
       "headline": "Smoke plume forecast for planned detonation in Iowa on Friday",
       "summary": "Here's an update on the forecast for the possible smoke plume from Friday's detonation in Iowa: And here's more about the story from the news team at Our Quad C…",
       "url": "https://www.ourquadcities.com/news/local-news/smoke-plume-forecast-for-planned-detonation-in-iowa-on-friday/",
-      "time": "6 h ago",
+      "time": "16 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/alert-GENERIC.jpg?w=900",
       "category": "Local News"
     },
@@ -85,20 +107,9 @@
       "headline": "Illinois House committee investigating Rep. Carol Ammons to move forward with witnesses",
       "summary": "Ammons is under investigation for potential misconduct after being charged with 10 felonies.",
       "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-house-committee-investigating-carol-ammons-moves-forward-witnesses-capitol-news/526-1dc2df4f-5415-4363-aa8d-cba2109e4957",
-      "time": "6 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/dcb884b1-870f-4a36-8880-4aca691a2ca6/20261117T233121/dcb884b1-870f-4a36-8880-4aca691a2ca6_750x422.jpg",
       "category": "illinois-politics"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Man indicted for BioUrja ethanol bomb threat",
-      "summary": "A Rome man named Andrew Kozak has been indicted by a federal grand jury for making explosive threats related to a bomb discovery at a South Peoria ethanol plant…",
-      "url": "https://www.ourquadcities.com/news/state-news/illinois-news/man-indicted-for-biourja-ethanol-bomb-threat/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_58b9db.png?w=900",
-      "category": "Illinois News"
     },
     {
       "source": "WQAD",
@@ -107,7 +118,7 @@
       "headline": "Winter weather preparations underway as IDOT, state police urge caution on roads",
       "summary": "Do you have an emergency kit in your car? Here's what Illinois State Police say you should have ready this winter, plus how you can help snowplow drivers.",
       "url": "https://www.wqad.com/article/weather/local-weather/winter-weather-preparations-emergency-kits-list-illinois-state-police-snowplow-drivers-idot-dot-tips-safety/526-f564b949-1644-42ee-b32e-2ec3cc276138",
-      "time": "6 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/6f3881f2-3525-4a61-8e46-9df32314f122/20260316T122915/6f3881f2-3525-4a61-8e46-9df32314f122_750x422.jpg",
       "category": "local-weather"
     },
@@ -118,20 +129,9 @@
       "headline": "Chronic absenteeism, workforce needs take center stage at State of Education",
       "summary": "Across the Quad Cities, absenteeism numbers are up from 2019, while 4th grade reading and 8th grade math levels are down, according to the United Way Quad Citie…",
       "url": "https://www.wqad.com/article/news/local/the-current/state-of-education-united-way-quad-cities-chronic-absenteeism-math-reading-levels-workforce-partnerships/526-cb28f43f-6ff8-4660-a26b-7614b18c1f8f",
-      "time": "6 h ago",
+      "time": "17 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fdbf6249-8a1f-448e-8062-dc65dab46965/20261117T174658/fdbf6249-8a1f-448e-8062-dc65dab46965_750x422.jpg",
       "category": "the-current"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Bettendorf police department, CASI team up for Senior Secret Santa program",
-      "summary": "The Bettendorf Police Department asks for help to make the holidays happier for seniors in the community, according to a news release. The Bettendorf Police Dep…",
-      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-police-department-casi-team-up-for-senior-secret-santa-program/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/11/Senior-Secret-Santa-1.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
