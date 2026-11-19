@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T08:56:00.795734",
+  "generated": "2026-11-19T13:44:58.980973",
   "total": 423,
   "entities": [
     {
@@ -2606,7 +2606,9 @@
       "description": "Good drinks, great energy, better staff.\n\nThat's how Brews Energy sums itself up. The local drink shop has four locations, including Milan and Sherrard, and you can order ahead on its mobile app or online. It also offers catering, and it hosts community events at its Sherrard location.",
       "rating": {
         "google": "4.7",
-        "google_count": "57"
+        "google_count": "57",
+        "yelp": "",
+        "yelp_count": ""
       },
       "social": {
         "google": "https://maps.google.com/?cid=7484088447419216205",
