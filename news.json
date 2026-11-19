@@ -1,82 +1,16 @@
 {
-  "updated": "2026-11-19T12:34:16.293350+00:00",
+  "updated": "2026-11-19T22:55:52.923571+00:00",
   "items": [
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Festive shopping, movies, musicals, and parades | Dani's Weekend Rundown for Nov. 19-22",
-      "summary": "Submerge yourself in the holiday atmosphere or choose something completely holiday-free. Either way, there's a lot for you in the Quad Cities this week!",
-      "url": "https://www.wqad.com/article/life/holidays/festive-shopping-movies-musicals-and-parades-danis-weekend-rundown-for-nov-19-22/526-8b96375d-489d-4157-adb6-e9181025c8df",
-      "time": "34 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d9de0af8-6abe-41e1-9635-37b1a2877e6d/20261118T210625/d9de0af8-6abe-41e1-9635-37b1a2877e6d_750x422.jpg",
-      "category": "holidays"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Middletown residents protest planned lead azide detonations at Iowa Army Ammunition Plant",
-      "summary": "People gathered in Middletown to protest the Army's planned lead azide detonations, raising concerns about potential health risks and a lack of transparency.",
-      "url": "https://www.wqad.com/article/news/national/military-news/middletown-residents-protest-lead-azide-detonation-iowa-army-ammunition-plant/526-e60e2e39-61f9-4275-bcb3-cba991b20678",
-      "time": "8 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0d3a79a5-edf8-477e-ae97-90f0bef72fd7/20261119T041423/0d3a79a5-edf8-477e-ae97-90f0bef72fd7_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Have you seen this suspect? Crime Stoppers wants to know!",
-      "summary": "Crime Stoppers of the Quad Cities wants your help catching a fugitive.  It’s an Our Quad Cities News exclusive. You can get an elevated reward for information o…",
-      "url": "https://www.ourquadcities.com/news/crime/have-you-seen-this-suspect-crime-stoppers-wants-to-know-3/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Rion-Redmann-Crime-Stoppers-Mug-Shot.jpg?w=900",
-      "category": "Crime"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "The biochemistry of lead azide: What an Augustana professor wants you to know",
-      "summary": "The Iowa Army Ammunition Plant is preparing to detonate a stockpile of lead azide Friday in Middletown. But what is lead azide, and why is it a danger to humans…",
-      "url": "https://www.wqad.com/article/tech/science/detonation-iowa-army-ammunition-plant-what-is-lead-azide/526-cf44cbfb-d388-4196-8a6c-1a5c397118c5",
-      "time": "11 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fe9e6224-8ce2-44b2-8548-6d44866b9356/20261119T001454/fe9e6224-8ce2-44b2-8548-6d44866b9356_750x422.jpg",
-      "category": "science"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "'The Pulse Report': Local doctor turns patient questions into heart health lessons",
-      "summary": "The free podcast is hosted by QC cardiologist, Dr. Mark Shen. His goal is to make you more empowered when listening to medical diagnosis and treatment options.",
-      "url": "https://www.wqad.com/article/news/local/the-current/the-pulse-report-dr-mark-shen-podcast-heart-health-communicate-medical-information-afib/526-dbd5983d-66cf-44a5-b5a8-9a68df8ac144",
-      "time": "12 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f2c15f51-caa1-42ba-be80-72dcfe6027d9/20261118T224817/f2c15f51-caa1-42ba-be80-72dcfe6027d9_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "EPA: Degraded explosives at Iowa Army Ammunition Plant pose risk of spontaneous explosion",
-      "summary": "As members of the public voice concerns over the planned detonation of lead azide, the EPA said the deteriorating explosives pose a risk of spontaneous explosio…",
-      "url": "https://www.wqad.com/article/news/national/military-news/lead-azide-detonation-iowa-army-ammunition-plant-middletown-iowa-epa-statement/526-f328165c-e159-462e-a10f-897ac2299b1e",
-      "time": "13 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "‘Time is up’: Advocates rally in Springfield for data center reforms in Illinois",
-      "summary": "The activists called upon legislators to pass the POWER Act.",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/advocates-rally-springfield-data-center-reforms-illinois-capitol-news/526-d5a545e1-b384-4d9e-8e68-c9ad3baafc43",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/f1d7be0f-1305-4b92-acc9-ad2542eef9a5/20261118T222844/f1d7be0f-1305-4b92-acc9-ad2542eef9a5_750x422.jpg",
-      "category": "illinois-politics"
+      "headline": "Lawsuit seeking to stop Friday's planned detonation of lead azide in Iowa",
+      "summary": "The lawsuit challenges a permit the EPA granted the Army to move forward with the detonation.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/lawsuit-seeking-stop-detonation-lead-azide-iowa-army-ammunition-plant/526-c2bbe1b7-4380-4e29-b135-0c556b374761",
+      "time": "20 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe0ee433-8340-44db-ace6-f20e956e05bb/20261118T193343/fe0ee433-8340-44db-ace6-f20e956e05bb_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -85,53 +19,119 @@
       "headline": "Scott County experiencing technology outage",
       "summary": "County officials said the extent of the outage is being determined. Emergency services and 911 are still online, but some in-person county services are unavaila…",
       "url": "https://www.wqad.com/article/news/scott-county-technology-outage-wednesday-november-18/526-4ea73b5f-8f52-47ee-913e-7b55a121eaa7",
-      "time": "14 h ago",
+      "time": "28 min ago",
       "image": "https://media.tegna-media.com/assets/WGRZ/images/6eccdfcc-7c11-499c-ae34-d3fa794dcc70/20261117T223900/6eccdfcc-7c11-499c-ae34-d3fa794dcc70_750x422.jpg",
       "category": "news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Some Iowa schools closing Friday as Army plans detonation of lead azide",
+      "summary": "The blasts will produce loud noise, vibrations and a dust plume containing some lead. The Army expects the dust to linger for no more than an hour.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/iowa-school-closures-friday-army-detonation-lead-azide/526-803ac53e-69f6-4508-b5d7-1770e2ae676c",
+      "time": "29 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Controlled detonation raises concerns over lead dust in air",
-      "summary": "UPDATE: Plume models released late Wednesday by the U.S. Army show the latest potential exposure to toxic lead dust after Friday's detonation. EARLIER UPDATE: A…",
-      "url": "https://www.ourquadcities.com/news/local-news/controlled-detonation-raises-concerns-over-lead-dust-in-air/",
-      "time": "14 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/0860F2A295BD31F5C52FD8649648D91E.jpg?w=900",
+      "headline": "Getting to Know: QC Arts' Executive Director and actor Ben Gougeon",
+      "summary": "Chief Meteorologist Andy McCray talks with familiar faces around the Quad Cities in the Getting to Know Podcast. Learn more about important people around our ar…",
+      "url": "https://www.ourquadcities.com/news/local-news/getting-to-know-qc-arts-executive-director-and-actor-ben-gougeon/",
+      "time": "38 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/getting-to-know-ben-gougeon.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Illinois offers ‘fragmented’ response to gambling addiction, internal state report says",
-      "summary": "A study prepared for Pritzker finds gaming revenues ‘structurally dependent’ on vulnerable populations; problem gamblers “likely higher” than 1.1 million estima…",
-      "url": "https://www.wqad.com/article/news/politics/illinois-politics/illinois-fragmented-response-gambling-addiction-state-report-capitol-news/526-b719f38d-8e8d-476f-af4d-43e4be135f33",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/caa02f12-08bd-4978-8a76-e1b57370bae7/20261118T211101/caa02f12-08bd-4978-8a76-e1b57370bae7_750x422.jpg",
-      "category": "illinois-politics"
+      "headline": "Iowa leaders share concerns, information on Friday's planned lead azide detonation",
+      "summary": "Community members in Middletown and other areas of southeastern Iowa are bracing for a lead dust cloud as the U.S. Army plans to detonate about 5 tons of chemic…",
+      "url": "https://www.wqad.com/article/news/health/iowa-leaders-politicians-statements-middletown-army-ammunition-lead-azide-detonation/524-2ef3a968-f8de-40a8-b625-b629afb46e7d",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/CCT/images/be1920bc-7ede-4636-94d0-d57db96db69d/20261119T125454/be1920bc-7ede-4636-94d0-d57db96db69d_750x422.jpg",
+      "category": "health"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Iowa Secretary of State warns of business fraud",
-      "summary": "Iowa businesses are being warned of misleading biennial report mailings being sent by third-party companies.",
-      "url": "https://www.wqad.com/article/money/business/small-business/iowa-secretary-of-state-warns-of-business-fraud/526-ab884f41-1eb7-4bf3-b20a-f98c18710ec1",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ed7a2139-4442-4d2d-bbe4-ae4baeed4b94/20261118T175916/ed7a2139-4442-4d2d-bbe4-ae4baeed4b94_750x422.jpg",
-      "category": "small-business"
+      "headline": "UI Health Care Muscatine clinic to close Friday during Army detonation",
+      "summary": "UI Health Care will close its Muscatine clinic Friday during the planned Iowa Army Ammunition Plant detonation, citing public safety guidance.",
+      "url": "https://www.wqad.com/article/news/health/ui-health-care-muscatine-clinic-closing-army-detonation-lead-azide/526-9488f711-7ca4-44fb-a09b-6d7bce98bb8f",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/bd29ffe0-7219-4110-b820-dfc2a746655d/bd29ffe0-7219-4110-b820-dfc2a746655d_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Friends of Muscatine Art Center host Heartfelt & Handmade competition",
+      "summary": "The Muscatine Art Center is holding its Heartfelt &#38; Handmade Ornament Competition along with the annual Family Festival &#38; Market on Saturday, December 5…",
+      "url": "https://www.ourquadcities.com/news/local-news/friends-of-muscatine-art-center-host-heartfelt-handmade-competition/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/08/image_a37a33.png?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "How should farmers prepare for Friday's planned lead azide detonation?",
-      "summary": "An Iowa State University beef field specialist recommended farmers take soil samples in advance of the detonation and keep animals from grazing in the landing z…",
-      "url": "https://www.wqad.com/article/news/local/lead-azide-detonation-iowa-army-ammunition-plant-farmers-livestock-impact/526-03260206-4483-456d-8a0f-9fee8bc69a91",
-      "time": "15 h ago",
-      "image": "https://media.tegna-media.com/assets/WPMT/images/abe64099-3d34-4505-8f1a-153d286f05bd/20250618T162854/abe64099-3d34-4505-8f1a-153d286f05bd_750x422.jpg",
-      "category": "local"
+      "headline": "DNR to stock Discovery Pond in Muscatine with 1,500 rainbow trout",
+      "summary": "The Iowa DNR will stock Discovery Pond with 1,500 rainbow trout Monday, including 100 tagged fish. The first five tagged catches will win prizes.",
+      "url": "https://www.wqad.com/article/tech/science/environment/dnr-to-stock-discovery-pond-in-muscatine-with-1500-rainbow-trout/526-26429d6f-ae62-40ee-8a9b-32c09c165d0e",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fc5e5e7a-acc6-4ea8-8dcc-81bd3f1cfff6/20261119T191323/fc5e5e7a-acc6-4ea8-8dcc-81bd3f1cfff6_750x422.jpg",
+      "category": "environment"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Visit QCAWC Open House, get pet photos with Santa",
+      "summary": "The Quad City Animal Welfare Center (QCAWC) invites residents to celebrate the holiday season at its annual Holiday Open House and Santa Paws Photos on Saturday…",
+      "url": "https://www.ourquadcities.com/news/local-news/visit-qcawc-open-house-get-pet-photos-with-santa/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/12/Quad-City-Animal-Welfare-Center-Christmas-holidays-GENERIC-holiday.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Property damage from Iowa Army Ammunition Plant blasts? Here's how to file a claim",
+      "summary": "Middletown residents who believe Army lead azide detonations damaged their property can file a federal claim for compensation.",
+      "url": "https://www.wqad.com/article/news/national/military-news/property-damage-iowa-army-ammunition-plant-blasts-claim-process/526-ad728325-459c-434a-a3c5-13ef51f14fef",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/36388c8c-bf2d-4a62-ac7c-aca8ada21c27/20261118T002415/36388c8c-bf2d-4a62-ac7c-aca8ada21c27_750x422.jpg",
+      "category": "military-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Downtown Moline, SouthPark Mall area approved for federal Opportunity Zones",
+      "summary": "Opportunity Zones are federally designated areas where investors could get incentives for renovating vacant buildings, opening new businesses and developing hou…",
+      "url": "https://www.wqad.com/article/money/economy/moline-opportunity-zones-federal-incentives-housing-vacant-buildings-southpark-mall-downtown/526-a28eae9b-3001-41c4-85ba-8afbdabee37a",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c0574ba4-34fe-42bd-a106-95e7666cb709/20261114T001359/c0574ba4-34fe-42bd-a106-95e7666cb709_750x422.jpg",
+      "category": "economy"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Pay It Forward: Penguin Project of the Quad Cities creates stars for their own shows",
+      "summary": "The theater group for individuals with disabilities builds confidence and connections among the community with presentations roughly an hour long.",
+      "url": "https://www.wqad.com/article/news/local/outreach/pay-it-forward/pay-it-forward-penguin-project-of-the-quad-cities-creates-stars-for-their-own-shows/526-08ca58fc-d898-47c3-a5f3-db32145d70c0",
+      "time": "7 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/2e29d255-d1f9-42c6-a1f4-aab6d2199b88/20261119T143959/2e29d255-d1f9-42c6-a1f4-aab6d2199b88_750x422.jpg",
+      "category": "pay-it-forward"
     }
   ]
 }
