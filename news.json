@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-20T06:06:57.650779+00:00",
+  "updated": "2026-11-20T13:45:07.898951+00:00",
   "items": [
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Niabi Zoo's rebuilt Cathouse earns national excellence award",
+      "summary": "Coal Valley zoo recognized for recovery and redesign following 2024 snowstorm collapse.",
+      "url": "https://qctimes.com/news/local/article_57aed8f0-8080-4486-a104-198e121c7bba.html",
+      "time": "2 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/0e/70e79e56-1eff-4897-bf2a-61940a7b7b4b/682753df6c137.image.jpg",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "MLK Center aims to give 10K meals",
+      "summary": "The Martin Luther King, Jr.Community Center in Rock Island is inviting the Quad-City community to its 37th annual Thanksgiving event to be held Friday through S…",
+      "url": "https://qctimes.com/article_ca84ad0c-e02a-5c2a-b75b-1a4965d0c85a.html",
+      "time": "2 h ago",
+      "image": "",
+      "category": ""
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "The Rewind: November 20",
+      "summary": "Four Quad-Cities school districts to hold classes Friday as detonation is postponed",
+      "url": "https://qctimes.com/newsletter-templates/paid/rewind/article_57d1bc38-3c06-5dd2-9c20-016a31f80117.html",
+      "time": "5 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/d4/cd4dd15d-841f-5203-b548-44b0021aacff/6b0001e192b38.image.png?resize=300%2C168",
+      "category": ""
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +41,7 @@
       "headline": "Latest updates: Iowa schools changing Friday closure plans following delay in lead azide detonation",
       "summary": "The blasts will produce loud noise, vibrations and a dust plume containing some lead. The Army expects the dust to linger for no more than an hour.",
       "url": "https://www.wqad.com/article/news/local/public-safety/iowa-school-closures-friday-army-detonation-lead-azide/526-803ac53e-69f6-4508-b5d7-1770e2ae676c",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
       "category": "public-safety"
     },
@@ -19,7 +52,7 @@
       "headline": "Trout stocking planned for Discovery Park, Muscatine",
       "summary": "At 10 a.m. Monday, Nov. 23, the Iowa DNR Fisheries will stock about 1,500 Rainbow Trout in Discovery Pond, Muscatine County, a news release says. Included in th…",
       "url": "https://www.ourquadcities.com/news/local-news/trout-stocking-planned-for-discovery-park-muscatine/",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Muscatine-County-Conservation-.jpg?w=726",
       "category": "Local News"
     },
@@ -30,7 +63,7 @@
       "headline": "Lawsuit seeking to stop planned detonation of lead azide in Iowa",
       "summary": "The lawsuit challenges a permit the EPA granted the Army to move forward with the detonation.",
       "url": "https://www.wqad.com/article/news/local/public-safety/lawsuit-seeking-stop-detonation-lead-azide-iowa-army-ammunition-plant/526-c2bbe1b7-4380-4e29-b135-0c556b374761",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
       "category": "public-safety"
     },
@@ -41,7 +74,7 @@
       "headline": "Mall, downtown Moline area, approved as federal Opportunity Zones",
       "summary": "Two census tracts encompassing Downtown Moline and the SouthPark Mall area have been approved for federal Opportunity Zone designation, creating new opportuniti…",
       "url": "https://www.ourquadcities.com/news/local-news/mall-downtown-moline-area-approved-as-federal-opportunity-zones/",
-      "time": "2 h ago",
+      "time": "9 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/02/City-of-Moline.jpg?w=900",
       "category": "Local News"
     },
@@ -52,7 +85,7 @@
       "headline": "QCA schools back to regular schedules November 20",
       "summary": "Statements have been issued regarding early-dismissals of Quad-City schools due to the postponement of the scheduled detonation at the Iowa Army Ammunition Plan…",
       "url": "https://www.ourquadcities.com/news/local-news/qca-iowa-schools-cancel-early-dismissal-due-to-detonation/",
-      "time": "4 h ago",
+      "time": "11 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/09/generic-school-classroom-2.jpg?w=900",
       "category": "Local News"
     },
@@ -63,7 +96,7 @@
       "headline": "Iowa lead azide detonation postponed to Monday, Army secretary says",
       "summary": "Acting Army Sec. Adam Telle made the announcement Thursday night following several calls for a delay.",
       "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-postponed-acting-army-secretary/526-8e9be576-53c2-4de5-9c9a-a773ccc9b3b8",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/cb2cc832-d987-4905-b7b0-f662cf08a3e6/20261119T230409/cb2cc832-d987-4905-b7b0-f662cf08a3e6_750x422.jpg",
       "category": "military-news"
     },
@@ -74,7 +107,7 @@
       "headline": "Property damage from Iowa Army Ammunition Plant blasts? Here's how to file a claim",
       "summary": "Middletown residents who believe Army lead azide detonations damaged their property can file a federal claim for compensation.",
       "url": "https://www.wqad.com/article/news/national/military-news/property-damage-iowa-army-ammunition-plant-blasts-claim-process/526-ad728325-459c-434a-a3c5-13ef51f14fef",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/36388c8c-bf2d-4a62-ac7c-aca8ada21c27/20261118T002415/36388c8c-bf2d-4a62-ac7c-aca8ada21c27_750x422.jpg",
       "category": "military-news"
     },
@@ -85,7 +118,7 @@
       "headline": "Middletown residents protest planned lead azide detonations at Iowa Army Ammunition Plant",
       "summary": "People gathered in Middletown to protest the Army's planned lead azide detonations, raising concerns about potential health risks and a lack of transparency.",
       "url": "https://www.wqad.com/article/news/national/military-news/middletown-residents-protest-lead-azide-detonation-iowa-army-ammunition-plant/526-e60e2e39-61f9-4275-bcb3-cba991b20678",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/0d3a79a5-edf8-477e-ae97-90f0bef72fd7/20261119T041423/0d3a79a5-edf8-477e-ae97-90f0bef72fd7_750x422.jpg",
       "category": "military-news"
     },
@@ -96,42 +129,9 @@
       "headline": "The biochemistry of lead azide: What an Augustana professor wants you to know",
       "summary": "The Iowa Army Ammunition Plant is preparing to detonate a stockpile of lead azide Friday in Middletown. But what is lead azide, and why is it a danger to humans…",
       "url": "https://www.wqad.com/article/tech/science/detonation-iowa-army-ammunition-plant-what-is-lead-azide/526-cf44cbfb-d388-4196-8a6c-1a5c397118c5",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/fe9e6224-8ce2-44b2-8548-6d44866b9356/20261119T001454/fe9e6224-8ce2-44b2-8548-6d44866b9356_750x422.jpg",
       "category": "science"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "EPA: Degraded explosives at Iowa Army Ammunition Plant pose risk of spontaneous explosion",
-      "summary": "As members of the public voice concerns over the planned detonation of lead azide, the EPA said the deteriorating explosives pose a risk of spontaneous explosio…",
-      "url": "https://www.wqad.com/article/news/national/military-news/lead-azide-detonation-iowa-army-ammunition-plant-middletown-iowa-epa-statement/526-f328165c-e159-462e-a10f-897ac2299b1e",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/2f3908cd-8afc-44f1-99f5-bb69d45612b2/20261117T000546/2f3908cd-8afc-44f1-99f5-bb69d45612b2_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "How should farmers prepare for Friday's planned lead azide detonation?",
-      "summary": "An Iowa State University beef field specialist recommended farmers take soil samples in advance of the detonation and keep animals from grazing in the landing z…",
-      "url": "https://www.wqad.com/article/news/local/lead-azide-detonation-iowa-army-ammunition-plant-farmers-livestock-impact/526-03260206-4483-456d-8a0f-9fee8bc69a91",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WPMT/images/abe64099-3d34-4505-8f1a-153d286f05bd/20250618T162854/abe64099-3d34-4505-8f1a-153d286f05bd_750x422.jpg",
-      "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "What to expect before, during and after the lead azide detonation in Iowa",
-      "summary": "The Army says it is taking steps to mitigate the impact. You can do the same before and after if you're in the path of the plume.",
-      "url": "https://www.wqad.com/article/news/national/military-news/lead-azide-detonation-iowa-what-to-expect/526-eb3e59dd-d95f-47e7-8b82-a29d998e6f3c",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cb2cc832-d987-4905-b7b0-f662cf08a3e6/20261119T230409/cb2cc832-d987-4905-b7b0-f662cf08a3e6_750x422.jpg",
-      "category": "military-news"
     }
   ]
 }
