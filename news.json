@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-21T21:28:53.687777+00:00",
+  "updated": "2026-11-22T05:33:35.505258+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
+      "summary": "Fort Madison says the Iowa Army detonation could happen Monday or Tuesday. An appeals court ordered a response to the stay request by noon Sunday.",
+      "url": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
+      "time": "22 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Galesburg police arrest suspect after shooting leaves one injured",
+      "summary": "A 49-year-old man faces multiple charges after a Saturday shooting in Galesburg left one person injured.",
+      "url": "https://www.wqad.com/article/news/crime/galesburg-police-arrest-suspect-after-shooting-leaves-one-injured/526-ab2c01ad-e6e7-4460-876e-cfc94e34a217",
+      "time": "56 min ago",
+      "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Quad City Arts Festival of Trees Parade brings holiday vibe to downtown Davenport",
+      "summary": "Crowds thronged the streets of downtown Davenport Saturday when the Festival of Trees Parade kicked off the holiday season in the Quad Cities. Hot-air balloons,…",
+      "url": "https://www.ourquadcities.com/news/local-news/quad-city-arts-festival-of-trees-parade-brings-holiday-vibe-to-downtown-davenport/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Festival-of-Trees-Parade-2026.jpg?w=397",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hawkeyes pull away from Illinois to boost playoff hopes",
+      "summary": "L.J. Phillips Jr. ran for 154 yards and a touchdown, Iowa's stingy defense shut out Illinois in the second half, and the No. 13 Hawkeyes beat the Fighting Illin…",
+      "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-pull-away-from-illinois-to-boost-playoff-hopes/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP26325788443220.jpg?w=900",
+      "category": "Hawkeye Headquarters"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Festival of Trees kicks off with balloon parade in downtown Davenport",
+      "summary": "Quad City Arts' annual Festival of Trees begins with a downtown Davenport parade featuring 10 massive helium balloons and kicking off a 10-day celebration.",
+      "url": "https://www.wqad.com/article/entertainment/events/festival-of-trees-kicks-off-with-balloon-parade-in-downtown-davenport/526-6f65f884-3962-414c-af79-d66ed2c4c250",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5/20261122T024515/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5_750x422.jpg",
+      "category": "events"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Scott County sheriff swears in reserves, presents life-saving awards",
+      "summary": "On Friday, Nov. 6, the Scott County Sheriff's Office held a reserves swearing-in ceremony at the Scott County Sheriff's Administration Office on the second floo…",
+      "url": "https://www.ourquadcities.com/news/local-news/scott-county-sheriff-swears-in-reserves-presents-life-saving-awards/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sheriff-Tim-Lane-and-reserve-deputies-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Free lead test kits available Sunday in Muscatine ahead of Army detonation",
+      "summary": "Hanson Farms will give away free lead dust and water test kits Sunday at an event in Muscatine.",
+      "url": "https://www.wqad.com/article/tech/science/environment/free-lead-test-kits-available-sunday-in-muscatine-ahead-of-army-detonation/526-3854dcd4-1f55-4a68-8e7c-5cd2ff35a7b9",
+      "time": "5 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9cd0403-6e0b-41ad-b355-96b761fa259b/20261120T163216/c9cd0403-6e0b-41ad-b355-96b761fa259b_750x422.jpg",
+      "category": "environment"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Hanson Farms offers free lead dust, water test kits at Muscatine vendor event",
+      "summary": "Hanson Farms will offer free lead dust and water test kits during the vendor event at Skateland Event Center in Muscatine from 9 a.m.-3 p.m. Sunday, Nov. 22, ac…",
+      "url": "https://www.ourquadcities.com/news/local-news/hanson-farms-offers-free-lead-dust-water-test-kits-at-muscatine-vendor-event/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_266acc.png?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +96,7 @@
       "headline": "Cat rescued from Galesburg structure fire",
       "summary": "The Galesburg Fire Department responded to a structure fire in the 300 block of South Chambers Street shortly after 10:30 p.m. Friday, Nov. 20, according to a n…",
       "url": "https://www.ourquadcities.com/news/local-news/cat-rescued-from-galesburg-structure-fire/",
-      "time": "0 min ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Galesburg-Fire-Department.jpg?w=900",
       "category": "Local News"
     },
@@ -19,7 +107,7 @@
       "headline": "Cat rescued from Galesburg fire on Friday night",
       "summary": "A firefighter also suffered minor injuries during the response but did not require medical attention.",
       "url": "https://www.wqad.com/article/news/local/public-safety/cat-rescued-galesburg-fire-november-20/526-31f40176-fb40-4325-a717-2d1ad5b7d4af",
-      "time": "3 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WPMT/images/a3a4666c-fc29-4a01-8677-1b6d87ecc700/20250702T162117/a3a4666c-fc29-4a01-8677-1b6d87ecc700_750x422.jpg",
       "category": "public-safety"
     },
@@ -30,7 +118,7 @@
       "headline": "Illinois measles numbers remain below recent peak, while the U.S. loses elimination status",
       "summary": "A World Health Organization branch found uninterrupted measles spread nationwide over the last 12 months.",
       "url": "https://www.wqad.com/article/news/state/illinois-measles-numbers-below-peak-while-us-loses-elimination-status-capitol-news/526-f75b4e40-9a47-464f-a5e0-d47ac6382562",
-      "time": "6 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e552f051-99a3-4fcb-b41b-e0a29b58077e/20261121T151048/e552f051-99a3-4fcb-b41b-e0a29b58077e_750x422.jpg",
       "category": "state"
     },
@@ -41,97 +129,9 @@
       "headline": "Lessons from 3 Illinois communities: Report details resident concerns about data centers",
       "summary": "As the POWER Act enters veto session discussion, one report says main issues in Aurora, DeKalb and Elk Grove Village are transparency, utility bills.",
       "url": "https://www.wqad.com/article/news/state/lessons-from-3-illinois-communities-report-details-resident-concerns-about-data-centers/526-11869699-a8c2-4bbf-9fc3-aae01f67035a",
-      "time": "6 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/a6a7bf9c-2aaf-4684-8613-9088ae0ea0c5/20261121T145420/a6a7bf9c-2aaf-4684-8613-9088ae0ea0c5_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "10th annual Winter Lights exhibit sparkles at QC Botanical Center",
-      "summary": "Hundreds of thousands of lights sparkled Friday night at the Quad City Botanical Center, Rock Island, as part of the 10th annual Winter Lights exhibit. Our Quad…",
-      "url": "https://www.ourquadcities.com/news/local-news/10th-annual-winter-lights-exhibit-sparkles-at-qc-botanical-center/",
-      "time": "17 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Winter-Lights-2026-.jpg?w=573",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against lead azide detonation in Iowa: What's in it and latest updates",
-      "summary": "A lawsuit seeking to halt a planned detonation of nearly five tons of lead azide is playing out in court. Could it further delay the detonation? What we know:",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-lawsuit-stay-updates/526-9517494d-5fbc-4716-a6e1-624fc38d733c",
-      "time": "17 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5/20261120T222835/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa, Illinois, issue responses, updates to planned Iowa munitions detonation",
-      "summary": "Both Iowa and Illinois have issued responses and updates in connection with a planned detonation in Iowa, according to Friday evening news releases. Iowa Gov. K…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-illinois-issue-responses-updates-to-planned-iowa-munitions-detonation/",
-      "time": "18 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/93E54890A920EC7F11798319D76C939C.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "MLK Jr. Center, Rock Island, continues giving free meals this weekend",
-      "summary": "The Martin Luther King Jr. Community Center (MLK Center) invites the Quad Cities community to its 37th annual Thanksgiving event, a news release says.   The eve…",
-      "url": "https://www.ourquadcities.com/news/local-news/mlk-jr-center-rock-island-continues-giving-free-meals-this-weekend/",
-      "time": "19 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/mlk-thanksgiving.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Scott County experiencing technology outage",
-      "summary": "County officials said the extent of the outage is being determined. Emergency services and 911 are still online, but some in-person county services are unavaila…",
-      "url": "https://www.wqad.com/article/news/scott-county-technology-outage-wednesday-november-18/526-4ea73b5f-8f52-47ee-913e-7b55a121eaa7",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WGRZ/images/6eccdfcc-7c11-499c-ae34-d3fa794dcc70/20261117T223900/6eccdfcc-7c11-499c-ae34-d3fa794dcc70_750x422.jpg",
-      "category": "news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Muscatine native wins national triathlon championship just 8 weeks after serious bike crash",
-      "summary": "Whitney Estabrook didn't even know if she could finish the season after her crash. Instead, she finished nearly 90 seconds faster than national 2nd place.",
-      "url": "https://www.wqad.com/article/news/local/the-current/muscatine-whitney-estabrook-triathlon-d3-national-champion-major-crash-celebration/526-97022e03-2108-46b2-9058-4bf095f9af92",
-      "time": "20 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cb5929c9-0157-4b7f-9afb-9ac5ca67d726/20261120T235411/cb5929c9-0157-4b7f-9afb-9ac5ca67d726_750x422.jpg",
-      "category": "the-current"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Gov. Reynolds activates State Emergency Operations Center ahead of planned detonation in Middletown",
-      "summary": "The Iowa Homeland Security and Emergency Management website states that SEOC may be activated for as little as a few hours, up to several weeks or months.",
-      "url": "https://www.wqad.com/article/news/state/iowa-lead-azide-detonation-middletown-state-emergency-operations-center/524-6cb8d8de-1f0c-4e66-96f6-b1b2a2bdb724",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dbaaf900-7926-406e-a94b-348573732998/20261120T141931/dbaaf900-7926-406e-a94b-348573732998_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Clinton Police Department mourns loss of K-9 Roman after illness",
-      "summary": "Clinton Police Department is mourning K-9 Roman, whose seven years of service led to dozens of arrests and major drug seizures.",
-      "url": "https://www.wqad.com/article/life/animals/clinton-police-department-mourns-loss-of-k-9-roman-after-illness/526-4ed46027-00f8-414d-9625-bcdee549cba0",
-      "time": "21 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/d21b7bb9-9771-403a-906d-20ee749defb4/20261120T233755/d21b7bb9-9771-403a-906d-20ee749defb4_750x422.jpg",
-      "category": "animals"
     }
   ]
 }
