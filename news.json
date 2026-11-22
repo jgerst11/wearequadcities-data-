@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-22T08:11:45.297587+00:00",
+  "updated": "2026-11-22T15:59:25.912103+00:00",
   "items": [
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Man arrested in connection with Galesburg shooting incident",
+      "summary": "A man has been arrested in connection to a shooting in Galesburg. According to a release from the Galesburg Police Department, officers were dispatched to the a…",
+      "url": "https://www.ourquadcities.com/news/local-news/man-arrested-in-connection-with-galesburg-shooting-incident/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Elton-Simmons-mug-shot.jpg?w=900",
+      "category": "Local News"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +19,7 @@
       "headline": "Our QC Crime Watch: Jamison Fisher appears in court on contempt charge: Episode 90",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-jamison-fisher-appears-in-court-on-contempt-charge-episode-90/",
-      "time": "7 min ago",
+      "time": "7 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/jamison-fisher-crime-watch.jpg?w=900",
       "category": "Local News"
     },
@@ -19,9 +30,20 @@
       "headline": "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
       "summary": "Fort Madison says the Iowa Army detonation could happen Monday or Tuesday. An appeals court ordered a response to the stay request by noon Sunday.",
       "url": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
-      "time": "3 h ago",
+      "time": "10 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
       "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Bret Bielema discusses Illinois' loss to Iowa",
+      "summary": "Illinois football came up short against Iowa, 34-17, Saturday afternoon in Champaign. With the loss, Illinois finishes 4-3 at home this season and is 6-5 on the…",
+      "url": "https://www.ourquadcities.com/sports/local-sports/bret-bielema-discusses-illinois-loss-to-iowa/",
+      "time": "11 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/bret-bielema.png?w=603",
+      "category": "Local Sports"
     },
     {
       "source": "WQAD",
@@ -30,7 +52,7 @@
       "headline": "Galesburg police arrest suspect after shooting leaves one injured",
       "summary": "A 49-year-old man faces multiple charges after a Saturday shooting in Galesburg left one person injured.",
       "url": "https://www.wqad.com/article/news/crime/galesburg-police-arrest-suspect-after-shooting-leaves-one-injured/526-ab2c01ad-e6e7-4460-876e-cfc94e34a217",
-      "time": "3 h ago",
+      "time": "11 h ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
       "category": "crime"
     },
@@ -38,11 +60,22 @@
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Quad City Arts Festival of Trees Parade brings holiday vibe to downtown Davenport",
-      "summary": "Crowds thronged the streets of downtown Davenport Saturday when the Festival of Trees Parade kicked off the holiday season in the Quad Cities. Hot-air balloons,…",
-      "url": "https://www.ourquadcities.com/news/local-news/quad-city-arts-festival-of-trees-parade-brings-holiday-vibe-to-downtown-davenport/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Festival-of-Trees-Parade-2026.jpg?w=397",
+      "headline": "Black Hawk College QC Campus invites community to Winter Wonderland event",
+      "summary": "Black Hawk College Quad Cities Campus will hold its Winter Wonderland – Community Open House from 8 a.m.-7 p.m. Thursday, Dec. 3, 6600 34th Ave., Moline, Buildi…",
+      "url": "https://www.ourquadcities.com/news/local-news/black-hawk-college-qc-campus-invites-community-to-winter-wonderland-event/",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/05/Black-Hawk-College.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Festival of Trees Holiday Parade brings sights and sounds of the season",
+      "summary": "The spirit of the season was alive and well as giant helium balloons, bands, floats, and holiday characters took over the streets of Davenport. The Quad City Ar…",
+      "url": "https://www.ourquadcities.com/news/local-news/festival-of-trees-holiday-parade-brings-sights-and-sounds-of-the-season/",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_c90563.png?w=900",
       "category": "Local News"
     },
     {
@@ -52,7 +85,7 @@
       "headline": "Hawkeyes pull away from Illinois to boost playoff hopes",
       "summary": "L.J. Phillips Jr. ran for 154 yards and a touchdown, Iowa's stingy defense shut out Illinois in the second half, and the No. 13 Hawkeyes beat the Fighting Illin…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-pull-away-from-illinois-to-boost-playoff-hopes/",
-      "time": "4 h ago",
+      "time": "12 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP26325788443220.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -63,20 +96,9 @@
       "headline": "Festival of Trees kicks off with balloon parade in downtown Davenport",
       "summary": "Quad City Arts' annual Festival of Trees begins with a downtown Davenport parade featuring 10 massive helium balloons and kicking off a 10-day celebration.",
       "url": "https://www.wqad.com/article/entertainment/events/festival-of-trees-kicks-off-with-balloon-parade-in-downtown-davenport/526-6f65f884-3962-414c-af79-d66ed2c4c250",
-      "time": "5 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5/20261122T024515/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5_750x422.jpg",
       "category": "events"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Scott County sheriff swears in reserves, presents life-saving awards",
-      "summary": "On Friday, Nov. 6, the Scott County Sheriff's Office held a reserves swearing-in ceremony at the Scott County Sheriff's Administration Office on the second floo…",
-      "url": "https://www.ourquadcities.com/news/local-news/scott-county-sheriff-swears-in-reserves-presents-life-saving-awards/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Sheriff-Tim-Lane-and-reserve-deputies-1.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +107,7 @@
       "headline": "Free lead test kits available Sunday in Muscatine ahead of Army detonation",
       "summary": "Hanson Farms will give away free lead dust and water test kits Sunday at an event in Muscatine.",
       "url": "https://www.wqad.com/article/tech/science/environment/free-lead-test-kits-available-sunday-in-muscatine-ahead-of-army-detonation/526-3854dcd4-1f55-4a68-8e7c-5cd2ff35a7b9",
-      "time": "8 h ago",
+      "time": "16 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c9cd0403-6e0b-41ad-b355-96b761fa259b/20261120T163216/c9cd0403-6e0b-41ad-b355-96b761fa259b_750x422.jpg",
       "category": "environment"
     },
@@ -96,19 +118,8 @@
       "headline": "Hanson Farms offers free lead dust, water test kits at Muscatine vendor event",
       "summary": "Hanson Farms will offer free lead dust and water test kits during the vendor event at Skateland Event Center in Muscatine from 9 a.m.-3 p.m. Sunday, Nov. 22, ac…",
       "url": "https://www.ourquadcities.com/news/local-news/hanson-farms-offers-free-lead-dust-water-test-kits-at-muscatine-vendor-event/",
-      "time": "10 h ago",
+      "time": "18 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_266acc.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Cat rescued from Galesburg structure fire",
-      "summary": "The Galesburg Fire Department responded to a structure fire in the 300 block of South Chambers Street shortly after 10:30 p.m. Friday, Nov. 20, according to a n…",
-      "url": "https://www.ourquadcities.com/news/local-news/cat-rescued-from-galesburg-structure-fire/",
-      "time": "10 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Galesburg-Fire-Department.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -118,20 +129,9 @@
       "headline": "Cat rescued from Galesburg fire on Friday night",
       "summary": "A firefighter also suffered minor injuries during the response but did not require medical attention.",
       "url": "https://www.wqad.com/article/news/local/public-safety/cat-rescued-galesburg-fire-november-20/526-31f40176-fb40-4325-a717-2d1ad5b7d4af",
-      "time": "13 h ago",
+      "time": "21 h ago",
       "image": "https://media.tegna-media.com/assets/WPMT/images/a3a4666c-fc29-4a01-8677-1b6d87ecc700/20250702T162117/a3a4666c-fc29-4a01-8677-1b6d87ecc700_750x422.jpg",
       "category": "public-safety"
-    },
-    {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Mattson gives Storm fast start as Quad City moves into first place in early SPHL race",
-      "summary": "A goal just :14 into Friday's contest propelled the Quad City Storm to a victory and up the SPHL standings.",
-      "url": "https://qctimes.com/sports/professional/article_761a31ba-65bd-421e-a87a-afd1d8b7860a.html",
-      "time": "16 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/f5/ef515f6a-9fa6-405c-bb4e-8d2f6e2e3a19/6b012fe6757fa.image.jpg?resize=300%2C452",
-      "category": ""
     }
   ]
 }
