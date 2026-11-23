@@ -1,15 +1,59 @@
 {
-  "updated": "2026-11-22T21:41:15.412197+00:00",
+  "updated": "2026-11-23T06:14:33.430986+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "ImpactLife holds blood drive at Quad City Botanical Center with special donor incentive",
+      "summary": "Each donor from Sunday's drive receives four free passes for Winter Lights Winter Nights at the Quad City Botanical Center.",
+      "url": "https://www.wqad.com/article/news/health/impactlife-holds-blood-drive-at-quad-city-botanical-center-with-special-donor-incentive/526-7f8b4852-c66d-4234-a9c2-cf4fec68da42",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/af29dac4-656a-4e49-a1a3-d9a58bfae7f5/20261123T043626/af29dac4-656a-4e49-a1a3-d9a58bfae7f5_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Army delays Iowa ammunition detonation to Wednesday",
+      "summary": "The Army has postponed its planned lead azide detonation at the Iowa Army Ammunition Plant until Wednesday, citing weather conditions and safety preparations.",
+      "url": "https://www.wqad.com/article/news/local/army-delays-iowa-ammunition-plant-detonation-to-wednesday/526-1b50274e-1aab-4131-a74d-9886fc9fbd9b",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cb2cc832-d987-4905-b7b0-f662cf08a3e6/20261119T230409/cb2cc832-d987-4905-b7b0-f662cf08a3e6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Turek calls for investigation as environmental groups, state prepare for Army detonation",
+      "summary": "Sen.-elect Turek seeks answers on Middletown's lead azide stockpile as environmental groups push for protections and Iowa prepares for detonation.",
+      "url": "https://www.wqad.com/article/news/national/military-news/turek-calls-for-investigation-as-environmental-groups-state-prepare-for-army-detonation/526-56e110fa-029e-47a5-8a4c-fe8ce318e59d",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/c9cd0403-6e0b-41ad-b355-96b761fa259b/20261120T163216/c9cd0403-6e0b-41ad-b355-96b761fa259b_750x422.jpg",
+      "category": "military-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
+      "summary": "Fort Madison says the Iowa Army detonation could happen Monday or Tuesday. An appeals court ordered a response to the stay request by noon Sunday.",
+      "url": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
+      "category": "local"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Report: Army still plans to detonate lead azide in Middletown, Iowa by Tuesday",
-      "summary": "The U.S. Army in court documents says it still plans to detonate lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa by Tuesday, according to a rep…",
+      "headline": "Army plans to detonate lead azide in Middletown, Iowa on Wednesday",
+      "summary": "UPDATE: The U.S. Army posted Sunday night on social media that the detonation of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa will now take …",
       "url": "https://www.ourquadcities.com/news/local-news/report-army-still-plans-to-detonate-lead-azide-in-middletown-iowa-by-tuesday/",
-      "time": "4 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Screenshot-2026-11-22-095210.png?w=697",
+      "time": "13 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_4f789a.png?w=900",
       "category": "Local News"
     },
     {
@@ -19,7 +63,7 @@
       "headline": "Man arrested in connection with Galesburg shooting incident",
       "summary": "A man has been arrested in connection to a shooting in Galesburg. According to a release from the Galesburg Police Department, officers were dispatched to the a…",
       "url": "https://www.ourquadcities.com/news/local-news/man-arrested-in-connection-with-galesburg-shooting-incident/",
-      "time": "9 h ago",
+      "time": "17 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Elton-Simmons-mug-shot.jpg?w=900",
       "category": "Local News"
     },
@@ -30,20 +74,9 @@
       "headline": "Our QC Crime Watch: Jamison Fisher appears in court on contempt charge: Episode 90",
       "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
       "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-jamison-fisher-appears-in-court-on-contempt-charge-episode-90/",
-      "time": "13 h ago",
+      "time": "22 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/04/jamison-fisher-crime-watch.jpg?w=900",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
-      "summary": "Fort Madison says the Iowa Army detonation could happen Monday or Tuesday. An appeals court ordered a response to the stay request by noon Sunday.",
-      "url": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
-      "time": "16 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
-      "category": "local"
     },
     {
       "source": "WHBF / OurQuadCities",
@@ -52,7 +85,7 @@
       "headline": "Bret Bielema discusses Illinois' loss to Iowa",
       "summary": "Illinois football came up short against Iowa, 34-17, Saturday afternoon in Champaign. With the loss, Illinois finishes 4-3 at home this season and is 6-5 on the…",
       "url": "https://www.ourquadcities.com/sports/local-sports/bret-bielema-discusses-illinois-loss-to-iowa/",
-      "time": "16 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/bret-bielema.png?w=603",
       "category": "Local Sports"
     },
@@ -63,7 +96,7 @@
       "headline": "Galesburg police arrest suspect after shooting leaves one injured",
       "summary": "A 49-year-old man faces multiple charges after a Saturday shooting in Galesburg left one person injured.",
       "url": "https://www.wqad.com/article/news/crime/galesburg-police-arrest-suspect-after-shooting-leaves-one-injured/526-ab2c01ad-e6e7-4460-876e-cfc94e34a217",
-      "time": "17 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_750x422.jpg",
       "category": "crime"
     },
@@ -74,7 +107,7 @@
       "headline": "Black Hawk College QC Campus invites community to Winter Wonderland event",
       "summary": "Black Hawk College Quad Cities Campus will hold its Winter Wonderland – Community Open House from 8 a.m.-7 p.m. Thursday, Dec. 3, 6600 34th Ave., Moline, Buildi…",
       "url": "https://www.ourquadcities.com/news/local-news/black-hawk-college-qc-campus-invites-community-to-winter-wonderland-event/",
-      "time": "17 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/05/Black-Hawk-College.jpg?w=900",
       "category": "Local News"
     },
@@ -85,7 +118,7 @@
       "headline": "Hawkeyes pull away from Illinois to boost playoff hopes",
       "summary": "L.J. Phillips Jr. ran for 154 yards and a touchdown, Iowa's stingy defense shut out Illinois in the second half, and the No. 13 Hawkeyes beat the Fighting Illin…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-pull-away-from-illinois-to-boost-playoff-hopes/",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP26325788443220.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -96,42 +129,9 @@
       "headline": "Festival of Trees kicks off with balloon parade in downtown Davenport",
       "summary": "Quad City Arts' annual Festival of Trees begins with a downtown Davenport parade featuring 10 massive helium balloons and kicking off a 10-day celebration.",
       "url": "https://www.wqad.com/article/entertainment/events/festival-of-trees-kicks-off-with-balloon-parade-in-downtown-davenport/526-6f65f884-3962-414c-af79-d66ed2c4c250",
-      "time": "18 h ago",
+      "time": "1d ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5/20261122T024515/e3fd6d75-eb29-453d-af69-98c4f4d8cdd5_750x422.jpg",
       "category": "events"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Free lead test kits available Sunday in Muscatine ahead of Army detonation",
-      "summary": "Hanson Farms will give away free lead dust and water test kits Sunday at an event in Muscatine.",
-      "url": "https://www.wqad.com/article/tech/science/environment/free-lead-test-kits-available-sunday-in-muscatine-ahead-of-army-detonation/526-3854dcd4-1f55-4a68-8e7c-5cd2ff35a7b9",
-      "time": "22 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/c9cd0403-6e0b-41ad-b355-96b761fa259b/20261120T163216/c9cd0403-6e0b-41ad-b355-96b761fa259b_750x422.jpg",
-      "category": "environment"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Hanson Farms offers free lead dust, water test kits at Muscatine vendor event",
-      "summary": "Hanson Farms will offer free lead dust and water test kits during the vendor event at Skateland Event Center in Muscatine from 9 a.m.-3 p.m. Sunday, Nov. 22, ac…",
-      "url": "https://www.ourquadcities.com/news/local-news/hanson-farms-offers-free-lead-dust-water-test-kits-at-muscatine-vendor-event/",
-      "time": "1d ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_266acc.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Cat rescued from Galesburg fire on Friday night",
-      "summary": "A firefighter also suffered minor injuries during the response but did not require medical attention.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/cat-rescued-galesburg-fire-november-20/526-31f40176-fb40-4325-a717-2d1ad5b7d4af",
-      "time": "1d ago",
-      "image": "https://media.tegna-media.com/assets/WPMT/images/a3a4666c-fc29-4a01-8677-1b6d87ecc700/20250702T162117/a3a4666c-fc29-4a01-8677-1b6d87ecc700_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
