@@ -1,104 +1,126 @@
 {
-  "updated": "2026-11-23T19:55:07.038083+00:00",
+  "updated": "2026-11-24T04:39:10.806869+00:00",
   "items": [
     {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against lead azide detonation in Iowa: What's in it and latest updates",
-      "summary": "A lawsuit seeking to halt a planned detonation of nearly five tons of lead azide is playing out in court. Could it further delay the detonation? What we know:",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-lawsuit-stay-updates/526-9517494d-5fbc-4716-a6e1-624fc38d733c",
-      "time": "16 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5/20261120T222835/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Where the wind could take lead particles from the Iowa Army detonation",
-      "summary": "The weather is shaping both when and where the planned detonation of degraded lead azide at the Iowa Army Ammunition Plant in Middletown could happen.",
-      "url": "https://www.wqad.com/article/weather/where-the-wind-could-take-lead-particles-from-iowa-army-detonation/507-e7f72c6c-90df-469d-a5dc-65bea97a330a",
-      "time": "22 min ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/a1ecc1fd-ce67-47a6-95cb-2937057188e3/20261123T170329/a1ecc1fd-ce67-47a6-95cb-2937057188e3_750x422.jpg",
-      "category": "weather"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa receives $750K federal grant to support sexual assault victims",
-      "summary": "The Attorney General Office's Victim Assistance Section received a grant totaling $750,000 to provide medical trainings aimed at supporting sexual assault victi…",
-      "url": "https://www.wqad.com/article/news/health/iowa-receives-750k-federal-grant-fight-violence-against-women-attorney-general-brenna-bird-safe/524-a793f60c-ee79-4929-a8c4-3c3495d7451f",
-      "time": "45 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/f9820b94-9256-4ae0-9d0b-4cc1a8fd67b6/20260312T023638/f9820b94-9256-4ae0-9d0b-4cc1a8fd67b6_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa governors and state agencies prepare for detonation response, including informational website",
-      "summary": "The Army said Sunday evening that it would be carrying out the detonation on Wednesday. This article was published prior to that announcement.",
-      "url": "https://www.wqad.com/article/news/national/military-news/governor-reynolds-state-agencies-prepare-detonation-response-including-informational-website-middletown-lead/524-ad52f5cc-6651-4897-bfd7-af4b23a8871f",
-      "time": "46 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/9c9ff2ef-b397-445f-abfd-b868ea9ff0f7/20261120T151234/9c9ff2ef-b397-445f-abfd-b868ea9ff0f7_750x422.jpg",
-      "category": "military-news"
-    },
-    {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Clinton closing road for water main project work",
-      "summary": "A water main project in Clinton is causing a temporary road closure in the city. Beginning Tuesday, Nov. 24, 4th Avenue North will be closed between North Bluff…",
-      "url": "https://www.ourquadcities.com/news/local-news/clinton-closing-road-for-water-main-project-work/",
-      "time": "52 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/03/City-of-Clinton.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Davenport firefighters respond to structure fire",
-      "summary": "Davenport Fire was called to the 1000 block of Scott Street on Nov. 22 at about 10 a.m. for a report of a structure fire. The first units arrived within four mi…",
-      "url": "https://www.ourquadcities.com/news/local-news/davenport-firefighters-respond-to-structure-fire/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/01/Davenport-Fire-Department.jpg?w=900",
+      "headline": "Friday show at RIBCO canceled: Social media",
+      "summary": "Social media posts have announced that musician Eva Kendall has canceled her all-ages show scheduled for Friday, Nov. 27, at Rock Island Brewing Co. \"Unfortunat…",
+      "url": "https://www.ourquadcities.com/news/local-news/friday-show-at-ribco-canceled-social-media/",
+      "time": "6 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_c2cf02.png?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Iowa Poison Control Center shares guidance ahead of lead detonation",
-      "summary": "The IPCC worked with the Iowa HHS, Iowa Homeland Security and Emergency Management and other state partners to develop the tips.",
-      "url": "https://www.wqad.com/article/news/health/iowa-poison-control-center-shares-guidance-ahead-of-lead-detonation/524-858fe0d2-944f-4810-8daf-5aa3187c61dc",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/f95700b5-c77e-42a2-a075-494378a53311/20261117T043307/f95700b5-c77e-42a2-a075-494378a53311_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa governor's annual turkey pardoning event will not happen this year, office says",
-      "summary": "The governor will still issue a proclamation, her office shared in an email.",
-      "url": "https://www.wqad.com/article/life/holidays/iowa-traditional-turkey-pardoning-event-not-happening/524-54ae1b96-1415-4386-94e1-07344f1625bb",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/a104e5fc-a59b-4824-b921-bd942e57ea92/a104e5fc-a59b-4824-b921-bd942e57ea92_750x422.jpg",
-      "category": "holidays"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "US Army to detonate lead azide Wednesday. What Iowa leaders are saying",
-      "summary": "Army officials said the material has become increasingly unstable and poses a growing risk if left in storage.",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-leader-reaction-lead-azide-detonation-middletown/524-7f4a2d58-fd52-4237-908b-ee37e619e48d",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WTHR/images/3b290847-e45a-4ab3-a909-08d610f430a9/20261123T120336/3b290847-e45a-4ab3-a909-08d610f430a9_750x422.jpg",
+      "headline": "Army to move forward with lead azide detonation in Iowa on Wednesday following court ruling",
+      "summary": "Acting Army Sec. Adam Telle said the detonation will take place at some point on Wednesday morning.",
+      "url": "https://www.wqad.com/article/news/national/military-news/lead-azide-detonation-iowa-judge-ruling-stay-lifted-epa-permit/526-7ecb9fa2-2ba4-4fc4-986c-da2d54a37143",
+      "time": "9 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/fe0ee433-8340-44db-ace6-f20e956e05bb/20261118T193343/fe0ee433-8340-44db-ace6-f20e956e05bb_750x422.jpg",
       "category": "military-news"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Southeast Iowa livestock farmers testing for lead ahead of Middletown detonation",
+      "summary": "An animal feed delivery company is handing out lead test strips to its customers to get a baseline reading on water used for animals.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/southeast-iowa-livestock-farmers-testing-lead-middletown-detonation/526-acd0c171-2e14-49ac-9b83-d97fd613fce5",
+      "time": "11 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/613c340f-8480-4899-96c2-65ac2a7740f8/20261124T040813/613c340f-8480-4899-96c2-65ac2a7740f8_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "East Moline School District names new superintendent",
+      "summary": "Carl Johnson will take over the role on July 1, 2027, following the retirement of Kristin Humphries, who led the district for 17 years.",
+      "url": "https://www.wqad.com/article/news/local/east-moline-schools-new-superintendent-carl-johnson/526-74e891c3-f0de-4bec-9c8f-7a860c8cbf8e",
+      "time": "19 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/a4607947-92f5-4fb7-9c6b-7ee9c9160575/20261123T222615/a4607947-92f5-4fb7-9c6b-7ee9c9160575_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Army lead azide detonation set for Wednesday after court lifts stay on EPA permit",
+      "summary": "The Army has postponed its planned lead azide detonation at the Iowa Army Ammunition Plant until Wednesday.",
+      "url": "https://www.wqad.com/article/news/local/army-delays-iowa-ammunition-plant-detonation-to-wednesday/526-1b50274e-1aab-4131-a74d-9886fc9fbd9b",
+      "time": "20 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/cb2cc832-d987-4905-b7b0-f662cf08a3e6/20261119T230409/cb2cc832-d987-4905-b7b0-f662cf08a3e6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Army's planned lead azide detonation set for Wednesday after court lifts stay",
+      "summary": "A federal judge has said the U.S. Army can move forward with detonating 68 barrels, or nearly five tons, of lead azide at the Iowa Army Ammunition Plant.",
+      "url": "https://www.wqad.com/article/news/local/army-plans-to-detonate-lead-azide-by-tuesday-citing-growing-explosion-risk-from-freezing-temperatures/526-e441e267-2aad-4df6-ba06-5ec65bdb4c7f",
+      "time": "24 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/df0b9d1a-d107-484c-864b-27daefda19b6/20261118T193343/df0b9d1a-d107-484c-864b-27daefda19b6_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Illinois state agencies launch informational site on Iowa Army Ammunition Plant detonation",
+      "summary": "Due to the plant being located on the Iowa-Illinois border, several state agencies in Illinois have been keeping an eye on the planned lead azide detonation.",
+      "url": "https://www.wqad.com/article/news/national/military-news/lead-azide-detonation-iowa-impact-illinois-webpage-launched-epa-dph-ema-ohs/526-e567d692-9c65-432e-8ddd-8c1110499d1a",
+      "time": "31 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/e4455a8d-ec09-491d-a70c-30d9bce80ab9/20261124T012209/e4455a8d-ec09-491d-a70c-30d9bce80ab9_750x422.jpg",
+      "category": "military-news"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "East Moline School District appoints new superintendent",
+      "summary": "The East Moline School District #37 (EMSD) Board of Education voted formally on Monday to appoint Carl E. Johnson as the district’s next superintendent of schoo…",
+      "url": "https://www.ourquadcities.com/news/local-news/east-moline-school-district-appoints-new-superintendent/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_1d071e.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Ridgewood Elementary cancels school for November 24 for plumbing issues",
+      "summary": "Ridgewood Elementary School in Rock Island has canceled school for November 24. According to a post from the Rock Island-Milan School District: School is back i…",
+      "url": "https://www.ourquadcities.com/news/local-news/ridgewood-elementary-cancels-school-for-november-24-for-plumbing-issues/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/07/Rock-Island-Milan-School-District-41-1.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Big temperature turnaround this week in the Quad Cities",
+      "summary": "After a record-tying high in the lower 70s Saturday, it's much colder early Thanksgiving week in the Quad Cities. The high Monday was only 37° on Monday. Tuesda…",
+      "url": "https://www.ourquadcities.com/news/local-news/big-temperature-turnaround-this-week-in-the-quad-cities/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/cold-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "50 years of second chances: Safer Foundation celebrates Quad Cities milestone",
+      "summary": "The local nonprofit helps people adjust to life after incarceration and works to reduce recidivism. You can celebrate with a free event on Dec. 1.",
+      "url": "https://www.wqad.com/article/news/local/the-current/safer-foundation-nonprofit-recidivism-jail-prison-50-years-event-simulator/526-b4984aa8-cce5-4972-b976-f20344b212c7",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/560c15a8-e313-41cf-8401-60cbae34db03/20261124T010818/560c15a8-e313-41cf-8401-60cbae34db03_750x422.jpg",
+      "category": "the-current"
     },
     {
       "source": "WQAD",
@@ -107,31 +129,9 @@
       "headline": "Gov. Reynolds orders flags to half-staff in honor of Wally E. Horn",
       "summary": "Horn served for 46 consecutive years in the Iowa Legislature and is Iowa's longest-serving legislator.",
       "url": "https://www.wqad.com/article/news/state/iowa-flags-half-staff-wally-e-horn/524-8393e712-e8ec-4973-8a25-99d1cd75e642",
-      "time": "1 h ago",
+      "time": "4 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/fbfcf1d4-d29a-4e6b-acf3-9b9f76c4e247/20261123T173422/fbfcf1d4-d29a-4e6b-acf3-9b9f76c4e247_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Catch 'Season of Light' at John Deere Planetarium, Augustana College",
-      "summary": "Augustana College's John Deere Planetarium is hosting its annual holiday planetarium show, \"Season of Light,\" on Dec. 5-11. Shows will be presented Saturday and…",
-      "url": "https://www.ourquadcities.com/news/local-news/catch-season-of-light-at-john-deere-planetarium-augustana-college/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2022/10/Dr.-Lee-Carkner.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Grants help QCA cities buy, rehab abandoned residential properties",
-      "summary": "The Illinois Housing Development Authority board has approved $9.2 million in grants through the Strong Communities Program (SCP) to help 41 local governments a…",
-      "url": "https://www.ourquadcities.com/news/local-news/grants-help-qca-cities-buy-rehab-abandoned-residential-properties/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/09/Illinois-Housing-Development-Authority.jpg?w=900",
-      "category": "Local News"
     }
   ]
 }
