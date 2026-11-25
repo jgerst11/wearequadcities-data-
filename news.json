@@ -1,137 +1,137 @@
 {
-  "updated": "2026-11-24T19:23:26.443042+00:00",
+  "updated": "2026-11-25T03:24:01.442243+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "AAA offers Thanksgiving travel tips",
-      "summary": "Thanksgiving is days away and millions of people are taking to the roads to gather with friends and family. Molly Hart, spokeswoman for AAA, spoke with Our Quad…",
-      "url": "https://www.ourquadcities.com/news/local-news/aaa-offers-thanksgiving-travel-tips/",
-      "time": "1 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/American-Automobile-Association.jpg?w=900",
+      "headline": "Proposed Illinois water rate hike reduced",
+      "summary": "A rate hike requested by Illinois American Water was denied by a state commission. The utility asked for $127 million more for water and sewer services to its 3…",
+      "url": "https://www.ourquadcities.com/news/local-news/proposed-illinois-water-rate-hike-reduced/",
+      "time": "11 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/water-drinking-tap-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "RIBCO closing indefinitely after reopening in 2025",
-      "summary": "Rock Island Brewing Company had just reopened in 2025 under new ownership.",
-      "url": "https://www.wqad.com/article/money/business/small-business/ribco-rock-island-brewing-company-closing-indefinitely/526-483e33aa-1328-42d7-8c15-430862d72afa",
-      "time": "6 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/18f47c33-7695-4950-a873-04c473514f00/20251220T053408/18f47c33-7695-4950-a873-04c473514f00_750x422.jpg",
-      "category": "small-business"
+      "headline": "Clinton, Iowa City Council adopts data center ordinance",
+      "summary": "The ordinance has become a hot-button issue for the community as developer QTS seeks to build a data center on about 1,100 acres on the west side of town.",
+      "url": "https://www.wqad.com/article/news/local/clinton-iowa-city-council-data-center-ordinance-passes-final-reading/526-332bd5d7-93c2-425a-9e4c-dd264dd941b1",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/ec6a6d27-c4b4-443b-b144-ef72f6a16819/20261124T235229/ec6a6d27-c4b4-443b-b144-ef72f6a16819_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "QC Times",
+      "badge": "QCT",
+      "color": "brand",
+      "headline": "Snow may greet Thanksgiving travelers, but warmer weather is on the way",
+      "summary": "Snow, rain and millions of travelers: Thanksgiving week is shaping up to be a busy one. Here's what to expect in the Quad-Cities.",
+      "url": "https://qctimes.com/news/local/weather/article_d09d5613-bf15-4c11-ba59-40e8b5fed153.html",
+      "time": "2 h ago",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/af/1af494ab-cf3b-4105-bacf-8ddbc8f887f5/6b062dabcb506.image.png?resize=300%2C169",
+      "category": ""
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Where the wind could take lead particles from the Iowa Army detonation",
-      "summary": "The weather is shaping both when and where the planned detonation of degraded lead azide at the Iowa Army Ammunition Plant in Middletown could happen.",
-      "url": "https://www.wqad.com/article/weather/where-the-wind-could-take-lead-particles-from-iowa-army-detonation/507-e7f72c6c-90df-469d-a5dc-65bea97a330a",
-      "time": "16 min ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/ff044663-adb0-4983-9358-6a50f8eaf450/20261124T183215/ff044663-adb0-4983-9358-6a50f8eaf450_750x422.jpg",
-      "category": "weather"
+      "headline": "Muscatine hoping to shorten closure of Highway 92 bridge next year",
+      "summary": "The bridge connects Iowa and Illinois in Muscatine, and\nleaders hope to reduce the closure to two weeks.",
+      "url": "https://www.wqad.com/article/news/local/muscatine-shorten-closure-highway-92-bridge-2027/526-762b6880-8368-490c-83fe-5429c21c0be4",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/1dea070d-a153-462c-be20-1dbceabb5710/20261124T232203/1dea070d-a153-462c-be20-1dbceabb5710_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Illinois prepares for Iowa detonation, expects 'little to no impact'",
+      "summary": "Officials from the Illinois Environmental Protection Agency (IEPA), Illinois Department of Public Health (IDPH), Illinois Emergency Management Agency- Office of…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-prepares-for-iowa-detonation-expects-little-to-no-impact/",
+      "time": "2 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_4f789a.png?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Strong pheasant populations await Iowa hunters this Thanksgiving",
-      "summary": "This fall is Iowa's 101st pheasant season. But despite favorable bird numbers, Iowa hunters have about 10,000 fewer public acres to hunt this year. Here's why.",
-      "url": "https://www.wqad.com/article/news/local/the-current/iowa-pheasant-hunting-thanksgiving-population-numbers-loss-of-acres-land/526-48dbba28-5a60-40af-9fee-6280b7005590",
-      "time": "20 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cda3f18d-c8c9-40e9-92bc-69b79eca828c/20260714T231520/cda3f18d-c8c9-40e9-92bc-69b79eca828c_750x422.jpg",
-      "category": "the-current"
+      "headline": "Coal Valley man charged with attempted murder",
+      "summary": "Blake Dillin is accused of attacking a 63-year-old Moline man, dousing him with an accelerant and setting him on fire.",
+      "url": "https://www.wqad.com/article/news/crime/attempted-murder-arrest-coal-valley-man-moline-police-department/526-f05217da-3dac-4987-b340-6db4f2ca866f",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/KPNX/images/589708204/589708204_750x422.png",
+      "category": "crime"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Snow chances going UP for Thanksgiving",
+      "summary": "It's almost here! Our first snow of the season is heading this way and should arrive Wednesday evening. We'll see a mix of rain and snow from Wednesday evening …",
+      "url": "https://www.ourquadcities.com/news/local-news/snow-chances-going-up-for-thanksgiving/",
+      "time": "3 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/chance-for-snow-GENERIC.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "Quad City Storm climb to first place in SPHL, extend points streak to 10 games",
-      "summary": "Not only did the team sweep the former first-place team this weekend, but veteran Leif Mattson set a team record for the fastest opening goal in franchise histo…",
-      "url": "https://www.wqad.com/article/news/local/the-current/quad-city-storm-hockey-first-place-sphl-standings-swept-knoxville-point-streak-10-consecutive-games/526-7482287d-79ca-4408-a6a9-0820c2539611",
-      "time": "46 min ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/7a0199c9-be79-40d1-a7c7-70f7b25d0be7/20261124T181909/7a0199c9-be79-40d1-a7c7-70f7b25d0be7_750x422.jpg",
-      "category": "the-current"
+      "headline": "Will the lead azide detonation pose a risk in the Quad Cities?",
+      "summary": "According to a statement released Tuesday afternoon, there is no projected health risk to the Quad Cities metro based on current forecasting and models.",
+      "url": "https://www.wqad.com/article/news/health/lead-azide-detonation-iowa-quad-cities-health-risk-scott-county-rock-island-county-joint-statement/526-b4706fe3-aa04-4ae7-ab7f-857164b8575f",
+      "time": "3 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/356e4d56-0350-4f0f-a912-6732af0af4ae/20261112T020046/356e4d56-0350-4f0f-a912-6732af0af4ae_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Iowa governor issues proclamation of disaster emergency; senator-elect issues statement",
+      "summary": "Gov. Kim Reynolds on Tuesday issued a proclamation of disaster emergency for Des Moines, Lee, and Van Buren Counties, according to the Official State of Iowa We…",
+      "url": "https://www.ourquadcities.com/news/local-news/iowa-governor-issues-proclamation-of-disaster-emergency-for-three-counties/",
+      "time": "4 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/download_1c6ac6-e1768396318413.png?w=883",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
       "badge": "8",
       "color": "slate",
-      "headline": "'The danger is immediate' | Gov. Reynolds shares statement of support in lead azide detonation",
-      "summary": "The U.S. Army is expected to detonate 68 barrels, or nearly five tons, of lead azide at the Iowa Army Ammunition Plant in Middletown Wednesday morning.",
-      "url": "https://www.wqad.com/article/news/local/local-politics/kim-reynolds-support-lead-azide-detonation-iowa-army-ammunition-plant-middletown/524-74102682-db3b-4619-85a8-dae9c182c55b",
+      "headline": "Lead azide detonation: Iowa governor issues disaster proclamation for 3 counties, opening up state resources",
+      "summary": "Counties included in the proclamation are Des Moines, Lee and Van Buren Counties.",
+      "url": "https://www.wqad.com/article/news/state/lead-azide-detonation-iowa-governor-disaster-proclamation-des-moines-van-buren-lee-counties/526-fd198d55-3c46-4e83-9e51-6a612177b984",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/e4d5d777-faf0-44e3-a17f-1f6b93b81c18/20250325T225509/e4d5d777-faf0-44e3-a17f-1f6b93b81c18_750x422.jpg",
+      "category": "state"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa Poison Control Center shares guidance ahead of lead detonation",
+      "summary": "The IPCC worked with the Iowa HHS, Iowa Homeland Security and Emergency Management and other state partners to develop the tips.",
+      "url": "https://www.wqad.com/article/news/health/iowa-poison-control-center-shares-guidance-ahead-of-lead-detonation/524-858fe0d2-944f-4810-8daf-5aa3187c61dc",
+      "time": "4 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/ba57bf4f-c31e-4be5-85c8-c6014f96da32/20261123T235525/ba57bf4f-c31e-4be5-85c8-c6014f96da32_750x422.jpg",
+      "category": "health"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Coal Valley man arrested; accused of beating man, setting him on fire",
+      "summary": "A man from Coal Valley is in the Scott County Jail after Moline Police said he beat a 63-year-old man, set him on fire and took a vehicle. A news release from t…",
+      "url": "https://www.ourquadcities.com/news/local-news/coal-valley-man-arrested-accused-of-beating-man-setting-him-on-fire/",
       "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/c4845a03-9ea1-41ec-8ca6-fec587e50f62/20260416T214939/c4845a03-9ea1-41ec-8ca6-fec587e50f62_750x422.jpg",
-      "category": "local-politics"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against lead azide detonation in Iowa: What's in it and latest updates",
-      "summary": "A lawsuit seeking to halt a planned detonation of nearly five tons of lead azide is playing out in court. Could it further delay the detonation? What we know:",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-lawsuit-stay-updates/526-9517494d-5fbc-4716-a6e1-624fc38d733c",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5/20261120T222835/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "The biochemistry of lead azide: What an Augustana professor wants you to know",
-      "summary": "The Iowa Army Ammunition Plant is preparing to detonate a stockpile of lead azide Friday in Middletown. But what is lead azide, and why is it a danger to humans…",
-      "url": "https://www.wqad.com/article/tech/science/detonation-iowa-army-ammunition-plant-what-is-lead-azide/526-cf44cbfb-d388-4196-8a6c-1a5c397118c5",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/fe9e6224-8ce2-44b2-8548-6d44866b9356/20261119T001454/fe9e6224-8ce2-44b2-8548-6d44866b9356_750x422.jpg",
-      "category": "science"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Middletown residents protest planned lead azide detonations at Iowa Army Ammunition Plant",
-      "summary": "People gathered in Middletown to protest the Army's planned lead azide detonations, raising concerns about potential health risks and a lack of transparency.",
-      "url": "https://www.wqad.com/article/news/national/military-news/middletown-residents-protest-lead-azide-detonation-iowa-army-ammunition-plant/526-e60e2e39-61f9-4275-bcb3-cba991b20678",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/0d3a79a5-edf8-477e-ae97-90f0bef72fd7/20261119T041423/0d3a79a5-edf8-477e-ae97-90f0bef72fd7_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Property damage from Iowa Army Ammunition Plant blasts? Here's how to file a claim",
-      "summary": "Middletown residents who believe Army lead azide detonations damaged their property can file a federal claim for compensation.",
-      "url": "https://www.wqad.com/article/news/national/military-news/property-damage-iowa-army-ammunition-plant-blasts-claim-process/526-ad728325-459c-434a-a3c5-13ef51f14fef",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/36388c8c-bf2d-4a62-ac7c-aca8ada21c27/20261118T002415/36388c8c-bf2d-4a62-ac7c-aca8ada21c27_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "ARCHIVE: Iowa lead azide detonation postponed to Monday, Army secretary says",
-      "summary": "Acting Army Sec. Adam Telle made the announcement Thursday night following several calls for a delay.",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-postponed-acting-army-secretary/526-8e9be576-53c2-4de5-9c9a-a773ccc9b3b8",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/cb2cc832-d987-4905-b7b0-f662cf08a3e6/20261119T230409/cb2cc832-d987-4905-b7b0-f662cf08a3e6_750x422.jpg",
-      "category": "military-news"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit seeking to stop planned detonation of lead azide in Iowa",
-      "summary": "The lawsuit challenges a permit the EPA granted the Army to move forward with the detonation.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/lawsuit-seeking-stop-detonation-lead-azide-iowa-army-ammunition-plant/526-c2bbe1b7-4380-4e29-b135-0c556b374761",
-      "time": "14 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/e6a7a499-b2bc-4844-a7a9-bb70d8a63969/20261119T231340/e6a7a499-b2bc-4844-a7a9-bb70d8a63969_750x422.jpg",
-      "category": "public-safety"
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Blake-Dillin-mug-shot.jpg?w=900",
+      "category": "Local News"
     }
   ]
 }
