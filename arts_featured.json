@@ -1,0 +1,20 @@
+{
+  "updated": "2026-11-25T19:35:54.468960+00:00",
+  "items": [
+    {
+      "id": "jg-the-rhythm-we-make",
+      "artist": "John Gerstner",
+      "title": "The Rhythm We Make",
+      "medium": "Music",
+      "kind": "Album · Soul, R&B, Funk",
+      "city": "",
+      "blurb": "An album about the imperfect art of understanding each other: twelve songs of soul, R&B and funk about misunderstandings, private jokes and finding the beat again.",
+      "image": "https://jgerst11.github.io/wearequadcities-data-/arts/the-rhythm-we-make.jpg",
+      "link": "https://www.johngerstner.com/music/the-rhythm-we-make/",
+      "link_label": "Listen to the album",
+      "note": "From the editor's studio: John is a co-founder of WeAreQuadCities.",
+      "ai": "Original lyrics and creative direction by the artist; music and vocals developed with AI-assisted production tools.",
+      "added": "2026-11-25"
+    }
+  ]
+}
