@@ -16,8 +16,9 @@ from pathlib import Path
 FEEDS = [
     { "source": "WHBF / OurQuadCities", "badge": "QC",  "color": "brick",
       "url": "https://www.ourquadcities.com/feed" },
-    { "source": "QC Times",             "badge": "QCT", "color": "brand",
-      "url": "https://qctimes.com/search/?f=rss&t=article&l=20&s=start_time&sd=desc&k=%22quad+cities%22" },
+    # QC Times replaced 11/25/26: qctimes.com returns 429 to automated readers, so it never contributed items
+    { "source": "KWQC TV6",             "badge": "6",   "color": "brand",
+      "url": "https://www.kwqc.com/arc/outboundfeeds/rss/category/news/?outputType=xml" },
     { "source": "WQAD",                 "badge": "8",   "color": "slate",
       "url": "https://www.wqad.com/feeds/syndication/rss/news" },
 ]
@@ -146,9 +147,13 @@ def main():
         except Exception:
             return 0
 
-    interleaved = []
-    for feed_items in all_items:
-        interleaved.extend(feed_items)
+    # Fair share (11/25/26): up to MAX_ITEMS // len(FEEDS) per source so one busy newsroom can't crowd the others
+    # out; leftover slots go to the next-freshest items from any source. Final list freshest first.
+    share = max(1, MAX_ITEMS // max(1, len(FEEDS)))
+    by_src = [sorted(f, key=_sort_key, reverse=True) for f in all_items]
+    interleaved = [it for f in by_src for it in f[:share]]
+    rest = sorted((it for f in by_src for it in f[share:]), key=_sort_key, reverse=True)
+    interleaved += rest[:max(0, MAX_ITEMS - len(interleaved))]
     interleaved.sort(key=_sort_key, reverse=True)
     interleaved = interleaved[:MAX_ITEMS]
 
