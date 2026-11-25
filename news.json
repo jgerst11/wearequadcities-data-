@@ -1,16 +1,49 @@
 {
-  "updated": "2026-11-25T03:24:01.442243+00:00",
+  "updated": "2026-11-25T13:57:54.603041+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Proposed Illinois water rate hike reduced",
-      "summary": "A rate hike requested by Illinois American Water was denied by a state commission. The utility asked for $127 million more for water and sewer services to its 3…",
-      "url": "https://www.ourquadcities.com/news/local-news/proposed-illinois-water-rate-hike-reduced/",
-      "time": "11 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/10/water-drinking-tap-GENERIC.jpg?w=900",
+      "headline": "First snow of the season for some",
+      "summary": "A chilly day is ahead for the Quad Cities. A wintry mix moves in this evening and changes to snow for some tonight. Here's your full 7-day forecast.",
+      "url": "https://www.ourquadcities.com/news/local-news/first-snow-of-the-season-for-some/",
+      "time": "2 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/snow-GENERIC.jpg?w=900",
       "category": "Local News"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "LIVE UPDATES: Army detonating nation's stockpile of lead azide in Iowa",
+      "summary": "After several delays, the U.S. Army is detonating a stockpile of lead azide that officials say is unsafe to move due to the risk of spontaneous explosion.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/live-updates-lead-azide-controlled-detonation-iowa-army-ammunition-plant-middletown/526-4ebb5fea-87bc-40f7-996b-32a661adb800",
+      "time": "57 min ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/aeb6bf6e-b480-4762-be94-32eec8635c10/20261119T211228/aeb6bf6e-b480-4762-be94-32eec8635c10_750x422.jpg",
+      "category": "public-safety"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Lee County landowner takes steps to monitor impact of planned lead azide detonations",
+      "summary": "University of Iowa officials are testing Brian Landes' soil and air quality before and after planned lead azide detonations on Wednesday.",
+      "url": "https://www.wqad.com/article/news/local/lee-county-landowner-monitor-lead-azide-detonations-soil-air-quality/526-6e983dbb-60dc-4d0b-80d5-725ef36818ae",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/3841f963-89e2-460f-8261-26dd2429296f/20261125T040719/3841f963-89e2-460f-8261-26dd2429296f_750x422.jpg",
+      "category": "local"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "RIBCO closing indefinitely after reopening in 2025",
+      "summary": "Rock Island Brewing Company had just reopened in 2025 under new ownership.",
+      "url": "https://www.wqad.com/article/money/business/small-business/ribco-rock-island-brewing-company-closing-indefinitely/526-483e33aa-1328-42d7-8c15-430862d72afa",
+      "time": "9 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/18f47c33-7695-4950-a873-04c473514f00/20251220T053408/18f47c33-7695-4950-a873-04c473514f00_750x422.jpg",
+      "category": "small-business"
     },
     {
       "source": "WQAD",
@@ -19,20 +52,31 @@
       "headline": "Clinton, Iowa City Council adopts data center ordinance",
       "summary": "The ordinance has become a hot-button issue for the community as developer QTS seeks to build a data center on about 1,100 acres on the west side of town.",
       "url": "https://www.wqad.com/article/news/local/clinton-iowa-city-council-data-center-ordinance-passes-final-reading/526-332bd5d7-93c2-425a-9e4c-dd264dd941b1",
-      "time": "1 h ago",
+      "time": "9 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/ec6a6d27-c4b4-443b-b144-ef72f6a16819/20261124T235229/ec6a6d27-c4b4-443b-b144-ef72f6a16819_750x422.jpg",
       "category": "local"
     },
     {
-      "source": "QC Times",
-      "badge": "QCT",
-      "color": "brand",
-      "headline": "Snow may greet Thanksgiving travelers, but warmer weather is on the way",
-      "summary": "Snow, rain and millions of travelers: Thanksgiving week is shaping up to be a busy one. Here's what to expect in the Quad-Cities.",
-      "url": "https://qctimes.com/news/local/weather/article_d09d5613-bf15-4c11-ba59-40e8b5fed153.html",
-      "time": "2 h ago",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/af/1af494ab-cf3b-4105-bacf-8ddbc8f887f5/6b062dabcb506.image.png?resize=300%2C169",
-      "category": ""
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "EPA collects samples, sends Tuesday night update on detonation prep in Middletown",
+      "summary": "The Environmental Protection Agency (EPA) on Tuesday night dispatched an update about preparations before the controlled detonation in Middletown, Iowa. \"Our EP…",
+      "url": "https://www.ourquadcities.com/news/local-news/epa-collects-samples-sends-tuesday-night-update-on-detonation-prep-in-middletown/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP26322823699168.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Clinton City Council passes data center ordinance",
+      "summary": "The Clinton City Council gave final approval Tuesday night to a new data center ordinance. It comes after months of debate and opposition. Members of Clintonian…",
+      "url": "https://www.ourquadcities.com/news/local-news/clinton-city-council-passes-data-center-ordinance/",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2021/12/City-of-Clinton.jpg?w=900",
+      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -41,7 +85,7 @@
       "headline": "Muscatine hoping to shorten closure of Highway 92 bridge next year",
       "summary": "The bridge connects Iowa and Illinois in Muscatine, and\nleaders hope to reduce the closure to two weeks.",
       "url": "https://www.wqad.com/article/news/local/muscatine-shorten-closure-highway-92-bridge-2027/526-762b6880-8368-490c-83fe-5429c21c0be4",
-      "time": "2 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/1dea070d-a153-462c-be20-1dbceabb5710/20261124T232203/1dea070d-a153-462c-be20-1dbceabb5710_750x422.jpg",
       "category": "local"
     },
@@ -52,7 +96,7 @@
       "headline": "Illinois prepares for Iowa detonation, expects 'little to no impact'",
       "summary": "Officials from the Illinois Environmental Protection Agency (IEPA), Illinois Department of Public Health (IDPH), Illinois Emergency Management Agency- Office of…",
       "url": "https://www.ourquadcities.com/news/local-news/illinois-prepares-for-iowa-detonation-expects-little-to-no-impact/",
-      "time": "2 h ago",
+      "time": "13 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_4f789a.png?w=900",
       "category": "Local News"
     },
@@ -63,20 +107,9 @@
       "headline": "Coal Valley man charged with attempted murder",
       "summary": "Blake Dillin is accused of attacking a 63-year-old Moline man, dousing him with an accelerant and setting him on fire.",
       "url": "https://www.wqad.com/article/news/crime/attempted-murder-arrest-coal-valley-man-moline-police-department/526-f05217da-3dac-4987-b340-6db4f2ca866f",
-      "time": "2 h ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/KPNX/images/589708204/589708204_750x422.png",
       "category": "crime"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Snow chances going UP for Thanksgiving",
-      "summary": "It's almost here! Our first snow of the season is heading this way and should arrive Wednesday evening. We'll see a mix of rain and snow from Wednesday evening …",
-      "url": "https://www.ourquadcities.com/news/local-news/snow-chances-going-up-for-thanksgiving/",
-      "time": "3 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/11/chance-for-snow-GENERIC.jpg?w=900",
-      "category": "Local News"
     },
     {
       "source": "WQAD",
@@ -85,7 +118,7 @@
       "headline": "Will the lead azide detonation pose a risk in the Quad Cities?",
       "summary": "According to a statement released Tuesday afternoon, there is no projected health risk to the Quad Cities metro based on current forecasting and models.",
       "url": "https://www.wqad.com/article/news/health/lead-azide-detonation-iowa-quad-cities-health-risk-scott-county-rock-island-county-joint-statement/526-b4706fe3-aa04-4ae7-ab7f-857164b8575f",
-      "time": "3 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/356e4d56-0350-4f0f-a912-6732af0af4ae/20261112T020046/356e4d56-0350-4f0f-a912-6732af0af4ae_750x422.jpg",
       "category": "health"
     },
@@ -96,41 +129,8 @@
       "headline": "Iowa governor issues proclamation of disaster emergency; senator-elect issues statement",
       "summary": "Gov. Kim Reynolds on Tuesday issued a proclamation of disaster emergency for Des Moines, Lee, and Van Buren Counties, according to the Official State of Iowa We…",
       "url": "https://www.ourquadcities.com/news/local-news/iowa-governor-issues-proclamation-of-disaster-emergency-for-three-counties/",
-      "time": "4 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/06/download_1c6ac6-e1768396318413.png?w=883",
-      "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lead azide detonation: Iowa governor issues disaster proclamation for 3 counties, opening up state resources",
-      "summary": "Counties included in the proclamation are Des Moines, Lee and Van Buren Counties.",
-      "url": "https://www.wqad.com/article/news/state/lead-azide-detonation-iowa-governor-disaster-proclamation-des-moines-van-buren-lee-counties/526-fd198d55-3c46-4e83-9e51-6a612177b984",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/e4d5d777-faf0-44e3-a17f-1f6b93b81c18/20250325T225509/e4d5d777-faf0-44e3-a17f-1f6b93b81c18_750x422.jpg",
-      "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Iowa Poison Control Center shares guidance ahead of lead detonation",
-      "summary": "The IPCC worked with the Iowa HHS, Iowa Homeland Security and Emergency Management and other state partners to develop the tips.",
-      "url": "https://www.wqad.com/article/news/health/iowa-poison-control-center-shares-guidance-ahead-of-lead-detonation/524-858fe0d2-944f-4810-8daf-5aa3187c61dc",
-      "time": "4 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/ba57bf4f-c31e-4be5-85c8-c6014f96da32/20261123T235525/ba57bf4f-c31e-4be5-85c8-c6014f96da32_750x422.jpg",
-      "category": "health"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Coal Valley man arrested; accused of beating man, setting him on fire",
-      "summary": "A man from Coal Valley is in the Scott County Jail after Moline Police said he beat a 63-year-old man, set him on fire and took a vehicle. A news release from t…",
-      "url": "https://www.ourquadcities.com/news/local-news/coal-valley-man-arrested-accused-of-beating-man-setting-him-on-fire/",
-      "time": "5 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Blake-Dillin-mug-shot.jpg?w=900",
       "category": "Local News"
     }
   ]
