@@ -168,5 +168,48 @@ def main():
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"  Wrote {len(interleaved)} articles -> {OUT_FILE}")
 
+# ── Arts & Culture feed (11/25/26) → arts.json, for the WAQC Arts & Culture page + QC Currents ──
+ARTS_OUT = Path(__file__).parent / "arts.json"
+ARTS_MAX = 8
+ARTS_FEEDS = [
+    { "source": "WVIK", "badge": "WVIK", "color": "slate", "url": "https://www.wvik.org/arts-culture.rss" },
+]
+# stricter than LOCAL_SIGNALS: no bare "iowa"/"illinois", so statewide public-radio pieces drop out
+ARTS_SIGNALS = [s for s in LOCAL_SIGNALS if s not in ("iowa", "illinois")] + [
+    "quad city", "qcso", "quad city arts", "putnam", "circa", "riverside theatre", "black box", "establishment theatre",
+    "augustana", "st. ambrose", "rock island arsenal", "bucktown", "village of east davenport", "festival of trees",
+]
+
+
+def arts_main():
+    from email.utils import parsedate_to_datetime
+    out = []
+    for feed in ARTS_FEEDS:
+        print(f"  Fetching arts: {feed['source']}...")
+        try:
+            items = parse_items(fetch_rss(feed["url"]), feed)   # applies is_local (broad)
+        except Exception as e:
+            print(f"    ERROR: {e}")
+            continue
+        keep = [it for it in items
+                if any(sig in (it["headline"] + " " + it["summary"]).lower() for sig in ARTS_SIGNALS)]
+        print(f"    {len(keep)} of {len(items)} kept (Quad Cities only).")
+        out += keep
+
+    def key(it):
+        try:
+            return parsedate_to_datetime(it.get("_pubdate", "")).timestamp()
+        except Exception:
+            return 0
+    out.sort(key=key, reverse=True)
+    out = out[:ARTS_MAX]
+    for it in out:
+        it.pop("_pubdate", None)
+    ARTS_OUT.write_text(json.dumps({"updated": datetime.now(timezone.utc).isoformat(), "items": out},
+                                   ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Wrote {len(out)} arts items -> {ARTS_OUT}")
+
+
 if __name__ == "__main__":
     main()
+    arts_main()

@@ -28,8 +28,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json arts.json
           git diff --cached --quiet && echo "No changes." || (
-            git commit -m "chore: update news.json [skip ci]"
+            git commit -m "chore: update news.json + arts.json [skip ci]"
             git push
           )
