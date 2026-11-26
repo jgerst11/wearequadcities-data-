@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-26T00:01:17.827590+00:00",
+  "updated": "2026-11-26T13:37:03.251671+00:00",
   "items": [
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Your Thanksgiving forecast!",
-      "summary": "It was the night before Thanksgiving, and we are here to give you your forecast for the big Turkey day tomorrow. We are looking at the chance for some wintery m…",
-      "url": "https://www.ourquadcities.com/news/local-news/your-thanksgiving-forecast/",
-      "time": "31 min ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2024/09/turning-colder-GENERIC.jpg?w=900",
+      "headline": "Illinois hunters harvest preliminary total of 48,475 deer",
+      "summary": "Hunters in Illinois harvested a preliminary total of 48,475 deer during the first weekend of the 2026 Illinois firearm deer season, Nov. 20-22, according to a n…",
+      "url": "https://www.ourquadcities.com/news/local-news/illinois-hunters-harvest-preliminary-total-of-48475-deer/",
+      "time": "7 min ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/deer-GENERIC.jpg?w=900",
       "category": "Local News"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "Work continues on Bluff Boulevard in Clinton: Project update",
-      "summary": "Construction crews from KE Flatwork will continue working between College Avenue and South 14th Street in Clinton through the remainder of the 2026 construction…",
-      "url": "https://www.ourquadcities.com/news/local-news/roadwork-continues-in-clinton-project-update/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2025/08/road-work-ahead-GENERIC.jpg?w=900",
+      "headline": "Prep continues for Mr. Thanksgiving's annual community feast in Moline",
+      "summary": "A Quad Cities tradition that has continued since 1971 will once again serve hundreds of people after volunteers continued preparation Wednesday for the annual c…",
+      "url": "https://www.ourquadcities.com/news/local-news/prep-continues-for-mr-thanksgivings-annual-community-feast-in-moline/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Mr.-Thanksgiving.jpg?w=617",
       "category": "Local News"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "LIVE UPDATES: Army detonates nation's stockpile of lead azide in Iowa",
-      "summary": "After several delays, the U.S. Army has detonated a stockpile of lead azide that officials say is unsafe to move due to the risk of spontaneous explosion.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/live-updates-lead-azide-controlled-detonation-iowa-army-ammunition-plant-middletown/526-4ebb5fea-87bc-40f7-996b-32a661adb800",
-      "time": "1 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/aeb6bf6e-b480-4762-be94-32eec8635c10/20261119T211228/aeb6bf6e-b480-4762-be94-32eec8635c10_750x422.jpg",
-      "category": "public-safety"
     },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
       "color": "brick",
-      "headline": "See dazzling displays at the Christmas Light Drive-Through",
-      "summary": "It's beginning to look and sound a lot like Christmas, and you can take in some breathtaking holiday displays at the Mississippi Valley Fairgrounds! Shawn Loter…",
-      "url": "https://www.ourquadcities.com/news/local-news/see-dazzling-displays-at-the-christmas-light-drive-through/",
-      "time": "1 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_3b43da.png?w=900",
+      "headline": "Bettendorf Police Department offers holiday Uber voucher to keep impaired drivers off the roads",
+      "summary": "In an effort to keep impaired and unsafe drivers off the roads over the Thanksgiving holiday and weekend, the Bettendorf Police Department is offering an Uber v…",
+      "url": "https://www.ourquadcities.com/news/local-news/bettendorf-police-department-offers-holiday-uber-voucher-to-keep-impaired-drivers-off-the-roads/",
+      "time": "10 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_a66f04.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Our QC Crime Watch: Here's how to stay safe from holiday scams: Episode 91",
+      "summary": "Watch crime reporters Linda Cook and Sharon Wren talk about crime and courts in the latest episode of the Our Quad Cities Crime Watch Podcast. In this episode, …",
+      "url": "https://www.ourquadcities.com/news/local-news/our-qc-crime-watch-heres-how-to-stay-safe-from-holiday-scams-episode-91/",
+      "time": "12 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Blake-Dillin-mug-shot.jpg?w=900",
       "category": "Local News"
     },
     {
@@ -52,20 +52,31 @@
       "headline": "Judge rules Rock Island County's first case involving AI-generated child sexual abuse material can move forward",
       "summary": "Bjorn Boydston's attorney argued that simply possessing AI-generated CSAM is protected under the First Amendment. A judge disagreed.",
       "url": "https://www.wqad.com/article/news/local/judge-rules-rock-island-county-first-case-ai-generated-child-sexual-abuse-material-move-forward/526-77d3da6d-835b-46a4-b15d-208961a0f68f",
-      "time": "1 h ago",
+      "time": "12 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/c09ebee1-452f-4c11-b67d-91403df29af1/20260804T030631/c09ebee1-452f-4c11-b67d-91403df29af1_750x422.jpg",
       "category": "local"
     },
     {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Muscatine County road, closed since September, now open for traffic",
-      "summary": "The Muscatine County Road Department has announced that 230th Street (G28) between Iowa Highway 70 and the intersection of Atwood Avenue is now open to traffic …",
-      "url": "https://www.ourquadcities.com/news/local-news/muscatine-county-road-closed-since-september-now-open-for-traffic/",
-      "time": "2 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2023/05/Road-Open-GENERIC.jpg?w=900",
-      "category": "Local News"
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "Iowa's wild trout populations thrive as DNR prepares for winter spawning season",
+      "summary": "The DNR will collect 750,000 rainbow trout eggs this season and continues efforts to restore native brook trout. But today, every brown trout in Iowa is wild-ra…",
+      "url": "https://www.wqad.com/article/news/local/the-current/iowa-wild-trout-population-stocking-dnr-fall-winter-spawning-fishing-anglers-season/526-1f3beda9-57af-4e4c-a13a-f585e4f101ff",
+      "time": "13 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/bbc270df-e8c2-45b3-bae6-0618fbad1314/20261125T222144/bbc270df-e8c2-45b3-bae6-0618fbad1314_750x422.jpg",
+      "category": "the-current"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "LIVE UPDATES: Army detonates nation's stockpile of lead azide in Iowa",
+      "summary": "After several delays, the U.S. Army has detonated a stockpile of lead azide that officials say is unsafe to move due to the risk of spontaneous explosion.",
+      "url": "https://www.wqad.com/article/news/local/public-safety/live-updates-lead-azide-controlled-detonation-iowa-army-ammunition-plant-middletown/526-4ebb5fea-87bc-40f7-996b-32a661adb800",
+      "time": "14 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/aeb6bf6e-b480-4762-be94-32eec8635c10/20261119T211228/aeb6bf6e-b480-4762-be94-32eec8635c10_750x422.jpg",
+      "category": "public-safety"
     },
     {
       "source": "WQAD",
@@ -74,20 +85,9 @@
       "headline": "Lee County landowner takes steps to monitor impact of planned Iowa  lead azide detonations",
       "summary": "University of Iowa officials are testing Brian Landes' soil and air quality before and after planned lead azide detonations on Wednesday.",
       "url": "https://www.wqad.com/article/news/local/lee-county-landowner-monitor-lead-azide-detonations-soil-air-quality/526-6e983dbb-60dc-4d0b-80d5-725ef36818ae",
-      "time": "2 h ago",
+      "time": "15 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/3841f963-89e2-460f-8261-26dd2429296f/20261125T040719/3841f963-89e2-460f-8261-26dd2429296f_750x422.jpg",
       "category": "local"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Lawsuit filed against lead azide detonation in Iowa: What's in it and latest updates",
-      "summary": "A lawsuit sought to halt a planned detonation of nearly five tons of lead azide is playing out in court. Could it further delay the detonation? What we know:",
-      "url": "https://www.wqad.com/article/news/national/military-news/iowa-lead-azide-detonation-lawsuit-stay-updates/526-9517494d-5fbc-4716-a6e1-624fc38d733c",
-      "time": "2 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5/20261120T222835/dca37017-0cab-4bf6-91ae-bcc3edc9b9a5_750x422.jpg",
-      "category": "military-news"
     },
     {
       "source": "KWQC TV6",
@@ -96,7 +96,7 @@
       "headline": "Man pleads guilty to straw purchase of gun used to massacre Muscatine family",
       "summary": "A Marion man has been convicted in connection to a Muscatine man who killed six relatives and himself earlier this year.",
       "url": "https://www.kwqc.com/2026/11/25/man-pleads-guilty-straw-purchase-gun-used-massacre-muscatine-family/",
-      "time": "3 h ago",
+      "time": "17 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//TFWXZJR4JRAOLGS4D2S7TUEJPI.jpg?auth=2e75c57ab44b9072a8ebbeea52d18838b579faa0e7e61114d0a1190104e265f9&smart=false",
       "category": ""
     },
@@ -107,7 +107,7 @@
       "headline": "USDA suspends license of a major Iowa puppy mill",
       "summary": "Federal regulators have suspended, for 21 days, the license of one of Iowa’s largest puppy mill operations.",
       "url": "https://www.kwqc.com/2026/11/25/usda-suspends-license-major-iowa-puppy-mill/",
-      "time": "3 h ago",
+      "time": "17 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//GX2XZ7OWQZHXDNRYLEARZH5EGA.png?auth=d1a3d72b8324503597e9f006772d3673a169f539d20a0924f3be2ded3180773b&smart=false",
       "category": ""
     },
@@ -118,7 +118,7 @@
       "headline": "The Landing Ice Rink in Bettendorf opens Friday for third season",
       "summary": "The Landing Ice Rink in Bettendorf opens for its third season Friday at noon, featuring new concessions, outdoor gas fire pits, and holiday weekend hours.",
       "url": "https://www.kwqc.com/2026/11/25/landing-ice-rink-bettendorf-opens-friday-third-season/",
-      "time": "3 h ago",
+      "time": "17 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//ZK3KTXCPCREFPCJDDMI75K4GKA.png?auth=6c785fbdec542ba0b00ea852a60ec40fbaa76e24661459d543bc7ca5b64e9865&smart=false",
       "category": ""
     },
@@ -129,7 +129,7 @@
       "headline": "Technology systems restored after Scott County outage",
       "summary": "The phones and technology systems for Scott County have been restored.",
       "url": "https://www.kwqc.com/2026/11/25/technology-systems-restored-after-scott-county-outage/",
-      "time": "4 h ago",
+      "time": "17 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//WG76V7B6DZGO7O7AQW6O2HPV7U.png?auth=fe43750390c4ef4d3abcaef5a8b8acc5927bbe308b107f610db1ff9f00869062&smart=false",
       "category": ""
     }
