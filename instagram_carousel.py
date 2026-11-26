@@ -92,7 +92,8 @@ def parse(issue):
         out["hero_cap"] = lines[k + 1] + (" · " + re.sub(r",\s*(IA|IL)$", "", town) if town else "")
     q = next((i for i, l in enumerate(lines) if "QC FIVE" in l.upper()), None)
     if q is None: return out
-    sm = re.search(r"getting out for (.+?)\.?$", lines[q + 1]) if q + 1 < len(lines) else None
+    # the date line follows the QC FIVE heading; search all lines, since the issue title also says "QC Five" (11/26/26)
+    sm = next((m for m in (re.search(r"getting out for (.+?)\.?\s*$", l) for l in lines) if m), None)
     out["span"] = sm.group(1) if sm else ""
     urls = [htmlmod.unescape(u) for u in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(?:<[^>]+>)*\s*Event details', h)]
     i = q + 2
