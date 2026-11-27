@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-27T00:21:03.048604+00:00",
+  "updated": "2026-11-27T13:32:37.150901+00:00",
   "items": [
+    {
+      "source": "KWQC TV6",
+      "badge": "6",
+      "color": "brand",
+      "headline": "Davenport Thanksgiving meal brings neighbors together for 15th year",
+      "summary": "People Uniting Neighbors and Churches (PUNCH) held its 15th annual Thanksgiving meal Thursday at First Baptist Church in Davenport.",
+      "url": "https://www.kwqc.com/2026/11/27/davenport-thanksgiving-meal-brings-neighbors-together-15th-year/",
+      "time": "58 min ago",
+      "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//F3E22426BJGVVHPLVHMPDH7U2M.jpg?auth=843068867196e152dd6176ca4adb71d3ebd2e3af393d5871d124100406010dd1&smart=false",
+      "category": ""
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "Warmer Saturday, colder Sunday",
+      "summary": "Temperatures will be on a roller coaster ride this weekend into early next week. A decent rainmaker is on the way to the Quad Cities. Here's your full 7-day for…",
+      "url": "https://www.ourquadcities.com/news/local-news/warmer-saturday-colder-sunday/",
+      "time": "1 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/Weekend-Forecast-GENERIC.jpg?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "'Mr. Thanksgiving' serves up hundreds of free meals while new friends meet",
+      "summary": "Ever since 1971, \"Mr. Thanksgiving\" has ensured that anyone in the Quad Cities can enjoy a free Thanksgiving dinner. On Thursday, Thanksgiving Day, volunteers h…",
+      "url": "https://www.ourquadcities.com/news/local-news/mr-thanksgiving-serves-up-hundreds-of-free-meals-while-new-friends-meet/",
+      "time": "7 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_8ff0bb.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "WHBF / OurQuadCities",
+      "badge": "QC",
+      "color": "brick",
+      "headline": "The spirit of giving in the QCA, one meal at a time",
+      "summary": "In the true spirt of giving, Quad-City volunteers helped pack and deliver more than 1,000 meals to those who may be celebrating Thanksgiving a little differentl…",
+      "url": "https://www.ourquadcities.com/news/local-news/the-spirit-of-giving-in-the-qca-one-meal-at-a-time/",
+      "time": "9 h ago",
+      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_dba058.png?w=900",
+      "category": "Local News"
+    },
+    {
+      "source": "KWQC TV6",
+      "badge": "6",
+      "color": "brand",
+      "headline": "Teenager dies in Jo Daviess County UTV crash",
+      "summary": "Authorities say a teenager is dead in northern Illinois after a UTV crash",
+      "url": "https://www.kwqc.com/2026/11/27/teenager-dies-jo-daviess-county-utv-crash/",
+      "time": "10 h ago",
+      "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//CL2W52QU55DOJGILKKEX7LK7YE.jpg?auth=502aa324e239fc787e38a48e5b427c161510704554ce1f659eff0d90af1d7db3&smart=false",
+      "category": ""
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "The lead azide detonation happened. Now the real work begins to study it",
+      "summary": "After detonating five tons of a toxic chemical in Iowa, the EPA found no airborne lead, but experts caution that soil and water tests could reveal long-term ris…",
+      "url": "https://www.wqad.com/article/tech/science/environment/lead-azide-detonation-environmental-protection-agency-test-soil-air-water/524-f33a00c0-32de-48b5-99f9-74afca3f48c5",
+      "time": "13 h ago",
+      "image": "https://media.tegna-media.com/assets/WOI/images/eb367252-0067-4627-ad66-f33ea56a73f8/20261126T222244/eb367252-0067-4627-ad66-f33ea56a73f8_750x422.jpg",
+      "category": "environment"
+    },
     {
       "source": "WQAD",
       "badge": "8",
@@ -8,7 +74,7 @@
       "headline": "Army detonates nation's stockpile of lead azide in Iowa",
       "summary": "After several delays, the U.S. Army has detonated a stockpile of lead azide that officials say is unsafe to move due to the risk of spontaneous explosion.",
       "url": "https://www.wqad.com/article/news/local/public-safety/live-updates-lead-azide-controlled-detonation-iowa-army-ammunition-plant-middletown/526-4ebb5fea-87bc-40f7-996b-32a661adb800",
-      "time": "11 min ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WQAD/images/aeb6bf6e-b480-4762-be94-32eec8635c10/20261119T211228/aeb6bf6e-b480-4762-be94-32eec8635c10_750x422.jpg",
       "category": "public-safety"
     },
@@ -19,20 +85,9 @@
       "headline": "'Same name, same team, same week': RAGBRAI announces ownership change, start of new era",
       "summary": "RAGBRAI, the iconic ride across Iowa, will transition to new ownership ahead of next summer's ride, promising a new chapter for the Hawkeye State staple.",
       "url": "https://www.wqad.com/article/news/state/ragbrai-new-ownership-change-motiv-sports/524-8eba4132-d473-4738-b3ac-87d7381888b9",
-      "time": "36 min ago",
+      "time": "13 h ago",
       "image": "https://media.tegna-media.com/assets/WOI/images/0043a377-5e06-4bdc-b543-cfc0b33bb44e/20260720T114452/0043a377-5e06-4bdc-b543-cfc0b33bb44e_750x422.jpg",
       "category": "state"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "The lead azide detonation happened. Now the real work begins to study it",
-      "summary": "After detonating five tons of a toxic chemical in Iowa, the EPA found no airborne lead, but experts caution that soil and water tests could reveal long-term ris…",
-      "url": "https://www.wqad.com/article/tech/science/environment/lead-azide-detonation-environmental-protection-agency-test-soil-air-water/524-f33a00c0-32de-48b5-99f9-74afca3f48c5",
-      "time": "36 min ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/eb367252-0067-4627-ad66-f33ea56a73f8/20261126T222244/eb367252-0067-4627-ad66-f33ea56a73f8_750x422.jpg",
-      "category": "environment"
     },
     {
       "source": "WQAD",
@@ -41,7 +96,7 @@
       "headline": "Thanksgiving morning fire displaces 4 in Moline",
       "summary": "Four adults and a dog were displaced after a Thanksgiving morning house fire in Moline.",
       "url": "https://www.wqad.com/article/news/local/thanksgiving-morning-fire-displaces-four-in-moline/526-9c3ffe20-4dd3-40c9-99b2-148a093bf359",
-      "time": "1 h ago",
+      "time": "14 h ago",
       "image": "https://media.tegna-media.com/assets/WTOL/images/c3fa4bd2-0ffb-4583-9037-f091e687a1e8/c3fa4bd2-0ffb-4583-9037-f091e687a1e8_750x422.jpg",
       "category": "local"
     },
@@ -52,19 +107,8 @@
       "headline": "EPA provides update after controlled detonation of lead azide",
       "summary": "The U.S. Environmental Protection Agency (EPA) has provided an update after the controlled detonation of lead azide at the Iowa Army Ammunition Plant in Middlet…",
       "url": "https://www.ourquadcities.com/news/local-news/epa-provides-update-after-controlled-detonation-of-lead-azide/",
-      "time": "1 h ago",
+      "time": "14 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_d4d247.png?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Fire in Moline on Thanksgiving",
-      "summary": "A Thanksgiving fire left four adults and one dog without a place to gather for the holiday. The Moline Fire Department responded to a report of a house on fire …",
-      "url": "https://www.ourquadcities.com/news/local-news/fire-in-moline-on-thanksgiving/",
-      "time": "6 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/Screenshot-2026-11-26-112935.png?w=900",
       "category": "Local News"
     },
     {
@@ -74,31 +118,9 @@
       "headline": "AAA offers Tow to Go service over Thanksgiving holiday",
       "summary": "AAA is bringing back its Tow to Go program over Thanksgiving to help keep impaired drivers off the road both in Iowa and Nebraska.",
       "url": "https://www.kwqc.com/2026/11/26/aaa-offers-tow-go-service-over-thanksgiving-holiday/",
-      "time": "7 h ago",
+      "time": "20 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//FTK23VEXZFAA5NKQCWMPXNUH4M.png?auth=5511d1fb8d2ea333bc29462524f0c165fc4867f6762fdd21cc3b46a0d969ef83&smart=false",
       "category": ""
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Controlled detonation prompts continued environmental testing in southeast Iowa",
-      "summary": "MIDDLETOWN, Iowa — The Environmental Protection Agency (EPA) is continuing to monitor the area around Middletown where the U.S. Army detonated five tons of lead…",
-      "url": "https://www.ourquadcities.com/news/local-news/controlled-detonation-prompts-continued-environmental-testing-in-southeast-iowa/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/snapshot-26.jpg?w=900",
-      "category": "Local News"
-    },
-    {
-      "source": "WHBF / OurQuadCities",
-      "badge": "QC",
-      "color": "brick",
-      "headline": "Iowa Egg Council disputes need for bank check recommended by state auditors",
-      "summary": "DES MOINES, Iowa — The Iowa Egg Council checked its bank and investment accounts one by one, but it never verified that the accounts added up to the total in it…",
-      "url": "https://www.ourquadcities.com/news/local-news/iowa-egg-council-disputes-need-for-bank-check-recommended-by-state-auditors/",
-      "time": "7 h ago",
-      "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/07/6a472958e8ff46.10760543-e1784813202753.jpeg?w=900",
-      "category": "Local News"
     },
     {
       "source": "KWQC TV6",
@@ -109,28 +131,6 @@
       "url": "https://www.kwqc.com/2026/11/25/man-pleads-guilty-straw-purchase-gun-used-massacre-muscatine-family/",
       "time": "1d ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//TFWXZJR4JRAOLGS4D2S7TUEJPI.jpg?auth=2e75c57ab44b9072a8ebbeea52d18838b579faa0e7e61114d0a1190104e265f9&smart=false",
-      "category": ""
-    },
-    {
-      "source": "KWQC TV6",
-      "badge": "6",
-      "color": "brand",
-      "headline": "USDA suspends license of a major Iowa puppy mill",
-      "summary": "Federal regulators have suspended, for 21 days, the license of one of Iowa’s largest puppy mill operations.",
-      "url": "https://www.kwqc.com/2026/11/25/usda-suspends-license-major-iowa-puppy-mill/",
-      "time": "1d ago",
-      "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//GX2XZ7OWQZHXDNRYLEARZH5EGA.png?auth=d1a3d72b8324503597e9f006772d3673a169f539d20a0924f3be2ded3180773b&smart=false",
-      "category": ""
-    },
-    {
-      "source": "KWQC TV6",
-      "badge": "6",
-      "color": "brand",
-      "headline": "The Landing Ice Rink in Bettendorf opens Friday for third season",
-      "summary": "The Landing Ice Rink in Bettendorf opens for its third season Friday at noon, featuring new concessions, outdoor gas fire pits, and holiday weekend hours.",
-      "url": "https://www.kwqc.com/2026/11/25/landing-ice-rink-bettendorf-opens-friday-third-season/",
-      "time": "1d ago",
-      "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//ZK3KTXCPCREFPCJDDMI75K4GKA.png?auth=6c785fbdec542ba0b00ea852a60ec40fbaa76e24661459d543bc7ca5b64e9865&smart=false",
       "category": ""
     }
   ]
