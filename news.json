@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-27T23:55:37.734142+00:00",
+  "updated": "2026-11-28T06:50:49.370537+00:00",
   "items": [
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "From inside Georgia prisons, 6 inmates ran scam targeting victims in southern Illinois, feds allege",
+      "summary": "The men targeted people in Belleville, Du Quoin and across the U.S. by claiming they’d missed federal jury duty and threatening their arrest.",
+      "url": "https://www.wqad.com/article/news/crime/from-inside-georgia-prisons-6-inmates-ran-scam-targeting-victims-in-southern-illinois-feds-allege/526-4390848a-a379-4cf4-9a5a-8c3da13fe62a",
+      "time": "1 h ago",
+      "image": "https://media.tegna-media.com/assets/KENS/images/f7c7b9b4-2efb-436a-8788-8d474e946533/20260509T145423/f7c7b9b4-2efb-436a-8788-8d474e946533_750x422.jpg",
+      "category": "crime"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "ICC approves $74 million rate hike for Illinois American Water Co. Customers",
+      "summary": "The rate is 41% less than the $127 million the utility requested.",
+      "url": "https://www.wqad.com/article/money/consumer/illinois-american-water-rate-hike-approved-illinois-commerce-commission/526-b332e0fe-902f-47e2-8c59-0234bfda0757",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/d01c4b0b-97a2-428f-ae53-fe1df5099651/20260707T193945/d01c4b0b-97a2-428f-ae53-fe1df5099651_750x422.jpg",
+      "category": "consumer"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "'That Dam Shopping Trip' encourages shoppers to support small businesses in Davenport, Rock Island",
+      "summary": "\"That Dam Shopping Trip\" returns, inviting shoppers to explore small businesses in Davenport and Rock Island for a chance to win $1,000 in gift cards.",
+      "url": "https://www.wqad.com/article/money/business/small-business/that-dam-shopping-trip-support-small-business-holiday-gifts-rock-island-davenport/526-3ced80a5-9827-40d0-8dc9-ab22dab81e83",
+      "time": "2 h ago",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/9478a46a-f91f-43bd-a854-9cae3496c1d5/20261128T042940/9478a46a-f91f-43bd-a854-9cae3496c1d5_750x422.jpg",
+      "category": "small-business"
+    },
+    {
+      "source": "WQAD",
+      "badge": "8",
+      "color": "slate",
+      "headline": "7-year-old boy wounded after gunfire strikes Rock Island home",
+      "summary": "A 7-year-old boy was shot in the arm after heavy gunfire hit a Rock Island home early Friday.",
+      "url": "https://www.wqad.com/article/news/crime/7-year-old-boy-wounded-after-gunfire/526-4c92bf5d-fc9a-4e78-a3f8-898aae8e2eb6",
+      "time": "6 h ago",
+      "image": "https://media.tegna-media.com/assets/WTOL/images/c701fb53-4bb0-498c-bc0c-728dba96489a/c701fb53-4bb0-498c-bc0c-728dba96489a_750x422.jpg",
+      "category": "crime"
+    },
     {
       "source": "WHBF / OurQuadCities",
       "badge": "QC",
@@ -8,7 +52,7 @@
       "headline": "Enjoy a weekend of holiday fun at Christmas at the Commons",
       "summary": "Five communities are working together for a weekend of holiday fun to give back to the organizations that make a difference in our communities! Taylor Quick joi…",
       "url": "https://www.ourquadcities.com/news/local-news/enjoy-a-weekend-of-holiday-fun-at-christmas-at-the-commons/",
-      "time": "1 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_f5830b.png?w=900",
       "category": "Local News"
     },
@@ -19,7 +63,7 @@
       "headline": "Hawkeyes reach 10 wins for 8th time under Kirk Ferentz",
       "summary": "Iowa quarterback Hank Brown ran for three touchdowns and threw for another, and the No. 13 Hawkeyes defeated Nebraska 31-7 on Friday. The Hawkeyes (10-2, 7-2 Bi…",
       "url": "https://www.ourquadcities.com/sports/hawkeye-headquarters/hawkeyes-reach-10-wins-for-8th-time-under-kirk-ferentz/",
-      "time": "1 h ago",
+      "time": "8 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/AP26331638131917.jpg?w=900",
       "category": "Hawkeye Headquarters"
     },
@@ -30,7 +74,7 @@
       "headline": "The Landing Ice Rink in Bettendorf opens for the season",
       "summary": "This year marks the ice rink’s third year at Middle Park.",
       "url": "https://www.kwqc.com/2026/11/27/landing-ice-rink-bettendorf-opens-season/",
-      "time": "3 h ago",
+      "time": "10 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//IRYYBXBGVZCC3NO4ZAFYYAQS5Y.png?auth=2717ed78fb9455079792b79cf4c8da089d919a6cca4e06ab9c9b65670bf859b5&smart=false",
       "category": ""
     },
@@ -41,7 +85,7 @@
       "headline": "Iowa keeps playoff and Big Ten Title chances alive with win over Nebraska",
       "summary": "The stakes had never been higher at Kinnick Stadium and the Hawkeyes met the moment.",
       "url": "https://www.kwqc.com/2026/11/27/iowa-keeps-playoff-big-ten-title-chances-alive-with-win-over-nebraska/",
-      "time": "3 h ago",
+      "time": "10 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//FFXIBEA6JNBPRBNPIDEEQDMPME.jpg?auth=7a2c5851b55545a595bb1e5d769cc9f797c3aee3018da4c81b00e11dc55545b0&smart=false",
       "category": ""
     },
@@ -52,20 +96,9 @@
       "headline": "Muscatine offering free downtown parking throughout holiday season",
       "summary": "Through Jan. 4, motorists can park free once per day in any downtown two-hour metered parking space, the city said.",
       "url": "https://www.kwqc.com/2026/11/27/muscatine-offering-free-downtown-parking-throughout-holiday-season/",
-      "time": "4 h ago",
+      "time": "11 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//Z252MIMQFJBBNKVYAYGSYNCGUE.png?auth=dba2ee9efa2e92c84998bacde36b88847805b1c1835fd65cdf7c29801e059bc8&smart=false",
       "category": ""
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "7-year-old boy wounded after gunfire strikes Rock Island home",
-      "summary": "A 7-year-old boy was shot in the arm after heavy gunfire hit a Rock Island home early Friday.",
-      "url": "https://www.wqad.com/article/news/crime/7-year-old-boy-wounded-after-gunfire/526-4c92bf5d-fc9a-4e78-a3f8-898aae8e2eb6",
-      "time": "5 h ago",
-      "image": "https://media.tegna-media.com/assets/WTOL/images/c701fb53-4bb0-498c-bc0c-728dba96489a/c701fb53-4bb0-498c-bc0c-728dba96489a_750x422.jpg",
-      "category": "crime"
     },
     {
       "source": "KWQC TV6",
@@ -74,7 +107,7 @@
       "headline": "Police: 7-year-old injured after shooting in Rock Island",
       "summary": "The shooting remains under investigation.",
       "url": "https://www.kwqc.com/2026/11/27/police-7-year-old-injured-after-shooting-rock-island/",
-      "time": "5 h ago",
+      "time": "12 h ago",
       "image": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2//H6ZFVSQRTFABPGJT426CVRIL6M.jpg?auth=ad98dadeb9700096ab5223a76e57189468dc451f91b5bf5977f2c945a95891f2&smart=false",
       "category": ""
     },
@@ -85,7 +118,7 @@
       "headline": "Police respond to Rock Island shots-fired incident",
       "summary": "UPDATE: According to a release, on November 27 at approximately 4:09 a.m, the Rock Island Police Department received a Raven Gun Shot Detection alert of shots b…",
       "url": "https://www.ourquadcities.com/news/local-news/large-police-presence-outside-rock-island-home/",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/11/image_51a9e2.png?w=900",
       "category": "Local News"
     },
@@ -96,42 +129,9 @@
       "headline": "The Heart of the Story: Sharing her story",
       "summary": "Our Quad Cities News is partnering with award-winning journalist Gary Metivier for The Heart of the Story. Each week, Gary showcases inspiring stories of everyd…",
       "url": "https://www.ourquadcities.com/the-heart-of-the-story/the-heart-of-the-story-sharing-her-story/",
-      "time": "8 h ago",
+      "time": "15 h ago",
       "image": "https://www.ourquadcities.com/wp-content/uploads/sites/19/2026/01/The-Heart-of-the-Story-Bringing-history-alive.jpg?w=900",
       "category": "The Heart of the Story"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-      "summary": "Strobe Talbott, who served as deputy secretary of state for most of Bill Clinton's presidency, has died. He was 80.",
-      "url": "https://www.wqad.com/article/news/nation-world/strobe-talbott-time-magazine-secretary-of-state-bill-clinton/507-8ea1ddb8-343e-4321-9057-da5ebe4e6a3e",
-      "time": "9 h ago",
-      "image": "https://media.tegna-media.com/assets/CCT/images/c840fe3c-b88b-46ec-b0c2-b678bf60c50a/20261127T133753/c840fe3c-b88b-46ec-b0c2-b678bf60c50a_750x422.jpg",
-      "category": "nation-world"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "The lead azide detonation happened. Now the real work begins to study it",
-      "summary": "After detonating five tons of a toxic chemical in Iowa, the EPA found no airborne lead, but experts caution that soil and water tests could reveal long-term ris…",
-      "url": "https://www.wqad.com/article/tech/science/environment/lead-azide-detonation-environmental-protection-agency-test-soil-air-water/524-f33a00c0-32de-48b5-99f9-74afca3f48c5",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WOI/images/eb367252-0067-4627-ad66-f33ea56a73f8/20261126T222244/eb367252-0067-4627-ad66-f33ea56a73f8_750x422.jpg",
-      "category": "environment"
-    },
-    {
-      "source": "WQAD",
-      "badge": "8",
-      "color": "slate",
-      "headline": "Army detonates nation's stockpile of lead azide in Iowa",
-      "summary": "After several delays, the U.S. Army has detonated a stockpile of lead azide that officials say is unsafe to move due to the risk of spontaneous explosion.",
-      "url": "https://www.wqad.com/article/news/local/public-safety/live-updates-lead-azide-controlled-detonation-iowa-army-ammunition-plant-middletown/526-4ebb5fea-87bc-40f7-996b-32a661adb800",
-      "time": "23 h ago",
-      "image": "https://media.tegna-media.com/assets/WQAD/images/aeb6bf6e-b480-4762-be94-32eec8635c10/20261119T211228/aeb6bf6e-b480-4762-be94-32eec8635c10_750x422.jpg",
-      "category": "public-safety"
     }
   ]
 }
